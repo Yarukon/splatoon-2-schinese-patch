@@ -2,3 +2,10 @@
 *.msbt.bak
 *.szs
 Revision_*en.txt
+
+# Local translation work products (not for the public fork)
+__pycache__/
+scan_kup.py
+extract_glossary.py
+make_todo.py
+glossary/
