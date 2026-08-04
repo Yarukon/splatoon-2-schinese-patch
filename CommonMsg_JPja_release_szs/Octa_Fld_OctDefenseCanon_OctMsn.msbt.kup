@@ -5,87 +5,87 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルを守ってくださイ</original>
-			<edited>エイトカプセルを守ってくださイ</edited>
+			<edited>请保护8号胶囊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルが壊れるとアウトでス</original>
-			<edited>エイトカプセルが壊れるとアウトでス</edited>
+			<edited>8号胶囊被破坏就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルを撃つと 少し回復できまス</original>
-			<edited>エイトカプセルを撃つと 少し回復できまス</edited>
+			<edited>射击8号胶囊能稍微回复</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_00" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルを 敵から守ってください！</original>
-			<edited>エイトカプセルを 敵から守ってください！</edited>
+			<edited>请守护8号胶囊免受敌人攻击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_01" offset="00" relocatable="true" max_length="0">
 			<original>前方右手からタコミサイル、来ます！</original>
-			<edited>前方右手からタコミサイル、来ます！</edited>
+			<edited>前方右侧，章鱼导弹兵来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_02" offset="00" relocatable="true" max_length="0">
 			<original>左手からもミサイル、来るゾ！</original>
-			<edited>左手からもミサイル、来るゾ！</edited>
+			<edited>左侧也有导弹来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_03" offset="00" relocatable="true" max_length="0">
 			<original>左右からタコッペリン号、来ます！</original>
-			<edited>左右からタコッペリン号、来ます！</edited>
+			<edited>左右两侧，章鱼柏林号来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_04" offset="00" relocatable="true" max_length="0">
 			<original>後方からもタコッペリン号、来ます！</original>
-			<edited>後方からもタコッペリン号、来ます！</edited>
+			<edited>后方也有章鱼柏林号来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_05" offset="00" relocatable="true" max_length="0">
 			<original>前方右手からのタコミサイル、増えました！</original>
-			<edited>前方右手からのタコミサイル、増えました！</edited>
+			<edited>前方右侧的章鱼导弹兵变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_06" offset="00" relocatable="true" max_length="0">
 			<original>左からのミサイル、増えた！</original>
-			<edited>左からのミサイル、増えた！</edited>
+			<edited>左侧的导弹变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_07" offset="00" relocatable="true" max_length="0">
 			<original>タコミサイルは ちょい手前の地面に撃つんじゃ！</original>
-			<edited>タコミサイルは ちょい手前の地面に撃つんじゃ！</edited>
+			<edited>章鱼导弹兵要打它跟前的地面！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_08" offset="00" relocatable="true" max_length="0">
 			<original>タコッペリン号は タコ足の先を予測してねらえィ！</original>
-			<edited>タコッペリン号は タコ足の先を予測してねらえィ！</edited>
+			<edited>章鱼柏林号要预判章鱼脚的前端瞄准！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_09" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルは、撃つと 体力回復します♪</original>
-			<edited>エイトカプセルは、撃つと 体力回復します♪</edited>
+			<edited>8号胶囊，射击它就能回复体力♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_10" offset="00" relocatable="true" max_length="0">
 			<original>おい！ ダメージたまってっゾ！</original>
-			<edited>おい！ ダメージたまってっゾ！</edited>
+			<edited>喂！伤害在累积！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_11" offset="00" relocatable="true" max_length="0">
 			<original>あ…！ エイトカプセル撃って回復させてください！</original>
-			<edited>あ…！ エイトカプセル撃って回復させてください！</edited>
+			<edited>啊…！快射击8号胶囊回复！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_13" offset="00" relocatable="true" max_length="0">
 			<original>あと３０秒！まだいけるよな？</original>
-			<edited>あと３０秒！まだいけるよな？</edited>
+			<edited>还剩30秒！还撑得住吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="DefenseCanon_14" offset="00" relocatable="true" max_length="0">
 			<original>あと１０秒！ ふんばれ、ハチ！</original>
-			<edited>あと１０秒！ ふんばれ、ハチ！</edited>
+			<edited>还剩10秒！顶住，小八！</edited>
 			<subEntries />
 		</entry>
 	</entries>

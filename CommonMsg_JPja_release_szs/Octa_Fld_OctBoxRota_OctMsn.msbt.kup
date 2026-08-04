@@ -5,52 +5,52 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>時間内に箱マト２０コ、全部壊すのでス</original>
-			<edited>時間内に箱マト２０コ、全部壊すのでス</edited>
+			<edited>请在时间内打坏全部20个箱靶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>地面が回転するので、塗りまくりましょウ</original>
-			<edited>地面が回転するので、塗りまくりましょウ</edited>
+			<edited>地面会旋转，使劲涂吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプ後、着地したら 開始でス</original>
-			<edited>ジャンプ後、着地したら 開始でス</edited>
+			<edited>跳跃后落地即开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0000" offset="00" relocatable="true" max_length="0">
 			<original>回るゾ！</original>
-			<edited>回るゾ！</edited>
+			<edited>在转！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0001" offset="00" relocatable="true" max_length="0">
 			<original>半分じゃ！ 中だるみは敗北の布石、戦場の鉄則ゥ！</original>
-			<edited>半分じゃ！ 中だるみは敗北の布石、戦場の鉄則ゥ！</edited>
+			<edited>一半了！中途松懈是败北的伏笔，战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0002" offset="00" relocatable="true" max_length="0">
 			<original>８号さん！ もう少しです！</original>
-			<edited>８号さん！ もう少しです！</edited>
+			<edited>8号！就差一点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0003" offset="00" relocatable="true" max_length="0">
 			<original>ラスト１つ！ どこだー？！</original>
-			<edited>ラスト１つ！ どこだー？！</edited>
+			<edited>最后一个！在哪？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0004" offset="00" relocatable="true" max_length="0">
 			<original>このチャレンジは 時間内にマトを全て壊すようですね</original>
-			<edited>このチャレンジは 時間内にマトを全て壊すようですね</edited>
+			<edited>这个挑战好像要在时间内打坏所有靶子</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0005" offset="00" relocatable="true" max_length="0">
 			<original>おぉ… 回っておる、回っておるぞィ！</original>
-			<edited>おぉ… 回っておる、回っておるぞィ！</edited>
+			<edited>哦… 在转，在转！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxRota_0006" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプで向こうに着いたら 始まるパターンだな！</original>
-			<edited>ジャンプで向こうに着いたら 始まるパターンだな！</edited>
+			<edited>跳到对面落地就开始的模式！</edited>
 			<subEntries />
 		</entry>
 	</entries>

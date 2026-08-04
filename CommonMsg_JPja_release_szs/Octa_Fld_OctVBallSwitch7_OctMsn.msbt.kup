@@ -5,47 +5,47 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールで ７コのスイッチをＯNにしましょウ</original>
-			<edited>エイトボールで ７コのスイッチをＯNにしましょウ</edited>
+			<edited>用8号球打开7个开关吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>インクが無くなると アウトでス</original>
-			<edited>インクが無くなると アウトでス</edited>
+			<edited>墨汁用尽就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>もちろん エイトボールを落としてもアウトでス</original>
-			<edited>もちろん エイトボールを落としてもアウトでス</edited>
+			<edited>当然，让8号球掉落也算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>インク回復用に、補給インクを 1本だけ置いていまス</original>
-			<edited>インク回復用に、補給インクを 1本だけ置いていまス</edited>
+			<edited>只放了一瓶用于回复墨汁的补给墨汁</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0010" offset="00" relocatable="true" max_length="0">
 			<original>センプクで チャージをキャンセルできまス</original>
-			<edited>センプクで チャージをキャンセルできまス</edited>
+			<edited>用鱿鱼潜行可以取消蓄力</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallSwitch7_0000" offset="00" relocatable="true" max_length="0">
 			<original>限られたインクで、スイッチ７コONとか… いけンのか？</original>
-			<edited>限られたインクで、スイッチ７コONとか… いけンのか？</edited>
+			<edited>用有限的墨汁打开7个开关…能行吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallSwitch7_0001" offset="00" relocatable="true" max_length="0">
 			<original>転がる先を考えて撃つんじゃ！</original>
-			<edited>転がる先を考えて撃つんじゃ！</edited>
+			<edited>想好球的滚动方向再打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallSwitch7_0002" offset="00" relocatable="true" max_length="0">
 			<original>中には入れそーにないな… やめとこーぜ</original>
-			<edited>中には入れそーにないな… やめとこーぜ</edited>
+			<edited>里面好像进不去…算了</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallSwitch7_0003" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールをカベにはね返すと いいかもですね！</original>
-			<edited>エイトボールをカベにはね返すと いいかもですね！</edited>
+			<edited>让8号球撞墙反弹回去，可能更好！</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -5,57 +5,57 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>きりかえ式スイッチは、塗られると しかけがもどりまス</original>
-			<edited>きりかえ式スイッチは、塗られると しかけがもどりまス</edited>
+			<edited>切换式开关被涂上后，机关会复原</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>きりかえ式スイッチを塗ったら すぐに移動しましょウ</original>
-			<edited>きりかえ式スイッチを塗ったら すぐに移動しましょウ</edited>
+			<edited>涂完切换式开关后马上移动</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>塗られても、あわてず 落ち着いて塗り返しましょウ</original>
-			<edited>塗られても、あわてず 落ち着いて塗り返しましょウ</edited>
+			<edited>被涂了也别慌，冷静地涂回来</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0000" offset="00" relocatable="true" max_length="0">
 			<original>なんだこのスイッチ？</original>
-			<edited>なんだこのスイッチ？</edited>
+			<edited>这开关是什么？</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0001" offset="00" relocatable="true" max_length="0">
 			<original>きりかえ式スイッチを 塗り返される前に進みましょう！</original>
-			<edited>きりかえ式スイッチを 塗り返される前に進みましょう！</edited>
+			<edited>在被涂回来之前，赶紧前进吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0002" offset="00" relocatable="true" max_length="0">
 			<original>ハチ、やるな！</original>
-			<edited>ハチ、やるな！</edited>
+			<edited>小八，有两下子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0003" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパーを確認！ 注意されたしーッ！</original>
-			<edited>タコスナイパーを確認！ 注意されたしーッ！</edited>
+			<edited>确认到章鱼狙击兵！小心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0005" offset="00" relocatable="true" max_length="0">
 			<original>カベが動き出しました！</original>
-			<edited>カベが動き出しました！</edited>
+			<edited>墙开始动了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0006" offset="00" relocatable="true" max_length="0">
 			<original>タコドーザーの頭に ジャンプポイント発見！</original>
-			<edited>タコドーザーの頭に ジャンプポイント発見！</edited>
+			<edited>章鱼推进洒墨机头上有跳跃点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0007" offset="00" relocatable="true" max_length="0">
 			<original>これ全部塗るのか？！ やるしかねー！</original>
-			<edited>これ全部塗るのか？！ やるしかねー！</edited>
+			<edited>这些全都要涂？！只能干了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ToggleNuriSwitch_0008" offset="00" relocatable="true" max_length="0">
 			<original>ゴールへ行けるようになったぞィ！ 行けィ、８号！</original>
-			<edited>ゴールへ行けるようになったぞィ！ 行けィ、８号！</edited>
+			<edited>能去终点了！上吧，8号！</edited>
 			<subEntries />
 		</entry>
 	</entries>

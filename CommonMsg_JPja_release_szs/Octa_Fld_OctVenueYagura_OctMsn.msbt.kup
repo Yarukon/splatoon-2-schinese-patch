@@ -5,122 +5,122 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを、相手のゴールまで導いてくださイ</original>
-			<edited>ガチヤグラを、相手のゴールまで導いてくださイ</edited>
+			<edited>请把真格塔楼引导到对手的终点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラは、乗ると移動を始めまス</original>
-			<edited>ヤグラは、乗ると移動を始めまス</edited>
+			<edited>塔楼站上去就会开始移动</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>カンモンでは、一定時間 ヤグラが停止しまス</original>
-			<edited>カンモンでは、一定時間 ヤグラが停止しまス</edited>
+			<edited>在关卡闸门处，塔楼会停止一段时间</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0000" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを ゴールまで運ぶみたいですね～</original>
-			<edited>ガチヤグラを ゴールまで運ぶみたいですね～</edited>
+			<edited>看来是要把真格塔楼运到终点呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ ヤグラに向かえー！</original>
-			<edited>ハチ！ ヤグラに向かえー！</edited>
+			<edited>小八！朝塔楼去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0002" offset="00" relocatable="true" max_length="0">
 			<original>時間内なら、何度でもやり直せるぞ！</original>
-			<edited>時間内なら、何度でもやり直せるぞ！</edited>
+			<edited>时间允许的话，重来多少次都行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0003" offset="00" relocatable="true" max_length="0">
 			<original>あそこから ヤグラにジャンプできますよ！</original>
-			<edited>あそこから ヤグラにジャンプできますよ！</edited>
+			<edited>从那里能跳到塔楼上哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0004" offset="00" relocatable="true" max_length="0">
 			<original>ぬゥ… また始めから仕切り直しじゃ！</original>
-			<edited>ぬゥ… また始めから仕切り直しじゃ！</edited>
+			<edited>唔… 又要从头重来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0005" offset="00" relocatable="true" max_length="0">
 			<original>残り1分です！</original>
-			<edited>残り1分です！</edited>
+			<edited>只剩1分钟了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0006" offset="00" relocatable="true" max_length="0">
 			<original>もうダメだーっ！！</original>
-			<edited>もうダメだーっ！！</edited>
+			<edited>不行了！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0007" offset="00" relocatable="true" max_length="0">
 			<original>ライドーン！</original>
-			<edited>ライドーン！</edited>
+			<edited>出发！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0008" offset="00" relocatable="true" max_length="0">
 			<original>おい、どこ行くんだ！ ヤグラに乗れって！</original>
-			<edited>おい、どこ行くんだ！ ヤグラに乗れって！</edited>
+			<edited>喂，要去哪！叫你上塔楼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0009" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラは 矢印の示す方向にありますよ！</original>
-			<edited>ヤグラは 矢印の示す方向にありますよ！</edited>
+			<edited>塔楼在箭头指示的方向哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0010" offset="00" relocatable="true" max_length="0">
 			<original>ゴールまで あと半分じゃ！</original>
-			<edited>ゴールまで あと半分じゃ！</edited>
+			<edited>离终点还差一半！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0011" offset="00" relocatable="true" max_length="0">
 			<original>こないだのライブ 最高だったよなー！</original>
-			<edited>こないだのライブ 最高だったよなー！</edited>
+			<edited>上次的演唱会超棒的吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0012" offset="00" relocatable="true" max_length="0">
 			<original>ですね～…って、それどころじゃないですよ！</original>
-			<edited>ですね～…って、それどころじゃないですよ！</edited>
+			<edited>是啊～…不过，现在不是聊这个的时候！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0013" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ 乗ってきやがった！！</original>
-			<edited>ゲッ！ 乗ってきやがった！！</edited>
+			<edited>呃！它们跳上来了！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0014" offset="00" relocatable="true" max_length="0">
 			<original>ときには降りて、体勢を整えるのも大事です！</original>
-			<edited>ときには降りて、体勢を整えるのも大事です！</edited>
+			<edited>有时下来调整一下姿态也很重要！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0015" offset="00" relocatable="true" max_length="0">
 			<original>８号さん、ヤグラにもどりましょう！</original>
-			<edited>８号さん、ヤグラにもどりましょう！</edited>
+			<edited>8号，回到塔楼上吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0016" offset="00" relocatable="true" max_length="0">
 			<original>先に 敵どもをとっちめても いいゾ！</original>
-			<edited>先に 敵どもをとっちめても いいゾ！</edited>
+			<edited>先把敌人收拾掉也行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0017" offset="00" relocatable="true" max_length="0">
 			<original>ゴールは近いです！ 落ち着いて行きましょう！</original>
-			<edited>ゴールは近いです！ 落ち着いて行きましょう！</edited>
+			<edited>终点很近了！稳住前进吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0018" offset="00" relocatable="true" max_length="0">
 			<original>っしゃ 行っけー！</original>
-			<edited>っしゃ 行っけー！</edited>
+			<edited>好嘞，冲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0019" offset="00" relocatable="true" max_length="0">
 			<original>今度こそ 行っけー！</original>
-			<edited>今度こそ 行っけー！</edited>
+			<edited>这次一定要冲过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VenueYagura_0020" offset="00" relocatable="true" max_length="0">
 			<original>…ファッ！ タコゾネスじゃ！</original>
-			<edited>…ファッ！ タコゾネスじゃ！</edited>
+			<edited>…哎呀！是章鱼女战士！</edited>
 			<subEntries />
 		</entry>
 	</entries>

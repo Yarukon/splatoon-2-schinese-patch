@@ -5,107 +5,107 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ダメージ受けずに ゴールを目指しましょウ</original>
-			<edited>ダメージ受けずに ゴールを目指しましょウ</edited>
+			<edited>无伤冲向终点吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>少しでも敵のインクにさわると アウトでス</original>
-			<edited>少しでも敵のインクにさわると アウトでス</edited>
+			<edited>只要碰到一点敌人的墨汁就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>地面のインクは見落としがちなので 気をつけましょウ</original>
-			<edited>地面のインクは見落としがちなので 気をつけましょウ</edited>
+			<edited>地面的墨汁容易看漏，要小心</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0000" offset="00" relocatable="true" max_length="0">
 			<original>ノーダメージでゴールを目指しましょう！</original>
-			<edited>ノーダメージでゴールを目指しましょう！</edited>
+			<edited>无伤冲向终点吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0001" offset="00" relocatable="true" max_length="0">
 			<original>ちょっとでも 敵の攻撃をくらうなよ！</original>
-			<edited>ちょっとでも 敵の攻撃をくらうなよ！</edited>
+			<edited>一点敌人的攻击都不能吃！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0002" offset="00" relocatable="true" max_length="0">
 			<original>地面の敵インクにも 注意じゃ！</original>
-			<edited>地面の敵インクにも 注意じゃ！</edited>
+			<edited>也要小心地面的敌人墨汁！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0003" offset="00" relocatable="true" max_length="0">
 			<original>地面の敵インクは パージで塗り返しましょう</original>
-			<edited>地面の敵インクは パージで塗り返しましょう</edited>
+			<edited>地面的敌人墨汁，用甩伞面重新涂回去吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0004" offset="00" relocatable="true" max_length="0">
 			<original>ドアですね… カギを探しましょう</original>
-			<edited>ドアですね… カギを探しましょう</edited>
+			<edited>是门… 找找钥匙吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0005" offset="00" relocatable="true" max_length="0">
 			<original>パージは 敵の弾も防げるぞ！ 上手く使え！</original>
-			<edited>パージは 敵の弾も防げるぞ！ 上手く使え！</edited>
+			<edited>甩伞面还能挡敌人的子弹！好好用！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0006" offset="00" relocatable="true" max_length="0">
 			<original>カギ発見！ 確認されたしーッ！</original>
-			<edited>カギ発見！ 確認されたしーッ！</edited>
+			<edited>发现钥匙！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0007" offset="00" relocatable="true" max_length="0">
 			<original>っしゃー！ 行くぞ！</original>
-			<edited>っしゃー！ 行くぞ！</edited>
+			<edited>好嘞！走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0008" offset="00" relocatable="true" max_length="0">
 			<original>ドアの向こうにゴールが見えました！</original>
-			<edited>ドアの向こうにゴールが見えました！</edited>
+			<edited>门对面能看到终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0009" offset="00" relocatable="true" max_length="0">
 			<original>最後のドアかのゥ？ さっさとカギを探すんじゃ！</original>
-			<edited>最後のドアかのゥ？ さっさとカギを探すんじゃ！</edited>
+			<edited>是最后一扇门吗？快去找钥匙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0010" offset="00" relocatable="true" max_length="0">
 			<original>地面を塗り返しながら 進みましょう</original>
-			<edited>地面を塗り返しながら 進みましょう</edited>
+			<edited>边重新涂地边前进吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0011" offset="00" relocatable="true" max_length="0">
 			<original>やられる前にやる！ 戦場の鉄則ゥ！</original>
-			<edited>やられる前にやる！ 戦場の鉄則ゥ！</edited>
+			<edited>在被干掉之前先下手！战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0012" offset="00" relocatable="true" max_length="0">
 			<original>敵が現れました！ 気をつけてください！</original>
-			<edited>敵が現れました！ 気をつけてください！</edited>
+			<edited>敌人出现了！小心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0013" offset="00" relocatable="true" max_length="0">
 			<original>カギが… 敵に囲まれてますね</original>
-			<edited>カギが… 敵に囲まれてますね</edited>
+			<edited>钥匙… 被敌人围着呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0014" offset="00" relocatable="true" max_length="0">
 			<original>こーなったら 全部ぶっ倒しちゃえ！</original>
-			<edited>こーなったら 全部ぶっ倒しちゃえ！</edited>
+			<edited>事已至此，把它们全打倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0015" offset="00" relocatable="true" max_length="0">
 			<original>後づめじゃ！ いったん、退けィ！</original>
-			<edited>後づめじゃ！ いったん、退けィ！</edited>
+			<edited>被包抄了！先撤！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0016" offset="00" relocatable="true" max_length="0">
 			<original>しゃー！ もどれー！</original>
-			<edited>しゃー！ もどれー！</edited>
+			<edited>哇！撤回来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UmbrellaMaze_0017" offset="00" relocatable="true" max_length="0">
 			<original>カギ、ゲットー！ ドアに行くゾ！</original>
-			<edited>カギ、ゲットー！ ドアに行くゾ！</edited>
+			<edited>钥匙到手！去门那边！</edited>
 			<subEntries />
 		</entry>
 	</entries>

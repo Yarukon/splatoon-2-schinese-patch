@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="System_Time" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú	&#x4;&#x0;&#x0;&#x0;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x5;&#x7;&#x4;&#x0;&#x0;&#x0;&#x0;</original>
-			<edited>&#xE;ú	&#x4;&#x0;&#x0;&#x0;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x5;&#x7;&#x4;&#x0;&#x0;&#x0;&#x0;</edited>
+			<edited>&#xE;ú&#x9;&#x4;&#x0;&#x0;&#x0;Í:&#xE;ú&#x9;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x5;&#x7;&#x4;&#x0;&#x0;&#x0;&#x0;</edited>
 			<subEntries />
 		</entry>
 	</entries>

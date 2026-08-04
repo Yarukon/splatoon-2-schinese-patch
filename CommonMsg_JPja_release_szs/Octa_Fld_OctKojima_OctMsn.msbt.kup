@@ -5,102 +5,102 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>オオバンタコスタンプは、見つかると 倒れてきまス</original>
-			<edited>オオバンタコスタンプは、見つかると 倒れてきまス</edited>
+			<edited>大号章鱼印章兵被发现就会倒下来</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>倒れるのは、目が光っている者だけでス</original>
-			<edited>倒れるのは、目が光っている者だけでス</edited>
+			<edited>倒下的只有眼睛发光的家伙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>倒れている間は 背中を歩けまス</original>
-			<edited>倒れている間は 背中を歩けまス</edited>
+			<edited>它倒下期间，可以从背上走过</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>ボールドマーカーと ベーグルメーカーは、似て非なるモノ…</original>
-			<edited>ボールドマーカーと ベーグルメーカーは、似て非なるモノ…</edited>
+			<edited>广域标记枪和贝果制造机，似是而非…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0000" offset="00" relocatable="true" max_length="0">
 			<original>ベーグルメーカー！</original>
-			<edited>ベーグルメーカー！</edited>
+			<edited>贝果制造机！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0001" offset="00" relocatable="true" max_length="0">
 			<original>…ボールドマーカーですね</original>
-			<edited>…ボールドマーカーですね</edited>
+			<edited>…是广域标记枪吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0002" offset="00" relocatable="true" max_length="0">
 			<original>ベーグルメーカーだと、上まで塗れなくね？</original>
-			<edited>ベーグルメーカーだと、上まで塗れなくね？</edited>
+			<edited>贝果制造机的话，上面涂不到吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0003" offset="00" relocatable="true" max_length="0">
 			<original>かくれてこっそり、横から塗れないですか？</original>
-			<edited>かくれてこっそり、横から塗れないですか？</edited>
+			<edited>不能偷偷从侧面涂吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0004" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ ふぁんたすてぃっくじゃッ！</original>
-			<edited>フォー！ ふぁんたすてぃっくじゃッ！</edited>
+			<edited>哦哦！太美妙了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0006" offset="00" relocatable="true" max_length="0">
 			<original>倒れれば上を歩けそうです</original>
-			<edited>倒れれば上を歩けそうです</edited>
+			<edited>倒下来的话，好像能从上面走过去</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0007" offset="00" relocatable="true" max_length="0">
 			<original>オオバンタコスタンプは、ちょっかい出すと倒れます！</original>
-			<edited>オオバンタコスタンプは、ちょっかい出すと倒れます！</edited>
+			<edited>大号章鱼印章兵，招惹它就会倒下！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0008" offset="00" relocatable="true" max_length="0">
 			<original>それは ワシのセリフじゃッ！</original>
-			<edited>それは ワシのセリフじゃッ！</edited>
+			<edited>那是老夫的台词！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0009" offset="00" relocatable="true" max_length="0">
 			<original>倒れっぞ！</original>
-			<edited>倒れっぞ！</edited>
+			<edited>要倒了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0010" offset="00" relocatable="true" max_length="0">
 			<original>ここは一気に！</original>
-			<edited>ここは一気に！</edited>
+			<edited>这里一口气！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0011" offset="00" relocatable="true" max_length="0">
 			<original>ィよーし！ ゴール、いただきじゃッ！</original>
-			<edited>ィよーし！ ゴール、いただきじゃッ！</edited>
+			<edited>好嘞！终点拿下了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0012" offset="00" relocatable="true" max_length="0">
 			<original>ゴール発見、確認されたしーッ！</original>
-			<edited>ゴール発見、確認されたしーッ！</edited>
+			<edited>发现终点，请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0013" offset="00" relocatable="true" max_length="0">
 			<original>ヘイヘイ！ おつとめ、ご苦労さん！</original>
-			<edited>ヘイヘイ！ おつとめ、ご苦労さん！</edited>
+			<edited>嘿嘿！辛苦你当差啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0014" offset="00" relocatable="true" max_length="0">
 			<original>ハチ、なんとかして、ちょっかい出せないか？</original>
-			<edited>ハチ、なんとかして、ちょっかい出せないか？</edited>
+			<edited>小八，想想办法，能招惹它一下吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0015" offset="00" relocatable="true" max_length="0">
 			<original>ナイスですね～！</original>
-			<edited>ナイスですね～！</edited>
+			<edited>真不错～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kojima_0016" offset="00" relocatable="true" max_length="0">
 			<original>今じゃ！ 登るんじゃッ！</original>
-			<edited>今じゃ！ 登るんじゃッ！</edited>
+			<edited>就是现在！爬上去！</edited>
 			<subEntries />
 		</entry>
 	</entries>

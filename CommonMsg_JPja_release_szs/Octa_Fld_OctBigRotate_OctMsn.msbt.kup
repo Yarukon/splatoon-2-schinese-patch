@@ -5,87 +5,87 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ログポイントを８コ全て 集めてくださイ</original>
-			<edited>ログポイントを８コ全て 集めてくださイ</edited>
+			<edited>请收集全部8个记录点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ログポイントは、壊して触れれば ゲットとなりまス</original>
-			<edited>ログポイントは、壊して触れれば ゲットとなりまス</edited>
+			<edited>记录点打坏后触碰即可获得</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>回転する足場に注意しましょウ</original>
-			<edited>回転する足場に注意しましょウ</edited>
+			<edited>小心旋转的平台</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>カベが屋根にならないように 場所を確認しましょウ</original>
-			<edited>カベが屋根にならないように 場所を確認しましょウ</edited>
+			<edited>注意别让墙变成屋顶，确认好位置</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0000" offset="00" relocatable="true" max_length="0">
 			<original>おー！  ぐるぐる回ってんなー</original>
-			<edited>おー！  ぐるぐる回ってんなー</edited>
+			<edited>哦——！转个不停呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0001" offset="00" relocatable="true" max_length="0">
 			<original>巨大建造物って ワクワクしますね～</original>
-			<edited>巨大建造物って ワクワクしますね～</edited>
+			<edited>巨大的建筑物真让人兴奋呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0002" offset="00" relocatable="true" max_length="0">
 			<original>心の準備ができたら 飛び乗りましょう！</original>
-			<edited>心の準備ができたら 飛び乗りましょう！</edited>
+			<edited>做好心理准备就跳上去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0003" offset="00" relocatable="true" max_length="0">
 			<original>まずは １コじゃッ！</original>
-			<edited>まずは １コじゃッ！</edited>
+			<edited>先拿1个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0004" offset="00" relocatable="true" max_length="0">
 			<original>２コ目です♪</original>
-			<edited>２コ目です♪</edited>
+			<edited>第2个♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0005" offset="00" relocatable="true" max_length="0">
 			<original>３コ目ゲットだ！</original>
-			<edited>３コ目ゲットだ！</edited>
+			<edited>第3个到手！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0006" offset="00" relocatable="true" max_length="0">
 			<original>グッド！ ４コ目じゃッ！</original>
-			<edited>グッド！ ４コ目じゃッ！</edited>
+			<edited>好！第4个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0007" offset="00" relocatable="true" max_length="0">
 			<original>５コ目！ まだあんのかー</original>
-			<edited>５コ目！ まだあんのかー</edited>
+			<edited>第5个！还有啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0008" offset="00" relocatable="true" max_length="0">
 			<original>６コ目です あと少しですね！</original>
-			<edited>６コ目です あと少しですね！</edited>
+			<edited>第6个，就差一点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0009" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらす、７コ目！ 次で最後じゃな！</original>
-			<edited>ふぁびゅらす、７コ目！ 次で最後じゃな！</edited>
+			<edited>太棒了，第7个！下一个是最后！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0010" offset="00" relocatable="true" max_length="0">
 			<original>敵が増えました！</original>
-			<edited>敵が増えました！</edited>
+			<edited>敌人增多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0011" offset="00" relocatable="true" max_length="0">
 			<original>…あれは後づめ！ 敵さんが増えよるぞィ！</original>
-			<edited>…あれは後づめ！ 敵さんが増えよるぞィ！</edited>
+			<edited>…那是增援！敌人变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0012" offset="00" relocatable="true" max_length="0">
 			<original>また敵の加勢です！</original>
-			<edited>また敵の加勢です！</edited>
+			<edited>敌人又来增援了！</edited>
 			<subEntries />
 		</entry>
 	</entries>

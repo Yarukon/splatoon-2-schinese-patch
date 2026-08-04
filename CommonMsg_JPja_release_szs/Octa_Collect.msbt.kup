@@ -11,56 +11,56 @@
 		<entry name="Text_OctCollectIcon_00" offset="00" relocatable="true" max_length="0">
 			<original>たおすべし　われらの敵と　教えられ
 いまは手を取り　進む深海かな</original>
-			<edited>たおすべし　われらの敵と　教えられ
-いまは手を取り　進む深海かな</edited>
+			<edited>曾被教导说“那是我们应打倒的敌人”
+如今却手牵着手，深入这深海</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_01" offset="00" relocatable="true" max_length="0">
 			<original>ボーイ（ブルー）</original>
-			<edited>ボーイ（ブルー）</edited>
+			<edited>男孩（蓝色）</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_01" offset="00" relocatable="true" max_length="0">
 			<original>瑠璃色の　海を見つめる　キミの目は
 スコープのぞく　時と同じで</original>
-			<edited>瑠璃色の　海を見つめる　キミの目は
-スコープのぞく　時と同じで</edited>
+			<edited>你凝视蔚蓝大海的眼神
+和透过瞄准镜瞄准时一模一样</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_02" offset="00" relocatable="true" max_length="0">
 			<original>ボーイ（グリーン）</original>
-			<edited>ボーイ（グリーン）</edited>
+			<edited>男孩（绿色）</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_02" offset="00" relocatable="true" max_length="0">
 			<original>一直線　転がる筒が　新緑の
 大波小波　大地を起こす</original>
-			<edited>一直線　転がる筒が　新緑の
-大波小波　大地を起こす</edited>
+			<edited>笔直滚动的滚筒，掀起新绿
+的层层波浪，翻动着大地</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_03" offset="00" relocatable="true" max_length="0">
 			<original>ガール（オレンジ）</original>
-			<edited>ガール（オレンジ）</edited>
+			<edited>女孩（橙色）</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_03" offset="00" relocatable="true" max_length="0">
 			<original>陽光が　降りそそぐよに　塗るキミの
 背にあこがれて　シューターを持つ</original>
-			<edited>陽光が　降りそそぐよに　塗るキミの
-背にあこがれて　シューターを持つ</edited>
+			<edited>憧憬着像阳光倾洒般涂地的你的背影
+我也拿起了射击枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_04" offset="00" relocatable="true" max_length="0">
 			<original>ガール（ピンク）</original>
-			<edited>ガール（ピンク）</edited>
+			<edited>女孩（粉色）</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_04" offset="00" relocatable="true" max_length="0">
 			<original>桃色の　閃光が脇を　すり抜けて
 ボクの背中に　ほほ笑むキミよ</original>
-			<edited>桃色の　閃光が脇を　すり抜けて
-ボクの背中に　ほほ笑むキミよ</edited>
+			<edited>桃色的闪光从身旁掠过
+对着我的背影微笑的你啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_05" offset="00" relocatable="true" max_length="0">
@@ -71,8 +71,8 @@
 		<entry name="Text_OctCollectIcon_05" offset="00" relocatable="true" max_length="0">
 			<original>蛸壺の　外の世界を　夢見れど
 彷徨ういまは　友が恋しき</original>
-			<edited>蛸壺の　外の世界を　夢見れど
-彷徨ういまは　友が恋しき</edited>
+			<edited>虽然梦想着蛸壶之外的世界
+但如今漂泊的我，好想念朋友</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_06" offset="00" relocatable="true" max_length="0">
@@ -83,8 +83,8 @@
 		<entry name="Text_OctCollectIcon_06" offset="00" relocatable="true" max_length="0">
 			<original>双頭の　ごとくたなびく　ツインヘア
 ツーステップを　刻む散弾</original>
-			<edited>双頭の　ごとくたなびく　ツインヘア
-ツーステップを　刻む散弾</edited>
+			<edited>如双头般飘动的双马尾
+打着两步节拍的双管猎枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_07" offset="00" relocatable="true" max_length="0">
@@ -95,8 +95,8 @@
 		<entry name="Text_OctCollectIcon_07" offset="00" relocatable="true" max_length="0">
 			<original>あかねさす　真昼の丘で　ピクニック
 上目遣いで　キミを見た午後</original>
-			<edited>あかねさす　真昼の丘で　ピクニック
-上目遣いで　キミを見た午後</edited>
+			<edited>在朝霞映照的正午山丘上野餐
+那个用上目线看你的午后</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_08" offset="00" relocatable="true" max_length="0">
@@ -107,8 +107,8 @@
 		<entry name="Text_OctCollectIcon_08" offset="00" relocatable="true" max_length="0">
 			<original>「落としたら　それで終わり」の　争点は
 落とした後の　アナタの誠意</original>
-			<edited>「落としたら　それで終わり」の　争点は
-落とした後の　アナタの誠意</edited>
+			<edited>“掉了就全完了”的争论焦点
+其实是掉了之后你的诚意</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_09" offset="00" relocatable="true" max_length="0">
@@ -119,8 +119,8 @@
 		<entry name="Text_OctCollectIcon_09" offset="00" relocatable="true" max_length="0">
 			<original>ツンデレな　キミはワタシの　逆をゆく
 ワタシと顔を　合わせずにゆく</original>
-			<edited>ツンデレな　キミはワタシの　逆をゆく
-ワタシと顔を　合わせずにゆく</edited>
+			<edited>傲娇的你总和我反着来
+从不正眼看我地走开</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_10" offset="00" relocatable="true" max_length="0">
@@ -131,8 +131,8 @@
 		<entry name="Text_OctCollectIcon_10" offset="00" relocatable="true" max_length="0">
 			<original>信念を　曲げない姿勢は　いいけれど
 捨て身はダメだよ　ママが泣くから</original>
-			<edited>信念を　曲げない姿勢は　いいけれど
-捨て身はダメだよ　ママが泣くから</edited>
+			<edited>不屈的信念虽然很好
+但别不顾一切啊，妈妈会哭的</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_11" offset="00" relocatable="true" max_length="0">
@@ -143,8 +143,8 @@
 		<entry name="Text_OctCollectIcon_11" offset="00" relocatable="true" max_length="0">
 			<original>暴れると　お尻ペンペン　しちゃいます
 お尻ペンペン　したくなります</original>
-			<edited>暴れると　お尻ペンペン　しちゃいます
-お尻ペンペン　したくなります</edited>
+			<edited>再不老实就要打屁股了哦
+……真想打你屁股</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_12" offset="00" relocatable="true" max_length="0">
@@ -155,20 +155,20 @@
 		<entry name="Text_OctCollectIcon_12" offset="00" relocatable="true" max_length="0">
 			<original>天の川　ぷかぷか浮かび　パトロール
 からくれなゐに　染まる宙舟</original>
-			<edited>天の川　ぷかぷか浮かび　パトロール
-からくれなゐに　染まる宙舟</edited>
+			<edited>漂浮在银河中巡逻
+被染成深红的空中之舟</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_13" offset="00" relocatable="true" max_length="0">
 			<original>タコ足</original>
-			<edited>タコ足</edited>
+			<edited>章鱼脚</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_13" offset="00" relocatable="true" max_length="0">
 			<original>ぬばたまの　夜にキラめく　星の痕
 崩れ落ちたる　親方の影</original>
-			<edited>ぬばたまの　夜にキラめく　星の痕
-崩れ落ちたる　親方の影</edited>
+			<edited>漆黑的夜里闪烁的星痕
+是崩塌倒下的首领的影子</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_14" offset="00" relocatable="true" max_length="0">
@@ -179,8 +179,8 @@
 		<entry name="Text_OctCollectIcon_14" offset="00" relocatable="true" max_length="0">
 			<original>さよならも　言えずに堕ちた　深海で
 我とよく似た　キミにふたたび</original>
-			<edited>さよならも　言えずに堕ちた　深海で
-我とよく似た　キミにふたたび</edited>
+			<edited>连再见都没说就坠入深海
+在那里与和我很像的你重逢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_15" offset="00" relocatable="true" max_length="0">
@@ -191,8 +191,8 @@
 		<entry name="Text_OctCollectIcon_15" offset="00" relocatable="true" max_length="0">
 			<original>ふり向けば　いつもそこには　キミがいて
 シャケられないよ　その眼差しを </original>
-			<edited>ふり向けば　いつもそこには　キミがいて
-シャケられないよ　その眼差しを </edited>
+			<edited>回头时你总在那里
+那目光让我无法忘怀</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_16" offset="00" relocatable="true" max_length="0">
@@ -203,8 +203,8 @@
 		<entry name="Text_OctCollectIcon_16" offset="00" relocatable="true" max_length="0">
 			<original>「キミが好き」　そんなシャケ氏に　だまされて
 生み落とされたる　愛のバクダン</original>
-			<edited>「キミが好き」　そんなシャケ氏に　だまされて
-生み落とされたる　愛のバクダン</edited>
+			<edited>被说着“我喜欢你”的鲑鱼先生骗了
+生下的爱的炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_17" offset="00" relocatable="true" max_length="0">
@@ -215,8 +215,8 @@
 		<entry name="Text_OctCollectIcon_17" offset="00" relocatable="true" max_length="0">
 			<original>回り道　してるかのよに　見せかけて
 キミは不乱に　すすむ蛇の道</original>
-			<edited>回り道　してるかのよに　見せかけて
-キミは不乱に　すすむ蛇の道</edited>
+			<edited>看似在绕远路，你却从容不迫
+地行进在蛇道上</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_18" offset="00" relocatable="true" max_length="0">
@@ -227,8 +227,8 @@
 		<entry name="Text_OctCollectIcon_18" offset="00" relocatable="true" max_length="0">
 			<original>夏が暮れ　帰宅途中に　キミが来て
 見せてくれたね　花火ゼロ距離</original>
-			<edited>夏が暮れ　帰宅途中に　キミが来て
-見せてくれたね　花火ゼロ距離</edited>
+			<edited>夏末的回家路上你来了
+让我看到了零距离的烟花</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_19" offset="00" relocatable="true" max_length="0">
@@ -239,8 +239,8 @@
 		<entry name="Text_OctCollectIcon_19" offset="00" relocatable="true" max_length="0">
 			<original>地底から　見上げた空は　どんな色？
 たまには大地　見下ろしたくない？</original>
-			<edited>地底から　見上げた空は　どんな色？
-たまには大地　見下ろしたくない？</edited>
+			<edited>从地底仰望的天空是什么颜色？
+偶尔也想到大地上去看看吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_20" offset="00" relocatable="true" max_length="0">
@@ -251,8 +251,8 @@
 		<entry name="Text_OctCollectIcon_20" offset="00" relocatable="true" max_length="0">
 			<original>コツコツと　積み上げてきた　喜びを
 こわし喜び　上がる口角</original>
-			<edited>コツコツと　積み上げてきた　喜びを
-こわし喜び　上がる口角</edited>
+			<edited>把一点一滴积累起来的喜悦
+亲手破坏的喜悦，让嘴角上扬</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_21" offset="00" relocatable="true" max_length="0">
@@ -263,8 +263,8 @@
 		<entry name="Text_OctCollectIcon_21" offset="00" relocatable="true" max_length="0">
 			<original>海鳴りに　胸を揺すられ　走るボク
 恋のアクセル　ペダル踏むキミ</original>
-			<edited>海鳴りに　胸を揺すられ　走るボク
-恋のアクセル　ペダル踏むキミ</edited>
+			<edited>被海鸣声摇动心弦奔跑的我
+踩着恋爱油门的你</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_22" offset="00" relocatable="true" max_length="0">
@@ -275,8 +275,8 @@
 		<entry name="Text_OctCollectIcon_22" offset="00" relocatable="true" max_length="0">
 			<original>夕立を　さけて通れぬ　道だけど
 ワタシの心は　太陽がいっぱい</original>
-			<edited>夕立を　さけて通れぬ　道だけど
-ワタシの心は　太陽がいっぱい</edited>
+			<edited>虽然这条路躲不开骤雨
+但我的心里满是太阳</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_23" offset="00" relocatable="true" max_length="0">
@@ -287,8 +287,8 @@
 		<entry name="Text_OctCollectIcon_23" offset="00" relocatable="true" max_length="0">
 			<original>初空を　あおぐキンシャケ　追いかけて
 撃つともらえる　おとし玉かな</original>
-			<edited>初空を　あおぐキンシャケ　追いかけて
-撃つともらえる　おとし玉かな</edited>
+			<edited>追逐仰望新年天空的金鲑鱼
+击中就能得到压岁钱吗</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_24" offset="00" relocatable="true" max_length="0">
@@ -299,44 +299,44 @@
 		<entry name="Text_OctCollectIcon_24" offset="00" relocatable="true" max_length="0">
 			<original>死はつまり　次の生への　第一歩
 墓標に刻みし　お名前はコレ</original>
-			<edited>死はつまり　次の生への　第一歩
-墓標に刻みし　お名前はコレ</edited>
+			<edited>死亡无非是走向新生的第一步
+刻在墓碑上的名字是“这个”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_25" offset="00" relocatable="true" max_length="0">
 			<original>風船</original>
-			<edited>風船</edited>
+			<edited>气球</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_25" offset="00" relocatable="true" max_length="0">
 			<original>目にすると　壊したくなる　衝動や
 たたずむキミに　罪はないのに</original>
-			<edited>目にすると　壊したくなる　衝動や
-たたずむキミに　罪はないのに</edited>
+			<edited>一看到就想破坏的冲动
+伫立在那里的你明明没有罪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_26" offset="00" relocatable="true" max_length="0">
 			<original>バンカー</original>
-			<edited>バンカー</edited>
+			<edited>掩体</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_26" offset="00" relocatable="true" max_length="0">
 			<original>イカを待つ　我に背中を　貸すキミと
 見上げた空は　いつもやさしく</original>
-			<edited>イカを待つ　我に背中を　貸すキミと
-見上げた空は　いつもやさしく</edited>
+			<edited>借我后背、陪我等鱿鱼的你
+一起仰望的天空总是那么温柔</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_27" offset="00" relocatable="true" max_length="0">
 			<original>イカバンカー</original>
-			<edited>イカバンカー</edited>
+			<edited>鱿鱼掩体</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_27" offset="00" relocatable="true" max_length="0">
 			<original>そこにいる　イカのジジィよ　聞いてくれ
 ワタシも撃ちたい　きゃつらイカじゃし</original>
-			<edited>そこにいる　イカのジジィよ　聞いてくれ
-ワタシも撃ちたい　きゃつらイカじゃし</edited>
+			<edited>那边那个鱿鱼老头，听我说
+我也想开枪打他们，谁让他们是鱿鱼呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_28" offset="00" relocatable="true" max_length="0">
@@ -347,8 +347,8 @@
 		<entry name="Text_OctCollectIcon_28" offset="00" relocatable="true" max_length="0">
 			<original>さよならの　タイムリミット　噛み締めて
 キミを抱えて　立たされた岐路</original>
-			<edited>さよならの　タイムリミット　噛み締めて
-キミを抱えて　立たされた岐路</edited>
+			<edited>品味着离别的时限
+抱着你，站在被抛下的岔路口</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_29" offset="00" relocatable="true" max_length="0">
@@ -359,8 +359,8 @@
 		<entry name="Text_OctCollectIcon_29" offset="00" relocatable="true" max_length="0">
 			<original>なぜと問う　ことは１度も　許されぬ
 １０を拾うと　１になるなぜ…</original>
-			<edited>なぜと問う　ことは１度も　許されぬ
-１０を拾うと　１になるなぜ…</edited>
+			<edited>问“为什么”从来不被允许
+捡起10个却变成1个，为什么……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_30" offset="00" relocatable="true" max_length="0">
@@ -371,8 +371,8 @@
 		<entry name="Text_OctCollectIcon_30" offset="00" relocatable="true" max_length="0">
 			<original>離れゆく　キミの背中を　見て落つる
 コントロールの　利かぬ涙は</original>
-			<edited>離れゆく　キミの背中を　見て落つる
-コントロールの　利かぬ涙は</edited>
+			<edited>望着渐渐远去的你的背影
+落下的无法控制的泪水</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_31" offset="00" relocatable="true" max_length="0">
@@ -383,8 +383,8 @@
 		<entry name="Text_OctCollectIcon_31" offset="00" relocatable="true" max_length="0">
 			<original>いる意味は　森羅万象　ありまして
 植えただれかの　愛が宿らむ</original>
-			<edited>いる意味は　森羅万象　ありまして
-植えただれかの　愛が宿らむ</edited>
+			<edited>存在的意义包罗万象
+栽下的，是某人的爱吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_32" offset="00" relocatable="true" max_length="0">
@@ -395,8 +395,8 @@
 		<entry name="Text_OctCollectIcon_32" offset="00" relocatable="true" max_length="0">
 			<original>銃身を　なぜる陽射しの　やさしさに
 とどろく砲声　それが戦場</original>
-			<edited>銃身を　なぜる陽射しの　やさしさに
-とどろく砲声　それが戦場</edited>
+			<edited>在抚摸枪身的阳光的温柔中
+轰鸣的炮声——那就是战场</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_33" offset="00" relocatable="true" max_length="0">
@@ -407,8 +407,8 @@
 		<entry name="Text_OctCollectIcon_33" offset="00" relocatable="true" max_length="0">
 			<original>フラれれば　フラれるほどに　薄れゆく
 色の行方は　我の采配</original>
-			<edited>フラれれば　フラれるほどに　薄れゆく
-色の行方は　我の采配</edited>
+			<edited>越是失恋，颜色就越是淡去
+颜色的去向由我来调配</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_34" offset="00" relocatable="true" max_length="0">
@@ -419,8 +419,8 @@
 		<entry name="Text_OctCollectIcon_34" offset="00" relocatable="true" max_length="0">
 			<original>投げて知る　あかぬ別れの　わびしさを
 濡るる枕の　色はキミ色</original>
-			<edited>投げて知る　あかぬ別れの　わびしさを
-濡るる枕の　色はキミ色</edited>
+			<edited>扔出去才明白无法了断的离别的寂寞
+浸湿枕头的颜色是你的颜色</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_35" offset="00" relocatable="true" max_length="0">
@@ -431,8 +431,8 @@
 		<entry name="Text_OctCollectIcon_35" offset="00" relocatable="true" max_length="0">
 			<original>天も地も　キミにかかれば　みな足場
 瞬く間ほどの　天下泰平</original>
-			<edited>天も地も　キミにかかれば　みな足場
-瞬く間ほどの　天下泰平</edited>
+			<edited>天和地在你面前都是落脚点
+转瞬之间天下太平</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_36" offset="00" relocatable="true" max_length="0">
@@ -443,8 +443,8 @@
 		<entry name="Text_OctCollectIcon_36" offset="00" relocatable="true" max_length="0">
 			<original>ほとばしる　飛沫のなかに　宿る我
 ブランク・ウォールに　垂れ下がる夜</original>
-			<edited>ほとばしる　飛沫のなかに　宿る我
-ブランク・ウォールに　垂れ下がる夜</edited>
+			<edited>寄宿在迸溅的墨滴之中
+垂挂在空白墙壁上的夜</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_37" offset="00" relocatable="true" max_length="0">
@@ -455,8 +455,8 @@
 		<entry name="Text_OctCollectIcon_37" offset="00" relocatable="true" max_length="0">
 			<original>破滅への　カウントダウンの　足音に
 耳をすませて　我ら爆発</original>
-			<edited>破滅への　カウントダウンの　足音に
-耳をすませて　我ら爆発</edited>
+			<edited>侧耳倾听毁灭倒计时的脚步声
+我们，爆炸</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_38" offset="00" relocatable="true" max_length="0">
@@ -467,8 +467,8 @@
 		<entry name="Text_OctCollectIcon_38" offset="00" relocatable="true" max_length="0">
 			<original>実直を　つらぬくキミの　道しるべ
 「迷いはないの？」　聞くと　「そだねー」</original>
-			<edited>実直を　つらぬくキミの　道しるべ
-「迷いはないの？」　聞くと　「そだねー」</edited>
+			<edited>你是贯彻正直的引路人
+问她“不会迷茫吗？”——“是吧～”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_39" offset="00" relocatable="true" max_length="0">
@@ -479,56 +479,56 @@
 		<entry name="Text_OctCollectIcon_39" offset="00" relocatable="true" max_length="0">
 			<original>風吹けば　逆巻く悪の　華が咲き
 香にさそわれし　我は歩まん</original>
-			<edited>風吹けば　逆巻く悪の　華が咲き
-香にさそわれし　我は歩まん</edited>
+			<edited>风一吹，逆卷的恶之花绽放
+我被香气引诱，迈步前行</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_40" offset="00" relocatable="true" max_length="0">
 			<original>ビゼン</original>
-			<edited>ビゼン</edited>
+			<edited>备前</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_40" offset="00" relocatable="true" max_length="0">
 			<original>柔肌の　青きからだに　長きウデ
 かならず行くや　上へ出た日に</original>
-			<edited>柔肌の　青きからだに　長きウデ
-かならず行くや　上へ出た日に</edited>
+			<edited>柔嫩青色的身体，长长的触手
+总有一天会去到地上吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_41" offset="00" relocatable="true" max_length="0">
 			<original>シガニー</original>
-			<edited>シガニー</edited>
+			<edited>希加尼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_41" offset="00" relocatable="true" max_length="0">
 			<original>黒硝子　瞳の奥は　何を見る？
 レグルス？　プレセペ？　ポルックス？</original>
-			<edited>黒硝子　瞳の奥は　何を見る？
-レグルス？　プレセペ？　ポルックス？</edited>
+			<edited>黑玻璃般的眼眸深处看着什么？
+轩辕十四？鬼星团？北河三？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_42" offset="00" relocatable="true" max_length="0">
 			<original>ミウラ</original>
-			<edited>ミウラ</edited>
+			<edited>三浦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_42" offset="00" relocatable="true" max_length="0">
 			<original>ケラケラと　笑うアナタと　浮かぶキミ
 願いはいつか　輪にまざり笑む</original>
-			<edited>ケラケラと　笑うアナタと　浮かぶキミ
-願いはいつか　輪にまざり笑む</edited>
+			<edited>咯咯笑的你，漂浮的你
+愿望总有一天会融进圈里一起笑</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_43" offset="00" relocatable="true" max_length="0">
 			<original>ジャッジくん ＆ コジャッジくん</original>
-			<edited>ジャッジくん ＆ コジャッジくん</edited>
+			<edited>裁判猫 ＆ 小裁判猫</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_43" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリの　すべてを理する　ふわふわと
 日なたでまどろむ　夢をみた朝</original>
-			<edited>ナワバリの　すべてを理する　ふわふわと
-日なたでまどろむ　夢をみた朝</edited>
+			<edited>掌管对战一切的那团蓬松
+在阳光下打盹的梦境之晨</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_44" offset="00" relocatable="true" max_length="0">
@@ -539,8 +539,8 @@
 		<entry name="Text_OctCollectIcon_44" offset="00" relocatable="true" max_length="0">
 			<original>あこがれの　有名すぎる　ブキ屋さん
 永久に聴きたい　ブキ談義かな</original>
-			<edited>あこがれの　有名すぎる　ブキ屋さん
-永久に聴きたい　ブキ談義かな</edited>
+			<edited>憧憬的、太有名的武器店
+好想永远听他聊武器经</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_45" offset="00" relocatable="true" max_length="0">
@@ -551,8 +551,8 @@
 		<entry name="Text_OctCollectIcon_45" offset="00" relocatable="true" max_length="0">
 			<original>揚げてっても　揚げてっても　長い列
 いつか行きたい　ロブズ・１０・プラー</original>
-			<edited>揚げてっても　揚げてっても　長い列
-いつか行きたい　ロブズ・１０・プラー</edited>
+			<edited>排了又排还是长长的队伍
+总有一天想去“阿龙·10·普拉”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_46" offset="00" relocatable="true" max_length="0">
@@ -563,8 +563,8 @@
 		<entry name="Text_OctCollectIcon_46" offset="00" relocatable="true" max_length="0">
 			<original>本当だよ　声だけですぐ　気付いたよ
 アナタは無事に　着いてたんだね</original>
-			<edited>本当だよ　声だけですぐ　気付いたよ
-アナタは無事に　着いてたんだね</edited>
+			<edited>真的哦，光听声音就立刻认出来了
+你已经平安到达了啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_47" offset="00" relocatable="true" max_length="0">
@@ -575,8 +575,8 @@
 		<entry name="Text_OctCollectIcon_47" offset="00" relocatable="true" max_length="0">
 			<original>「キラキラで　カッコよくって　やさしくて
 ぜんぶステキ」と　黒髪のキミ</original>
-			<edited>「キラキラで　カッコよくって　やさしくて
-ぜんぶステキ」と　黒髪のキミ</edited>
+			<edited>“闪闪发光、帅气又温柔，
+全部都超棒”——黑发的你</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_48" offset="00" relocatable="true" max_length="0">
@@ -587,8 +587,8 @@
 		<entry name="Text_OctCollectIcon_48" offset="00" relocatable="true" max_length="0">
 			<original>生意気な　口調の裏に　見え隠れ
 ギアへの愛は　ウニっ子１番！</original>
-			<edited>生意気な　口調の裏に　見え隠れ
-ギアへの愛は　ウニっ子１番！</edited>
+			<edited>傲慢的语气背后若隐若现的
+对装备的爱，海胆小子第一！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_49" offset="00" relocatable="true" max_length="0">
@@ -599,8 +599,8 @@
 		<entry name="Text_OctCollectIcon_49" offset="00" relocatable="true" max_length="0">
 			<original>働きたい　ああ働きたい　いつまでも
 お願いします　何でもします</original>
-			<edited>働きたい　ああ働きたい　いつまでも
-お願いします　何でもします</edited>
+			<edited>想工作啊好想工作，永远都想
+拜托了，什么都愿意做</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_50" offset="00" relocatable="true" max_length="0">
@@ -611,8 +611,8 @@
 		<entry name="Text_OctCollectIcon_50" offset="00" relocatable="true" max_length="0">
 			<original>街並みに　溶けるランナー　光る汗
 ネオンカラーは　風になびいて</original>
-			<edited>街並みに　溶けるランナー　光る汗
-ネオンカラーは　風になびいて</edited>
+			<edited>融入街景的跑者，闪光的汗水
+荧光色的衣服随风飘动</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_51" offset="00" relocatable="true" max_length="0">
@@ -623,8 +623,8 @@
 		<entry name="Text_OctCollectIcon_51" offset="00" relocatable="true" max_length="0">
 			<original>イカたちが　バトルでよく着る　バトロイカ
 「買ったことある？」　「買ったことない」</original>
-			<edited>イカたちが　バトルでよく着る　バトロイカ
-「買ったことある？」　「買ったことない」</edited>
+			<edited>鱿鱼们在战斗时常穿的战斗鱿鱼
+“买过吗？”“没买过”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_52" offset="00" relocatable="true" max_length="0">
@@ -635,8 +635,8 @@
 		<entry name="Text_OctCollectIcon_52" offset="00" relocatable="true" max_length="0">
 			<original>オンショアに　吹かれてスカす　丘サーファー
 海はやだけど　海風はすき</original>
-			<edited>オンショアに　吹かれてスカす　丘サーファー
-海はやだけど　海風はすき</edited>
+			<edited>被向岸风吹着耍酷的山丘冲浪者
+虽然讨厌海，但喜欢海风</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_53" offset="00" relocatable="true" max_length="0">
@@ -647,8 +647,8 @@
 		<entry name="Text_OctCollectIcon_53" offset="00" relocatable="true" max_length="0">
 			<original>モノトーン　カラーで構成　されし世に
 色をつけるは　我のまにまに</original>
-			<edited>モノトーン　カラーで構成　されし世に
-色をつけるは　我のまにまに</edited>
+			<edited>在由单色构成的世界里
+添上色彩，全凭我的心意</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_54" offset="00" relocatable="true" max_length="0">
@@ -659,8 +659,8 @@
 		<entry name="Text_OctCollectIcon_54" offset="00" relocatable="true" max_length="0">
 			<original>ヤキフグくん　キミはジギーな　顔だけど
 ＨＩＰ－ＨＯＰの　申し子なのかい？</original>
-			<edited>ヤキフグくん　キミはジギーな　顔だけど
-ＨＩＰ－ＨＯＰの　申し子なのかい？</edited>
+			<edited>烧河豚君，你虽然长着一张老实脸
+难道是嘻哈的天选之子吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_55" offset="00" relocatable="true" max_length="0">
@@ -671,8 +671,8 @@
 		<entry name="Text_OctCollectIcon_55" offset="00" relocatable="true" max_length="0">
 			<original>インドアな　キミを誘って　キャンプ場
 ワタシの心は　アウトドアなり</original>
-			<edited>インドアな　キミを誘って　キャンプ場
-ワタシの心は　アウトドアなり</edited>
+			<edited>邀请宅家的你去露营场
+我的心是户外派</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_56" offset="00" relocatable="true" max_length="0">
@@ -683,8 +683,8 @@
 		<entry name="Text_OctCollectIcon_56" offset="00" relocatable="true" max_length="0">
 			<original>にわか雨　傘なく濡れる　キミを見て
 アイロニックな　笑みがこぼれて</original>
-			<edited>にわか雨　傘なく濡れる　キミを見て
-アイロニックな　笑みがこぼれて</edited>
+			<edited>看着没有伞、被阵雨淋湿的你
+忍不住露出讽刺的笑容</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_57" offset="00" relocatable="true" max_length="0">
@@ -695,68 +695,68 @@
 		<entry name="Text_OctCollectIcon_57" offset="00" relocatable="true" max_length="0">
 			<original>「オシャレはね　頭の先から　始まるの」
 キャップ逆さに　イカは微笑み</original>
-			<edited>「オシャレはね　頭の先から　始まるの」
-キャップ逆さに　イカは微笑み</edited>
+			<edited>“时尚啊，要从头顶开始哦”
+反戴着帽子的鱿鱼微笑着说</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_58" offset="00" relocatable="true" max_length="0">
 			<original>イカテンキュウビン</original>
-			<edited>イカテンキュウビン</edited>
+			<edited>鱿鱼急件</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_58" offset="00" relocatable="true" max_length="0">
 			<original>この想い　キミに届けと　箱詰めて
 いつもよりキレイに　ガムテープ貼る</original>
-			<edited>この想い　キミに届けと　箱詰めて
-いつもよりキレイに　ガムテープ貼る</edited>
+			<edited>为了把这份心意传达给你而装箱
+比平时更仔细地贴好胶带</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_59" offset="00" relocatable="true" max_length="0">
 			<original>安全第一くん</original>
-			<edited>安全第一くん</edited>
+			<edited>安全第一君</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_59" offset="00" relocatable="true" max_length="0">
 			<original>「この先は　危ないからね　気を付けて？」
 ちがう、ちがうよ　通っちゃダメよ</original>
-			<edited>「この先は　危ないからね　気を付けて？」
-ちがう、ちがうよ　通っちゃダメよ</edited>
+			<edited>“前面很危险，要小心哦？”
+不对不对，是不能过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_60" offset="00" relocatable="true" max_length="0">
 			<original>カンストくん</original>
-			<edited>カンストくん</edited>
+			<edited>满级君</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_60" offset="00" relocatable="true" max_length="0">
 			<original>いつの日か　言いたかった　この言葉
 「エ、ジブンすか？　S＋カンストっす」</original>
-			<edited>いつの日か　言いたかった　この言葉
-「エ、ジブンすか？　S＋カンストっす」</edited>
+			<edited>一直想说的这句话
+“诶，我吗？S+满级啦”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_61" offset="00" relocatable="true" max_length="0">
 			<original>わかばマーク</original>
-			<edited>わかばマーク</edited>
+			<edited>嫩叶标志</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_61" offset="00" relocatable="true" max_length="0">
 			<original>若葉をね　なめてかかると　いけないよ
 記憶に残る　子守唄かな</original>
-			<edited>若葉をね　なめてかかると　いけないよ
-記憶に残る　子守唄かな</edited>
+			<edited>可别小看了嫩叶哦
+那可是留在记忆里的摇篮曲呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_62" offset="00" relocatable="true" max_length="0">
 			<original>あのグラフィティ</original>
-			<edited>あのグラフィティ</edited>
+			<edited>那幅涂鸦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_62" offset="00" relocatable="true" max_length="0">
 			<original>なんだっけ　見かけるたびに　気になるの
 「あのグラフィティ」の　正しい名前</original>
-			<edited>なんだっけ　見かけるたびに　気になるの
-「あのグラフィティ」の　正しい名前</edited>
+			<edited>每次看到都在意——“那幅涂鸦”
+的正确名字到底是什么来着</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_63" offset="00" relocatable="true" max_length="0">
@@ -767,8 +767,8 @@
 		<entry name="Text_OctCollectIcon_63" offset="00" relocatable="true" max_length="0">
 			<original>あの谷で　聴いた唄から　目覚めたの
 トキメキくれた　アナタはいずこ</original>
-			<edited>あの谷で　聴いた唄から　目覚めたの
-トキメキくれた　アナタはいずこ</edited>
+			<edited>在那座山谷听到的歌让我觉醒
+给了我心动感觉的你在哪里</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_64" offset="00" relocatable="true" max_length="0">
@@ -779,8 +779,8 @@
 		<entry name="Text_OctCollectIcon_64" offset="00" relocatable="true" max_length="0">
 			<original>スミかかる　夜のしじまに　想いはす
 アナタといつか　アエる日のこと</original>
-			<edited>スミかかる　夜のしじまに　想いはす
-アナタといつか　アエる日のこと</edited>
+			<edited>墨水笼罩的寂静夜里，想着
+总有一天能与你相见的日子</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_65" offset="00" relocatable="true" max_length="0">
@@ -791,20 +791,20 @@
 		<entry name="Text_OctCollectIcon_65" offset="00" relocatable="true" max_length="0">
 			<original>囚われて　空を見つめる　その眼
 震わすヒゲが　気持ちを揺らす</original>
-			<edited>囚われて　空を見つめる　その眼
-震わすヒゲが　気持ちを揺らす</edited>
+			<edited>被囚禁着仰望天空的那双眼
+颤动的胡须牵动着心绪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_66" offset="00" relocatable="true" max_length="0">
 			<original>マメデンチナマズ</original>
-			<edited>マメデンチナマズ</edited>
+			<edited>小电池鲶鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_66" offset="00" relocatable="true" max_length="0">
 			<original>ピリピリと　刻むリズムに　のせられて
 ふと口ずさむ　シオカラ節よ</original>
-			<edited>ピリピリと　刻むリズムに　のせられて
-ふと口ずさむ　シオカラ節よ</edited>
+			<edited>被噼里啪啦的节奏带动
+不经意哼起的塩辛节</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_67" offset="00" relocatable="true" max_length="0">
@@ -815,8 +815,8 @@
 		<entry name="Text_OctCollectIcon_67" offset="00" relocatable="true" max_length="0">
 			<original>「冷えるでしょ？」　キミが渡した　手袋で
 ひときわ感ず　イクラの冷たさ</original>
-			<edited>「冷えるでしょ？」　キミが渡した　手袋で
-ひときわ感ず　イクラの冷たさ</edited>
+			<edited>用你递来的“冷吧？”手套
+格外感受到鲑鱼卵的冰凉</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_68" offset="00" relocatable="true" max_length="0">
@@ -827,8 +827,8 @@
 		<entry name="Text_OctCollectIcon_68" offset="00" relocatable="true" max_length="0">
 			<original>鐘が鳴る　カニのカギ束　握りしめ
 谷をてくてく　夏空の下　</original>
-			<edited>鐘が鳴る　カニのカギ束　握りしめ
-谷をてくてく　夏空の下　</edited>
+			<edited>钟声响起，握着螃蟹钥匙串
+在夏日天空下漫步山谷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_69" offset="00" relocatable="true" max_length="0">
@@ -839,8 +839,8 @@
 		<entry name="Text_OctCollectIcon_69" offset="00" relocatable="true" max_length="0">
 			<original>赤々と　白銀の身に　夕日落つ
 ふと鳴り出すは　我の腹なり</original>
-			<edited>赤々と　白銀の身に　夕日落つ
-ふと鳴り出すは　我の腹なり</edited>
+			<edited>夕阳火红地落在白银般的身躯上
+突然响起来的是我的肚子</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_70" offset="00" relocatable="true" max_length="0">
@@ -851,8 +851,8 @@
 		<entry name="Text_OctCollectIcon_70" offset="00" relocatable="true" max_length="0">
 			<original>クルクルと　ナゾの巻き物　開けるけど
 読みづらいよね　クルクルするし</original>
-			<edited>クルクルと　ナゾの巻き物　開けるけど
-読みづらいよね　クルクルするし</edited>
+			<edited>把卷成一圈圈的神秘卷轴打开
+但很难读呢，老是卷回去</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_71" offset="00" relocatable="true" max_length="0">
@@ -863,8 +863,8 @@
 		<entry name="Text_OctCollectIcon_71" offset="00" relocatable="true" max_length="0">
 			<original>さよならは　告げずに行くの　ひっそりと
 だってゼッタイ　怒られるもの</original>
-			<edited>さよならは　告げずに行くの　ひっそりと
-だってゼッタイ　怒られるもの</edited>
+			<edited>不告而别，悄悄地走
+因为说出来一定会被骂</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_72" offset="00" relocatable="true" max_length="0">
@@ -875,32 +875,32 @@
 		<entry name="Text_OctCollectIcon_72" offset="00" relocatable="true" max_length="0">
 			<original>あこがれの　あのコはいてる　スニーカー
 いつかおそろで　ナワバリバトル</original>
-			<edited>あこがれの　あのコはいてる　スニーカー
-いつかおそろで　ナワバリバトル</edited>
+			<edited>憧憬的那孩子穿的运动鞋
+总有一天要穿同款去打占地对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_73" offset="00" relocatable="true" max_length="0">
 			<original>ホタパーカー</original>
-			<edited>ホタパーカー</edited>
+			<edited>帆立连帽衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_73" offset="00" relocatable="true" max_length="0">
 			<original>寒空に　思い浮かぶは　あの衣
 着たいと願う　我はヘソ出し</original>
-			<edited>寒空に　思い浮かぶは　あの衣
-着たいと願う　我はヘソ出し</edited>
+			<edited>寒天里浮现的是那件衣服
+想穿它的我，露着肚脐</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_74" offset="00" relocatable="true" max_length="0">
 			<original>キングタンク</original>
-			<edited>キングタンク</edited>
+			<edited>王者坦克</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_74" offset="00" relocatable="true" max_length="0">
 			<original>歴戦を　戦いぬいた　ものが知る
 胸に宿すは　王者の誇り</original>
-			<edited>歴戦を　戦いぬいた　ものが知る
-胸に宿すは　王者の誇り</edited>
+			<edited>历经百战之人才懂的
+胸中怀有的是王者的骄傲</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_75" offset="00" relocatable="true" max_length="0">
@@ -911,8 +911,8 @@
 		<entry name="Text_OctCollectIcon_75" offset="00" relocatable="true" max_length="0">
 			<original>鮮やかな　色の交差に　どきっとする
 オレンジアローズ　お天気ウォーク</original>
-			<edited>鮮やかな　色の交差に　どきっとする
-オレンジアローズ　お天気ウォーク</edited>
+			<edited>鲜艳的色彩交错让人心动
+穿着箭标鞋橘色款，晴天散步</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_76" offset="00" relocatable="true" max_length="0">
@@ -923,8 +923,8 @@
 		<entry name="Text_OctCollectIcon_76" offset="00" relocatable="true" max_length="0">
 			<original>「ニットはね　リブの長さが　決め手なの」
 いたずらに笑む　ウミウシのキミ</original>
-			<edited>「ニットはね　リブの長さが　決め手なの」
-いたずらに笑む　ウミウシのキミ</edited>
+			<edited>“针织衫啊，罗纹的长度才是关键哦”
+恶作剧般笑着的海蛞蝓你</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_77" offset="00" relocatable="true" max_length="0">
@@ -935,20 +935,20 @@
 		<entry name="Text_OctCollectIcon_77" offset="00" relocatable="true" max_length="0">
 			<original>いいのかな　イカじゃないけど　着てみたい
 いいじゃなイカ　タコだもの</original>
-			<edited>いいのかな　イカじゃないけど　着てみたい
-いいじゃなイカ　タコだもの</edited>
+			<edited>虽然不是鱿鱼但好想穿穿看
+没关系的啦，毕竟是章鱼嘛</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_78" offset="00" relocatable="true" max_length="0">
 			<original>ウミウシイエロー</original>
-			<edited>ウミウシイエロー</edited>
+			<edited>海蛞蝓鞋 黄色</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_78" offset="00" relocatable="true" max_length="0">
 			<original>てくてくと　夜道に光る　音追えば
 姿見えぬも　胸は高鳴り</original>
-			<edited>てくてくと　夜道に光る　音追えば
-姿見えぬも　胸は高鳴り</edited>
+			<edited>追着夜路上闪闪发亮的声音
+虽然看不到身影，心却怦怦直跳</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_79" offset="00" relocatable="true" max_length="0">
@@ -959,18 +959,18 @@
 		<entry name="Text_OctCollectIcon_79" offset="00" relocatable="true" max_length="0">
 			<original>ささやかに　風のそよ吹く　後頭部
 メッシュ加工の　避暑地は住みよく</original>
-			<edited>ささやかに　風のそよ吹く　後頭部
-メッシュ加工の　避暑地は住みよく</edited>
+			<edited>微风轻轻拂过的后脑勺
+网孔加工的避暑胜地住着真舒服</edited>
 			<subEntries />
 		</entry>
 		<entry name="Name_OctCollectIcon_80" offset="00" relocatable="true" max_length="0">
 			<original>なんかのメモリー</original>
-			<edited>なんかのメモリー</edited>
+			<edited>某段记忆</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_80" offset="00" relocatable="true" max_length="0">
 			<original>あんまり　思い出せない……</original>
-			<edited>あんまり　思い出せない……</edited>
+			<edited>不太想得起来……</edited>
 			<subEntries />
 		</entry>
 	</entries>

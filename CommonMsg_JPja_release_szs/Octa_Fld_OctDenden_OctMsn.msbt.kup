@@ -5,72 +5,72 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチを撃てば、何かが起こりまス</original>
-			<edited>でんでんスイッチを撃てば、何かが起こりまス</edited>
+			<edited>打转转开关，会发生什么</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチを よく探すのでス</original>
-			<edited>でんでんスイッチを よく探すのでス</edited>
+			<edited>好好找找转转开关</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>足をふみ外さないようにしましょウ</original>
-			<edited>足をふみ外さないようにしましょウ</edited>
+			<edited>小心别踩空</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0000" offset="00" relocatable="true" max_length="0">
 			<original>ハチ、行けー！</original>
-			<edited>ハチ、行けー！</edited>
+			<edited>小八，冲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0001" offset="00" relocatable="true" max_length="0">
 			<original>あめぃじん！</original>
-			<edited>あめぃじん！</edited>
+			<edited>了不起！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0002" offset="00" relocatable="true" max_length="0">
 			<original>うぉ！ びびった！</original>
-			<edited>うぉ！ びびった！</edited>
+			<edited>哇！吓我一跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0003" offset="00" relocatable="true" max_length="0">
 			<original>ワシも、それを使うと思っとったぞィ！</original>
-			<edited>ワシも、それを使うと思っとったぞィ！</edited>
+			<edited>老夫也猜到你会用那个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0004" offset="00" relocatable="true" max_length="0">
 			<original>ここは撃ちながら、キヨブタじゃ！</original>
-			<edited>ここは撃ちながら、キヨブタじゃ！</edited>
+			<edited>这里边打边，小心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0005" offset="00" relocatable="true" max_length="0">
 			<original>グッドじゃッ！</original>
-			<edited>グッドじゃッ！</edited>
+			<edited>很好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0006" offset="00" relocatable="true" max_length="0">
 			<original>ホントかー…？</original>
-			<edited>ホントかー…？</edited>
+			<edited>真的吗…？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0007" offset="00" relocatable="true" max_length="0">
 			<original>思い切って飛びこめ、ってことですね？</original>
-			<edited>思い切って飛びこめ、ってことですね？</edited>
+			<edited>就是让我大胆冲进去，对吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0008" offset="00" relocatable="true" max_length="0">
 			<original>ジジィ、ちょいちょい からんでくるなー…</original>
-			<edited>ジジィ、ちょいちょい からんでくるなー…</edited>
+			<edited>老头子，老来缠着我…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0009" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらすじゃ！</original>
-			<edited>ふぁびゅらすじゃ！</edited>
+			<edited>太棒了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0010" offset="00" relocatable="true" max_length="0">
 			<original>ホメる時のアタリメさん、イキイキしていますね…</original>
-			<edited>ホメる時のアタリメさん、イキイキしていますね…</edited>
+			<edited>鱼干司令夸人的时候，真是神采奕奕呢…</edited>
 			<subEntries />
 		</entry>
 	</entries>

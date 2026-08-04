@@ -5,37 +5,37 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>風船マト５０コ、全て壊してくださイ</original>
-			<edited>風船マト５０コ、全て壊してくださイ</edited>
+			<edited>请打坏全部50个气球靶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>風船マトは１つでも見のがすと アウトでス</original>
-			<edited>風船マトは１つでも見のがすと アウトでス</edited>
+			<edited>漏看1个气球靶就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>風船マトは すぐににげるので 急ぎましょウ</original>
-			<edited>風船マトは すぐににげるので 急ぎましょウ</edited>
+			<edited>气球靶会很快逃跑，抓紧吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="NigeBaloon_0001" offset="00" relocatable="true" max_length="0">
 			<original>これで半分じゃ！ 中だるみするなかれィ！</original>
-			<edited>これで半分じゃ！ 中だるみするなかれィ！</edited>
+			<edited>这样一半了！不可中途松懈！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NigeBaloon_0002" offset="00" relocatable="true" max_length="0">
 			<original>あと１０コだゾ！</original>
-			<edited>あと１０コだゾ！</edited>
+			<edited>还剩10个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NigeBaloon_0003" offset="00" relocatable="true" max_length="0">
 			<original>もう少しです！ がんばってください！</original>
-			<edited>もう少しです！ がんばってください！</edited>
+			<edited>就差一点了！加油！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NigeBaloon_0004" offset="00" relocatable="true" max_length="0">
 			<original>風船マト どっか行っちゃうゾ！ 急げ！</original>
-			<edited>風船マト どっか行っちゃうゾ！ 急げ！</edited>
+			<edited>气球靶要跑掉了！快！</edited>
 			<subEntries />
 		</entry>
 	</entries>

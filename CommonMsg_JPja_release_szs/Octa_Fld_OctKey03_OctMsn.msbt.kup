@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="Key03_0000" offset="00" relocatable="true" max_length="0">
 			<original>せまい部屋だなー</original>
-			<edited>せまい部屋だなー</edited>
+			<edited>房间好窄啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Key03_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイの部屋が広すぎるんですよ～</original>
-			<edited>センパイの部屋が広すぎるんですよ～</edited>
+			<edited>是前辈的房间太大了啦～</edited>
 			<subEntries />
 		</entry>
 	</entries>

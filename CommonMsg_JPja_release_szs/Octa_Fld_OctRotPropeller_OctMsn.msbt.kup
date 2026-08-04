@@ -5,77 +5,77 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>回転する足場に 注意でス</original>
-			<edited>回転する足場に 注意でス</edited>
+			<edited>小心旋转的平台</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイントを 探しましょウ</original>
-			<edited>ひきよせポイントを 探しましょウ</edited>
+			<edited>找找牵引点吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>落ち着いてチャージして ねらいましょウ</original>
-			<edited>落ち着いてチャージして ねらいましょウ</edited>
+			<edited>冷静蓄力，瞄准吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0000" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ 下にリフトあんゾ！</original>
-			<edited>ハチ！ 下にリフトあんゾ！</edited>
+			<edited>小八！下面有升降台！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0001" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイント発見！ 確認されたしーッ！</original>
-			<edited>ひきよせポイント発見！ 確認されたしーッ！</edited>
+			<edited>发现牵引点！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0002" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ また下だ！</original>
-			<edited>ハチ！ また下だ！</edited>
+			<edited>小八！又是下面！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0003" offset="00" relocatable="true" max_length="0">
 			<original>ナイスですね～♪</original>
-			<edited>ナイスですね～♪</edited>
+			<edited>真不错呢～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0004" offset="00" relocatable="true" max_length="0">
 			<original>あ、門が開いたゾ！</original>
-			<edited>あ、門が開いたゾ！</edited>
+			<edited>啊，门开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0005" offset="00" relocatable="true" max_length="0">
 			<original>上に 登ってくみたいですね</original>
-			<edited>上に 登ってくみたいですね</edited>
+			<edited>好像要往上爬</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0006" offset="00" relocatable="true" max_length="0">
 			<original>またしても、あやしげな門が見えるぞィ！</original>
-			<edited>またしても、あやしげな門が見えるぞィ！</edited>
+			<edited>又看到一扇可疑的门！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0007" offset="00" relocatable="true" max_length="0">
 			<original>めんどくせーヤツが いんゾ…</original>
-			<edited>めんどくせーヤツが いんゾ…</edited>
+			<edited>有麻烦的家伙…</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0008" offset="00" relocatable="true" max_length="0">
 			<original>門が開きました！</original>
-			<edited>門が開きました！</edited>
+			<edited>门开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0009" offset="00" relocatable="true" max_length="0">
 			<original>グッドじゃった！</original>
-			<edited>グッドじゃった！</edited>
+			<edited>干得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0010" offset="00" relocatable="true" max_length="0">
 			<original>プロペラを回すと 進むようです！</original>
-			<edited>プロペラを回すと 進むようです！</edited>
+			<edited>转动螺旋桨好像就能前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0011" offset="00" relocatable="true" max_length="0">
 			<original>フォーッ！ 撃って撃って撃ちまくれィ！</original>
-			<edited>フォーッ！ 撃って撃って撃ちまくれィ！</edited>
+			<edited>哦哦！打打打个不停！</edited>
 			<subEntries />
 		</entry>
 	</entries>

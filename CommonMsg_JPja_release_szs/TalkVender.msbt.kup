@@ -7,43 +7,42 @@
 			<original>お？
 ちょっとイカしてるヤツの
 お出ましか？！</original>
-			<edited>お？
-ちょっとイカしてるヤツの
-お出ましか？！</edited>
+			<edited>哦？
+来了个挺帅气的家伙
+啊？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_00_01" offset="00" relocatable="true" max_length="0">
 			<original>でもさ、この街じゃ イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ
 持ってるヤツが 正義なんだよナ</original>
-			<edited>でもさ、この街じゃ イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ
-持ってるヤツが 正義なんだよナ</edited>
+			<edited>不过啊，在这条街上，装备帅气的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ
+才是正义啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_00_02" offset="00" relocatable="true" max_length="0">
 			<original>例えばさ、街のイカしたヤツの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ！
 「自分もアレ持ってたらな～」
 ってなるよナ？ なるよナ！</original>
-			<edited>例えばさ、街のイカしたヤツの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ！
-「自分もアレ持ってたらな～」
-ってなるよナ？ なるよナ！</edited>
+			<edited>比如说，街上帅气家伙的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ！
+“要是我也能有那件就好了～”
+会这么想吧？会吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_00_03" offset="00" relocatable="true" max_length="0">
 			<original>だからさ、 広場にいるヤツ
 &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、欲しい&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿあったら
 &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で オレに電話かけて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてくれよナ</original>
-			<edited>だからさ、 広場にいるヤツ
-&#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、欲しい&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿあったら
-&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で オレに電話かけて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてくれよナ</edited>
+			<edited>所以啊，广场上看到谁
+&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;查看一下，有想要的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ的话
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打电话给我，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;订购&#xE;&#x0;&#x3;&#x2;ÿÿ就好啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_00_04" offset="00" relocatable="true" max_length="0">
 			<original>まったく同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿの 見つかるか
 わかんないけど、 いちおう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;取り寄せて&#xE;&#x0;&#x3;&#x2;ÿÿやるよ！
 ほら、電話番号 教えとくしナ！</original>
-			<edited>まったく同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿの 見つかるか
-わかんないけど、 いちおう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;取り寄せて&#xE;&#x0;&#x3;&#x2;ÿÿやるよ！
-ほら、電話番号 教えとくしナ！</edited>
+			<edited>能不能找到完全一样的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ不好说，不过我会试着&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;帮你代购&#xE;&#x0;&#x3;&#x2;ÿÿ的！
+喏，电话号码先给你！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_01_00" offset="00" relocatable="true" max_length="0">
@@ -54,22 +53,22 @@
 思うんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、ボクも…ぁ！いやいや
 オレもさ 手伝ってやるから
 いっしょに 高み、目指そーゼ！</original>
-			<edited>ちょ、
-一人前にイカしてるヤツ、来ちゃったのナ？！&#xE;&#x0;&#x4;&#x0;でもさ、オマエって
-まだまだ 上、目指していくんだろ？&#xE;&#x0;&#x4;&#x0;オマエ見てるとさ オレもがんばって
-ダウニーさんに認められてェーって
-思うんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、ボクも…ぁ！いやいや
-オレもさ 手伝ってやるから
-いっしょに 高み、目指そーゼ！</edited>
+			<edited>喂，
+来了个已经很有型的家伙啊？！&#xE;&#x0;&#x4;&#x0;不过，你肯定
+还想往更高的地方走吧？&#xE;&#x0;&#x4;&#x0;看着你，我也好想加油，
+得到ダウニー的认可
+啊！&#xE;&#x0;&#x4;&#x0;所以说，我也…啊！不对不对
+我也会帮忙的，
+一起朝高处冲吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_01_01" offset="00" relocatable="true" max_length="0">
 			<original>そんじゃ 広場ブラついてるヤツのギアで
 欲しいのあったらさ&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
 &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</original>
-			<edited>そんじゃ 広場ブラついてるヤツのギアで
-欲しいのあったらさ&#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
-&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</edited>
+			<edited>那么，广场上溜达的人的装备
+有想要的，就&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;查看，
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打电话给我订购吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_02_00" offset="00" relocatable="true" max_length="0">
@@ -77,28 +76,28 @@
 スッゲー イカしてるのナ！&#xE;&#x0;&#x4;&#x0;え？ まだまだ上、いっちゃうのか？！
 それってさ ヤバくねーか？！&#xE;&#x0;&#x4;&#x0;オレも手伝わせてもらうし いっしょに頂点
 連れてってくれよナ！</original>
-			<edited>ちょ、ちょ、 
-スッゲー イカしてるのナ！&#xE;&#x0;&#x4;&#x0;え？ まだまだ上、いっちゃうのか？！
-それってさ ヤバくねーか？！&#xE;&#x0;&#x4;&#x0;オレも手伝わせてもらうし いっしょに頂点
-連れてってくれよナ！</edited>
+			<edited>喂喂，
+你也太帅气了吧！&#xE;&#x0;&#x4;&#x0;诶？还要继续往上冲？！
+这有点厉害过头了吧？！&#xE;&#x0;&#x4;&#x0;我也要帮忙，一起冲向顶点
+带我去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_02_01" offset="00" relocatable="true" max_length="0">
 			<original>そんでさ、
 いっしょに ダウニーさんに
 ほめてもらおうぜ マジで！</original>
-			<edited>そんでさ、
-いっしょに ダウニーさんに
-ほめてもらおうぜ マジで！</edited>
+			<edited>然后啊，
+一起去让ダウニー
+夸夸我们吧，说真的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_02_02" offset="00" relocatable="true" max_length="0">
 			<original>そんじゃ 広場ブラついてるヤツのギアで
 欲しいのあったらさ&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
 &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</original>
-			<edited>そんじゃ 広場ブラついてるヤツのギアで
-欲しいのあったらさ&#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
-&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</edited>
+			<edited>那么，广场上溜达的人的装备
+有想要的，就&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;查看，
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打电话给我订购吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_03_00" offset="00" relocatable="true" max_length="0">
@@ -110,23 +109,23 @@
 しょうがないって 顔してるゼ？&#xE;&#x0;&#x4;&#x0;だよナ！ ダウニーさんに認めてもらうには
 もっともっと アガってかないとナ！
 オレも もっと手伝ってやるからサ！</original>
-			<edited>ちょ？！ マジ？！ 
-なんかさ マジでスゲー！
-スゲー… マジスゲー…！&#xE;&#x0;&#x4;&#x0;オマエさ、ダウニーさんが言ってた
-レジェンドってやつじゃねーか？！
-だよナ！ イイ目してるもんなー！&#xE;&#x0;&#x4;&#x0;でもさ、 まだまだ上を目指したくて
-しょうがないって 顔してるゼ？&#xE;&#x0;&#x4;&#x0;だよナ！ ダウニーさんに認めてもらうには
-もっともっと アガってかないとナ！
-オレも もっと手伝ってやるからサ！</edited>
+			<edited>喂？！真的假的？！ 
+怎么这么厉害！
+好厉害…真厉害…！&#xE;&#x0;&#x4;&#x0;你啊，不就是ダウニー说的
+那个传说级人物吗？！
+对吧！眼神就很棒啊！&#xE;&#x0;&#x4;&#x0;不过，你脸上写着“还想往上冲
+冲得停不下来”哦？&#xE;&#x0;&#x4;&#x0;对吧！想得到ダウニー认可，
+还得更加往上爬才行！
+我也会再多帮你的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_03_01" offset="00" relocatable="true" max_length="0">
 			<original>そんじゃ 広場ブラついてるヤツのギアで
 気になるのあったら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
 &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</original>
-			<edited>そんじゃ 広場ブラついてるヤツのギアで
-気になるのあったら&#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
-&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</edited>
+			<edited>那么，广场上溜达的人的装备
+有在意的，就&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;查看，
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打电话给我订购吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_SS_00" offset="00" relocatable="true" max_length="0">
@@ -142,27 +141,26 @@
 前の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿも わたせるゼ！&#xE;&#x0;&#x4;&#x0;やっぱ テッペン目指すんなら
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿは多い方がいいと思うゼ！
 悪い話じゃないだろ？</original>
-			<edited>ちょ、オマエ…
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってるのナ！&#xE;&#x0;&#x4;&#x0;それ オレにくんねー？！
-あんまくわしくは 言えないんだけど、
-ダウニーさんが それ集めててさ&#xE;&#x0;&#x4;&#x0;そんで、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿのフタ あるだろ？
-それ使って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ
-増やしてやるからさ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが多いほど &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿを
-多く付けれるしナ それに、ダウニーさんも
-喜んでくれるし おたがいハッピーじゃん？&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってる
-ヤツなら、テキトーに ギアパワー付け直して
-前の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿも わたせるゼ！&#xE;&#x0;&#x4;&#x0;やっぱ テッペン目指すんなら
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿは多い方がいいと思うゼ！
-悪い話じゃないだろ？</edited>
+			<edited>喂，你…
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ你居然有！&#xE;&#x0;&#x4;&#x0;那个能给我吗？！
+具体不太能说，
+不过ダウニー正在收集这个&#xE;&#x0;&#x4;&#x0;然后，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ的盖子有吧？
+用它来&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ
+给你增加！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ越多，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ能装得
+越多嘛，而且ダウニー也
+会开心，大家都happy对吧？&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ三个都&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ装满了的话，
+我就随便帮你重装，之前那些&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力碎片&#xE;&#x0;&#x3;&#x2;ÿÿ也能还给你！&#xE;&#x0;&#x4;&#x0;果然要冲向顶峰的话，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ还是多些比较好！
+这买卖不亏吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_First_SS_01" offset="00" relocatable="true" max_length="0">
 			<original>つーわけだからさ、悪いようにはしねーから、
 オレに その&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ くれよナ！
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やしてやるからさ！</original>
-			<edited>つーわけだからさ、悪いようにはしねーから、
-オレに その&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ くれよナ！
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やしてやるからさ！</edited>
+			<edited>所以啊，我不会亏待你的，
+把那个&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ给我吧！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ我会给你增加的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="TalkRankShortage" offset="00" relocatable="true" max_length="0">
@@ -171,18 +169,18 @@
 イカしたヤツじゃないと キョーミないゼ！&#xE;&#x0;&#x4;&#x0;もうちょっとバトルで
 ランクあげてからきてくれよナ
 待っててやるからさ</original>
-			<edited>ちょ、
-オマエさ ぜんぜんイカしてねーのナ！&#xE;&#x0;&#x4;&#x0;オレ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿくらいに あがってる
-イカしたヤツじゃないと キョーミないゼ！&#xE;&#x0;&#x4;&#x0;もうちょっとバトルで
-ランクあげてからきてくれよナ
-待っててやるからさ</edited>
+			<edited>喂，
+你完全不够帅气啊！&#xE;&#x0;&#x4;&#x0;我啊，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;等级4&#xE;&#x0;&#x3;&#x2;ÿÿ以上的
+帅气家伙才有兴趣！&#xE;&#x0;&#x4;&#x0;再打些对战
+把等级升上来再来吧
+我会等你的</edited>
 			<subEntries />
 		</entry>
 		<entry name="TalkSSShortage_First" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、いま いそがしいから
 相手してるヒマないんだゼ！</original>
-			<edited>ちょ、いま いそがしいから
-相手してるヒマないんだゼ！</edited>
+			<edited>喂，我现在忙着呢，
+没空陪你！</edited>
 			<subEntries />
 		</entry>
 		<entry name="TalkSSShortage" offset="00" relocatable="true" max_length="0">
@@ -191,18 +189,17 @@
 来たのかよ！&#xE;&#x0;&#x4;&#x0;わざわざ来てくれたのに わりーけどさ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしてから
 また来てくれよナ！</original>
-			<edited>ちょ、オマエ、
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ 持ってないのに
-来たのかよ！&#xE;&#x0;&#x4;&#x0;わざわざ来てくれたのに わりーけどさ
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしてから
-また来てくれよナ！</edited>
+			<edited>喂，你，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ都没有就来了啊！&#xE;&#x0;&#x4;&#x0;难得你特意过来，抱歉啊
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ弄到手之后
+再来吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Offline" offset="00" relocatable="true" max_length="0">
 			<original>オッス&#xE;&#x0;&#x4;&#x0;あれ？オマエって オフラインってやつだよナ？
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つないでから またこいよナ</original>
-			<edited>オッス&#xE;&#x0;&#x4;&#x0;あれ？オマエって オフラインってやつだよナ？
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つないでから またこいよナ</edited>
+			<edited>哟&#xE;&#x0;&#x4;&#x0;咦？你是离线状态吧？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;网络&#xE;&#x0;&#x3;&#x2;ÿÿ连上之后再来吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_FesT_00" offset="00" relocatable="true" max_length="0">
@@ -211,11 +208,11 @@
 ちょっと 聞いてけよナ！&#xE;&#x0;&#x4;&#x0;じつはさ、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスTのクリーニング&#xE;&#x0;&#x3;&#x2;ÿÿは
 &#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000でやってんだゼ！
 スッゲーだろ？！</original>
-			<edited>ちょ、オマエ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿ持ってんのナ？！
-イイ話があるんだけど
-ちょっと 聞いてけよナ！&#xE;&#x0;&#x4;&#x0;じつはさ、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスTのクリーニング&#xE;&#x0;&#x3;&#x2;ÿÿは
-&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000でやってんだゼ！
-スッゲーだろ？！</edited>
+			<edited>喂，你 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典T恤&#xE;&#x0;&#x3;&#x2;ÿÿ有啊？！
+有个好消息，
+听我说！&#xE;&#x0;&#x4;&#x0;其实啊， &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典T恤的清洗&#xE;&#x0;&#x3;&#x2;ÿÿ只要
+&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000！
+超棒吧？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_FesT_01" offset="00" relocatable="true" max_length="0">
@@ -225,47 +222,47 @@
 追加ギアパワーたまったら
 オレんとこ持って来いよナ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;何回でも&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000で
 クリーニングしてやるゼ！</original>
-			<edited>フェスになると、オレも気分が盛り上がるのナ！
-フェスT着てフェスをもっと盛り上げて
-ほしいから、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポート価格&#xE;&#x0;&#x3;&#x2;ÿÿってやつなんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、フェスTそうびしてガンガンバトルして
-追加ギアパワーたまったら
-オレんとこ持って来いよナ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;何回でも&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000で
-クリーニングしてやるゼ！</edited>
+			<edited>一到祭典，我也跟着兴奋起来！
+想让你穿着祭典T恤把祭典炒得更热，
+所以&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;支援价&#xE;&#x0;&#x3;&#x2;ÿÿ就是这么回事！&#xE;&#x0;&#x4;&#x0;所以啊，穿上祭典T恤使劲打对战，
+攒够追加装备能力后
+拿到我这里来！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;不管几次&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000就给你
+清洗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_000" offset="00" relocatable="true" max_length="0">
 			<original>オッス</original>
-			<edited>オッス</edited>
+			<edited>哟</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_030" offset="00" relocatable="true" max_length="0">
 			<original>またこいよナ</original>
-			<edited>またこいよナ</edited>
+			<edited>再来啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_040" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、落ち着けよ！
 オマエ なんも&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてねーじゃん！
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてから また来てくれよナ</original>
-			<edited>ちょ、落ち着けよ！
-オマエ なんも&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてねーじゃん！
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてから また来てくれよナ</edited>
+			<edited>喂，冷静点！
+你什么&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;订购&#xE;&#x0;&#x3;&#x2;ÿÿ都没有吧！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;订购&#xE;&#x0;&#x3;&#x2;ÿÿ之后再过来吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_050" offset="00" relocatable="true" max_length="0">
 			<original>まあ、あせるなって
 まだ探してるところだからナ
 また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;明日&#xE;&#x0;&#x3;&#x2;ÿÿ来てくれよナ！</original>
-			<edited>まあ、あせるなって
-まだ探してるところだからナ
-また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;明日&#xE;&#x0;&#x3;&#x2;ÿÿ来てくれよナ！</edited>
+			<edited>别着急嘛
+还在找着呢
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;明天&#xE;&#x0;&#x3;&#x2;ÿÿ再来吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_060" offset="00" relocatable="true" max_length="0">
 			<original>ダウニーさんにも 手伝ってもらったんだけどさ
 コレしか 無かったんだよナ…</original>
-			<edited>ダウニーさんにも 手伝ってもらったんだけどさ
-コレしか 無かったんだよナ…</edited>
+			<edited>ダウニー也帮我找了，
+但只有这件啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_065" offset="00" relocatable="true" max_length="0">
@@ -273,31 +270,31 @@
 注文どおりのやつ 持ってきたゼ！
 へヘへッ、オマエさ
 これ探してたんだろ？</original>
-			<edited>なーなー 見てくれよナ！
-注文どおりのやつ 持ってきたゼ！
-へヘへッ、オマエさ
-これ探してたんだろ？</edited>
+			<edited>喂喂，看这个！
+按你订的给你弄来了！
+嘿嘿，你
+找的就是这个吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_066" offset="00" relocatable="true" max_length="0">
 			<original>アネモさんとこで注文したギア、
 ちょうど届いてるゼ</original>
-			<edited>アネモさんとこで注文したギア、
-ちょうど届いてるゼ</edited>
+			<edited>你在アネモ那里订的装备，
+刚好到了</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_070" offset="00" relocatable="true" max_length="0">
 			<original>買っちゃう？</original>
-			<edited>買っちゃう？</edited>
+			<edited>要买吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_080" offset="00" relocatable="true" max_length="0">
 			<original>いらねーんだ…
 欲しくなったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;今日中&#xE;&#x0;&#x3;&#x2;ÿÿに声かけてくれよナ
 余計な在庫は 処分しちゃうからさ</original>
-			<edited>いらねーんだ…
-欲しくなったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;今日中&#xE;&#x0;&#x3;&#x2;ÿÿに声かけてくれよナ
-余計な在庫は 処分しちゃうからさ</edited>
+			<edited>不要了啊…
+想要的话，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;今天之内&#xE;&#x0;&#x3;&#x2;ÿÿ跟我说
+多余的库存我会处理掉的</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_081" offset="00" relocatable="true" max_length="0">
@@ -311,27 +308,27 @@
 			<original>ちょ、おカネ足りなくねーか？
 おサイフは チェックしとけよナ！
 そういうの、大事だからナ！</original>
-			<edited>ちょ、おカネ足りなくねーか？
-おサイフは チェックしとけよナ！
-そういうの、大事だからナ！</edited>
+			<edited>喂，钱不够了吧？
+钱包可要检查好啊！
+这种事情，很重要的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_100" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、 もう同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア &#xE;&#x0;&#x3;&#x2;ÿÿ持ってんじゃん
 今持ってる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ、オレが引き取るからさ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしたヤツ、買っとくか？</original>
-			<edited>ちょ、 もう同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア &#xE;&#x0;&#x3;&#x2;ÿÿ持ってんじゃん
-今持ってる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ、オレが引き取るからさ
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしたヤツ、買っとくか？</edited>
+			<edited>喂，你已经&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备 &#xE;&#x0;&#x3;&#x2;ÿÿ有了吧
+现在这件&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ，我收走，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;订购&#xE;&#x0;&#x3;&#x2;ÿÿ的那件，买了吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_120" offset="00" relocatable="true" max_length="0">
 			<original>ありがとナ
 また来てくれよナ
 約束だからナ！</original>
-			<edited>ありがとナ
-また来てくれよナ
-約束だからナ！</edited>
+			<edited>谢啦
+再来啊
+说好了的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_190" offset="00" relocatable="true" max_length="0">
@@ -339,29 +336,29 @@
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ１コでやってやるからナ&#xE;&#x0;&#x4;&#x0;逆に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってるヤツなら
 テキトーに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直してやるゼ</original>
-			<edited>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やすんだ？
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ１コでやってやるからナ&#xE;&#x0;&#x4;&#x0;逆に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってるヤツなら
-テキトーに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直してやるゼ</edited>
+			<edited>哪件&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ要增加？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ1个就够了&#xE;&#x0;&#x4;&#x0;反过来，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ三个都
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ装满的话，
+我就随便给你&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ重装一下</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_196" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、おカネ足りなくねーか？
 おサイフは チェックしとけよナ！
 そういうの、大事だからナ！</original>
-			<edited>ちょ、おカネ足りなくねーか？
-おサイフは チェックしとけよナ！
-そういうの、大事だからナ！</edited>
+			<edited>喂，钱不够了吧？
+钱包可要检查好啊！
+这种事情，很重要的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_200" offset="00" relocatable="true" max_length="0">
 			<original>スロット増やすのか？</original>
-			<edited>スロット増やすのか？</edited>
+			<edited>要增加插槽吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_205" offset="00" relocatable="true" max_length="0">
 			<original>スロット増やしたゼ！</original>
-			<edited>スロット増やしたゼ！</edited>
+			<edited>插槽增加了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_210" offset="00" relocatable="true" max_length="0">
@@ -369,20 +366,20 @@
 次は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ全部埋まってから
 持ってきてくれよナ
 そしたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直すからさ</original>
-			<edited>もう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やせねーじゃんか！
-次は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ全部埋まってから
-持ってきてくれよナ
-そしたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直すからさ</edited>
+			<edited>已经&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;插槽&#xE;&#x0;&#x3;&#x2;ÿÿ不能再增加了！
+下次把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ全装满
+再拿来吧
+到时候就&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ重装一下</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_225" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワー付け直すのか？</original>
-			<edited>ギアパワー付け直すのか？</edited>
+			<edited>要重装装备能力吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_230" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワー付け直したゼ！</original>
-			<edited>ギアパワー付け直したゼ！</edited>
+			<edited>装备能力重装好了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_305_00" offset="00" relocatable="true" max_length="0">
@@ -395,15 +392,14 @@
 ギアパワーがつくし…&#xE;&#x0;&#x4;&#x0;ついてたギアパワーは
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ として
 集めることができるゼ！</original>
-			<edited>えっ オマエ、 ギアの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿ
-したことないのか？
-マジかよー！ &#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿってのはナ、
-追加ギアパワーを いっぺん全部
-きれーサッパリ なくしちゃうんだゼ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたギアは
-バトルで使いこめばまた
-ギアパワーがつくし…&#xE;&#x0;&#x4;&#x0;ついてたギアパワーは
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ として
-集めることができるゼ！</edited>
+			<edited>诶，你，装备的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ
+没做过吗？
+真的假的！ &#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ就是，
+把追加装备能力一次性
+干干净净全部清掉&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ过的装备，
+在对战里用熟了，
+还会再长出装备能力…&#xE;&#x0;&#x4;&#x0;原有的装备能力，会作为
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力碎片&#xE;&#x0;&#x3;&#x2;ÿÿ 收集起来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_305_01" offset="00" relocatable="true" max_length="0">
@@ -412,27 +408,27 @@
 うまく使って イカしたギアを
 つくってんだよナ&#xE;&#x0;&#x4;&#x0;オマエもいっぺんやってみろよ
 もちろん おカネはもらうけどナ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿをたくさん集めると
-ギアパワーの復元ができるんだゼ&#xE;&#x0;&#x4;&#x0;イカしたやつらは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿを
-うまく使って イカしたギアを
-つくってんだよナ&#xE;&#x0;&#x4;&#x0;オマエもいっぺんやってみろよ
-もちろん おカネはもらうけどナ！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力碎片&#xE;&#x0;&#x3;&#x2;ÿÿ收集多了
+就能复原装备能力&#xE;&#x0;&#x4;&#x0;帅气的家伙们，都&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ用得
+很好，做出帅气的装备
+&#xE;&#x0;&#x4;&#x0;你也试一次吧
+当然，钱还是要收的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_310" offset="00" relocatable="true" max_length="0">
 			<original>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたらいいんだよ？
 チャチャッと やっちまうゼ</original>
-			<edited>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたらいいんだよ？
-チャチャッと やっちまうゼ</edited>
+			<edited>哪件&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ要&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ？
+唰唰地给你弄完</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_320" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿが １つもついてないやつは
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿできないっショ
 オドロキの白さってやつっショ</original>
-			<edited>ちょ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿが １つもついてないやつは
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿできないっショ
-オドロキの白さってやつっショ</edited>
+			<edited>喂，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力&#xE;&#x0;&#x3;&#x2;ÿÿ一个都没带的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ不了
+这叫“惊人的洁白”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_330" offset="00" relocatable="true" max_length="0">
@@ -440,15 +436,15 @@
 あとさ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ が
 出てきたからさ、 オマエに わたしとくからナ
 大事に持っておけよナ！</original>
-			<edited>これできれいサッパリだろ？
-あとさ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ が
-出てきたからさ、 オマエに わたしとくからナ
-大事に持っておけよナ！</edited>
+			<edited>这下干净利落了吧？
+还有，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;清洗&#xE;&#x0;&#x3;&#x2;ÿÿ时&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力碎片&#xE;&#x0;&#x3;&#x2;ÿÿ 出来了，
+我先替你收着
+好好保存啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_315" offset="00" relocatable="true" max_length="0">
 			<original>クリーニングしちゃうか？</original>
-			<edited>クリーニングしちゃうか？</edited>
+			<edited>要清洗吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_405_00" offset="00" relocatable="true" max_length="0">
@@ -458,12 +454,12 @@
 あれ たくさんあつめるとさ、
 好きなギアに 好きなギアパワーが
 つけられるんだゼ！ スッゲーだろ？</original>
-			<edited>ちょ、オマエ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーの復元&#xE;&#x0;&#x3;&#x2;ÿÿしたこと
-ないのかよー！
-…まあそんなことだろうと思ったけどナ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿってあるっショ？
-あれ たくさんあつめるとさ、
-好きなギアに 好きなギアパワーが
-つけられるんだゼ！ スッゲーだろ？</edited>
+			<edited>喂，你&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力复原&#xE;&#x0;&#x3;&#x2;ÿÿ没做过
+吧！
+…嘛，我就猜到是这样&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备能力碎片&#xE;&#x0;&#x3;&#x2;ÿÿ知道吧？
+那个收集多了，
+就能给喜欢的装备
+装上喜欢的装备能力！超棒吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_405_01" offset="00" relocatable="true" max_length="0">
@@ -471,38 +467,38 @@
 つけられるんだよナ！ しかも、先についてた
 ギアパワーも、 ギアパワーのかけらになって
 手に入るし ソンはしないからナ！</original>
-			<edited>すでにギアパワーがついてるとこにも
-つけられるんだよナ！ しかも、先についてた
-ギアパワーも、 ギアパワーのかけらになって
-手に入るし ソンはしないからナ！</edited>
+			<edited>已经带着装备能力的地方
+也能装哦！而且，之前带的
+装备能力，也会变成装备能力碎片
+到手，不亏的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_405_02" offset="00" relocatable="true" max_length="0">
 			<original>オマエも いっぺんやってみろよ
 バチッと キメよーゼ！</original>
-			<edited>オマエも いっぺんやってみろよ
-バチッと キメよーゼ！</edited>
+			<edited>你也试一次吧
+啪地一下搞定！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_410" offset="00" relocatable="true" max_length="0">
 			<original>バチッとキメたい ギアとギアパワーを
 選んでくれよナ</original>
-			<edited>バチッとキメたい ギアとギアパワーを
-選んでくれよナ</edited>
+			<edited>选好想啪地搞定的装备和装备能力
+吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_430" offset="00" relocatable="true" max_length="0">
 			<original>バチッとギアパワーつけといたゼ
 これでしっかり カツヤクしてくれよナ
 負けてもオレのせいじゃねーからナ！</original>
-			<edited>バチッとギアパワーつけといたゼ
-これでしっかり カツヤクしてくれよナ
-負けてもオレのせいじゃねーからナ！</edited>
+			<edited>啪地一下给你装上装备能力了
+这下好好大展身手吧
+输了可不怪我哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Short_415" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワーつけちゃうか？</original>
-			<edited>ギアパワーつけちゃうか？</edited>
+			<edited>要装装备能力吗？</edited>
 			<subEntries />
 		</entry>
 	</entries>

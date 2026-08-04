@@ -5,52 +5,52 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>このチャレンジはライドレールがいっぱいでス</original>
-			<edited>このチャレンジはライドレールがいっぱいでス</edited>
+			<edited>这个挑战里墨汁轨道很多</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>スライドなら 素早くライドレールに乗れまス</original>
-			<edited>スライドなら 素早くライドレールに乗れまス</edited>
+			<edited>用滑步能快速乘上墨汁轨道</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ボム風船の爆風で ライドレールを起動できまス</original>
-			<edited>ボム風船の爆風で ライドレールを起動できまス</edited>
+			<edited>用炸弹气球的爆风能启动墨汁轨道</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0000" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ イカしておる！</original>
-			<edited>フォー！ イカしておる！</edited>
+			<edited>哦哦！真帅气！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0001" offset="00" relocatable="true" max_length="0">
 			<original>ボム風船で ライドレールを起動しましょう！</original>
-			<edited>ボム風船で ライドレールを起動しましょう！</edited>
+			<edited>用炸弹气球启动墨汁轨道吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0002" offset="00" relocatable="true" max_length="0">
 			<original>最後まで足元注意ですよ！ ８号さん！</original>
-			<edited>最後まで足元注意ですよ！ ８号さん！</edited>
+			<edited>到最后都要小心脚下！8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0003" offset="00" relocatable="true" max_length="0">
 			<original>ここはスライドで バシュってこーぜ！</original>
-			<edited>ここはスライドで バシュってこーぜ！</edited>
+			<edited>这里用滑步嗖地过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0004" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらす！ ５０イクラ 連続ゲットじゃ！</original>
-			<edited>ふぁびゅらす！ ５０イクラ 連続ゲットじゃ！</edited>
+			<edited>太棒了！连续拿到50个鲑鱼卵！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0005" offset="00" relocatable="true" max_length="0">
 			<original>あめぃじん！ 連続１００イクラ、ゲットじゃ！</original>
-			<edited>あめぃじん！ 連続１００イクラ、ゲットじゃ！</edited>
+			<edited>了不起！连续拿到100个鲑鱼卵！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShortRail_0006" offset="00" relocatable="true" max_length="0">
 			<original>すごいです８号さん！ 追加のイカフライが出てます！</original>
-			<edited>すごいです８号さん！ 追加のイカフライが出てます！</edited>
+			<edited>太厉害了8号！出现追加的炸鱿鱼圈了！</edited>
 			<subEntries />
 		</entry>
 	</entries>

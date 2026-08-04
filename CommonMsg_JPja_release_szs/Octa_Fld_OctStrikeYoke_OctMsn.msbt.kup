@@ -5,52 +5,52 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパック専用のチャレンジとなりまス</original>
-			<edited>ジェットパック専用のチャレンジとなりまス</edited>
+			<edited>这是喷气背包专用挑战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>一定時間 たえ続ければクリアとなりまス</original>
-			<edited>一定時間 たえ続ければクリアとなりまス</edited>
+			<edited>坚持一定时间即可通关</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックは&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 少し高く飛べまス</original>
-			<edited>ジェットパックは&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 少し高く飛べまス</edited>
+			<edited>喷气背包，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;能飞得稍高一些</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパーのショットは タコストライクで防げまス</original>
-			<edited>タコスナイパーのショットは タコストライクで防げまス</edited>
+			<edited>章鱼狙击兵的射击可以用章鱼保龄球兵挡住</edited>
 			<subEntries />
 		</entry>
 		<entry name="StrikeYoke_0000" offset="00" relocatable="true" max_length="0">
 			<original>ハチ、ジェットパックの操作 確認しとけよ！</original>
-			<edited>ハチ、ジェットパックの操作 確認しとけよ！</edited>
+			<edited>小八，确认好喷气背包的操作！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StrikeYoke_0001" offset="00" relocatable="true" max_length="0">
 			<original>３０秒間 よけ続ければいいみたいです！</original>
-			<edited>３０秒間 よけ続ければいいみたいです！</edited>
+			<edited>好像躲过30秒就行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StrikeYoke_0002" offset="00" relocatable="true" max_length="0">
 			<original>ビンイクラ発見！ 確認されたしーッ！</original>
-			<edited>ビンイクラ発見！ 確認されたしーッ！</edited>
+			<edited>发现瓶装鲑鱼卵！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StrikeYoke_0003" offset="00" relocatable="true" max_length="0">
 			<original>ビンイクラ… と、敵発見！ 確認されたしーッ！</original>
-			<edited>ビンイクラ… と、敵発見！ 確認されたしーッ！</edited>
+			<edited>瓶装鲑鱼卵…还有敌人！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StrikeYoke_0004" offset="00" relocatable="true" max_length="0">
 			<original>あとちょっとです！</original>
-			<edited>あとちょっとです！</edited>
+			<edited>就差一点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StrikeYoke_0005" offset="00" relocatable="true" max_length="0">
 			<original>もうちょっとだ！ たえろーー！！</original>
-			<edited>もうちょっとだ！ たえろーー！！</edited>
+			<edited>再坚持一下！顶住！！</edited>
 			<subEntries />
 		</entry>
 	</entries>

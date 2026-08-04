@@ -5,57 +5,57 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>１発で 全て壊しましょウ</original>
-			<edited>１発で 全て壊しましょウ</edited>
+			<edited>用一发打坏全部吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>タイミングが 命でス</original>
-			<edited>タイミングが 命でス</edited>
+			<edited>时机就是生命</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>運も実力の内でス</original>
-			<edited>運も実力の内でス</edited>
+			<edited>运气也是实力的一部分</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0000" offset="00" relocatable="true" max_length="0">
 			<original>あの木箱、全部壊せばいーのか？</original>
-			<edited>あの木箱、全部壊せばいーのか？</edited>
+			<edited>那些木箱，全打坏就行吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0001" offset="00" relocatable="true" max_length="0">
 			<original>８号、気合じゃ！</original>
-			<edited>８号、気合じゃ！</edited>
+			<edited>8号，拿出气势！</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0002" offset="00" relocatable="true" max_length="0">
 			<original>おしかったですね…</original>
-			<edited>おしかったですね…</edited>
+			<edited>好可惜…</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0003" offset="00" relocatable="true" max_length="0">
 			<original>下のボム風船をねらってみては どうでしょうか？</original>
-			<edited>下のボム風船をねらってみては どうでしょうか？</edited>
+			<edited>试试瞄准下面的炸弹气球怎么样？</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0004" offset="00" relocatable="true" max_length="0">
 			<original>一番下のヤツをねらうと いけそうだな！</original>
-			<edited>一番下のヤツをねらうと いけそうだな！</edited>
+			<edited>瞄准最下面那个，好像能行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0005" offset="00" relocatable="true" max_length="0">
 			<original>ボム風船は おくれて爆発するみたいじゃのゥ</original>
-			<edited>ボム風船は おくれて爆発するみたいじゃのゥ</edited>
+			<edited>炸弹气球好像会延迟爆炸</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0006" offset="00" relocatable="true" max_length="0">
 			<original>ちょうど真ん中で爆発させねーとな…</original>
-			<edited>ちょうど真ん中で爆発させねーとな…</edited>
+			<edited>得让它正好在中间爆炸…</edited>
 			<subEntries />
 		</entry>
 		<entry name="1Shot_0007" offset="00" relocatable="true" max_length="0">
 			<original>木箱半コ分だけ、横にねらいをズラしてみましょうか？</original>
-			<edited>木箱半コ分だけ、横にねらいをズラしてみましょうか？</edited>
+			<edited>把瞄准稍微往旁边偏半个木箱试试？</edited>
 			<subEntries />
 		</entry>
 	</entries>

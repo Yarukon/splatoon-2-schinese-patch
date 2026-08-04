@@ -6,108 +6,107 @@
 		<entry name="First_00" offset="00" relocatable="true" max_length="0">
 			<original>あ！ こ、こんにちは４号！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 はずかしながら 帰って参りました…</original>
-			<edited>あ！ こ、こんにちは４号！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-はずかしながら 帰って参りました…</edited>
+			<edited>啊！ 你、你好，4号！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+真不好意思，我回来了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_01" offset="00" relocatable="true" max_length="0">
 			<original>いろいろメーワクかけちゃったけど、
 シオカラーズも New!カラストンビ部隊も、</original>
-			<edited>いろいろメーワクかけちゃったけど、
-シオカラーズも New!カラストンビ部隊も、</edited>
+			<edited>虽然给大家添了不少麻烦，
+但潮色姐妹也好，New!喷嘴部队也好，</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_02" offset="00" relocatable="true" max_length="0">
 			<original>これまで通り がんばってこー！ と、思っておりまーす！</original>
-			<edited>これまで通り がんばってこー！ と、思っておりまーす！</edited>
+			<edited>今后也要继续加油！…我是这么想的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_03" offset="00" relocatable="true" max_length="0">
 			<original>ま、アタシは おじいちゃんと３号が帰って来るまで
 ここにいなきゃだし… ヒマなら寄ってってよ</original>
-			<edited>ま、アタシは おじいちゃんと３号が帰って来るまで
-ここにいなきゃだし… ヒマなら寄ってってよ</edited>
+			<edited>嘛，我在爷爷和3号回来之前
+得待在这里… 有空的话来坐坐吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_04" offset="00" relocatable="true" max_length="0">
 			<original>ってか、おじいちゃん達 どこまで行ったんだろ&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 自由過ぎっしょ…</original>
-			<edited>ってか、おじいちゃん達 どこまで行ったんだろ&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-自由過ぎっしょ…</edited>
+			<edited>话说，爷爷他们到底跑到哪儿去了，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+也太自由了吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstMame_00" offset="00" relocatable="true" max_length="0">
 			<original>そー言えば４号のこと、
 ホタルちゃんから いろいろ聞いたよっ！</original>
-			<edited>そー言えば４号のこと、
-ホタルちゃんから いろいろ聞いたよっ！</edited>
+			<edited>对了，关于4号的事，
+我听小萤说了不少呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstMame_01" offset="00" relocatable="true" max_length="0">
 			<original>ってゆーワケで、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタルちゃん印の４号豆知識&#xE;&#x0;&#x3;&#x2;ÿÿを
 こっそり教えちゃいまーす！</original>
-			<edited>ってゆーワケで、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタルちゃん印の４号豆知識&#xE;&#x0;&#x3;&#x2;ÿÿを
-こっそり教えちゃいまーす！</edited>
+			<edited>所以呢，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小萤亲传的4号豆知识&#xE;&#x0;&#x3;&#x2;ÿÿ，
+我偷偷告诉你吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstMame_02" offset="00" relocatable="true" max_length="0">
 			<original>『こっそり』って… アタシここに いるっしょ</original>
-			<edited>『こっそり』って… アタシここに いるっしょ</edited>
+			<edited>说什么'偷偷'… 我不就在这儿嘛</edited>
 			<subEntries />
 		</entry>
 		<entry name="MamePrefix_00" offset="00" relocatable="true" max_length="0">
 			<original>えーっと、ホタルちゃん印の４号豆知識に よりますと…</original>
-			<edited>えーっと、ホタルちゃん印の４号豆知識に よりますと…</edited>
+			<edited>嗯—，据小萤亲传的4号豆知识所说…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleWinningRate_00" offset="00" relocatable="true" max_length="0">
 			<original>４号って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿが得意なんだね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 最近、一番勝率が いいみたい！</original>
-			<edited>４号って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿが得意なんだね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-最近、一番勝率が いいみたい！</edited>
+			<edited>4号，你擅长&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿ呢！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+最近胜率好像是最高的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleWinningRate_01" offset="00" relocatable="true" max_length="0">
 			<original>うんうん</original>
-			<edited>嗯嗯。</edited>
+			<edited>嗯嗯</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleWinningRate_02" offset="00" relocatable="true" max_length="0">
 			<original>ステージだと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿで
 調子いいね！</original>
-			<edited>ステージだと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿで
-調子いいね！</edited>
+			<edited>在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ场地，
+状态很好呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleWinningRate_03" offset="00" relocatable="true" max_length="0">
 			<original>他のトコも がんばってみよ～</original>
-			<edited>他のトコも がんばってみよ～</edited>
+			<edited>其他地方也加油试试～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleKilledBy_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は最近、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿに
 よく やられてるんだって…</original>
-			<edited>４号は最近、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿに
-よく やられてるんだって…</edited>
+			<edited>4号最近，好像经常被&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ干掉呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleKilledBy_01" offset="00" relocatable="true" max_length="0">
 			<original>対策 練ってこ～</original>
-			<edited>対策 練ってこ～</edited>
+			<edited>想想对策吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleFall_00" offset="00" relocatable="true" max_length="0">
 			<original>４号が最近の５０マッチで、
 一番落っこちたステージと その回数は…</original>
-			<edited>４号が最近の５０マッチで、
-一番落っこちたステージと その回数は…</edited>
+			<edited>4号在最近的50场对战中，
+摔下去最多的场地和次数是…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleFall_01" offset="00" relocatable="true" max_length="0">
 			<original>じゃらじゃらじゃらじゃら～～～… ばん！</original>
-			<edited>じゃらじゃらじゃらじゃら～～～… ばん！</edited>
+			<edited>叮叮叮叮叮～～～… 咚！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleFall_02" offset="00" relocatable="true" max_length="0">
@@ -115,1160 +114,1155 @@
 Í&#xE;&#x0;&#x3;&#x2;ÿÿで、
 一試合に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だって！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿで、
-一試合に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だって！</edited>
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ，
+一场比赛掉了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleFall_03" offset="00" relocatable="true" max_length="0">
 			<original>足元 注意してこ～…</original>
-			<edited>足元 注意してこ～…</edited>
+			<edited>小心脚下吧～…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSpecialHoldDeath_00" offset="00" relocatable="true" max_length="0">
 			<original>最近５０マッチで、スペシャルが たまったのに
 やられちゃったのは、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だって！</original>
-			<edited>最近５０マッチで、スペシャルが たまったのに
-やられちゃったのは、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だって！</edited>
+			<edited>最近的50场对战中，攒满特殊武器
+却被干掉的情况，有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSpecialHoldDeath_01" offset="00" relocatable="true" max_length="0">
 			<original>どんどん 使ってこ～</original>
-			<edited>どんどん 使ってこ～</edited>
+			<edited>要多用出来才行～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleKillSpree_00" offset="00" relocatable="true" max_length="0">
 			<original>最近の５０マッチで最大&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 回
 連続で相手を倒してるよ！</original>
-			<edited>最近の５０マッチで最大&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 回
-連続で相手を倒してるよ！</edited>
+			<edited>最近的50场对战中，最多连续&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次
+打倒对手哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleKillSpree_01" offset="00" relocatable="true" max_length="0">
 			<original>４号、ノッてんね～</original>
-			<edited>４号、ノッてんね～</edited>
+			<edited>4号，状态正佳呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleMap_00" offset="00" relocatable="true" max_length="0">
 			<original>最近の４号は１分間に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回くらい
 ナワバリマップを開いてるって！</original>
-			<edited>最近の４号は１分間に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回くらい
-ナワバリマップを開いてるって！</edited>
+			<edited>最近的4号，每分钟大概打开 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次
+对战地图呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleMap_01" offset="00" relocatable="true" max_length="0">
 			<original>そんで、ナワバリマップを見ている時間は
 １分間で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい！</original>
-			<edited>そんで、ナワバリマップを見ている時間は
-１分間で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい！</edited>
+			<edited>而且，看对战地图的时间
+每分钟有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒左右！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleMap_02" offset="00" relocatable="true" max_length="0">
 			<original>戦況をこまめにチェックで勝率アップ！ 戦場の鉄則～</original>
-			<edited>戦況をこまめにチェックで勝率アップ！ 戦場の鉄則～</edited>
+			<edited>随时确认战况提升胜率！ 这是战场铁律～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSuperJump_00" offset="00" relocatable="true" max_length="0">
 			<original>最近５０マッチの４号は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回スーパージャンプして、
 着地の後&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、倒されてるって！</original>
-			<edited>最近５０マッチの４号は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回スーパージャンプして、
-着地の後&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、倒されてるって！</edited>
+			<edited>最近的50场对战里，4号超级跳跃&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
+落地后有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次被干掉了呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSuperJump_01" offset="00" relocatable="true" max_length="0">
 			<original>それでも 飛んでこ～</original>
-			<edited>それでも 飛んでこ～</edited>
+			<edited>即便如此还是要跳～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkEmpty_00" offset="00" relocatable="true" max_length="0">
 			<original>最近５０マッチの４号は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回
 「インク不足！」って、なってるって！</original>
-			<edited>最近５０マッチの４号は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回
-「インク不足！」って、なってるって！</edited>
+			<edited>最近的50场对战中，4号有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次
+出现'墨水不足！'提示呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkEmpty_01" offset="00" relocatable="true" max_length="0">
 			<original>インクのご利用は 計画的に～</original>
-			<edited>インクのご利用は 計画的に～</edited>
+			<edited>墨水要计划着用～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkEmpty_02" offset="00" relocatable="true" max_length="0">
 			<original>あとあと ５０マッチ合計で、インクタンク&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ本分の
 インクを使ってるって！</original>
-			<edited>あとあと ５０マッチ合計で、インクタンク&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ本分の
-インクを使ってるって！</edited>
+			<edited>还有，50场对战合计用掉了相当于&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个
+墨水罐的墨水呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkEmpty_03" offset="00" relocatable="true" max_length="0">
 			<original>はげんどるね～</original>
-			<edited>はげんどるね～</edited>
+			<edited>消耗得挺厉害呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkHide_00" offset="00" relocatable="true" max_length="0">
 			<original>最近の４号は、１分間に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒
 センプクしているね！</original>
-			<edited>最近の４号は、１分間に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒
-センプクしているね！</edited>
+			<edited>最近的4号，每分钟有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒
+在潜行呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkHide_01" offset="00" relocatable="true" max_length="0">
 			<original>連続センプク時間は最長で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒だねっ！</original>
-			<edited>連続センプク時間は最長で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒だねっ！</edited>
+			<edited>最长连续潜行时间有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleInkHide_02" offset="00" relocatable="true" max_length="0">
 			<original>メリハリが 大事やかんね～</original>
-			<edited>メリハリが 大事やかんね～</edited>
+			<edited>有张有弛很重要嘛～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSub_00" offset="00" relocatable="true" max_length="0">
 			<original>最近の４号だと１分間にサブウェポンを使った回数が
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！</original>
-			<edited>最近の４号だと１分間にサブウェポンを使った回数が
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！</edited>
+			<edited>最近的4号，每分钟使用副武器的次数有
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSub_01" offset="00" relocatable="true" max_length="0">
 			<original>一試合だと最大&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だねっ！</original>
-			<edited>一試合だと最大&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だねっ！</edited>
+			<edited>一场对战最多有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSub_02" offset="00" relocatable="true" max_length="0">
 			<original>カユいところにはサブウェポン！ 戦場の鉄則～！</original>
-			<edited>カユいところにはサブウェポン！ 戦場の鉄則～！</edited>
+			<edited>痒的地方就交给副武器！ 这是战场铁律～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameRegularLastKillDeath_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はナワバリバトルもよくやっているね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 最近のバトルの平均だと…</original>
-			<edited>４号はナワバリバトルもよくやっているね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-最近のバトルの平均だと…</edited>
+			<edited>4号也很常玩占地对战呢！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+按最近对战的平均来算…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameRegularLastKillDeath_01" offset="00" relocatable="true" max_length="0">
 			<original>最後の３０秒で 相手を倒した数が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回で、
 倒された数が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</original>
-			<edited>最後の３０秒で 相手を倒した数が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回で、
-倒された数が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</edited>
+			<edited>最后30秒里，打倒对手 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
+被干掉 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameRegularLastKillDeath_02" offset="00" relocatable="true" max_length="0">
 			<original>じーちゃん 言ってた！
 「ギリギリまであきらめないのが大事」って！</original>
-			<edited>じーちゃん 言ってた！
-「ギリギリまであきらめないのが大事」って！</edited>
+			<edited>爷爷说过！
+'不到最后不放弃最重要'！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameRegularLastKillDeath_03" offset="00" relocatable="true" max_length="0">
 			<original>戦場の鉄則ゥ～！ …かな？</original>
-			<edited>戦場の鉄則ゥ～！ …かな？</edited>
+			<edited>这是战场铁律～！ …大概吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameGachi_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿもよくやっているね！</original>
-			<edited>４号は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿもよくやっているね！</edited>
+			<edited>4号也很常玩&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿ呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameGachi_01" offset="00" relocatable="true" max_length="0">
 			<original>ふむふむ、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回も
 カウントが逆転した時もあるんだね！</original>
-			<edited>ふむふむ、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回も
-カウントが逆転した時もあるんだね！</edited>
+			<edited>嗯嗯，在 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;&#x7;Í&#xE;&#x0;&#x3;&#x2;ÿÿ里，有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次
+逆转了计数呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameGachi_02" offset="00" relocatable="true" max_length="0">
 			<original>手にアセ、にぎった？</original>
-			<edited>手にアセ、にぎった？</edited>
+			<edited>紧张得手心冒汗了吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVArea_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は ガチエリアも よくやっているね！</original>
-			<edited>４号は ガチエリアも よくやっているね！</edited>
+			<edited>4号也很常玩真格区域呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVArea_01" offset="00" relocatable="true" max_length="0">
 			<original>ふむふむ… 最近の５０マッチだと、エリア内の相手を
  &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるね！</original>
-			<edited>ふむふむ… 最近の５０マッチだと、エリア内の相手を
- &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるね！</edited>
+			<edited>嗯嗯… 最近的50场对战里，区域内的对手
+你干掉了 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVArea_02" offset="00" relocatable="true" max_length="0">
 			<original>逆に、エリア内でやられたのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</original>
-			<edited>逆に、エリア内でやられたのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</edited>
+			<edited>反过来，在区域内被干掉的是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVArea_03" offset="00" relocatable="true" max_length="0">
 			<original>エリア内の敵、どんどんねらってこ～</original>
-			<edited>エリア内の敵、どんどんねらってこ～</edited>
+			<edited>区域里的敌人，多去瞄准吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVLift_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は ガチヤグラも よくやっているね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 最近５０マッチの平均だと、</original>
-			<edited>４号は ガチヤグラも よくやっているね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-最近５０マッチの平均だと、</edited>
+			<edited>4号也很常玩真格塔楼呢！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+按最近50场对战的平均来算，</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVLift_01" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラに乗った時間は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒だ！
 </original>
-			<edited>ガチヤグラに乗った時間は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒だ！
-</edited>
+			<edited>在塔楼上的时间是&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVLift_02" offset="00" relocatable="true" max_length="0">
 			<original>あとあと、ガチヤグラに乗ってる敵を
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるよ！</original>
-			<edited>あとあと、ガチヤグラに乗ってる敵を
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるよ！</edited>
+			<edited>还有，塔楼上的敌人
+被你干掉 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVLift_03" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラの柱は敵か味方か… 深いな</original>
-			<edited>ヤグラの柱は敵か味方か… 深いな</edited>
+			<edited>塔楼的柱子是敌是友… 深奥啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVGoal_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は ガチホコも よくやっているね！</original>
-			<edited>４号は ガチホコも よくやっているね！</edited>
+			<edited>4号也很常玩真格鱼虎呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVGoal_01" offset="00" relocatable="true" max_length="0">
 			<original>最近の５０マッチだと、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回ガチホコを持って、
 合計&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿカウント 進めてる！</original>
-			<edited>最近の５０マッチだと、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回ガチホコを持って、
-合計&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿカウント 進めてる！</edited>
+			<edited>最近的50场对战里，拿起鱼虎&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
+合计推进了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个计数！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVGoal_02" offset="00" relocatable="true" max_length="0">
 			<original>そんで、自分でノックアウトした回数は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</original>
-			<edited>そんで、自分でノックアウトした回数は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</edited>
+			<edited>而且，自己直接KO的次数有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVGoal_03" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコ持ってると 注目が集まって、
 テンション上がるよね～</original>
-			<edited>ガチホコ持ってると 注目が集まって、
-テンション上がるよね～</edited>
+			<edited>拿着鱼虎会备受瞩目，
+超兴奋的对吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVAsari_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は ガチアサリも よくやっているね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 最近５０マッチの平均だと…</original>
-			<edited>４号は ガチアサリも よくやっているね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-最近５０マッチの平均だと…</edited>
+			<edited>4号也很常玩真格蛤蜊呢！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+按最近50场对战的平均来算…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVAsari_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ アサリをひろって、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ ガチアサリを作っているみたい！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ アサリをひろって、
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ ガチアサリを作っているみたい！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个蛤蜊，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个真格蛤蜊的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVAsari_02" offset="00" relocatable="true" max_length="0">
 			<original>無心で集めちゃうよね～</original>
-			<edited>無心で集めちゃうよね～</edited>
+			<edited>一收集起来就停不下来呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeapon_00" offset="00" relocatable="true" max_length="0">
 			<original>４号が最近 よく使っているブキは
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
-			<edited>４号が最近 よく使っているブキは
+			<edited>4号最近经常用的武器是
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeapon_01" offset="00" relocatable="true" max_length="0">
 			<original>「ブキはかわいがるほど 新しい顔を見せてくれるでし！」
 って ブキチくんが言ってた！</original>
-			<edited>「ブキはかわいがるほど 新しい顔を見せてくれるでし！」
-って ブキチくんが言ってた！</edited>
+			<edited>'武器越用心疼爱，越会展现出新的一面！'
+武器子这么说过！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeapon_02" offset="00" relocatable="true" max_length="0">
 			<original>言いそ～</original>
-			<edited>言いそ～</edited>
+			<edited>很像他会说的话～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はシューターだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はシューターだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，射击枪类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_01" offset="00" relocatable="true" max_length="0">
 			<original>うんうん</original>
-			<edited>嗯嗯。</edited>
+			<edited>嗯嗯</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_02" offset="00" relocatable="true" max_length="0">
 			<original>そんでそんで、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい
 射撃しているみたい</original>
-			<edited>そんでそんで、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい
-射撃しているみたい</edited>
+			<edited>而且，每分钟大概有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒
+在射击的样子</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_03" offset="00" relocatable="true" max_length="0">
 			<original>撃って撃って撃ちまくれ！ 戦場の鉄則～！</original>
-			<edited>撃って撃って撃ちまくれ！ 戦場の鉄則～！</edited>
+			<edited>射射射，射个痛快！ 这是战场铁律～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponRoller_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はローラーだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ をよく使うみたいね</original>
-			<edited>４号はローラーだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ をよく使うみたいね</edited>
+			<edited>4号的话，滚筒类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponRoller_01" offset="00" relocatable="true" max_length="0">
 			<original>ヨコ振り &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で、
 タテ振り &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ％ ってカンジ！</original>
-			<edited>ヨコ振り &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で、
-タテ振り &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ％ ってカンジ！</edited>
+			<edited>横挥 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
+竖挥 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 这种感觉！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponRoller_02" offset="00" relocatable="true" max_length="0">
 			<original>上手く使い分けれる人は、イカしてるよね</original>
-			<edited>上手く使い分けれる人は、イカしてるよね</edited>
+			<edited>能灵活切换用的人，超帅气的呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponTwins_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はマニューバーだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はマニューバーだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，双枪类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponTwins_01" offset="00" relocatable="true" max_length="0">
 			<original>そんでもって、１分間に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、
 スライドしてるんだって！</original>
-			<edited>そんでもって、１分間に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、
-スライドしてるんだって！</edited>
+			<edited>而且，每分钟有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
+在滑步的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponTwins_02" offset="00" relocatable="true" max_length="0">
 			<original>暴発も ふくみま～す♪</original>
-			<edited>暴発も ふくみま～す♪</edited>
+			<edited>包含走火哦～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBlaster_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はブラスターだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はブラスターだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，爆破枪类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBlaster_01" offset="00" relocatable="true" max_length="0">
 			<original>直撃が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で
 爆風を当てたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％なんだって！</original>
-			<edited>直撃が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で
-爆風を当てたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％なんだって！</edited>
+			<edited>直击占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
+爆炸波及的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBlaster_02" offset="00" relocatable="true" max_length="0">
 			<original>直撃当てつつ爆風も当てれる人、
 ソンケ～するわ～</original>
-			<edited>直撃当てつつ爆風も当てれる人、
-ソンケ～するわ～</edited>
+			<edited>直击和爆炸都能打中的人，
+我超佩服的～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponCharger_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はチャージャーだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はチャージャーだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，蓄力狙击枪类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponCharger_01" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージを 相手に当てたのと 外した割合は
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 対 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％だって！</original>
-			<edited>フルチャージを 相手に当てたのと 外した割合は
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 対 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％だって！</edited>
+			<edited>蓄满力打中对手和打偏的比例是
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 对 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponCharger_02" offset="00" relocatable="true" max_length="0">
 			<original>え？ 外したんじゃなくって、遠くまで塗っただけ？
 そ～ゆ～事にしとくわ♪</original>
-			<edited>え？ 外したんじゃなくって、遠くまで塗っただけ？
-そ～ゆ～事にしとくわ♪</edited>
+			<edited>诶？ 不是打偏，只是涂到远处去了？
+就~当是这样吧♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSlosher_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はスロッシャーだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はスロッシャーだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，泼桶类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSlosher_01" offset="00" relocatable="true" max_length="0">
 			<original>フツーにインクを当てたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で
 高低差がある相手に当てたのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％だって！</original>
-			<edited>フツーにインクを当てたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で
-高低差がある相手に当てたのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％だって！</edited>
+			<edited>普通泼中墨水的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
+打中高低差对手的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSlosher_02" offset="00" relocatable="true" max_length="0">
 			<original>スロッシャー、見えないトコにいられると ホントつらい…</original>
-			<edited>スロッシャー、見えないトコにいられると ホントつらい…</edited>
+			<edited>泼桶，躲在看不见的地方真的很难搞…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponUmbrella_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はシェルターだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はシェルターだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，伞类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponUmbrella_01" offset="00" relocatable="true" max_length="0">
 			<original>あとあと、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回シェルターを開いていて、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、手元で壊されているみたい</original>
-			<edited>あとあと、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回シェルターを開いていて、
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、手元で壊されているみたい</edited>
+			<edited>还有，每分钟打开伞&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次是在手边被打破的样子</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponUmbrella_02" offset="00" relocatable="true" max_length="0">
 			<original>シェルターで耐えてると、生きてるってカンジするよね</original>
-			<edited>シェルターで耐えてると、生きてるってカンジするよね</edited>
+			<edited>撑伞硬撑的时候，真有活着的实感呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBrush_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はブラシだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はブラシだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，毛刷类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBrush_01" offset="00" relocatable="true" max_length="0">
 			<original>えと、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回振っていて、
 ホタルちゃん&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ人分の距離 塗り進んでるみたい！</original>
-			<edited>えと、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回振っていて、
-ホタルちゃん&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ人分の距離 塗り進んでるみたい！</edited>
+			<edited>那个，每分钟挥&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
+涂了相当于&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个小萤长度的距离的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBrush_02" offset="00" relocatable="true" max_length="0">
 			<original>ちょ… なんね？ その単位？！</original>
-			<edited>ちょ… なんね？ その単位？！</edited>
+			<edited>喂… 什么鬼？ 这什么单位？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSpinner_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はスピナーだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>４号はスピナーだと
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</edited>
+			<edited>4号的话，旋转枪类
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSpinner_01" offset="00" relocatable="true" max_length="0">
 			<original>１分あたり &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒間射撃してて、
 フルチャージして &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい 待機しているみたい！</original>
-			<edited>１分あたり &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒間射撃してて、
-フルチャージして &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい 待機しているみたい！</edited>
+			<edited>每分钟射击&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒，
+蓄满力后待机&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒左右的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSpinner_02" offset="00" relocatable="true" max_length="0">
 			<original>なんかの参考にしてね～</original>
-			<edited>なんかの参考にしてね～</edited>
+			<edited>随便参考参考就好～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopPlay_00" offset="00" relocatable="true" max_length="0">
 			<original>４号がバイトに行った回数は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 かせいでるなら オゴってほしいぞ！ ４号！</original>
-			<edited>４号がバイトに行った回数は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-かせいでるなら オゴってほしいぞ！ ４号！</edited>
+			<edited>4号去打鲑鱼打工的次数是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+要是赚到了，可得请我哦！ 4号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopPlay_01" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんも結構 かせいでるっしょ</original>
-			<edited>アオリちゃんも結構 かせいでるっしょ</edited>
+			<edited>小拟也挺能赚的嘛</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopSave_00" offset="00" relocatable="true" max_length="0">
 			<original>４号が 最近のバイトで仲間を助けた回数は
 平均&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！</original>
-			<edited>４号が 最近のバイトで仲間を助けた回数は
-平均&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！</edited>
+			<edited>4号在最近的打工中救助同伴的次数
+平均有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopSave_01" offset="00" relocatable="true" max_length="0">
 			<original>助けられた回数は 平均で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！</original>
-			<edited>助けられた回数は 平均で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！</edited>
+			<edited>被救的次数平均有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopSave_02" offset="00" relocatable="true" max_length="0">
 			<original>助け合いってステキ！
 みんながみんなに優しい世界に なりますよーに！</original>
-			<edited>助け合いってステキ！
-みんながみんなに優しい世界に なりますよーに！</edited>
+			<edited>互相帮助真美好！
+愿世界变成人人都温柔相待的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopSave_03" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃん、またイメージアップ はかってんな</original>
-			<edited>アオリちゃん、またイメージアップ はかってんな</edited>
+			<edited>小拟，又在提升自己的形象了</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopIkura_00" offset="00" relocatable="true" max_length="0">
 			<original>４号が最近のバイトでイクラを一番集めたのは
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ！ 金イクラは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x3;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ！</original>
-			<edited>４号が最近のバイトでイクラを一番集めたのは
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ！ 金イクラは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x3;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ！</edited>
+			<edited>4号在最近的打工中，鲑鱼卵捡得最多的一次是
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个！ 金鲑鱼卵是&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x3;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopIkura_01" offset="00" relocatable="true" max_length="0">
 			<original>お～、で、このイクラって ドコ行くんやろね？</original>
-			<edited>お～、で、このイクラって ドコ行くんやろね？</edited>
+			<edited>哦～，话说这些鲑鱼卵到底去了哪儿呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopKilledByEnemy_00" offset="00" relocatable="true" max_length="0">
 			<original>わ… 最近のバイトで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿに
 一番倒されてる…</original>
-			<edited>わ… 最近のバイトで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿに
-一番倒されてる…</edited>
+			<edited>哇… 最近的打工里，被&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ
+干掉得最多…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopKilledByEnemy_01" offset="00" relocatable="true" max_length="0">
 			<original>いつの時代も バイトって大変やね…</original>
-			<edited>いつの時代も バイトって大変やね…</edited>
+			<edited>无论哪个时代，打工都好辛苦呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopKillEnemy_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は最近５０回のバイトで、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるみたい！</original>
-			<edited>４号は最近５０回のバイトで、
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるみたい！</edited>
+			<edited>4号在最近50次打工中，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 干掉了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopKillEnemy_01" offset="00" relocatable="true" max_length="0">
 			<original>やられる前に やらんとね～</original>
-			<edited>やられる前に やらんとね～</edited>
+			<edited>在被干掉之前先下手为强～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free00_00" offset="00" relocatable="true" max_length="0">
 			<original>アオリの ドキドキヴギウギブキうらないー！
 今日オススメブキを ピックアップしてあげるよ！</original>
-			<edited>アオリの ドキドキヴギウギブキうらないー！
-今日オススメブキを ピックアップしてあげるよ！</edited>
+			<edited>小拟的 心跳砰砰武器占卜！
+今天为你pick up推荐武器哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free00_01" offset="00" relocatable="true" max_length="0">
 			<original>だらららららららー… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;じゃん！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ハイ、出ました！</original>
-			<edited>だらららららららー… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;じゃん！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ハイ、出ました！</edited>
+			<edited>哒啦哒啦哒啦哒啦～… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;铛！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; 好，出来啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free00_02" offset="00" relocatable="true" max_length="0">
 			<original>今日のオススメブキはー、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
-			<edited>今日のオススメブキはー、
+			<edited>今天的推荐武器是—
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free00_03" offset="00" relocatable="true" max_length="0">
 			<original>うんうん、アリよりのアリやね</original>
-			<edited>うんうん、アリよりのアリやね</edited>
+			<edited>嗯嗯，超级靠谱的选择呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free01_00" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラのゴール直前！
 ハイパープレッサーでゴリ押しだ！ 名付けて！</original>
-			<edited>ガチヤグラのゴール直前！
-ハイパープレッサーでゴリ押しだ！ 名付けて！</edited>
+			<edited>真格塔楼临近终点！
+用高压水泵硬冲吧！ 名字就叫！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free01_01" offset="00" relocatable="true" max_length="0">
 			<original>ブリリアント・シャイニング・ローーード！！
 最後メッチャのばしてこ～</original>
-			<edited>ブリリアント・シャイニング・ローーード！！
-最後メッチャのばしてこ～</edited>
+			<edited>闪耀光辉之路！！
+最后要狠狠地把距离拉长～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02_00" offset="00" relocatable="true" max_length="0">
 			<original>最近 じーちゃんから手紙来てる？</original>
-			<edited>最近 じーちゃんから手紙来てる？</edited>
+			<edited>最近爷爷来信了吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02_01" offset="00" relocatable="true" max_length="0">
 			<original>ずいぶん前に来たっきりやね</original>
-			<edited>ずいぶん前に来たっきりやね</edited>
+			<edited>是很久以前来过一封就没动静了呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02_02" offset="00" relocatable="true" max_length="0">
 			<original>アレ、達筆すぎて読めなかったよね…</original>
-			<edited>アレ、達筆すぎて読めなかったよね…</edited>
+			<edited>那封信，字太漂亮了反而读不懂呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_00" offset="00" relocatable="true" max_length="0">
 			<original>そういえば、やっとおじいちゃんと連絡とれたんよ
 なんとチャットで</original>
-			<edited>そういえば、やっとおじいちゃんと連絡とれたんよ
-なんとチャットで</edited>
+			<edited>说起来，总算和爷爷联络上了
+居然是用聊天软件</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_01" offset="00" relocatable="true" max_length="0">
 			<original>えっ？！ すごい！
 じーちゃんが コンピューターじーちゃん に進化してる！</original>
-			<edited>えっ？！ すごい！
-じーちゃんが コンピューターじーちゃん に進化してる！</edited>
+			<edited>诶？！ 好厉害！
+爷爷进化成电脑爷爷了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_02" offset="00" relocatable="true" max_length="0">
 			<original>短文だったから、よ～わからんケド
 ３号と元気にやっているみたい</original>
-			<edited>短文だったから、よ～わからんケド
-３号と元気にやっているみたい</edited>
+			<edited>消息都很短，看不太懂，
+不过好像和3号过得挺好的</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_03" offset="00" relocatable="true" max_length="0">
 			<original>元気ならよかった！
 また、つかまったりしてないか心配してたんだー！</original>
-			<edited>元気ならよかった！
-また、つかまったりしてないか心配してたんだー！</edited>
+			<edited>没事就好！
+我还担心他是不是又被抓走了呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_04" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんがそれ言う…？</original>
-			<edited>アオリちゃんがそれ言う…？</edited>
+			<edited>这话由小拟来说…？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free03_00" offset="00" relocatable="true" max_length="0">
 			<original>あー、４号！ 
 「この二人いつもいるな～」って 思ったでしょ？！</original>
-			<edited>あー、４号！ 
-「この二人いつもいるな～」って 思ったでしょ？！</edited>
+			<edited>啊—，4号！
+你是不是在想'这两个人怎么老在这儿'？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free03_01" offset="00" relocatable="true" max_length="0">
 			<original>ヒマじゃないからね！ この後もお仕事だからね！</original>
-			<edited>ヒマじゃないからね！ この後もお仕事だからね！</edited>
+			<edited>我们可不是闲得慌哦！ 待会儿还有工作呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free03_02" offset="00" relocatable="true" max_length="0">
 			<original>なんで必死なのアオリちゃん…</original>
-			<edited>なんで必死なのアオリちゃん…</edited>
+			<edited>小拟你干嘛这么拼命…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free04_00" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃん、最近、オハギの減りが
 早いような気がするんだけど…</original>
-			<edited>アオリちゃん、最近、オハギの減りが
-早いような気がするんだけど…</edited>
+			<edited>小拟，最近牡丹饼的消耗量
+好像变快了耶…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free04_01" offset="00" relocatable="true" max_length="0">
 			<original>DJタコワサ将軍が バクバク食べてたよー …もぐもぐ</original>
-			<edited>DJタコワサ将軍が バクバク食べてたよー …もぐもぐ</edited>
+			<edited>DJ芥末章鱼将军大口大口吃掉了哦— …吧唧吧唧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free05_00" offset="00" relocatable="true" max_length="0">
 			<original>よーし４号、今日も元気に行ってみよー！</original>
-			<edited>よーし４号、今日も元気に行ってみよー！</edited>
+			<edited>好嘞4号，今天也元气满满地出发吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free05_01" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃん、事件前より元気になってね？</original>
-			<edited>アオリちゃん、事件前より元気になってね？</edited>
+			<edited>小拟，你比事件发生前还要精神了呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free06_00" offset="00" relocatable="true" max_length="0">
 			<original>タコさんたちも、さすがにしばらくは
 大人しくしてるかな？</original>
-			<edited>タコさんたちも、さすがにしばらくは
-大人しくしてるかな？</edited>
+			<edited>章鱼们这次，应该也会老实一阵子吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free06_01" offset="00" relocatable="true" max_length="0">
 			<original>アタシたち 三人で見張ってるからダイジョブ… って</original>
-			<edited>アタシたち 三人で見張ってるからダイジョブ… って</edited>
+			<edited>我们三个看着呢，没问题的… 才怪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free06_02" offset="00" relocatable="true" max_length="0">
 			<original>一番大人しくして欲しいのは アオリちゃんやね…</original>
-			<edited>一番大人しくして欲しいのは アオリちゃんやね…</edited>
+			<edited>最希望老实点的，其实是小拟吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free07_00" offset="00" relocatable="true" max_length="0">
 			<original>４号の得意ブキは何？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 アタシはローラー！</original>
-			<edited>４号の得意ブキは何？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-アタシはローラー！</edited>
+			<edited>4号擅长的武器是什么？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+我是滚筒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free07_01" offset="00" relocatable="true" max_length="0">
 			<original>アタシはチャージャーかな？</original>
-			<edited>アタシはチャージャーかな？</edited>
+			<edited>我大概是蓄力狙击枪吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free07_02" offset="00" relocatable="true" max_length="0">
 			<original>あ、そこはカサじゃないんだ</original>
-			<edited>あ、そこはカサじゃないんだ</edited>
+			<edited>啊，那里不是伞哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free07_03" offset="00" relocatable="true" max_length="0">
 			<original>これブキじゃないし…</original>
-			<edited>これブキじゃないし…</edited>
+			<edited>这又不是武器…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free08_00" offset="00" relocatable="true" max_length="0">
 			<original>変装だとしても ホタルちゃん、
 着物 似合ってるよねー</original>
-			<edited>変装だとしても ホタルちゃん、
-着物 似合ってるよねー</edited>
+			<edited>就算是变装，小萤穿
+和服也很合适呢—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free08_01" offset="00" relocatable="true" max_length="0">
 			<original>半分、趣味やけどね</original>
-			<edited>半分、趣味やけどね</edited>
+			<edited>有一半是兴趣啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free08_02" offset="00" relocatable="true" max_length="0">
 			<original>アタシのも実家にあるはずだから、
 シオカラ地方に里帰りしたら 取ってこよーっと！</original>
-			<edited>アタシのも実家にあるはずだから、
-シオカラ地方に里帰りしたら 取ってこよーっと！</edited>
+			<edited>我的应该也在老家放着，
+等回潮色地方探亲的时候拿回来吧—！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free09_00" offset="00" relocatable="true" max_length="0">
 			<original>シオカラ亭、ちょっとリフォームしたいね</original>
-			<edited>シオカラ亭、ちょっとリフォームしたいね</edited>
+			<edited>潮色亭，想稍微翻新一下呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free09_01" offset="00" relocatable="true" max_length="0">
 			<original>アタシ、ワッフルメーカー欲しい！</original>
-			<edited>アタシ、ワッフルメーカー欲しい！</edited>
+			<edited>我想要华夫饼机！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free09_02" offset="00" relocatable="true" max_length="0">
 			<original>それ、リフォーム関係無いっしょ…</original>
-			<edited>それ、リフォーム関係無いっしょ…</edited>
+			<edited>那跟翻新没关系吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free10_00" offset="00" relocatable="true" max_length="0">
 			<original>そ～言えば 今、
 アロワナモールがバーゲンしてるんだって</original>
-			<edited>そ～言えば 今、
-アロワナモールがバーゲンしてるんだって</edited>
+			<edited>说起来，现在
+金龙鱼商场好像正在打折呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free10_01" offset="00" relocatable="true" max_length="0">
 			<original>よし… 次のオフん時に トツゲキだ！</original>
-			<edited>よし… 次のオフん時に トツゲキだ！</edited>
+			<edited>好… 下次休息日，突击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free10_02" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃん、今いっしゅん ハンターの目になったね…</original>
-			<edited>アオリちゃん、今いっしゅん ハンターの目になったね…</edited>
+			<edited>小拟，刚才那一瞬间露出了猎人的眼神呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free11_00" offset="00" relocatable="true" max_length="0">
 			<original>あのね４号！ こないだテンタクルズと
 ライブしたんだけど、チョー楽しかったの！</original>
-			<edited>あのね４号！ こないだテンタクルズと
-ライブしたんだけど、チョー楽しかったの！</edited>
+			<edited>听我说4号！ 前几天和腕儿姐妹
+一起办了演唱会，超开心的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free11_01" offset="00" relocatable="true" max_length="0">
 			<original>あん時、盛り上がりすぎて アオリちゃんったら…</original>
-			<edited>あん時、盛り上がりすぎて アオリちゃんったら…</edited>
+			<edited>那会儿太嗨了，小拟她啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free11_02" offset="00" relocatable="true" max_length="0">
 			<original>ホタルちゃん？！ 盛り上がりすぎて、
 曲順 忘れちゃってた事は、ヒミツだって！</original>
-			<edited>ホタルちゃん？！ 盛り上がりすぎて、
-曲順 忘れちゃってた事は、ヒミツだって！</edited>
+			<edited>小萤？！ 太嗨了结果
+把曲目顺序忘光的事，要保密啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free12_00" offset="00" relocatable="true" max_length="0">
 			<original>あ、スズメさんだ！ ヤッホー！！</original>
-			<edited>あ、スズメさんだ！ ヤッホー！！</edited>
+			<edited>啊，是麻雀小姐！ 呀吼！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free12_01" offset="00" relocatable="true" max_length="0">
 			<original>やっほ～</original>
-			<edited>やっほ～</edited>
+			<edited>呀吼～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free13_00" offset="00" relocatable="true" max_length="0">
 			<original>そういや、４号ってシオカラーズ知らんのよね</original>
-			<edited>そういや、４号ってシオカラーズ知らんのよね</edited>
+			<edited>说起来，4号好像不知道潮色姐妹呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free13_01" offset="00" relocatable="true" max_length="0">
 			<original>え、そうなの？！</original>
-			<edited>え、そうなの？！</edited>
+			<edited>诶，真的假的？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free13_02" offset="00" relocatable="true" max_length="0">
 			<original>んもー、４号もまだまだなんだからー</original>
-			<edited>んもー、４号もまだまだなんだからー</edited>
+			<edited>真是的，4号还差得远呢—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free13_03" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんも、ちょっと前まで
 テンタクルズ 知らんかったっしょ…</original>
-			<edited>アオリちゃんも、ちょっと前まで
-テンタクルズ 知らんかったっしょ…</edited>
+			<edited>小拟不也是，直到前不久
+还不知道腕儿姐妹嘛…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free14_00" offset="00" relocatable="true" max_length="0">
 			<original>シオカラーズは ホタルちゃんとアタシで一つだけど…</original>
-			<edited>シオカラーズは ホタルちゃんとアタシで一つだけど…</edited>
+			<edited>潮色姐妹是由小萤和我组成的，但是…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free14_01" offset="00" relocatable="true" max_length="0">
 			<original>New!カラストンビ部隊は、じーちゃんとホタルちゃんと
 ３号と４号とアタシで一つだからね！</original>
-			<edited>New!カラストンビ部隊は、じーちゃんとホタルちゃんと
-３号と４号とアタシで一つだからね！</edited>
+			<edited>New!喷嘴部队可是由爷爷、小萤、
+3号、4号和我组成的哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free14_02" offset="00" relocatable="true" max_length="0">
 			<original>多くね？</original>
-			<edited>多くね？</edited>
+			<edited>人有点多吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free15_00" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんあてに マスキングテープとか
 大量に届いてたよ</original>
-			<edited>アオリちゃんあてに マスキングテープとか
-大量に届いてたよ</edited>
+			<edited>寄给小拟的纸胶带什么的
+到了好多呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free15_01" offset="00" relocatable="true" max_length="0">
 			<original>何それ、知らないよ？！</original>
-			<edited>何それ、知らないよ？！</edited>
+			<edited>那是什么，我不知道啦？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free15_02" offset="00" relocatable="true" max_length="0">
 			<original>何か デコろうとしたのかなぁ…？</original>
-			<edited>何か デコろうとしたのかなぁ…？</edited>
+			<edited>是想装饰点什么吧…？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free16_00" offset="00" relocatable="true" max_length="0">
 			<original>事務所に届くファンレターが増えたらしいよ！
 うれしいね！ ホタルちゃん！</original>
-			<edited>事務所に届くファンレターが増えたらしいよ！
-うれしいね！ ホタルちゃん！</edited>
+			<edited>听说寄到事务所的粉丝信变多了！
+真开心呢！ 小萤！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free16_01" offset="00" relocatable="true" max_length="0">
 			<original>ほほ～</original>
-			<edited>ほほ～</edited>
+			<edited>哦哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free16_02" offset="00" relocatable="true" max_length="0">
 			<original>ロウト配送センター ってところ経由の
 手紙が増えてるみたい！</original>
-			<edited>ロウト配送センター ってところ経由の
-手紙が増えてるみたい！</edited>
+			<edited>好像经由一个叫漏斗配送中心
+的地方寄来的信变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free16_03" offset="00" relocatable="true" max_length="0">
 			<original>ロウト配送センター？ どっかで聞いた気が…</original>
-			<edited>ロウト配送センター？ どっかで聞いた気が…</edited>
+			<edited>漏斗配送中心？ 好像在哪听过…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free17_00" offset="00" relocatable="true" max_length="0">
 			<original>タコスタンプって意外と可愛くない？</original>
-			<edited>タコスタンプって意外と可愛くない？</edited>
+			<edited>章鱼印章，意外地挺可爱的不是吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free17_01" offset="00" relocatable="true" max_length="0">
 			<original>後ろがプリッとしてるから？</original>
-			<edited>後ろがプリッとしてるから？</edited>
+			<edited>是因为后面圆滚滚的吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free17_02" offset="00" relocatable="true" max_length="0">
 			<original>前がヌペッとしてるからだよー</original>
-			<edited>前がヌペッとしてるからだよー</edited>
+			<edited>是因为前面滑溜溜的啦—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_00" offset="00" relocatable="true" max_length="0">
 			<original>仕事に穴開けちゃったから いそがしくて大変だー…</original>
-			<edited>仕事に穴開けちゃったから いそがしくて大変だー…</edited>
+			<edited>工作开了天窗，忙得要命—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_01" offset="00" relocatable="true" max_length="0">
 			<original>仕方ないっしょ
 がんばったら今度、メガ盛りオニポテト おごっちゃるよ</original>
-			<edited>仕方ないっしょ
-がんばったら今度、メガ盛りオニポテト おごっちゃるよ</edited>
+			<edited>没办法啦
+好好干的话，下次请你吃巨份洋葱薯条哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_02" offset="00" relocatable="true" max_length="0">
 			<original>やたっ！ ごいっしょに ドリンクも付けていい？</original>
-			<edited>やたっ！ ごいっしょに ドリンクも付けていい？</edited>
+			<edited>耶！ 可以顺便加杯饮料吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_03" offset="00" relocatable="true" max_length="0">
 			<original>スマイルなら お付けしま～す</original>
-			<edited>スマイルなら お付けしま～す</edited>
+			<edited>只要笑一笑的话就送你～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free19_00" offset="00" relocatable="true" max_length="0">
 			<original>YO！YO！シオカラ亭にラップの本がおいてあったけどYO！
 ホタルちゃん、ラップを始めるメーン？</original>
-			<edited>YO！YO！シオカラ亭にラップの本がおいてあったけどYO！
-ホタルちゃん、ラップを始めるメーン？</edited>
+			<edited>YO！YO！潮色亭里有本说唱书YO！
+小萤，你是要开始玩说唱吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free19_01" offset="00" relocatable="true" max_length="0">
 			<original>それ、おじいちゃんの老後の趣味やね</original>
-			<edited>それ、おじいちゃんの老後の趣味やね</edited>
+			<edited>那是爷爷退休后的爱好啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free19_02" offset="00" relocatable="true" max_length="0">
 			<original>えッ？ じーちゃんのなの？！</original>
-			<edited>えッ？ じーちゃんのなの？！</edited>
+			<edited>诶？ 是爷爷的？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_00" offset="00" relocatable="true" max_length="0">
 			<original>４号って、ホタルちゃんにスカウトされて
 New!カラストンビ部隊に 入ったんだよね？</original>
-			<edited>４号って、ホタルちゃんにスカウトされて
-New!カラストンビ部隊に 入ったんだよね？</edited>
+			<edited>4号你，是被小萤挖角
+才加入New!喷嘴部队的吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_01" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんがアタシをスカウトした時の事、
 思い出した</original>
-			<edited>アオリちゃんがアタシをスカウトした時の事、
-思い出した</edited>
+			<edited>我想起了小拟挖角我的时候</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_02" offset="00" relocatable="true" max_length="0">
 			<original>どんなだったっけ？</original>
-			<edited>どんなだったっけ？</edited>
+			<edited>当时是怎样的来着？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_03" offset="00" relocatable="true" max_length="0">
 			<original>虫とりに夢中のアオリちゃんが、
 まちがえてアミで つかまえてきたじゃん</original>
-			<edited>虫とりに夢中のアオリちゃんが、
-まちがえてアミで つかまえてきたじゃん</edited>
+			<edited>当时沉迷捉虫的小拟，
+不小心用网子把我兜住了嘛</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_04" offset="00" relocatable="true" max_length="0">
 			<original>すごい昔の話だし！
 きれいな虫だなー って思ったんだよきっと！</original>
-			<edited>すごい昔の話だし！
-きれいな虫だなー って思ったんだよきっと！</edited>
+			<edited>那是很久以前的事了！
+我当时一定是觉得'好漂亮的虫子'吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_05" offset="00" relocatable="true" max_length="0">
 			<original>フォローになってないんだけど…</original>
-			<edited>フォローになってないんだけど…</edited>
+			<edited>那根本算不上圆场吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は 何かこわいモノある？
 アタシはオバケがこわいかなー…</original>
-			<edited>４号は 何かこわいモノある？
-アタシはオバケがこわいかなー…</edited>
+			<edited>4号，你有什么怕的东西吗？
+我的话，大概是怕鬼吧—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_01" offset="00" relocatable="true" max_length="0">
 			<original>そ～言えば アオリちゃん、ナンタイ山のウワサ 知ってる？</original>
-			<edited>そ～言えば アオリちゃん、ナンタイ山のウワサ 知ってる？</edited>
+			<edited>说起来，小拟，你听过软体山的传闻吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_02" offset="00" relocatable="true" max_length="0">
 			<original>森の中でうごめく 白 く 小 さ な カ ゲ…</original>
-			<edited>森の中でうごめく 白 く 小 さ な カ ゲ…</edited>
+			<edited>在森林里蠕动着的 白 色 小 小 的 影 子…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_03" offset="00" relocatable="true" max_length="0">
 			<original>そして、 耳をつんざく さ け び 声！
 割 れ る ガ ラ ス！</original>
-			<edited>そして、 耳をつんざく さ け び 声！
-割 れ る ガ ラ ス！</edited>
+			<edited>还有，震耳欲聋的 尖 叫 声！
+破 碎 的 玻 璃！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_04" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;ギャ～～～ッ！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;ギャ～～～ッ！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;哇啊啊啊啊～！！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_05" offset="00" relocatable="true" max_length="0">
 			<original>えっ！ ちょっ… ホタルちゃん？！</original>
-			<edited>えっ！ ちょっ… ホタルちゃん？！</edited>
+			<edited>诶！ 等、小萤？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free22_00" offset="00" relocatable="true" max_length="0">
 			<original>ねーねー、今度ロブくんのとこの
 アゲホイップダブルクロス、食べに行こーよー</original>
-			<edited>ねーねー、今度ロブくんのとこの
-アゲホイップダブルクロス、食べに行こーよー</edited>
+			<edited>喂喂，下次去阿龙那儿
+吃炸奶油双拼吧—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free22_01" offset="00" relocatable="true" max_length="0">
 			<original>それ以前に、名前が覚えられん…</original>
-			<edited>それ以前に、名前が覚えられん…</edited>
+			<edited>在那之前，名字记不住…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free22_02" offset="00" relocatable="true" max_length="0">
 			<original>４号もチケット持ってたら 使ってみたらいーよ！</original>
-			<edited>４号もチケット持ってたら 使ってみたらいーよ！</edited>
+			<edited>4号要是也有餐券的话，也去试试看吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free23_00" offset="00" relocatable="true" max_length="0">
 			<original>そー言えば、ブキチくんは New!カラストンビ部隊に
 入らないのかなー？</original>
-			<edited>そー言えば、ブキチくんは New!カラストンビ部隊に
-入らないのかなー？</edited>
+			<edited>说起来，武器子怎么不加入New!喷嘴部队呢—？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free23_01" offset="00" relocatable="true" max_length="0">
 			<original>いちお～ さそったんだけど、</original>
-			<edited>いちお～ さそったんだけど、</edited>
+			<edited>我姑且邀请过他了，</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free23_02" offset="00" relocatable="true" max_length="0">
 			<original>「技術班は 第一線の部隊とは
 ある程度 距離を置くのが 鉄則でし」 …だって</original>
-			<edited>「技術班は 第一線の部隊とは
-ある程度 距離を置くのが 鉄則でし」 …だって</edited>
+			<edited>'技术班跟第一线部队
+保持一定距离才是铁律的说' …他是这么说的</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free23_03" offset="00" relocatable="true" max_length="0">
 			<original>よくわかんないケド、仲良くしてくれるんならいっか…</original>
-			<edited>よくわかんないケド、仲良くしてくれるんならいっか…</edited>
+			<edited>虽然听不太懂，但只要肯跟我们做朋友就无所谓…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free24_00" offset="00" relocatable="true" max_length="0">
 			<original>アネモちゃん、仕事いそがしーのが苦手だから
 ネットショップ始めたらしいね</original>
-			<edited>アネモちゃん、仕事いそがしーのが苦手だから
-ネットショップ始めたらしいね</edited>
+			<edited>小银莲花，因为不擅长忙忙碌碌的工作，
+听说开了家网店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free24_01" offset="00" relocatable="true" max_length="0">
 			<original>人気あるみたいだし 余計いそがしくなってるかも…</original>
-			<edited>人気あるみたいだし 余計いそがしくなってるかも…</edited>
+			<edited>好像还挺有人气的，说不定反而更忙了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free25_00" offset="00" relocatable="true" max_length="0">
 			<original>いつの間にか 小さいジャッジくんが増えてるよね</original>
-			<edited>いつの間にか 小さいジャッジくんが増えてるよね</edited>
+			<edited>不知不觉间，小裁判们变多了呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free25_01" offset="00" relocatable="true" max_length="0">
 			<original>『コジャッジくん』って、呼ばれとるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 あの、カビの生えた大福感がたまらんのよね～</original>
-			<edited>『コジャッジくん』って、呼ばれとるね&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
-あの、カビの生えた大福感がたまらんのよね～</edited>
+			<edited>好像被叫做'小裁判猫'呢&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+那种长霉的大福饼感，真是让人欲罢不能呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free25_02" offset="00" relocatable="true" max_length="0">
 			<original>ホタルちゃんがハイカラスクエアによくいる理由って
 もしかして…</original>
-			<edited>ホタルちゃんがハイカラスクエアによくいる理由って
-もしかして…</edited>
+			<edited>小萤老是待在尚兴广场的理由，
+该不会是…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free26_00" offset="00" relocatable="true" max_length="0">
 			<original>そー言えば、ホタルちゃんが好きなバンドの新曲、
 出てたね！</original>
-			<edited>そー言えば、ホタルちゃんが好きなバンドの新曲、
-出てたね！</edited>
+			<edited>说起来，小萤喜欢的乐队出新歌了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free26_01" offset="00" relocatable="true" max_length="0">
 			<original>ABXYのこと？ 今回もキッチュでアバンギャルドという
 アンビバレンツなサウンドがエモーショナルだったわ</original>
-			<edited>ABXYのこと？ 今回もキッチュでアバンギャルドという
-アンビバレンツなサウンドがエモーショナルだったわ</edited>
+			<edited>是说ABXY吗？ 这次的旋律也是既俗气又前卫，
+那种矛盾的感觉真是动人</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free26_02" offset="00" relocatable="true" max_length="0">
 			<original>え、何語？</original>
-			<edited>え、何語？</edited>
+			<edited>诶，你说的哪国话？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free27_00" offset="00" relocatable="true" max_length="0">
 			<original>こないだビゼンくんだ！と思って声かけたら
 エチゼンくんだったよ…</original>
-			<edited>こないだビゼンくんだ！と思って声かけたら
-エチゼンくんだったよ…</edited>
+			<edited>前几天看到备前君，喊了一声，
+结果那是越前君…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free27_01" offset="00" relocatable="true" max_length="0">
 			<original>アタシもエチゼンくんだ と思って声かけたら
 ビゼンくんだったよ…</original>
-			<edited>アタシもエチゼンくんだ と思って声かけたら
-ビゼンくんだったよ…</edited>
+			<edited>我也是以为是越前君喊了一声，
+结果那是备前君…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free28_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はウチらの新曲、きいてくれた？</original>
-			<edited>４号はウチらの新曲、きいてくれた？</edited>
+			<edited>4号，听我们的新歌了吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free28_01" offset="00" relocatable="true" max_length="0">
 			<original>シオカラーズで「あさってColor」！
 イカよろしく～！</original>
-			<edited>シオカラーズで「あさってColor」！
-イカよろしく～！</edited>
+			<edited>潮色姐妹的《あさってColor》！
+请多关照～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free28_02" offset="00" relocatable="true" max_length="0">
 			<original>あ、フツーに宣伝した！</original>
-			<edited>あ、フツーに宣伝した！</edited>
+			<edited>啊，就这么直接宣传了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free28_03" offset="00" relocatable="true" max_length="0">
 			<original>ってか、向こうの機械できけるから
 また きいてみてね</original>
-			<edited>ってか、向こうの機械できけるから
-また きいてみてね</edited>
+			<edited>话说回来，那边的机器也能听，
+有空再听听看哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free29_00" offset="00" relocatable="true" max_length="0">
 			<original>イイダちゃんってステージで「キュッキュッ」って鳴らしてるけど
 どんな楽器 使ってるのかなー？</original>
-			<edited>イイダちゃんってステージで「キュッキュッ」って鳴らしてるけど
-どんな楽器 使ってるのかなー？</edited>
+			<edited>饭田酱在舞台上发出'咯吱咯吱'的声音，
+到底用的什么乐器呢—？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free29_01" offset="00" relocatable="true" max_length="0">
 			<original>近くで見たけど、お皿を洗ってるみたいだったな～</original>
-			<edited>近くで見たけど、お皿を洗ってるみたいだったな～</edited>
+			<edited>我在旁边看过，感觉像是在洗碗呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free30_00" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリバトル終了直前にスプリンクラー投げて塗る
 あのワザ、なんて命名したっけ？</original>
-			<edited>ナワバリバトル終了直前にスプリンクラー投げて塗る
-あのワザ、なんて命名したっけ？</edited>
+			<edited>占地对战快结束前扔洒墨器涂地的
+那招，取名叫什么来着？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free30_01" offset="00" relocatable="true" max_length="0">
 			<original>ルナティックローズ・ネバーダーイ！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 最後「ダーイ」って のばすのがポイントね</original>
-			<edited>ルナティックローズ・ネバーダーイ！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-最後「ダーイ」って のばすのがポイントね</edited>
+			<edited>狂月玫瑰·永不放弃！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+最后拉长'放弃'的'弃'音是重点哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free31_00" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリでバブルランチャーに守られながら
 アサリ運ぶのって、なんて命名したっけ？</original>
-			<edited>ガチアサリでバブルランチャーに守られながら
-アサリ運ぶのって、なんて命名したっけ？</edited>
+			<edited>真格蛤蜊里，被泡泡发射器保护着
+运蛤蜊那招，取名叫什么来着？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free31_01" offset="00" relocatable="true" max_length="0">
 			<original>トリオ・ザ・センチネル０３ やね</original>
-			<edited>トリオ・ザ・センチネル０３ やね</edited>
+			<edited>是三人哨兵03呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free32_00" offset="00" relocatable="true" max_length="0">
 			<original>バイトでさー、イクラコンテナ近くでジェットパック発動して
 遠くの金イクラ回収するのって、なんて必殺技だっけ？</original>
-			<edited>バイトでさー、イクラコンテナ近くでジェットパック発動して
-遠くの金イクラ回収するのって、なんて必殺技だっけ？</edited>
+			<edited>打工的时候，在鲑鱼卵容器附近开喷射背包
+回收远处的金鲑鱼卵那招，叫什么必杀技来着？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free32_01" offset="00" relocatable="true" max_length="0">
 			<original>オービタル・イリュージョン な</original>
-			<edited>オービタル・イリュージョン な</edited>
+			<edited>轨道幻影 啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="UzaPrefix_00" offset="00" relocatable="true" max_length="0">
@@ -1283,117 +1277,117 @@ New!カラストンビ部隊に 入ったんだよね？</edited>
 		</entry>
 		<entry name="Uza00_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんのあの衣装…　けっこうアリだったな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんのあの衣装…　けっこうアリだったな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（小拟那身衣服…　还挺可以的嘛…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza01_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あれ？ 家のカギ、かけたっけ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あれ？ 家のカギ、かけたっけ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（咦？ 家里的门锁，锁了吗…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza02_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（次はどんなツッコミ 試そかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（次はどんなツッコミ 試そかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（下次试试什么样的吐槽呢…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza03_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（話題が無い… アオリちゃん、なんかしゃべれ）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（話題が無い… アオリちゃん、なんかしゃべれ）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（没话题了… 小拟，说点什么啊）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza04_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（そろそろラジオのハガキ選ばないと…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（そろそろラジオのハガキ選ばないと…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（差不多该挑广播的明信片了…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza05_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ホタルちゃん、カフェオレ飲みたそーな顔してる！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ホタルちゃん、カフェオレ飲みたそーな顔してる！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（小萤，露出一副想喝咖啡欧蕾的表情！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza06_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うーん、新しいサングラス 欲しーなー…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うーん、新しいサングラス 欲しーなー…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（嗯—，想要一副新墨镜呢—…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza07_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（タコさんって 意外とカワイイ気がしてきた…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（タコさんって 意外とカワイイ気がしてきた…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（觉得章鱼们意外地还挺可爱的…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza08_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（帰ったら台本の確認 しなきゃ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（帰ったら台本の確認 しなきゃ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（回去得确认一下台本…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza09_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号ってポテト好きかな、メガ盛りいける系かな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号ってポテト好きかな、メガ盛りいける系かな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号喜欢薯条吗，是能干掉巨份的类型吗…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza10_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あ、空きれい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あ、空きれい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（啊，天空好美…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza11_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（のんびりしてたら ねむくなってきた…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（のんびりしてたら ねむくなってきた…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（一放松下来就开始犯困了…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza12_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ホタルちゃんから 話題がない！ ってオーラ出てる…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ホタルちゃんから 話題がない！ ってオーラ出てる…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（小萤身上散发着'没话题了！'的气场…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza13_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（たまには実家に顔 出そうかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（たまには実家に顔 出そうかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（偶尔也回老家露个脸吧…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza14_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（戦場の鉄則て、今いくつあるんやろ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（戦場の鉄則て、今いくつあるんやろ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（战场铁律，现在一共有几条呢…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza15_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（風を感じる… エアリ～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（風を感じる… エアリ～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（感受风… 好清爽～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza18_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ホタルちゃん、キゲンよさそーだ！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ホタルちゃん、キゲンよさそーだ！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（小萤，心情好像很好！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza19_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号はちゃんと朝ごはん 食べてるのかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号はちゃんと朝ごはん 食べてるのかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号有没有好好吃早饭呢…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza20_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ん？ 今、何待ち？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ん？ 今、何待ち？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（嗯？ 现在在等什么？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza21_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、アタシ達に これ以上何を期待しとるんやろ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、アタシ達に これ以上何を期待しとるんやろ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号，还期待着我们什么呢…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza22_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（はい、アオリちゃんボケて！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（はい、アオリちゃんボケて！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（来，小拟，快吐槽！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza23_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号… ぐいぐい来るな～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号… ぐいぐい来るな～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号… 攻势真猛啊～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza24_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ちょいちょい顔出してくれて、４号はいい隊員だー…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ちょいちょい顔出してくれて、４号はいい隊員だー…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号时不时来露个脸，真是个好队员—…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -40,12 +40,12 @@
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">
 			<original>オッス、ナンか注文しちゃうのか？</original>
-			<edited>オッス、ナンか注文しちゃうのか？</edited>
+			<edited>哟，要订点什么吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="101" offset="00" relocatable="true" max_length="0">
 			<original>コレ、注文しちゃうのか？</original>
-			<edited>コレ、注文しちゃうのか？</edited>
+			<edited>这个，要订吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="102" offset="00" relocatable="true" max_length="0">
@@ -70,13 +70,13 @@
 		<entry name="105" offset="00" relocatable="true" max_length="0">
 			<original>受け取り可能なギアってさ、取り消しはできないって
 決まりなんだ、ごめんナ</original>
-			<edited>受け取り可能なギアってさ、取り消しはできないって
-決まりなんだ、ごめんナ</edited>
+			<edited>已经可以领取的装备啊，是不能取消的，
+这是规矩，抱歉啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="106" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、それ注文済みだからナ！</original>
-			<edited>ちょ、それ注文済みだからナ！</edited>
+			<edited>喂，那个已经订过了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="107" offset="00" relocatable="true" max_length="0">
@@ -86,7 +86,7 @@
 		</entry>
 		<entry name="108" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、オマエなんも注文してないからナ！</original>
-			<edited>ちょ、オマエなんも注文してないからナ！</edited>
+			<edited>喂，你什么都没订呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="109" offset="00" relocatable="true" max_length="0">

@@ -10,17 +10,17 @@
 		</entry>
 		<entry name="Template2" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
-			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;&#x9;&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Template3" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
-			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;&#x9;&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;&#x9;&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Template4" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x2;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
-			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x2;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;&#x9;&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;&#x9;&#x0;&#xE;&#x3;&#x8;&#x4;&#x2;&#x0;&#x0;&#x0;&#xE;&#x3;&#x9;&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Group_00" offset="00" relocatable="true" max_length="0">
@@ -200,7 +200,7 @@
 		</entry>
 		<entry name="WmnBrush" offset="00" relocatable="true" max_length="0">
 			<original>ブラシ</original>
-			<edited>ブラシ</edited>
+			<edited>毛刷</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnSpinner" offset="00" relocatable="true" max_length="0">
@@ -280,12 +280,12 @@
 		</entry>
 		<entry name="GearGenre_Head_Party" offset="00" relocatable="true" max_length="0">
 			<original>パーティーヘッド</original>
-			<edited>パーティーヘッド</edited>
+			<edited>派对头饰</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGenre_Head_Spring" offset="00" relocatable="true" max_length="0">
 			<original>ハルバイザー</original>
-			<edited>ハルバイザー</edited>
+			<edited>春之遮阳帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGenre_Head_Chaos" offset="00" relocatable="true" max_length="0">
@@ -300,7 +300,7 @@
 		</entry>
 		<entry name="GearGenre_Head_Final" offset="00" relocatable="true" max_length="0">
 			<original>終宴</original>
-			<edited>終宴</edited>
+			<edited>终宴</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGenre_Shoes_Hicut" offset="00" relocatable="true" max_length="0">
@@ -375,17 +375,17 @@
 		</entry>
 		<entry name="GearGenre_Shoes_Spring" offset="00" relocatable="true" max_length="0">
 			<original>ハルクツ</original>
-			<edited>ハルクツ</edited>
+			<edited>春之鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB008" offset="00" relocatable="true" max_length="0">
 			<original>エンチャントな夜会</original>
-			<edited>エンチャントな夜会</edited>
+			<edited>魔力夜会</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB009" offset="00" relocatable="true" max_length="0">
 			<original>タコティカル騎士団</original>
-			<edited>タコティカル騎士団</edited>
+			<edited>章鱼战术骑士团</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB010" offset="00" relocatable="true" max_length="0">

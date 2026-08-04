@@ -5,82 +5,82 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールの動きを見極めましょウ</original>
-			<edited>エイトボールの動きを見極めましょウ</edited>
+			<edited>看清8号球的动向吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>スポンジは エイトボールの速度を吸収しまス</original>
-			<edited>スポンジは エイトボールの速度を吸収しまス</edited>
+			<edited>海绵会吸收8号球的速度</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントには、エイトボールとアナタが近づきましょウ</original>
-			<edited>チェックポイントには、エイトボールとアナタが近づきましょウ</edited>
+			<edited>到关卡点时，让8号球和您一起靠近吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0000" offset="00" relocatable="true" max_length="0">
 			<original>はねておる！ はねておるぞィ！！</original>
-			<edited>はねておる！ はねておるぞィ！！</edited>
+			<edited>在跳！在跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0002" offset="00" relocatable="true" max_length="0">
 			<original>ナイスですね～</original>
-			<edited>ナイスですね～</edited>
+			<edited>真不错呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0003" offset="00" relocatable="true" max_length="0">
 			<original>ここはタイミングじゃ！ 心眼を発動せィ！</original>
-			<edited>ここはタイミングじゃ！ 心眼を発動せィ！</edited>
+			<edited>这里靠时机！发动心眼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0004" offset="00" relocatable="true" max_length="0">
 			<original>ジジィ、さっきから うるさいゾ…</original>
-			<edited>ジジィ、さっきから うるさいゾ…</edited>
+			<edited>老头子，从刚才就吵死了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0005" offset="00" relocatable="true" max_length="0">
 			<original>ここは落ち着いて運びましょう</original>
-			<edited>ここは落ち着いて運びましょう</edited>
+			<edited>这里冷静地运送吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0006" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ 次ー！</original>
-			<edited>シャー！ 次ー！</edited>
+			<edited>哇！下一个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0007" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント発見！ 行けィ、８号！</original>
-			<edited>ジャンプポイント発見！ 行けィ、８号！</edited>
+			<edited>发现跳跃点！上吧，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0008" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ 門が開いたゾ！</original>
-			<edited>シャー！ 門が開いたゾ！</edited>
+			<edited>哇！门开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0009" offset="00" relocatable="true" max_length="0">
 			<original>敵です！ 先に倒しましょう！</original>
-			<edited>敵です！ 先に倒しましょう！</edited>
+			<edited>是敌人！先打倒吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0010" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールにかくれながら、進みましょう！</original>
-			<edited>エイトボールにかくれながら、進みましょう！</edited>
+			<edited>躲在8号球后面前进吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0011" offset="00" relocatable="true" max_length="0">
 			<original>タマコロちゃん押してダメならもっと押せ！ 戦場の鉄則！</original>
-			<edited>タマコロちゃん押してダメならもっと押せ！ 戦場の鉄則！</edited>
+			<edited>推小球球推不动就再推！战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0012" offset="00" relocatable="true" max_length="0">
 			<original>戦場にタマ、ねーだろ…</original>
-			<edited>戦場にタマ、ねーだろ…</edited>
+			<edited>战场上可没球…</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallJumpmat_0013" offset="00" relocatable="true" max_length="0">
 			<original>ボールランチャー、発見です！</original>
-			<edited>ボールランチャー、発見です！</edited>
+			<edited>发现球发射器！</edited>
 			<subEntries />
 		</entry>
 	</entries>

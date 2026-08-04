@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>友だちをさそって ボイスチャット</original>
-			<edited>友だちをさそって ボイスチャット</edited>
+			<edited>邀请朋友语音聊天</edited>
 			<subEntries />
 		</entry>
 		<entry name="050" offset="00" relocatable="true" max_length="0">
@@ -100,16 +100,16 @@
 			<original>スマートフォンアプリで
 友だちを おさそい！
 ボイスチャットで 盛り上がろう</original>
-			<edited>スマートフォンアプリで
-友だちを おさそい！
-ボイスチャットで 盛り上がろう</edited>
+			<edited>用手机应用
+邀请朋友！
+用语音聊天热闹起来吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="105" offset="00" relocatable="true" max_length="0">
 			<original>フェス投票することで
 参加できます</original>
-			<edited>フェス投票することで
-参加できます</edited>
+			<edited>在祭典投票后
+即可参加</edited>
 			<subEntries />
 		</entry>
 		<entry name="120" offset="00" relocatable="true" max_length="0">
@@ -208,7 +208,7 @@
 		</entry>
 		<entry name="L_LeagueBtn_01-T_Num_00" offset="00" relocatable="true" max_length="0">
 			<original>ペア</original>
-			<edited>ペア</edited>
+			<edited>搭档</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LeagueBtn_01-T_PointNum_00" offset="00" relocatable="true" max_length="0">
@@ -218,7 +218,7 @@
 		</entry>
 		<entry name="L_LeagueBtn_01-T_Exp_00" offset="00" relocatable="true" max_length="0">
 			<original>ペアを組んで リーグチャレンジ！</original>
-			<edited>ペアを組んで リーグチャレンジ！</edited>
+			<edited>组队搭档，联赛挑战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LeagueBtn_00-T_Num_00" offset="00" relocatable="true" max_length="0">
@@ -228,7 +228,7 @@
 		</entry>
 		<entry name="L_LeagueBtn_00-T_Point_00" offset="00" relocatable="true" max_length="0">
 			<original>最高リーグパワー</original>
-			<edited>最高リーグパワー</edited>
+			<edited>最高联赛战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LeagueBtn_00-T_PointNum_00" offset="00" relocatable="true" max_length="0">
@@ -238,12 +238,12 @@
 		</entry>
 		<entry name="L_LeagueBtn_00-T_Exp_00" offset="00" relocatable="true" max_length="0">
 			<original>４人チームで リーグチャレンジ！</original>
-			<edited>４人チームで リーグチャレンジ！</edited>
+			<edited>4人组队，联赛挑战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Record_00" offset="00" relocatable="true" max_length="0">
 			<original>未確認のきろくがあります</original>
-			<edited>未確認のきろくがあります</edited>
+			<edited>有未确认的记录</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LeagueBtn_01-T_WaitNum_00" offset="00" relocatable="true" max_length="0">
@@ -258,7 +258,7 @@
 		</entry>
 		<entry name="L_LeagueBtn_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>リーグパワー計測中…</original>
-			<edited>リーグパワー計測中…</edited>
+			<edited>联赛战力测量中…</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesNum_00" offset="00" relocatable="true" max_length="0">
@@ -300,7 +300,7 @@
 			<original>Online
 ラウンジ</original>
 			<edited>Online
-ラウンジ</edited>
+大厅</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_00" offset="00" relocatable="true" max_length="0">
@@ -315,12 +315,12 @@
 		</entry>
 		<entry name="T_ScheduleTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>今回のＸランキング集計期間</original>
-			<edited>今回のＸランキング集計期間</edited>
+			<edited>本次X排行榜统计期间</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Schedule_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>Ｘランキングについて</original>
-			<edited>Ｘランキングについて</edited>
+			<edited>关于X排行榜</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Schedule_00-T_Info_01" offset="00" relocatable="true" max_length="0">
@@ -340,7 +340,7 @@
 		</entry>
 		<entry name="L_FesRegular_00-T_Exp_00" offset="00" relocatable="true" max_length="0">
 			<original>同じチームのだれかと参加</original>
-			<edited>同じチームのだれかと参加</edited>
+			<edited>和同队的某个人一起参加</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_FesRegular_01-T_Num_00" offset="00" relocatable="true" max_length="0">
@@ -350,7 +350,7 @@
 		</entry>
 		<entry name="L_FesRegular_01-T_Exp_00" offset="00" relocatable="true" max_length="0">
 			<original>同じチームのフレンドと参加</original>
-			<edited>同じチームのフレンドと参加</edited>
+			<edited>和同队的好友一起参加</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -65,12 +65,12 @@
 			<original>Online
 ラウンジ</original>
 			<edited>Online
-ラウンジ</edited>
+大厅</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ModeButton_02-T_Exp_00" offset="00" relocatable="true" max_length="0">
 			<original>友だちをさそって ボイスチャット</original>
-			<edited>友だちをさそって ボイスチャット</edited>
+			<edited>邀请朋友语音聊天</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Manual_00-T_Info_00" offset="00" relocatable="true" max_length="0">

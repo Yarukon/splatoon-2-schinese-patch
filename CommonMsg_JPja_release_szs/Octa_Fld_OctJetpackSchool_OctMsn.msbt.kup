@@ -5,107 +5,107 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックのテクニックを 使いこなしましょウ</original>
-			<edited>ジェットパックのテクニックを 使いこなしましょウ</edited>
+			<edited>好好掌握喷气背包的技巧吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパック中、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</original>
-			<edited>ジェットパック中、&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</edited>
+			<edited>喷气背包期间，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;稍微上浮</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックでも インクレールに&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできまス</original>
-			<edited>ジェットパックでも インクレールに&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできまス</edited>
+			<edited>用喷气背包时，也能在墨汁轨道上&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜行</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0004" offset="00" relocatable="true" max_length="0">
 			<original>インクレールから撃つ時は そのまま&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でス</original>
-			<edited>インクレールから撃つ時は そのまま&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でス</edited>
+			<edited>在墨汁轨道上射击时，直接&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;即可</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0005" offset="00" relocatable="true" max_length="0">
 			<original>撃った後 すぐセンプクしないと　落ちまス</original>
-			<edited>撃った後 すぐセンプクしないと　落ちまス</edited>
+			<edited>射击后不马上潜行会掉下去</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 少しうき上がります！</original>
-			<edited>&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 少しうき上がります！</edited>
+			<edited>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;稍微上浮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0002" offset="00" relocatable="true" max_length="0">
 			<original>お、インクレール？</original>
-			<edited>お、インクレール？</edited>
+			<edited>哦，墨汁轨道？</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0003" offset="00" relocatable="true" max_length="0">
 			<original>次、うき上がってけ！</original>
-			<edited>次、うき上がってけ！</edited>
+			<edited>下一个，上浮上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0004" offset="00" relocatable="true" max_length="0">
 			<original>お？ また何か動いてんな…</original>
-			<edited>お？ また何か動いてんな…</edited>
+			<edited>哦？又有东西在动…</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0005" offset="00" relocatable="true" max_length="0">
 			<original>インクレール！ 上手く使ってけ！</original>
-			<edited>インクレール！ 上手く使ってけ！</edited>
+			<edited>墨汁轨道！好好利用！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0006" offset="00" relocatable="true" max_length="0">
 			<original>インクレールから攻撃だ！ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でドッパーン！</original>
-			<edited>インクレールから攻撃だ！ &#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でドッパーン！</edited>
+			<edited>从墨汁轨道上攻击！ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;砰地一声！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0007" offset="00" relocatable="true" max_length="0">
 			<original>あー… インクレールにセンプクしないと…</original>
-			<edited>あー… インクレールにセンプクしないと…</edited>
+			<edited>啊… 不在墨汁轨道上潜行的话…</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0008" offset="00" relocatable="true" max_length="0">
 			<original>あ… &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうき上がらないと…</original>
-			<edited>あ… &#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうき上がらないと…</edited>
+			<edited>啊… &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;不上浮的话…</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0009" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ 身も心もウキウキじゃ！</original>
-			<edited>フォー！ 身も心もウキウキじゃ！</edited>
+			<edited>哦哦！身心都轻飘飘的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0010" offset="00" relocatable="true" max_length="0">
 			<original>撃ったら すぐに&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクです！</original>
-			<edited>撃ったら すぐに&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクです！</edited>
+			<edited>射击后马上&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0011" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で センプクですね </original>
-			<edited>&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で センプクですね </edited>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜行哦 </edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0012" offset="00" relocatable="true" max_length="0">
 			<original>お？ なんか出てきたゾ</original>
-			<edited>お？ なんか出てきたゾ</edited>
+			<edited>哦？有什么出来了</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0013" offset="00" relocatable="true" max_length="0">
 			<original>…で、どうする？</original>
-			<edited>…で、どうする？</edited>
+			<edited>…那么，怎么办？</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0014" offset="00" relocatable="true" max_length="0">
 			<original>とりあえず箱 全部壊しますか…</original>
-			<edited>とりあえず箱 全部壊しますか…</edited>
+			<edited>先把箱子全打坏吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0015" offset="00" relocatable="true" max_length="0">
 			<original>インクレールにセンプク そして撃つ！です</original>
-			<edited>インクレールにセンプク そして撃つ！です</edited>
+			<edited>在墨汁轨道上潜行，然后射击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="JetpackSchool_0016" offset="00" relocatable="true" max_length="0">
 			<original>いよいよゴールじゃ！ センプクで確実に進めィ！</original>
-			<edited>いよいよゴールじゃ！ センプクで確実に進めィ！</edited>
+			<edited>终于到最后了！用潜行稳妥前进！</edited>
 			<subEntries />
 		</entry>
 	</entries>

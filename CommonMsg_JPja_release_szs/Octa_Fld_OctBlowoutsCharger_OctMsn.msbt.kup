@@ -5,77 +5,77 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージなら、複数のピロピロを 撃ちぬけまス</original>
-			<edited>フルチャージなら、複数のピロピロを 撃ちぬけまス</edited>
+			<edited>满蓄力能射穿多个吹吹卷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロの先がピロピロしたら 巻きもどってくる合図でス</original>
-			<edited>ピロピロの先がピロピロしたら 巻きもどってくる合図でス</edited>
+			<edited>吹吹卷前端抖起来就是收回的信号</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>その時は、ピロピロ部分には 近づかないほうがよいでス</original>
-			<edited>その時は、ピロピロ部分には 近づかないほうがよいでス</edited>
+			<edited>那时最好别靠近吹吹卷部分</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0000" offset="00" relocatable="true" max_length="0">
 			<original>無茶すんなー…</original>
-			<edited>無茶すんなー…</edited>
+			<edited>别乱来啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0001" offset="00" relocatable="true" max_length="0">
 			<original>下にゴールですが、インクが届きそうにないですね</original>
-			<edited>下にゴールですが、インクが届きそうにないですね</edited>
+			<edited>下面是终点，但墨汁好像够不到</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0002" offset="00" relocatable="true" max_length="0">
 			<original>ふむ、やりおる！</original>
-			<edited>ふむ、やりおる！</edited>
+			<edited>嗯，有两下子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0003" offset="00" relocatable="true" max_length="0">
 			<original>ここは、ボムを時間差で うまく使えれば…</original>
-			<edited>ここは、ボムを時間差で うまく使えれば…</edited>
+			<edited>这里，要是能巧妙利用炸弹的时间差…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0004" offset="00" relocatable="true" max_length="0">
 			<original>ナイス！ テクいゾ、ハチ！</original>
-			<edited>ナイス！ テクいゾ、ハチ！</edited>
+			<edited>漂亮！真有两下子，小八！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0005" offset="00" relocatable="true" max_length="0">
 			<original>ズバッといくんじゃ！ ズバーーッと！</original>
-			<edited>ズバッといくんじゃ！ ズバーーッと！</edited>
+			<edited>嗖地一下！嗖——地！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0006" offset="00" relocatable="true" max_length="0">
 			<original>ヤバそーなヤツが ねらってくるゾ！</original>
-			<edited>ヤバそーなヤツが ねらってくるゾ！</edited>
+			<edited>有危险的家伙瞄准过来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0007" offset="00" relocatable="true" max_length="0">
 			<original>ボム風船とピロピロが いっぱいですね…</original>
-			<edited>ボム風船とピロピロが いっぱいですね…</edited>
+			<edited>炸弹气球和吹吹卷真多呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0008" offset="00" relocatable="true" max_length="0">
 			<original>イチかバチかじゃ！</original>
-			<edited>イチかバチかじゃ！</edited>
+			<edited>赌一把！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0009" offset="00" relocatable="true" max_length="0">
 			<original>セーフ！ ヒヤッとしましたね！</original>
-			<edited>セーフ！ ヒヤッとしましたね！</edited>
+			<edited>好险！捏了把汗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0010" offset="00" relocatable="true" max_length="0">
 			<original>って何もないじゃん！</original>
-			<edited>って何もないじゃん！</edited>
+			<edited>结果什么都没有嘛！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0011" offset="00" relocatable="true" max_length="0">
 			<original>バシュッとな！</original>
-			<edited>バシュッとな！</edited>
+			<edited>嗖地一下！</edited>
 			<subEntries />
 		</entry>
 	</entries>

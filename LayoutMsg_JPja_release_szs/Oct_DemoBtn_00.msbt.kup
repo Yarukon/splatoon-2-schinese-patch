@@ -5,27 +5,27 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>マダ 行カナイ</original>
-			<edited>マダ 行カナイ</edited>
+			<edited>还 不去</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>行ク！</original>
-			<edited>行ク！</edited>
+			<edited>去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ヤッパ ヤメタ</original>
-			<edited>ヤッパ ヤメタ</edited>
+			<edited>果然 不去了</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ホントニ 行ク！</original>
-			<edited>ホントニ 行ク！</edited>
+			<edited>真的 要去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>ソンナニ言ウナラ ヤメル</original>
-			<edited>ソンナニ言ウナラ ヤメル</edited>
+			<edited>既然你这么说 那就算了</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
@@ -35,32 +35,32 @@
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>チガウ…</original>
-			<edited>チガウ…</edited>
+			<edited>不对…</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>イイカンジ！</original>
-			<edited>イイカンジ！</edited>
+			<edited>感觉不错！</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>ヤッパ前ノガイイ…</original>
-			<edited>ヤッパ前ノガイイ…</edited>
+			<edited>果然还是之前的好…</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>コレダ！</original>
-			<edited>コレダ！</edited>
+			<edited>就是这个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>チョットマッテ！</original>
-			<edited>チョットマッテ！</edited>
+			<edited>等一下！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>マチガイナイ！</original>
-			<edited>マチガイナイ！</edited>
+			<edited>没错！</edited>
 			<subEntries />
 		</entry>
 	</entries>

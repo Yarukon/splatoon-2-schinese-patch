@@ -5,67 +5,67 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>時間内に イカスフィアでゴールしてくださイ</original>
-			<edited>時間内に イカスフィアでゴールしてくださイ</edited>
+			<edited>请在时间内用鱿鱼球抵达终点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>改札を通ると同時に カウントダウン開始でス</original>
-			<edited>改札を通ると同時に カウントダウン開始でス</edited>
+			<edited>通过检票口的同时开始倒计时</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントごとに 時間が延長されまス</original>
-			<edited>チェックポイントごとに 時間が延長されまス</edited>
+			<edited>每个关卡点会延长时间</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィアは カベをまっすぐにしか登れませン</original>
-			<edited>イカスフィアは カベをまっすぐにしか登れませン</edited>
+			<edited>鱿鱼球只能垂直爬墙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ イカスフィアでも &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプだ！</original>
-			<edited>ハチ！ イカスフィアでも &#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプだ！</edited>
+			<edited>小八！用鱿鱼球也&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳跃！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0002" offset="00" relocatable="true" max_length="0">
 			<original>ダッシュ板に乗りましょう！</original>
-			<edited>ダッシュ板に乗りましょう！</edited>
+			<edited>站上冲刺板吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0006" offset="00" relocatable="true" max_length="0">
 			<original>無敵のイカスフィアなら、ヌリヌリ棒の上に乗れそうです</original>
-			<edited>無敵のイカスフィアなら、ヌリヌリ棒の上に乗れそうです</edited>
+			<edited>无敌的鱿鱼球，好像能站上涂涂棒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0007" offset="00" relocatable="true" max_length="0">
 			<original>またしてもヌリヌリ棒じゃ！ ひるむな、トツゲキーッ！</original>
-			<edited>またしてもヌリヌリ棒じゃ！ ひるむな、トツゲキーッ！</edited>
+			<edited>又是涂涂棒！别怕，冲锋！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0008" offset="00" relocatable="true" max_length="0">
 			<original>ナイスですね～♪</original>
-			<edited>ナイスですね～♪</edited>
+			<edited>真不错呢～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0009" offset="00" relocatable="true" max_length="0">
 			<original>この上がゴールじゃ！ 行けィ、８号！</original>
-			<edited>この上がゴールじゃ！ 行けィ、８号！</edited>
+			<edited>上面就是终点！上吧，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0010" offset="00" relocatable="true" max_length="0">
 			<original>あ！ なんか いんゾ！</original>
-			<edited>あ！ なんか いんゾ！</edited>
+			<edited>啊！有什么东西！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0011" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアンめ、ジャマばっかしおって…</original>
-			<edited>オクタリアンめ、ジャマばっかしおって…</edited>
+			<edited>章鱼族这帮家伙，净捣乱…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0012" offset="00" relocatable="true" max_length="0">
 			<original>生体反応の無いオクタリアン… なぜ…？</original>
-			<edited>生体反応の無いオクタリアン… なぜ…？</edited>
+			<edited>没有生命反应的章鱼族… 为什么…？</edited>
 			<subEntries />
 		</entry>
 	</entries>

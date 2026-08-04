@@ -5,132 +5,132 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>強力な敵を倒すチャレンジとなりまス</original>
-			<edited>強力な敵を倒すチャレンジとなりまス</edited>
+			<edited>这是打倒强力敌人的挑战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ブキの射程をイカしましょウ</original>
-			<edited>ブキの射程をイカしましょウ</edited>
+			<edited>好好发挥武器的射程吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>危なくなったら、場外で 息を整えましょウ</original>
-			<edited>危なくなったら、場外で 息を整えましょウ</edited>
+			<edited>危险的话，就到场外喘口气</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0000" offset="00" relocatable="true" max_length="0">
 			<original>あれは！タコツボックス！</original>
-			<edited>あれは！タコツボックス！</edited>
+			<edited>那是！蛸壶箱！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0001" offset="00" relocatable="true" max_length="0">
 			<original>昔、３号が破壊したはずじゃが…</original>
-			<edited>昔、３号が破壊したはずじゃが…</edited>
+			<edited>以前应该被3号破坏过才对…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0002" offset="00" relocatable="true" max_length="0">
 			<original>昔の話なんか知んねーし！ ハチ、ぶっ倒すゾ！</original>
-			<edited>昔の話なんか知んねーし！ ハチ、ぶっ倒すゾ！</edited>
+			<edited>以前的事我才不知道！小八，干掉它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0003" offset="00" relocatable="true" max_length="0">
 			<original>あっ、タッチパネルが増えたゾ！</original>
-			<edited>あっ、タッチパネルが増えたゾ！</edited>
+			<edited>啊，触控面板变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0004" offset="00" relocatable="true" max_length="0">
 			<original>ゲーーッ！！ なんじゃありゃー！</original>
-			<edited>ゲーーッ！！ なんじゃありゃー！</edited>
+			<edited>哇啊！！那是什么！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0005" offset="00" relocatable="true" max_length="0">
 			<original>あれは、保冷効果バツグンの塗れないヨロイじゃ！！</original>
-			<edited>あれは、保冷効果バツグンの塗れないヨロイじゃ！！</edited>
+			<edited>那是保冷效果超群、涂不上的铠甲！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0006" offset="00" relocatable="true" max_length="0">
 			<original>……ですね</original>
-			<edited>……ですね</edited>
+			<edited>……是啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0007" offset="00" relocatable="true" max_length="0">
 			<original>スタンプ攻撃は、横によけれそうだな！</original>
-			<edited>スタンプ攻撃は、横によけれそうだな！</edited>
+			<edited>印章攻击，好像能往旁边躲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0008" offset="00" relocatable="true" max_length="0">
 			<original>横によけるのはマズい！ 退くんじゃ！</original>
-			<edited>横によけるのはマズい！ 退くんじゃ！</edited>
+			<edited>往旁边躲不行！快后退！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0009" offset="00" relocatable="true" max_length="0">
 			<original>アイツの体、塗ったら登れそーだな！</original>
-			<edited>アイツの体、塗ったら登れそーだな！</edited>
+			<edited>那家伙的身体，涂上墨好像能爬上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0010" offset="00" relocatable="true" max_length="0">
 			<original>スタンプの後がチャンス！ 塗って登りましょ～</original>
-			<edited>スタンプの後がチャンス！ 塗って登りましょ～</edited>
+			<edited>印章之后是机会！涂墨爬上去吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0011" offset="00" relocatable="true" max_length="0">
 			<original>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</original>
-			<edited>移動ショット中に&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</edited>
+			<edited>移动射击中，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;滑步！嗖地躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0012" offset="00" relocatable="true" max_length="0">
 			<original>言っちゃいます！ 鼻のタッチパネルが弱点です！</original>
-			<edited>言っちゃいます！ 鼻のタッチパネルが弱点です！</edited>
+			<edited>直说了！鼻子上的触控面板是弱点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0013" offset="00" relocatable="true" max_length="0">
 			<original>弱点を 全部壊すんじゃ！</original>
-			<edited>弱点を 全部壊すんじゃ！</edited>
+			<edited>把弱点全部打坏！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0014" offset="00" relocatable="true" max_length="0">
 			<original>弱点を 全部壊すんじゃ！</original>
-			<edited>弱点を 全部壊すんじゃ！</edited>
+			<edited>把弱点全部打坏！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0015" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボムで にげるのもテだな！</original>
-			<edited>カーリングボムで にげるのもテだな！</edited>
+			<edited>用冰壶炸弹逃跑也是个办法！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0016" offset="00" relocatable="true" max_length="0">
 			<original>フォーーッ！ あんなトコから 飛んで来るとはのゥ！</original>
-			<edited>フォーーッ！ あんなトコから 飛んで来るとはのゥ！</edited>
+			<edited>哦哦！居然从那种地方飞过来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0017" offset="00" relocatable="true" max_length="0">
 			<original>疑似バブルランチャーです！ よけるか壊すか…</original>
-			<edited>疑似バブルランチャーです！ よけるか壊すか…</edited>
+			<edited>是仿制泡泡发射器！要么躲，要么打掉…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0018" offset="00" relocatable="true" max_length="0">
 			<original>連続攻撃は、スライドで まとめてよけろ！</original>
-			<edited>連続攻撃は、スライドで まとめてよけろ！</edited>
+			<edited>连续攻击，用滑步一口气躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0019" offset="00" relocatable="true" max_length="0">
 			<original>連続攻撃は、まとめてよけろ！</original>
-			<edited>連続攻撃は、まとめてよけろ！</edited>
+			<edited>连续攻击，一口气躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0020" offset="00" relocatable="true" max_length="0">
 			<original>シャオラー！ ハチ、いいゾ！</original>
-			<edited>シャオラー！ ハチ、いいゾ！</edited>
+			<edited>哇哦！小八，干得好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0021" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ ヨロイが外れたゾ！</original>
-			<edited>シャー！ ヨロイが外れたゾ！</edited>
+			<edited>哇！铠甲脱落了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0022" offset="00" relocatable="true" max_length="0">
 			<original>８号さん、ナイスです！</original>
-			<edited>８号さん、ナイスです！</edited>
+			<edited>8号，漂亮！</edited>
 			<subEntries />
 		</entry>
 	</entries>

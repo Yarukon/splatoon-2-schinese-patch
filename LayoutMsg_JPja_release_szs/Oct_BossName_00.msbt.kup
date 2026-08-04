@@ -5,42 +5,42 @@
 	<entries>
 		<entry name="Enm_BakeryKingOcta_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボベーカリー・８０％増量</original>
-			<edited>タコツボベーカリー・８０％増量</edited>
+			<edited>蛸壶面包房·加量80%</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_BakeryKingOcta_Sub" offset="00" relocatable="true" max_length="0">
 			<original>おいしさマシマシ</original>
-			<edited>おいしさマシマシ</edited>
+			<edited>美味加倍</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_RollerKingOcta_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボザムライ・おかわり</original>
-			<edited>タコツボザムライ・おかわり</edited>
+			<edited>蛸壶武士·再来一份</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_RollerKingOcta_Sub" offset="00" relocatable="true" max_length="0">
 			<original>夏巡業 深海メトロ場所</original>
-			<edited>夏巡業 深海メトロ場所</edited>
+			<edited>夏季巡演 深海地铁场</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_StampKingDecoOcta_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボックス・再配達</original>
-			<edited>タコツボックス・再配達</edited>
+			<edited>蛸壶箱·再配送</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_StampKingDecoOcta_Sub" offset="00" relocatable="true" max_length="0">
 			<original>また帰ってきた</original>
-			<edited>また帰ってきた</edited>
+			<edited>又回来了</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_HangedKingOcta_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボビバノン・除菌プラス</original>
-			<edited>タコツボビバノン・除菌プラス</edited>
+			<edited>蛸壶维巴农·除菌加强</edited>
 			<subEntries />
 		</entry>
 		<entry name="Enm_HangedKingOcta_Sub" offset="00" relocatable="true" max_length="0">
 			<original>驚きの洗浄力</original>
-			<edited>驚きの洗浄力</edited>
+			<edited>惊人的清洁力</edited>
 			<subEntries />
 		</entry>
 	</entries>

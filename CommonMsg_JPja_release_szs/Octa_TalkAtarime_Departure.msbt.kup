@@ -6,33 +6,33 @@
 		<entry name="Free_0000" offset="00" relocatable="true" max_length="0">
 			<original>無人駅のようじゃし、
 とりあえず &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札 &#xE;&#x0;&#x3;&#x2;ÿÿの向こうを見に行ってくれィ！</original>
-			<edited>無人駅のようじゃし、
-とりあえず &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札 &#xE;&#x0;&#x3;&#x2;ÿÿの向こうを見に行ってくれィ！</edited>
+			<edited>这站好像没人，
+先去看看 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;检票口 &#xE;&#x0;&#x3;&#x2;ÿÿ那边吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free_0001" offset="00" relocatable="true" max_length="0">
 			<original>それにしても、サビれた駅じゃ…</original>
-			<edited>それにしても、サビれた駅じゃ…</edited>
+			<edited>话说回来，这站真破旧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free_0002" offset="00" relocatable="true" max_length="0">
 			<original>３号とワシは タコツボバレーの見張り役だったんじゃ</original>
-			<edited>３号とワシは タコツボバレーの見張り役だったんじゃ</edited>
+			<edited>3号和老夫，曾是蛸壶山谷的看守</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free_0003" offset="00" relocatable="true" max_length="0">
 			<original>３号は どこへ消えたんじゃろう…</original>
-			<edited>３号は どこへ消えたんじゃろう…</edited>
+			<edited>3号到底去哪了呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free_0004" offset="00" relocatable="true" max_length="0">
 			<original>はて… つかれた…</original>
-			<edited>はて… つかれた…</edited>
+			<edited>唉… 好累…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free_0005" offset="00" relocatable="true" max_length="0">
 			<original>こしが 痛い…</original>
-			<edited>こしが 痛い…</edited>
+			<edited>腰好痛…</edited>
 			<subEntries />
 		</entry>
 	</entries>

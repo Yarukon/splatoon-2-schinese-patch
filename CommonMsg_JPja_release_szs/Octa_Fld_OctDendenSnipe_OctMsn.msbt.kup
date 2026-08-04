@@ -5,62 +5,62 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>時間内に全ての敵を倒してくださイ</original>
-			<edited>時間内に全ての敵を倒してくださイ</edited>
+			<edited>请在时间内打倒所有敌人</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチは インクに反応しまス</original>
-			<edited>でんでんスイッチは インクに反応しまス</edited>
+			<edited>转转开关对墨汁有反应</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチで 敵を近づけて遠ざけテ…</original>
-			<edited>でんでんスイッチで 敵を近づけて遠ざけテ…</edited>
+			<edited>用转转开关把敌人拉近又推远…</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0001" offset="00" relocatable="true" max_length="0">
 			<original>ひぃふぅみぃ… 敵さん、残り１０体じゃ！</original>
-			<edited>ひぃふぅみぃ… 敵さん、残り１０体じゃ！</edited>
+			<edited>一二三… 敌人还剩10个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0002" offset="00" relocatable="true" max_length="0">
 			<original>敵、残存数３体！</original>
-			<edited>敵、残存数３体！</edited>
+			<edited>敌人剩余3个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0003" offset="00" relocatable="true" max_length="0">
 			<original>敵、残り１体！ 気合じゃ、８号！</original>
-			<edited>敵、残り１体！ 気合じゃ、８号！</edited>
+			<edited>敌人还剩1个！拿出气势，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0004" offset="00" relocatable="true" max_length="0">
 			<original>ひゅー！ やるな、ハチ！</original>
-			<edited>ひゅー！ やるな、ハチ！</edited>
+			<edited>嚯——！有两下子，小八！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0005" offset="00" relocatable="true" max_length="0">
 			<original>もーちょいだ！ やっちまえ、ハチ！</original>
-			<edited>もーちょいだ！ やっちまえ、ハチ！</edited>
+			<edited>就差一点！干掉它，小八！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0006" offset="00" relocatable="true" max_length="0">
 			<original>ってことは あと半分！</original>
-			<edited>ってことは あと半分！</edited>
+			<edited>也就是说，还剩一半！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0007" offset="00" relocatable="true" max_length="0">
 			<original>ちょっと急いだほうがよさそうです！</original>
-			<edited>ちょっと急いだほうがよさそうです！</edited>
+			<edited>好像得加快点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0008" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチ回すと、全部回んだな！</original>
-			<edited>でんでんスイッチ回すと、全部回んだな！</edited>
+			<edited>转一个转转开关，全都会转啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="DendenSnipe_0009" offset="00" relocatable="true" max_length="0">
 			<original>マルチミサイル！ 相手が動いてると当たんねーかんな！</original>
-			<edited>マルチミサイル！ 相手が動いてると当たんねーかんな！</edited>
+			<edited>多重导弹！对手在动的话打不中！</edited>
 			<subEntries />
 		</entry>
 	</entries>

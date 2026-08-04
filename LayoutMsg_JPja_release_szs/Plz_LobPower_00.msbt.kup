@@ -123,17 +123,17 @@
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>ロブサンド</original>
-			<edited>ロブサンド</edited>
+			<edited>阿龙三明治</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>グランドロブサンド</original>
-			<edited>グランドロブサンド</edited>
+			<edited>大阿龙三明治</edited>
 			<subEntries />
 		</entry>
 		<entry name="110" offset="00" relocatable="true" max_length="0">
 			<original>ギャラクシーロブサンド</original>
-			<edited>ギャラクシーロブサンド</edited>
+			<edited>银河阿龙三明治</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -144,15 +144,15 @@
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>アゲホイップ
 ダブルワッフル</original>
-			<edited>アゲホイップ
-ダブルワッフル</edited>
+			<edited>炸奶油
+双层华夫饼</edited>
 			<subEntries />
 		</entry>
 		<entry name="113" offset="00" relocatable="true" max_length="0">
 			<original>アゲホイップ
 ダブルクロス</original>
-			<edited>アゲホイップ
-ダブルクロス</edited>
+			<edited>炸奶油
+双层十字饼</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
@@ -162,7 +162,7 @@
 		</entry>
 		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>バーストアーマーピーチココア</original>
-			<edited>バーストアーマーピーチココア</edited>
+			<edited>爆风护甲 蜜桃可可</edited>
 			<subEntries />
 		</entry>
 		<entry name="MainInk_Save" offset="00" relocatable="true" max_length="0">
@@ -222,7 +222,7 @@
 		</entry>
 		<entry name="MarkingTime_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>メインアップグァバ</original>
-			<edited>メインアップグァバ</edited>
+			<edited>主武器强化 番石榴</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_TimeTitle_00" offset="00" relocatable="true" max_length="0">

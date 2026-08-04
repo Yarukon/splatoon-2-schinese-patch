@@ -18,217 +18,217 @@
 		<entry name="EasyClimb00" offset="00" relocatable="true" max_length="0">
 			<original>タコリゾートへようこそ
 # 登ってアゲて夏の風</original>
-			<edited>タコリゾートへようこそ
-# 登ってアゲて夏の風</edited>
+			<edited>欢迎来到章鱼度假村
+# 爬上去，夏日的风</edited>
 			<subEntries />
 		</entry>
 		<entry name="EasyJump00" offset="00" relocatable="true" max_length="0">
 			<original>ゆうやけのタコプター
 # 飛び出せ青春 ダッシュ＆ジャンプ</original>
-			<edited>ゆうやけのタコプター
-# 飛び出せ青春 ダッシュ＆ジャンプ</edited>
+			<edited>夕阳下的章鱼螺旋桨兵
+# 冲出青春 冲刺＆跳跃</edited>
 			<subEntries />
 		</entry>
 		<entry name="Gabon00" offset="00" relocatable="true" max_length="0">
 			<original>おうっと登場！ タコリバーサー
 # ぬめぬめ光る コロガリウム</original>
-			<edited>おうっと登場！ タコリバーサー
-# ぬめぬめ光る コロガリウム</edited>
+			<edited>哎呀登场！章鱼投掷兵
+# 滑溜溜发光的滚滚棒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grind00" offset="00" relocatable="true" max_length="0">
 			<original>おいでませ タコパーク
 # フライハイ！ イカフライ！</original>
-			<edited>おいでませ タコパーク
-# フライハイ！ イカフライ！</edited>
+			<edited>欢迎光临章鱼乐园
+# 炸得高高！炸鱿鱼圈！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Magnum00" offset="00" relocatable="true" max_length="0">
 			<original>出航！タコッペリン号
 # あすに向かって ボンボヤージュ</original>
-			<edited>出航！タコッペリン号
-# あすに向かって ボンボヤージュ</edited>
+			<edited>出航！章鱼柏林号
+# 向着明天，一路顺风</edited>
 			<subEntries />
 		</entry>
 		<entry name="Mega00" offset="00" relocatable="true" max_length="0">
 			<original>大掃除だよ裏通り
 # プロが教えるキレイ術</original>
-			<edited>大掃除だよ裏通り
-# プロが教えるキレイ術</edited>
+			<edited>后巷大扫除
+# 专业人士教的清洁术</edited>
 			<subEntries />
 		</entry>
 		<entry name="Blowouts00" offset="00" relocatable="true" max_length="0">
 			<original>くるくるのび～るキャンプ場
 # 塗ってピロピロ 戻ってピロピロ</original>
-			<edited>くるくるのび～るキャンプ場
-# 塗ってピロピロ 戻ってピロピロ</edited>
+			<edited>转转拉伸露营地
+# 涂完吹吹卷，回来吹吹卷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ditch01" offset="00" relocatable="true" max_length="0">
 			<original>しゅうらい！タコゾネス
 # バッタリ！ バッテラストリート</original>
-			<edited>しゅうらい！タコゾネス
-# バッタリ！ バッテラストリート</edited>
+			<edited>来袭！章鱼女战士
+# 撞见！鳗鲶区</edited>
 			<subEntries />
 		</entry>
 		<entry name="Flyer00" offset="00" relocatable="true" max_length="0">
 			<original>みまわり先生 タコパトローラー
 # 深夜ハイカイ 気分はハイかい？</original>
-			<edited>みまわり先生 タコパトローラー
-# 深夜ハイカイ 気分はハイかい？</edited>
+			<edited>巡逻老师章鱼巡逻兵
+# 深夜尚兴 心情嗨不嗨？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Rundown00" offset="00" relocatable="true" max_length="0">
 			<original>スタコラーの空中庭園
 # せつなさを 追いかけて</original>
-			<edited>スタコラーの空中庭園
-# せつなさを 追いかけて</edited>
+			<edited>章鱼溜兵的空中花园
+# 追逐那份怅然</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jump00" offset="00" relocatable="true" max_length="0">
 			<original>とびはねる タコビーチ
 # ボヨンとしよう そうしよう</original>
-			<edited>とびはねる タコビーチ
-# ボヨンとしよう そうしよう</edited>
+			<edited>弹跳的章鱼沙滩
+# 弹一弹吧，就这么办</edited>
 			<subEntries />
 		</entry>
 		<entry name="Spinner00" offset="00" relocatable="true" max_length="0">
 			<original>和ダンスのダンスフロア
 # 引き出し 押し出し でんでんスイッチ</original>
-			<edited>和ダンスのダンスフロア
-# 引き出し 押し出し でんでんスイッチ</edited>
+			<edited>和风舞蹈的舞池
+# 拉出来推进去 转转开关</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField01" offset="00" relocatable="true" max_length="0">
 			<original>タコリーマンの駐車場
 # イカじゃないけどマイカーほしい</original>
-			<edited>タコリーマンの駐車場
-# イカじゃないけどマイカーほしい</edited>
+			<edited>章鱼上班族的停车场
+# 虽然不是鱿鱼但想要私家车</edited>
 			<subEntries />
 		</entry>
 		<entry name="Wave00" offset="00" relocatable="true" max_length="0">
 			<original>げきとつ！ タコゾネス
 # 恋人チック！ コンブトラック</original>
-			<edited>げきとつ！ タコゾネス
-# 恋人チック！ コンブトラック</edited>
+			<edited>激突！章鱼女战士
+# 恋人范儿！海带卡车</edited>
 			<subEntries />
 		</entry>
 		<entry name="Rock01" offset="00" relocatable="true" max_length="0">
 			<original>秘密のボウリングガーデン
 # ゴロゴロをドロドロにして</original>
-			<edited>秘密のボウリングガーデン
-# ゴロゴロをドロドロにして</edited>
+			<edited>秘密保龄球花园
+# 把滚来滚去涂成黏黏糊糊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Rotation00" offset="00" relocatable="true" max_length="0">
 			<original>タココマンダーの要塞
 # スピナー好きなーナイスガイ</original>
-			<edited>タココマンダーの要塞
-# スピナー好きなーナイスガイ</edited>
+			<edited>章鱼指挥官的堡垒
+# 喜欢旋转枪的好好先生</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField02" offset="00" relocatable="true" max_length="0">
 			<original>天国のオクタワー
 ＃のぼる すべる バベル</original>
-			<edited>天国のオクタワー
-＃のぼる すべる バベル</edited>
+			<edited>天国的章鱼塔
+# 攀登 滑落 巴别塔</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField03" offset="00" relocatable="true" max_length="0">
 			<original>浮遊大陸の実験場
 # ユカイ ツーカイ スカイウォーク</original>
-			<edited>浮遊大陸の実験場
-# ユカイ ツーカイ スカイウォーク</edited>
+			<edited>浮游大陆的实验场
+# 愉快 爽快 空中漫步</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField04" offset="00" relocatable="true" max_length="0">
 			<original>魅惑のプロペランド
 # 振ってパラソル ラバーソウル</original>
-			<edited>魅惑のプロペランド
-# 振ってパラソル ラバーソウル</edited>
+			<edited>魅惑的螺旋桨乐园
+# 挥动阳伞 橡胶灵魂</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuzura00" offset="00" relocatable="true" max_length="0">
 			<original>またまた！ タコゾネス
 # たそがれドライブ！ タチウオパーキング</original>
-			<edited>またまた！ タコゾネス
-# たそがれドライブ！ タチウオパーキング</edited>
+			<edited>又来！章鱼女战士
+# 黄昏兜风！带鱼停车场</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField05" offset="00" relocatable="true" max_length="0">
 			<original>地下のトウメイ高速道路
 # 塗ってホクサイ 気分は天才</original>
-			<edited>地下のトウメイ高速道路
-# 塗ってホクサイ 気分は天才</edited>
+			<edited>地下的透明高速路
+# 涂了北斋 感觉像天才</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField06" offset="00" relocatable="true" max_length="0">
 			<original>クールに決めろ タコギャラクシー
 # ダッシュで奪取 おまえのコスモ</original>
-			<edited>クールに決めろ タコギャラクシー
-# ダッシュで奪取 おまえのコスモ</edited>
+			<edited>耍酷吧 章鱼银河
+# 冲刺夺取 你的宇宙</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField07" offset="00" relocatable="true" max_length="0">
 			<original>のりかえジャンクション
 # それは 魂の交差点</original>
-			<edited>のりかえジャンクション
-# それは 魂の交差点</edited>
+			<edited>换乘枢纽
+# 那是灵魂的十字路口</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField08" offset="00" relocatable="true" max_length="0">
 			<original>激走！ ベルトコンベヤー
 # 流し流され ベルコン人生</original>
-			<edited>激走！ ベルトコンベヤー
-# 流し流され ベルコン人生</edited>
+			<edited>狂奔！传送带
+# 传送与被传送的传送带人生</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck00" offset="00" relocatable="true" max_length="0">
 			<original>出て来い！ タコゾネス
 # ツボ押し！ フジツボスポーツクラブ！</original>
-			<edited>出て来い！ タコゾネス
-# ツボ押し！ フジツボスポーツクラブ！</edited>
+			<edited>出来！章鱼女战士
+# 穴位按压！藤壶运动俱乐部！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UnitField09" offset="00" relocatable="true" max_length="0">
 			<original>夢のボウラーパラダイス
 # ころがりつづけよ 若者よ</original>
-			<edited>夢のボウラーパラダイス
-# ころがりつづけよ 若者よ</edited>
+			<edited>梦想的保龄球乐园
+# 继续滚下去吧，年轻人</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossGelidiumKing" offset="00" relocatable="true" max_length="0">
 			<original>豪速 トースト
 # タコツボベーカリー</original>
-			<edited>豪速 トースト
-# タコツボベーカリー</edited>
+			<edited>豪速吐司
+# 蛸壶面包房</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossRollerKing" offset="00" relocatable="true" max_length="0">
 			<original>スゴイ ドスコイ
 # タコツボザムライ</original>
-			<edited>スゴイ ドスコイ
-# タコツボザムライ</edited>
+			<edited>超猛相扑
+# 蛸壶武士</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossHangedKing" offset="00" relocatable="true" max_length="0">
 			<original>ゆかげん よかけん
 # タコツボビバノン</original>
-			<edited>ゆかげん よかけん
-# タコツボビバノン</edited>
+			<edited>心情好 运气好
+# 蛸壶维巴农</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossStampKingDeco" offset="00" relocatable="true" max_length="0">
 			<original>みなぎる くちびる
 # タコツボックス</original>
-			<edited>みなぎる くちびる
-# タコツボックス</edited>
+			<edited>鼓起的嘴唇
+# 蛸壶箱</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossLastKing" offset="00" relocatable="true" max_length="0">
 			<original>トキメキ☆ボムラッシュ
 # Tide Goes Out</original>
-			<edited>トキメキ☆ボムラッシュ
+			<edited>心跳☆BombRush
 # Tide Goes Out</edited>
 			<subEntries />
 		</entry>

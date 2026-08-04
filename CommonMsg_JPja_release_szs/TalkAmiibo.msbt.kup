@@ -75,90 +75,90 @@
 			<original>こんにちは！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿの
 ところから遊びに来たよ！</original>
-			<edited>こんにちは！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿの
-ところから遊びに来たよ！</edited>
+			<edited>你好！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Boy" offset="00" relocatable="true" max_length="0">
 			<original>よっ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿの
 ところから遊びに来たぞ！</original>
-			<edited>よっ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿの
-ところから遊びに来たぞ！</edited>
+			<edited>哟！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Squid" offset="00" relocatable="true" max_length="0">
 			<original>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿの
 ところから遊びに来ました～</original>
-			<edited>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿの
-ところから遊びに来ました～</edited>
+			<edited>你好～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的～</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Aori" offset="00" relocatable="true" max_length="0">
 			<original>ヤッホー！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿの
 ところから遊びに来たよ！</original>
-			<edited>ヤッホー！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿの
-ところから遊びに来たよ！</edited>
+			<edited>呀吼！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿの
 ところから遊びに来たよ</original>
-			<edited>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿの
-ところから遊びに来たよ</edited>
+			<edited>你好～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Pearl" offset="00" relocatable="true" max_length="0">
 			<original>オッス！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿの
 ところから遊びに来たよ！</original>
-			<edited>オッス！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿの
-ところから遊びに来たよ！</edited>
+			<edited>嘿！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Marina" offset="00" relocatable="true" max_length="0">
 			<original>こんにちは～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿさんの
 ところから遊びに来ました～</original>
-			<edited>こんにちは～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿさんの
-ところから遊びに来ました～</edited>
+			<edited>你好～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+来玩的～</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>ワタシカラ コンニチハ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
 トコロカラ アソブノタメニ イラッシャイマシタヨ？</original>
-			<edited>ワタシカラ コンニチハ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
-トコロカラ アソブノタメニ イラッシャイマシタヨ？</edited>
+			<edited>我这边 向你问好！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+为了来玩 前来拜访了哦？</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>ア、 コンニチハ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
 トコロカラ アソビニ キテミマシタ</original>
-			<edited>ア、 コンニチハ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
-トコロカラ アソビニ キテミマシタ</edited>
+			<edited>啊， 你好&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+试着来玩了</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Octo" offset="00" relocatable="true" max_length="0">
 			<original>… … フム&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
 トコロカラ キテミタノダガ</original>
-			<edited>… … フム&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
-トコロカラ キテミタノダガ</edited>
+			<edited>… … 嗯&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ那里
+试着来了一趟</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Girl" offset="00" relocatable="true" max_length="0">
@@ -233,139 +233,139 @@
 		</entry>
 		<entry name="ShotMenu_Girl" offset="00" relocatable="true" max_length="0">
 			<original>写真とろうよ！</original>
-			<edited>写真とろうよ！</edited>
+			<edited>拍张照吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShotMenu_Boy" offset="00" relocatable="true" max_length="0">
 			<original>写真とろうぜ！</original>
-			<edited>写真とろうぜ！</edited>
+			<edited>拍张照吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShotMenu_Squid" offset="00" relocatable="true" max_length="0">
 			<original>いっしょに写真 とらはります？</original>
-			<edited>いっしょに写真 とらはります？</edited>
+			<edited>一起拍张照如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShotMenu_Aori" offset="00" relocatable="true" max_length="0">
 			<original>写真とろー！</original>
-			<edited>写真とろー！</edited>
+			<edited>拍照啦——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShotMenu_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>写真とる？</original>
-			<edited>写真とる？</edited>
+			<edited>拍照吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="NotWritten_Girl" offset="00" relocatable="true" max_length="0">
 			<original>覚えてるギアがないみたいだよ？
 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
 できるから やってみて！</original>
-			<edited>覚えてるギアがないみたいだよ？
-&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
-できるから やってみて！</edited>
+			<edited>好像还没有记住的装备哦？
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;在自定义的「其他」里
+就能设置，试试看吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NotWritten_Boy" offset="00" relocatable="true" max_length="0">
 			<original>覚えてるギアがないぞ！
 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
 できるから やってみてくれ！</original>
-			<edited>覚えてるギアがないぞ！
-&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
-できるから やってみてくれ！</edited>
+			<edited>还没有记住的装备哦！
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;在自定义的「其他」里
+就能设置，试试看吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NotWritten_Squid" offset="00" relocatable="true" max_length="0">
 			<original>覚えてはるギアがないどすえ
 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
 できるやろから やってみておくんなまし～</original>
-			<edited>覚えてはるギアがないどすえ
-&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
-できるやろから やってみておくんなまし～</edited>
+			<edited>还没有记住的装备呢
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;在自定义的「其他」里
+应该能设置，试试看吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="NotWritten_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>ワタシ ギア オボエテナイデスネ…？
 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
 デキルカラ ヤッテミルノ イイデスネ？</original>
-			<edited>ワタシ ギア オボエテナイデスネ…？
-&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
-デキルカラ ヤッテミルノ イイデスネ？</edited>
+			<edited>我 装备 还没有记住呢…？
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;自定义 「其他」里
+能做到的，试试看 如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="NotWritten_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>オマエノ ギア オボエテナインデス…
 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
 オボエルコトデキマスノデ タメシテミテ…</original>
-			<edited>オマエノ ギア オボエテナインデス…
-&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
-オボエルコトデキマスノデ タメシテミテ…</edited>
+			<edited>你的 装备 还没有记住…
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;在自定义 「其他」里
+可以记住，请试试…</edited>
 			<subEntries />
 		</entry>
 		<entry name="NotWritten_Octo" offset="00" relocatable="true" max_length="0">
 			<original>覚えてはるギアがないどすえ
 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
 できるやろから やってみておくんなまし～</original>
-			<edited>覚えてはるギアがないどすえ
-&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
-できるやろから やってみておくんなまし～</edited>
+			<edited>还没有记住的装备呢
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;在自定义的「其他」里
+应该能设置，试试看吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Girl" offset="00" relocatable="true" max_length="0">
 			<original>はじめまして！</original>
-			<edited>はじめまして！</edited>
+			<edited>初次见面！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Boy" offset="00" relocatable="true" max_length="0">
 			<original>はじめまして！</original>
-			<edited>はじめまして！</edited>
+			<edited>初次见面！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Squid" offset="00" relocatable="true" max_length="0">
 			<original>お初にお目にかかります～</original>
-			<edited>お初にお目にかかります～</edited>
+			<edited>初次拜见～</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Aori" offset="00" relocatable="true" max_length="0">
 			<original>はじめまして！
 シオカラーズのアオリだよ！</original>
-			<edited>はじめまして！
-シオカラーズのアオリだよ！</edited>
+			<edited>初次见面！
+我是潮色姐妹的小拟！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>こんちゃ～
 シオカラーズの ホタルで～す</original>
-			<edited>こんちゃ～
-シオカラーズの ホタルで～す</edited>
+			<edited>你好～
+我是潮色姐妹的小萤～</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Pearl" offset="00" relocatable="true" max_length="0">
 			<original>Ｙｏ！Ｙｏ！Ｙｏ！
 テンタクルズの ヒメだよ！</original>
-			<edited>Ｙｏ！Ｙｏ！Ｙｏ！
-テンタクルズの ヒメだよ！</edited>
+			<edited>Yo！Yo！Yo！
+我是腕儿姐妹的小姬！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Marina" offset="00" relocatable="true" max_length="0">
 			<original>こんにちは～
 テンタクルズの イイダです！</original>
-			<edited>こんにちは～
-テンタクルズの イイダです！</edited>
+			<edited>你好～
+我是腕儿姐妹的饭田！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>アウノ ハジメマシテ デスネ…</original>
-			<edited>アウノ ハジメマシテ デスネ…</edited>
+			<edited>初次见面 的说…</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>ハジメマシテ デスヨネ…</original>
-			<edited>ハジメマシテ デスヨネ…</edited>
+			<edited>初次见面 的吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_Octo" offset="00" relocatable="true" max_length="0">
 			<original>… … ミナイ カオダナ</original>
-			<edited>… … ミナイ カオダナ</edited>
+			<edited>… … 没见过的面孔啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Girl" offset="00" relocatable="true" max_length="0">
@@ -376,13 +376,13 @@
 なりたいんだけど いい？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられるし 便利でしょ？！&#xE;&#x0;&#x4;&#x0;どう？ サポーターにしてくれる？</original>
-			<edited>あれれ？
-なんかキミって イカしてる？&#xE;&#x0;&#x4;&#x0;うんうん！ バトルすればするほど
-もっともっと イカしてくると思う！&#xE;&#x0;&#x4;&#x0;キミのこと、これから
-チェックしてったほうが 良さそうだね！&#xE;&#x0;&#x4;&#x0;もし 良かったら キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
-なりたいんだけど いい？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられるし 便利でしょ？！&#xE;&#x0;&#x4;&#x0;どう？ サポーターにしてくれる？</edited>
+			<edited>咦咦？
+你是不是有点帅气？&#xE;&#x0;&#x4;&#x0;嗯嗯！我觉得你会越打对战
+变得越帅气！&#xE;&#x0;&#x4;&#x0;你这个人，从今往后
+还是好好盯一盯比较好呢！&#xE;&#x0;&#x4;&#x0;如果可以的话，想当你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ，
+可以吗？&#xE;&#x0;&#x4;&#x0;让我当应援者的话，你装备着的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我都能帮你记住哦！&#xE;&#x0;&#x4;&#x0;记住的东西&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上就能换装，很方便吧？！&#xE;&#x0;&#x4;&#x0;怎么样？让我当应援者吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Boy" offset="00" relocatable="true" max_length="0">
@@ -392,12 +392,12 @@
 なりたいんだけど いいかな？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるぞ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられるし 便利だろ？！&#xE;&#x0;&#x4;&#x0;どう？ 公認のサポーターにしてくれる？</original>
-			<edited>お？ なんかキミ
-けっこう イカしてるね！&#xE;&#x0;&#x4;&#x0;でも、バトルすればするほど
-もっともっと イカしてきそうだぞ！&#xE;&#x0;&#x4;&#x0;うーむ、キミのことは 要チェックだな！&#xE;&#x0;&#x4;&#x0;あのさ、良かったら キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
-なりたいんだけど いいかな？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるぞ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられるし 便利だろ？！&#xE;&#x0;&#x4;&#x0;どう？ 公認のサポーターにしてくれる？</edited>
+			<edited>哦？你
+还挺帅气的嘛！&#xE;&#x0;&#x4;&#x0;不过，对战打得越多
+感觉你会越来越帅气！&#xE;&#x0;&#x4;&#x0;唔——，你值得好好关注！&#xE;&#x0;&#x4;&#x0;那个，如果可以的话，想当你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ，
+可以吗？&#xE;&#x0;&#x4;&#x0;让我当应援者的话，你装备着的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我都能帮你记住！&#xE;&#x0;&#x4;&#x0;记住的东西&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上就能换装，很方便吧？！&#xE;&#x0;&#x4;&#x0;怎么样？让我当公认的应援者吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Squid" offset="00" relocatable="true" max_length="0">
@@ -408,13 +408,13 @@
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えられますよって&#xE;&#x0;&#x4;&#x0;覚えたもんは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられるんどす 便利どすえ～&#xE;&#x0;&#x4;&#x0;どうえ？
 公認サポーターにしてもらえます？</original>
-			<edited>あらあら？ あんさん、
-なかなか イカしてはりますね～&#xE;&#x0;&#x4;&#x0;でも もっとバトルされたら
-まだまだ イカしてくる気がしますけどな～&#xE;&#x0;&#x4;&#x0;ふふ… 目が はなせまへん お人やわ～&#xE;&#x0;&#x4;&#x0;もし よろしいなら あんさん公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿ
-させてもらいたいんどすけど ええどすか？&#xE;&#x0;&#x4;&#x0;サポーターにしてもろたら、そうびしてはる
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えられますよって&#xE;&#x0;&#x4;&#x0;覚えたもんは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられるんどす 便利どすえ～&#xE;&#x0;&#x4;&#x0;どうえ？
-公認サポーターにしてもらえます？</edited>
+			<edited>哎呀哎呀？您啊，
+还挺帅气的嘛～&#xE;&#x0;&#x4;&#x0;不过再多打些对战的话
+感觉还会更帅气呢～&#xE;&#x0;&#x4;&#x0;呵呵…真是让人移不开眼的人呢～&#xE;&#x0;&#x4;&#x0;如果可以的话，想当您公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ，
+不知可否呢？&#xE;&#x0;&#x4;&#x0;让我当应援者的话，您装备着的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ都能帮您记住的&#xE;&#x0;&#x4;&#x0;记住的东西&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上就能换装，很方便的～&#xE;&#x0;&#x4;&#x0;怎么样？
+能让我当公认的应援者吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Aori" offset="00" relocatable="true" max_length="0">
@@ -426,14 +426,14 @@
 なったほうがいいんだけど オッケー？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、ナント！ そうびしてる
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられる！ カクメイテキ！&#xE;&#x0;&#x4;&#x0;どう？ 公認サポーターにしてくれる？</original>
-			<edited>あれ？ なんかキミって
-スッゴイ イカしてる？！&#xE;&#x0;&#x4;&#x0;うんうん！ アタシの目に くるいはない！
-たくさんバトルしたら もっと イカしてくと思うよ！&#xE;&#x0;&#x4;&#x0;ハイ！ キミはアタシの
-要チェックリストに 入れとくね！&#xE;&#x0;&#x4;&#x0;そうそう！ ちゃんとチェックしなくちゃ
-いけないし、キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
-なったほうがいいんだけど オッケー？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、ナント！ そうびしてる
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられる！ カクメイテキ！&#xE;&#x0;&#x4;&#x0;どう？ 公認サポーターにしてくれる？</edited>
+			<edited>咦？你怎么
+超级帅气？！&#xE;&#x0;&#x4;&#x0;嗯嗯！我的眼光不会错！
+多打对战的话，你会变得更帅哦！&#xE;&#x0;&#x4;&#x0;好！你就进我的
+重点关注名单啦！&#xE;&#x0;&#x4;&#x0;对对！得好好盯着才行，
+所以想当你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ，
+可以吗？&#xE;&#x0;&#x4;&#x0;让我当应援者的话，居然！你装备着的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我都能帮你记住哦！&#xE;&#x0;&#x4;&#x0;记住的东西&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上就能换装！超革新！&#xE;&#x0;&#x4;&#x0;怎么样？让我当公认的应援者吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Hotaru" offset="00" relocatable="true" max_length="0">
@@ -443,12 +443,12 @@
 キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになっちゃお～かな～&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるし&#xE;&#x0;&#x4;&#x0;そうすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられるんよ、便利っしょ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どかな？</original>
-			<edited>…ん？ なんか
-イカしたオーラ出とるね&#xE;&#x0;&#x4;&#x0;どんどん バトルしてったら
-もっと よくなりそじゃね？&#xE;&#x0;&#x4;&#x0;キミの動向 ちゃんとチェックしたいから
-キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになっちゃお～かな～&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるし&#xE;&#x0;&#x4;&#x0;そうすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられるんよ、便利っしょ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どかな？</edited>
+			<edited>…嗯？总觉得
+你散发着帅气的光环呢&#xE;&#x0;&#x4;&#x0;一直打对战下去
+会变得更好吧？&#xE;&#x0;&#x4;&#x0;想好好关注你的动向，
+所以当个你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ怎么样～呢～&#xE;&#x0;&#x4;&#x0;让我当应援者的话，你装备着的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我都能帮你记住&#xE;&#x0;&#x4;&#x0;这样就能在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上换装，很方便吧？&#xE;&#x0;&#x4;&#x0;公认应援者，怎么样？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Pearl" offset="00" relocatable="true" max_length="0">
@@ -458,12 +458,12 @@
 そんじゃー 公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになってみっかな！&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられっしさ！&#xE;&#x0;&#x4;&#x0;そーすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられんだぜ！ 便利だろ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どーよ？</original>
-			<edited>…ん？ なんか
-イカしたオーラ出てんな！&#xE;&#x0;&#x4;&#x0;どんどん バトルしてったら
-もっと イカしたかんじに なりそーじゃね？&#xE;&#x0;&#x4;&#x0;ヨシッ！ がっつりチェックすることに決めた！
-そんじゃー 公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになってみっかな！&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられっしさ！&#xE;&#x0;&#x4;&#x0;そーすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられんだぜ！ 便利だろ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どーよ？</edited>
+			<edited>…嗯？总觉得
+你散发着帅气的光环！&#xE;&#x0;&#x4;&#x0;一直打对战下去
+会变得更有型吧？&#xE;&#x0;&#x4;&#x0;好！决定了，要死死盯住你！
+那么，当你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ试试看吧！&#xE;&#x0;&#x4;&#x0;让我当应援者的话，你装备着的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我都能帮你记住！&#xE;&#x0;&#x4;&#x0;这样就能在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上换装！很方便吧？&#xE;&#x0;&#x4;&#x0;公认应援者，怎么样？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Marina" offset="00" relocatable="true" max_length="0">
@@ -473,12 +473,12 @@
 公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになるってどうですか？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、 そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられますし、&#xE;&#x0;&#x4;&#x0;そうすれば &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
 すぐに着替えられて とっても便利ですよ♪&#xE;&#x0;&#x4;&#x0;公認サポーター、どうでしょう？</original>
-			<edited>…あれ？ なんだか
-イカしたオーラ出てますね～&#xE;&#x0;&#x4;&#x0;どんどん バトルしていったら
-も～っと よくなりそうじゃないですか？ ウンウン&#xE;&#x0;&#x4;&#x0;アナタの動向 ちゃんとチェックしてみたいので
-公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになるってどうですか？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、 そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられますし、&#xE;&#x0;&#x4;&#x0;そうすれば &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
-すぐに着替えられて とっても便利ですよ♪&#xE;&#x0;&#x4;&#x0;公認サポーター、どうでしょう？</edited>
+			<edited>…咦？总觉得
+您散发着帅气的光环呢～&#xE;&#x0;&#x4;&#x0;一直打对战下去
+会变得更好吧？嗯嗯&#xE;&#x0;&#x4;&#x0;想好好关注您的动向，
+所以当您公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ怎么样呢？&#xE;&#x0;&#x4;&#x0;让我当应援者的话，您装备着的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我都能帮您记住，&#xE;&#x0;&#x4;&#x0;这样就能在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上换装，非常方便哦♪&#xE;&#x0;&#x4;&#x0;公认应援者，您觉得如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_OctoGirl" offset="00" relocatable="true" max_length="0">
@@ -489,13 +489,13 @@
 ナルッテ キクンデスヨ？&#xE;&#x0;&#x4;&#x0;ワタシ サポーターニナルデショ？ アナタノ ソウビ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルデショ？&#xE;&#x0;&#x4;&#x0;ワタシ オボエタノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
 アナタ スグキガエル コレ、ベンリ！&#xE;&#x0;&#x4;&#x0;イイネ！ サポーター シマス！</original>
-			<edited>アレ…？ ワタシハ アナタニ
-イカシテルト オモッタ キガイタシマス？&#xE;&#x0;&#x4;&#x0;ソウデスネ… バトルニ アケクレルノデス
-タクサン イカスアナタニ ナルデショウ？&#xE;&#x0;&#x4;&#x0;ワタシ、 アナタヲ チェックシマス
-ソシタラ ナンカ イイカンジデスネ？&#xE;&#x0;&#x4;&#x0;コウイウトキハ アナタ公認ノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
-ナルッテ キクンデスヨ？&#xE;&#x0;&#x4;&#x0;ワタシ サポーターニナルデショ？ アナタノ ソウビ
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルデショ？&#xE;&#x0;&#x4;&#x0;ワタシ オボエタノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
-アナタ スグキガエル コレ、ベンリ！&#xE;&#x0;&#x4;&#x0;イイネ！ サポーター シマス！</edited>
+			<edited>咦…？我 觉得你
+很帅气 的感觉 出现了？&#xE;&#x0;&#x4;&#x0;是啊…沉迷于对战的话
+会变成 非常帅气的你 吧？&#xE;&#x0;&#x4;&#x0;我，会检查你
+这样 感觉不错吧？&#xE;&#x0;&#x4;&#x0;这种时候 当你公认的 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ，
+听说是这样的吧？&#xE;&#x0;&#x4;&#x0;我 当应援者 对吧？你 装备的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我会记住 对吧？&#xE;&#x0;&#x4;&#x0;我 记住的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+你 马上换装 这个，方便！&#xE;&#x0;&#x4;&#x0;不错！我 当应援者！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_OctoBoy" offset="00" relocatable="true" max_length="0">
@@ -505,12 +505,12 @@
 ナリタイ！ ドウデスカ？&#xE;&#x0;&#x4;&#x0;ア… サポーターニナッタラ、オマエノ ソウビ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルノデキマス&#xE;&#x0;&#x4;&#x0;オボエタラ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
 キガエルノハヤイカラ ベンリナンデス！&#xE;&#x0;&#x4;&#x0;ボク… 公認ノ サポーターデ イイデスカ？</original>
-			<edited>ア… オマエ、 イカシテルカタデスネ？
-タブン ソウデスヨネ、 エエ… キット ソウデス！&#xE;&#x0;&#x4;&#x0;デモオマエ、 バトルノケイケンヲ ツンデイケバ
-タクサンタクサン イカスカタニ ナルトオモイマス！&#xE;&#x0;&#x4;&#x0;ダカラ ボクハ… オマエヲ ミテイタイデス…&#xE;&#x0;&#x4;&#x0;ダカラ ボク、 オマエ公認ノ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
-ナリタイ！ ドウデスカ？&#xE;&#x0;&#x4;&#x0;ア… サポーターニナッタラ、オマエノ ソウビ
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルノデキマス&#xE;&#x0;&#x4;&#x0;オボエタラ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
-キガエルノハヤイカラ ベンリナンデス！&#xE;&#x0;&#x4;&#x0;ボク… 公認ノ サポーターデ イイデスカ？</edited>
+			<edited>啊…你，是帅气的类型吧？
+大概是的吧，嗯…一定是！&#xE;&#x0;&#x4;&#x0;不过你，积累战斗经验的话
+一定会变成 非常非常帅气的类型！&#xE;&#x0;&#x4;&#x0;所以我…想看着你…&#xE;&#x0;&#x4;&#x0;所以 我，想当你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ！
+可以吗？&#xE;&#x0;&#x4;&#x0;啊…当上应援者的话，你 装备的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ我就能记住&#xE;&#x0;&#x4;&#x0;记住之后&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+换装很快，很方便的！&#xE;&#x0;&#x4;&#x0;我…当公认的应援者 可以吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstContract_Octo" offset="00" relocatable="true" max_length="0">
@@ -521,181 +521,181 @@
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ ワタシガオボエルゾ&#xE;&#x0;&#x4;&#x0;オボエタモノハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
 スグニキガエルコトモ カノウダ ベンリデハナイカ？&#xE;&#x0;&#x4;&#x0;サア、 ドウスル？
 公認サポーターニ シテミナイカ？</original>
-			<edited>ムム… … 、
-ナカナカ イカシタヤツダナ&#xE;&#x0;&#x4;&#x0;ダガ オマエノチカラハ マダマダカクレテイルゾ
-モット バトルヲヤッテミタラドウダ？&#xE;&#x0;&#x4;&#x0;フム… ノビシロヲ カンジルヤツダ&#xE;&#x0;&#x4;&#x0;…ソウダナ ワタシガ公認ノ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
-ナッテミルトイウノハ ドウダ？&#xE;&#x0;&#x4;&#x0;サポーターヲシッテイルカ？ ソウビシテイル
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ ワタシガオボエルゾ&#xE;&#x0;&#x4;&#x0;オボエタモノハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
-スグニキガエルコトモ カノウダ ベンリデハナイカ？&#xE;&#x0;&#x4;&#x0;サア、 ドウスル？
-公認サポーターニ シテミナイカ？</edited>
+			<edited>唔唔… …，
+是个相当帅气的家伙啊&#xE;&#x0;&#x4;&#x0;不过你的力量 还远远没有发挥出来
+再多打些对战如何？&#xE;&#x0;&#x4;&#x0;嗯…是个让人感受到潜力的家伙&#xE;&#x0;&#x4;&#x0;…这样吧，我来当你公认的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;应援者&#xE;&#x0;&#x3;&#x2;ÿÿ，
+怎么样？&#xE;&#x0;&#x4;&#x0;知道应援者吗？你装备着的
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相机选项&#xE;&#x0;&#x3;&#x2;ÿÿ由我来记住&#xE;&#x0;&#x4;&#x0;记住的东西&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;自定义&#xE;&#x0;&#x3;&#x2;ÿÿ里
+马上换装 也是可能的 不是很方便吗？&#xE;&#x0;&#x4;&#x0;那么，怎么办？
+让我当公认应援者 试试如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Girl" offset="00" relocatable="true" max_length="0">
 			<original>ありがとう！
 それじゃあ、公認記念に これあげる！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
 用意してるから がんばってね！</original>
-			<edited>ありがとう！
-それじゃあ、公認記念に これあげる！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
-用意してるから がんばってね！</edited>
+			<edited>谢谢！
+那么，作为官方纪念，这个送你！&#xE;&#x0;&#x4;&#x0;打过很多对战之后，还准备了
+其他礼物，加油哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Boy" offset="00" relocatable="true" max_length="0">
 			<original>ありがとう！ 公認サポーターにしてもらった
 記念に これあげるよ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
 用意してるから がんばってくれよ！</original>
-			<edited>ありがとう！ 公認サポーターにしてもらった
-記念に これあげるよ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
-用意してるから がんばってくれよ！</edited>
+			<edited>谢谢！ 作为你让我当官方应援者的
+纪念，这个送你！&#xE;&#x0;&#x4;&#x0;打过很多对战之后，还准备了
+其他礼物，加油啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Squid" offset="00" relocatable="true" max_length="0">
 			<original>おおきに～ 公認サポーターに
 してもろた記念に これどうぞ～&#xE;&#x0;&#x4;&#x0;ぎょうさんバトルしてきたら、ほかのプレゼントも
 用意しとりますから おきばりやす～</original>
-			<edited>おおきに～ 公認サポーターに
-してもろた記念に これどうぞ～&#xE;&#x0;&#x4;&#x0;ぎょうさんバトルしてきたら、ほかのプレゼントも
-用意しとりますから おきばりやす～</edited>
+			<edited>多谢～ 作为你让我当
+官方应援者的纪念，请收下～&#xE;&#x0;&#x4;&#x0;打过很多对战之后，还准备了
+其他礼物，加油哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Aori" offset="00" relocatable="true" max_length="0">
 			<original>ありがとー！
 そんじゃあ記念に これどーぞ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしたら、また来てね！
 すっごいプレゼント 用意しとくから！</original>
-			<edited>ありがとー！
-そんじゃあ記念に これどーぞ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしたら、また来てね！
-すっごいプレゼント 用意しとくから！</edited>
+			<edited>谢啦——！
+那么作为纪念，这个给你！&#xE;&#x0;&#x4;&#x0;多打对战的话，再来哦！
+我会准备超棒的礼物！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>オケオケ～、
 じゃ、記念に コレ&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
 また来てよ、 ナンカ用意しとくし&#xE;&#x0;&#x4;&#x0;んじゃ、イカ よろしく～</original>
-			<edited>オケオケ～、
-じゃ、記念に コレ&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
-また来てよ、 ナンカ用意しとくし&#xE;&#x0;&#x4;&#x0;んじゃ、イカ よろしく～</edited>
+			<edited>OKOK～，
+那么，作为纪念，这个&#xE;&#x0;&#x4;&#x0;觉得“打了挺多对战啊～”的时候
+再来哦，我会准备点什么的&#xE;&#x0;&#x4;&#x0;那么，鱿鱼 请多关照～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Pearl" offset="00" relocatable="true" max_length="0">
 			<original>ウッシ、
 そんじゃー、記念に コレ！&#xE;&#x0;&#x4;&#x0;けっこうバトルやったなーって思ったら
 また来いよ、 ナンカ用意しとくかんな！&#xE;&#x0;&#x4;&#x0;んじゃなー！</original>
-			<edited>ウッシ、
-そんじゃー、記念に コレ！&#xE;&#x0;&#x4;&#x0;けっこうバトルやったなーって思ったら
-また来いよ、 ナンカ用意しとくかんな！&#xE;&#x0;&#x4;&#x0;んじゃなー！</edited>
+			<edited>好嘞，
+那么，作为纪念，这个！&#xE;&#x0;&#x4;&#x0;觉得“打了不少对战啊——”的时候
+再来啊，我会准备点什么的！&#xE;&#x0;&#x4;&#x0;那就这样！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Marina" offset="00" relocatable="true" max_length="0">
 			<original>ありがとうございます～！
 では、記念に コレどうぞ♪&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
 また来てください！&#xE;&#x0;&#x4;&#x0;ワタシ プレゼント用意して まってますから♪</original>
-			<edited>ありがとうございます～！
-では、記念に コレどうぞ♪&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
-また来てください！&#xE;&#x0;&#x4;&#x0;ワタシ プレゼント用意して まってますから♪</edited>
+			<edited>谢谢～！
+那么，作为纪念，请收下♪&#xE;&#x0;&#x4;&#x0;觉得“打了挺多对战啊～”的时候
+请再来！&#xE;&#x0;&#x4;&#x0;我会准备好礼物等您的♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>コウイウトキハ アリガトウデ イインダヨネ？
 ジャア、公認キネンノ オイワイノシナデス！&#xE;&#x0;&#x4;&#x0;タクサン ヨイバトルシタラ、 オイワイノシナヲ
 モッテオキマス！ ガンバルデショ？</original>
-			<edited>コウイウトキハ アリガトウデ イインダヨネ？
-ジャア、公認キネンノ オイワイノシナデス！&#xE;&#x0;&#x4;&#x0;タクサン ヨイバトルシタラ、 オイワイノシナヲ
-モッテオキマス！ ガンバルデショ？</edited>
+			<edited>这种时候 说谢谢 就可以了吧？
+那么，作为官方纪念的 庆祝礼！&#xE;&#x0;&#x4;&#x0;打了很多好对战的话，会把庆祝礼
+准备好的！要加油吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>アリガトウ、 公認サポーターニナレテ ウレシイ…
 コレ キネンデス、 モラッテクレマスカ？&#xE;&#x0;&#x4;&#x0;モットモット バトルスル、 ホカノプレゼント
 ボクガ ジュンビスル、 ダカラ ガンバッテ！</original>
-			<edited>アリガトウ、 公認サポーターニナレテ ウレシイ…
-コレ キネンデス、 モラッテクレマスカ？&#xE;&#x0;&#x4;&#x0;モットモット バトルスル、 ホカノプレゼント
-ボクガ ジュンビスル、 ダカラ ガンバッテ！</edited>
+			<edited>谢谢，能当上官方应援者 我很开心…
+这个 是纪念，能收下吗？&#xE;&#x0;&#x4;&#x0;再多再多 打对战的话，其他礼物
+我会准备的，所以 加油！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstGearGet_Octo" offset="00" relocatable="true" max_length="0">
 			<original>ウム、 公認サポーターニナレタノダナ…
 カンシャスル、 キネンニ ウケトッテクレ&#xE;&#x0;&#x4;&#x0;コンゴモ バトルニ アケクレルノダ、
 キネンヒンヲ ヨウイシテ マッテイルゾ</original>
-			<edited>ウム、 公認サポーターニナレタノダナ…
-カンシャスル、 キネンニ ウケトッテクレ&#xE;&#x0;&#x4;&#x0;コンゴモ バトルニ アケクレルノダ、
-キネンヒンヲ ヨウイシテ マッテイルゾ</edited>
+			<edited>嗯，当上官方应援者了啊…
+感谢，作为纪念 请收下&#xE;&#x0;&#x4;&#x0;今后也要 沉迷对战，
+我会准备好纪念品 等着</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Girl" offset="00" relocatable="true" max_length="0">
 			<original>ヨシ！ サポーターとして何できるかな…
 あ、せっかくだから 写真とろうよ！&#xE;&#x0;&#x4;&#x0;このあたり ステキな場所が たくさんあるし
 イカした写真、いっぱいとれるよ！</original>
-			<edited>ヨシ！ サポーターとして何できるかな…
-あ、せっかくだから 写真とろうよ！&#xE;&#x0;&#x4;&#x0;このあたり ステキな場所が たくさんあるし
-イカした写真、いっぱいとれるよ！</edited>
+			<edited>好！作为应援者能做什么呢…
+啊，难得的机会，拍张照吧！&#xE;&#x0;&#x4;&#x0;这一带 有很多好看的地方，
+能拍出很多帅气的照片哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Boy" offset="00" relocatable="true" max_length="0">
 			<original>公認サポーターとしては
 やっぱ 写真とらなくちゃな！&#xE;&#x0;&#x4;&#x0;ここらへん イカした場所が たくさんあるんだ！
 スンゲー写真 いっぱいとろうぜ！</original>
-			<edited>公認サポーターとしては
-やっぱ 写真とらなくちゃな！&#xE;&#x0;&#x4;&#x0;ここらへん イカした場所が たくさんあるんだ！
-スンゲー写真 いっぱいとろうぜ！</edited>
+			<edited>作为官方应援者
+果然得拍照片才行啊！&#xE;&#x0;&#x4;&#x0;这一带有很多帅气的地方！
+一起拍超多照片吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Squid" offset="00" relocatable="true" max_length="0">
 			<original>せっかくやし 写真でもとらはります？&#xE;&#x0;&#x4;&#x0;このへん イカした場所 ぎょうさんあるさかい
 どうえ？</original>
-			<edited>せっかくやし 写真でもとらはります？&#xE;&#x0;&#x4;&#x0;このへん イカした場所 ぎょうさんあるさかい
-どうえ？</edited>
+			<edited>难得的机会，拍张照如何？&#xE;&#x0;&#x4;&#x0;这一带 帅气的地方 有很多，
+怎么样？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Aori" offset="00" relocatable="true" max_length="0">
 			<original>じゃあ 公認サポーターとしての、
 初仕事！ いっしょに写真とろうよ！</original>
-			<edited>じゃあ 公認サポーターとしての、
-初仕事！ いっしょに写真とろうよ！</edited>
+			<edited>那么作为官方应援者的
+第一份工作！一起拍照吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>サポーターと言ったら 写真っしょ
 さ、写真とろ はよはよ</original>
-			<edited>サポーターと言ったら 写真っしょ
-さ、写真とろ はよはよ</edited>
+			<edited>说到应援者 就是拍照吧
+来，拍照了，快快快</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Pearl" offset="00" relocatable="true" max_length="0">
 			<original>サポーターつったら 写真っしょ！
 ウシシ、 写真とろーぜ！ ほら！</original>
-			<edited>サポーターつったら 写真っしょ！
-ウシシ、 写真とろーぜ！ ほら！</edited>
+			<edited>说到应援者 就是拍照！
+嘻嘻，拍照啦——！来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Marina" offset="00" relocatable="true" max_length="0">
 			<original>サポーターと言ったら 写真ですよね～
 さ、写真とりましょっか！ ほらほら♪</original>
-			<edited>サポーターと言ったら 写真ですよね～
-さ、写真とりましょっか！ ほらほら♪</edited>
+			<edited>说到应援者 就是拍照呢～
+来，拍照吧！来来♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>ハイ、 サポーターハ コウイウトキハ
 写真トローッテ オッシャルンデスヨ！&#xE;&#x0;&#x4;&#x0;ココハ ステキナバショ、 トテモココチヨイデス！
 写真イッパイ、 トリマショウカ？</original>
-			<edited>ハイ、 サポーターハ コウイウトキハ
-写真トローッテ オッシャルンデスヨ！&#xE;&#x0;&#x4;&#x0;ココハ ステキナバショ、 トテモココチヨイデス！
-写真イッパイ、 トリマショウカ？</edited>
+			<edited>好，应援者 这种时候
+就要 拍照！ 听说是这样的！&#xE;&#x0;&#x4;&#x0;这里 是好地方，非常 舒适！
+拍很多照片，好吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>ア… コレデボクハ オマエノ サポーターデス！
 コウイウトキハ シャ…、写真トッテホシイデス！&#xE;&#x0;&#x4;&#x0;オマエ、 イカシタトコロ シッテルフウニ ミエマス
 ボク オマエト タクサン写真 トリタイナ！ デス…</original>
-			<edited>ア… コレデボクハ オマエノ サポーターデス！
-コウイウトキハ シャ…、写真トッテホシイデス！&#xE;&#x0;&#x4;&#x0;オマエ、 イカシタトコロ シッテルフウニ ミエマス
-ボク オマエト タクサン写真 トリタイナ！ デス…</edited>
+			<edited>啊…这样我就是 你的 应援者了！
+这种时候 想让你拍…，照片！&#xE;&#x0;&#x4;&#x0;你，看起来 知道很多帅气的地方
+我 想和你 拍很多照片！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstExplain_Octo" offset="00" relocatable="true" max_length="0">
 			<original>ソウダナ 写真デモ ドウダ？&#xE;&#x0;&#x4;&#x0;ココハ イカシタトコロデ トルノガ
 レイギ ナノダロウ？</original>
-			<edited>ソウダナ 写真デモ ドウダ？&#xE;&#x0;&#x4;&#x0;ココハ イカシタトコロデ トルノガ
-レイギ ナノダロウ？</edited>
+			<edited>这样啊 拍张照片 如何？&#xE;&#x0;&#x4;&#x0;在帅气的地方拍，
+才算是 礼仪 吧？</edited>
 			<subEntries />
 		</entry>
 	</entries>

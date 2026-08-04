@@ -5,27 +5,27 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>時間内に 箱マト２０コ、全部 壊すのでス</original>
-			<edited>時間内に 箱マト２０コ、全部 壊すのでス</edited>
+			<edited>请在时间内打坏全部20个箱靶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ライドレールに乗ったら カウントが始まりまス</original>
-			<edited>ライドレールに乗ったら カウントが始まりまス</edited>
+			<edited>乘上墨汁轨道开始计时</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ライドレールを乗りついで 撃ちまくりましょウ</original>
-			<edited>ライドレールを乗りついで 撃ちまくりましょウ</edited>
+			<edited>换乘墨汁轨道，使劲打吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>平行なところで飛び移ると うまく乗りつげまス</original>
-			<edited>平行なところで飛び移ると うまく乗りつげまス</edited>
+			<edited>在平行的位置跳换，能顺利换乘</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxAirport_0001" offset="00" relocatable="true" max_length="0">
 			<original>ラスト！ 最後の最後で気を抜くな！ 戦場の鉄則ゥ！</original>
-			<edited>ラスト！ 最後の最後で気を抜くな！ 戦場の鉄則ゥ！</edited>
+			<edited>最后！最后一刻别松懈！战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxAirport_0002" offset="00" relocatable="true" max_length="0">
@@ -35,17 +35,17 @@
 		</entry>
 		<entry name="BoxAirport_0003" offset="00" relocatable="true" max_length="0">
 			<original>あと半分あるゾ！</original>
-			<edited>あと半分あるゾ！</edited>
+			<edited>还剩一半！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxAirport_0004" offset="00" relocatable="true" max_length="0">
 			<original>よ～い…</original>
-			<edited>よ～い…</edited>
+			<edited>预——备…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BoxAirport_0005" offset="00" relocatable="true" max_length="0">
 			<original>ドン！</original>
-			<edited>ドン！</edited>
+			<edited>开始！</edited>
 			<subEntries />
 		</entry>
 	</entries>

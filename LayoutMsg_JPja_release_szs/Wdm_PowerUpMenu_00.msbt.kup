@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="L_MenuBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローセット</original>
-			<edited>ヒーローセット</edited>
+			<edited>英雄套装</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MenuBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>追加ブキ</original>
-			<edited>追加ブキ</edited>
+			<edited>追加武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Lv_00" offset="00" relocatable="true" max_length="0">
@@ -30,17 +30,17 @@
 		</entry>
 		<entry name="L_Btn_00-T_Before_00" offset="00" relocatable="true" max_length="0">
 			<original>ボム追加</original>
-			<edited>ボム追加</edited>
+			<edited>追加炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_After_00" offset="00" relocatable="true" max_length="0">
 			<original>使用可能</original>
-			<edited>使用可能</edited>
+			<edited>可用</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Cost_00" offset="00" relocatable="true" max_length="0">
 			<original>必要な材料</original>
-			<edited>必要な材料</edited>
+			<edited>所需材料</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BeforeLevel_00" offset="00" relocatable="true" max_length="0">
@@ -72,24 +72,24 @@
 			<original>すべて初期状態にもどしますか？
 （ブキの強化や、ボムの追加をリセットします）
 &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;※リセットした後は、強化に再度イクラが必要です&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>すべて初期状態にもどしますか？
-（ブキの強化や、ボムの追加をリセットします）
-&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;※リセットした後は、強化に再度イクラが必要です&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>要全部恢复初始状态吗？
+（会重置武器强化和追加的炸弹）
+&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;※重置后，强化需要再次消耗鲑鱼卵&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Reset_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>パワーアップのリセット</original>
-			<edited>パワーアップのリセット</edited>
+			<edited>重置强化</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Change_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>イクラトレード</original>
-			<edited>イクラトレード</edited>
+			<edited>猎取鲑鱼卵</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Cost_01" offset="00" relocatable="true" max_length="0">
 			<original>必要な材料</original>
-			<edited>必要な材料</edited>
+			<edited>所需材料</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BeforeLevel_04" offset="00" relocatable="true" max_length="0">
@@ -112,89 +112,89 @@
 ハイカラスクエアの
 屋台で 使えるチケットと
 交換してあげるでし！</original>
-			<edited>イクラを 持て余しているなら、
-ハイカラスクエアの
-屋台で 使えるチケットと
-交換してあげるでし！</edited>
+			<edited>如果鲑鱼卵多到用不完，
+就帮你换成
+尚兴广场摊子上
+能用的券吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>インクタンク</original>
-			<edited>インクタンク</edited>
+			<edited>墨汁槽</edited>
 			<subEntries />
 		</entry>
 		<entry name="020" offset="00" relocatable="true" max_length="0">
 			<original>これを強化するでしか？</original>
-			<edited>これを強化するでしか？</edited>
+			<edited>要强化这个吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="021" offset="00" relocatable="true" max_length="0">
 			<original>材料が足りないでし…</original>
-			<edited>材料が足りないでし…</edited>
+			<edited>材料不够…</edited>
 			<subEntries />
 		</entry>
 		<entry name="022" offset="00" relocatable="true" max_length="0">
 			<original>これを強化するでしか？</original>
-			<edited>これを強化するでしか？</edited>
+			<edited>要强化这个吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="023" offset="00" relocatable="true" max_length="0">
 			<original>材料が足りないでし…</original>
-			<edited>材料が足りないでし…</edited>
+			<edited>材料不够…</edited>
 			<subEntries />
 		</entry>
 		<entry name="024" offset="00" relocatable="true" max_length="0">
 			<original>これを追加するでしか？</original>
-			<edited>これを追加するでしか？</edited>
+			<edited>要追加这个吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="025" offset="00" relocatable="true" max_length="0">
 			<original>イクラトレード</original>
-			<edited>イクラトレード</edited>
+			<edited>猎取鲑鱼卵</edited>
 			<subEntries />
 		</entry>
 		<entry name="026" offset="00" relocatable="true" max_length="0">
 			<original>イクラが足りないでし…</original>
-			<edited>イクラが足りないでし…</edited>
+			<edited>鲑鱼卵不够…</edited>
 			<subEntries />
 		</entry>
 		<entry name="030" offset="00" relocatable="true" max_length="0">
 			<original>どれを強化するでしか？</original>
-			<edited>どれを強化するでしか？</edited>
+			<edited>要强化哪个？</edited>
 			<subEntries />
 		</entry>
 		<entry name="031" offset="00" relocatable="true" max_length="0">
 			<original>すべて強化完了でし！</original>
-			<edited>すべて強化完了でし！</edited>
+			<edited>全部强化完成！</edited>
 			<subEntries />
 		</entry>
 		<entry name="032" offset="00" relocatable="true" max_length="0">
 			<original>どれを強化するでしか？</original>
-			<edited>どれを強化するでしか？</edited>
+			<edited>要强化哪个？</edited>
 			<subEntries />
 		</entry>
 		<entry name="033" offset="00" relocatable="true" max_length="0">
 			<original>すべて強化完了でし！</original>
-			<edited>すべて強化完了でし！</edited>
+			<edited>全部强化完成！</edited>
 			<subEntries />
 		</entry>
 		<entry name="040" offset="00" relocatable="true" max_length="0">
 			<original>最大レベルです
 これ以上強化できません</original>
-			<edited>最大レベルです
-これ以上強化できません</edited>
+			<edited>已到最高等级
+无法继续强化</edited>
 			<subEntries />
 		</entry>
 		<entry name="041" offset="00" relocatable="true" max_length="0">
 			<original>追加済みです
 これ以上強化できません</original>
-			<edited>追加済みです
-これ以上強化できません</edited>
+			<edited>已追加
+无法继续强化</edited>
 			<subEntries />
 		</entry>
 		<entry name="050" offset="00" relocatable="true" max_length="0">
 			<original>屋台のチケット</original>
-			<edited>屋台のチケット</edited>
+			<edited>摊子券</edited>
 			<subEntries />
 		</entry>
 		<entry name="060" offset="00" relocatable="true" max_length="0">
@@ -204,7 +204,7 @@
 		</entry>
 		<entry name="061" offset="00" relocatable="true" max_length="0">
 			<original>強化する！</original>
-			<edited>強化する！</edited>
+			<edited>强化！</edited>
 			<subEntries />
 		</entry>
 		<entry name="062" offset="00" relocatable="true" max_length="0">
@@ -214,7 +214,7 @@
 		</entry>
 		<entry name="063" offset="00" relocatable="true" max_length="0">
 			<original>追加する！</original>
-			<edited>追加する！</edited>
+			<edited>追加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="064" offset="00" relocatable="true" max_length="0">
@@ -255,93 +255,93 @@
 		<entry name="100" offset="00" relocatable="true" max_length="0">
 			<original>連射速度がアップする
 インクの減りに注意！</original>
-			<edited>連射速度がアップする
-インクの減りに注意！</edited>
+			<edited>射速提升
+注意墨汁消耗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="101" offset="00" relocatable="true" max_length="0">
 			<original>インクタンクの 容量が増え、
 たくさん弾が うてるようになる</original>
-			<edited>インクタンクの 容量が増え、
-たくさん弾が うてるようになる</edited>
+			<edited>墨汁槽容量增加，
+能打出更多子弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="103" offset="00" relocatable="true" max_length="0">
 			<original>地面を塗りながら まっすぐ進むボム
 手にボムを持っている時間で、ボムの
 飛距離を 調節することができる</original>
-			<edited>地面を塗りながら まっすぐ進むボム
-手にボムを持っている時間で、ボムの
-飛距離を 調節することができる</edited>
+			<edited>边涂地边直线前进的炸弹
+根据手里拿炸弹的时间，
+可以调节炸弹的飞行距离</edited>
 			<subEntries />
 		</entry>
 		<entry name="104" offset="00" relocatable="true" max_length="0">
 			<original>投げた先で、近くの目標に向かって
 走っていくボム  目標の近くまで
 接近すると、自動で爆発する</original>
-			<edited>投げた先で、近くの目標に向かって
-走っていくボム  目標の近くまで
-接近すると、自動で爆発する</edited>
+			<edited>投出后，会朝附近目标
+走过去的炸弹 接近目标后
+会自动爆炸</edited>
 			<subEntries />
 		</entry>
 		<entry name="105" offset="00" relocatable="true" max_length="0">
 			<original>ひいたり 振った時の イリョクがアップ
 また、振る速度も速くなる</original>
-			<edited>ひいたり 振った時の イリョクがアップ
-また、振る速度も速くなる</edited>
+			<edited>拉刷和挥刷时的威力提升
+挥刷速度也变快</edited>
 			<subEntries />
 		</entry>
 		<entry name="106" offset="00" relocatable="true" max_length="0">
 			<original>チャージ時間が短くなり
 フルチャージの攻撃が
 今より早く できるようになる</original>
-			<edited>チャージ時間が短くなり
-フルチャージの攻撃が
-今より早く できるようになる</edited>
+			<edited>蓄力时间缩短
+满蓄力攻击
+能更快使出</edited>
 			<subEntries />
 		</entry>
 		<entry name="107" offset="00" relocatable="true" max_length="0">
 			<original>連射速度がアップする
 インクの減りに注意！</original>
-			<edited>連射速度がアップする
-インクの減りに注意！</edited>
+			<edited>射速提升
+注意墨汁消耗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="108" offset="00" relocatable="true" max_length="0">
 			<original>カサの防御力がアップし
 さらに カサの復活時間が短くなる</original>
-			<edited>カサの防御力がアップし
-さらに カサの復活時間が短くなる</edited>
+			<edited>伞面防御力提升
+伞面复活时间也缩短</edited>
 			<subEntries />
 		</entry>
 		<entry name="109" offset="00" relocatable="true" max_length="0">
 			<original>チャージ時間が短くなり
 フルチャージの攻撃が
 今より早く できるようになる</original>
-			<edited>チャージ時間が短くなり
-フルチャージの攻撃が
-今より早く できるようになる</edited>
+			<edited>蓄力时间缩短
+满蓄力攻击
+能更快使出</edited>
 			<subEntries />
 		</entry>
 		<entry name="110" offset="00" relocatable="true" max_length="0">
 			<original>連射速度がアップする
 インクの減りに注意！</original>
-			<edited>連射速度がアップする
-インクの減りに注意！</edited>
+			<edited>射速提升
+注意墨汁消耗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="111" offset="00" relocatable="true" max_length="0">
 			<original>振る速度が速くなる
 一発あたりの インクのイリョクもアップ</original>
-			<edited>振る速度が速くなる
-一発あたりの インクのイリョクもアップ</edited>
+			<edited>挥刷速度变快
+每击的墨汁威力也提升</edited>
 			<subEntries />
 		</entry>
 		<entry name="112" offset="00" relocatable="true" max_length="0">
 			<original>振る速度が速くなり イリョクもアップ
 また、塗りながら走る速度も上がる</original>
-			<edited>振る速度が速くなり イリョクもアップ
-また、塗りながら走る速度も上がる</edited>
+			<edited>挥刷速度变快，威力也提升
+边涂边跑的速度也上升</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Ikura_00-T_Icon_00" offset="00" relocatable="true" max_length="0">

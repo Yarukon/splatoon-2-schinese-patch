@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="FST001" offset="00" relocatable="true" max_length="0">
 			<original>わかばイカＴ</original>
-			<edited>わかばイカＴ</edited>
+			<edited>若叶鱿鱼T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="FST002" offset="00" relocatable="true" max_length="0">
 			<original>わかばタコT</original>
-			<edited>わかばタコT</edited>
+			<edited>若叶章鱼T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES000" offset="00" relocatable="true" max_length="0">
@@ -45,32 +45,32 @@
 		</entry>
 		<entry name="TES007" offset="00" relocatable="true" max_length="0">
 			<original>サニーオレンジＴ</original>
-			<edited>サニーオレンジＴ</edited>
+			<edited>阳光橙T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES008" offset="00" relocatable="true" max_length="0">
 			<original>レイニーブルーＴ</original>
-			<edited>レイニーブルーＴ</edited>
+			<edited>雨天蓝T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES009" offset="00" relocatable="true" max_length="0">
 			<original>イカジャマイカ</original>
-			<edited>イカジャマイカ</edited>
+			<edited>鱿鱼牙买加</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES010" offset="00" relocatable="true" max_length="0">
 			<original>マルフグＴ</original>
-			<edited>マルフグＴ</edited>
+			<edited>圆河豚T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES011" offset="00" relocatable="true" max_length="0">
 			<original>ミントＴ</original>
-			<edited>ミントＴ</edited>
+			<edited>薄荷T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES012" offset="00" relocatable="true" max_length="0">
 			<original>グレープＴ</original>
-			<edited>グレープＴ</edited>
+			<edited>葡萄T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES013" offset="00" relocatable="true" max_length="0">
@@ -95,7 +95,7 @@
 		</entry>
 		<entry name="TES017" offset="00" relocatable="true" max_length="0">
 			<original>チドリメロンＴ</original>
-			<edited>チドリメロンＴ</edited>
+			<edited>千鸟哈密瓜T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES018" offset="00" relocatable="true" max_length="0">
@@ -120,32 +120,32 @@
 		</entry>
 		<entry name="TES022" offset="00" relocatable="true" max_length="0">
 			<original>ガチホワイト</original>
-			<edited>ガチホワイト</edited>
+			<edited>真格白T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES023" offset="00" relocatable="true" max_length="0">
 			<original>ガチブラック</original>
-			<edited>ガチブラック</edited>
+			<edited>真格黑T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES026" offset="00" relocatable="true" max_length="0">
 			<original>ニクショクＴ</original>
-			<edited>ニクショクＴ</edited>
+			<edited>肉色T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES027" offset="00" relocatable="true" max_length="0">
 			<original>パールドットＴ</original>
-			<edited>パールドットＴ</edited>
+			<edited>珍珠圆点T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES028" offset="00" relocatable="true" max_length="0">
 			<original>タコＴ</original>
-			<edited>タコＴ</edited>
+			<edited>章鱼T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES029" offset="00" relocatable="true" max_length="0">
 			<original>ソウショクＴ</original>
-			<edited>ソウショクＴ</edited>
+			<edited>装饰T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES030" offset="00" relocatable="true" max_length="0">
@@ -155,17 +155,17 @@
 		</entry>
 		<entry name="TES031" offset="00" relocatable="true" max_length="0">
 			<original>デカロゴＴ シロ</original>
-			<edited>デカロゴＴ シロ</edited>
+			<edited>大Logo白T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES032" offset="00" relocatable="true" max_length="0">
 			<original>スウェットT ゴブ</original>
-			<edited>スウェットT ゴブ</edited>
+			<edited>连帽衫T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES033" offset="00" relocatable="true" max_length="0">
 			<original>キングHKシャツ</original>
-			<edited>キングHKシャツ</edited>
+			<edited>王者HK衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES034" offset="00" relocatable="true" max_length="0">
@@ -180,152 +180,152 @@
 		</entry>
 		<entry name="TES036" offset="00" relocatable="true" max_length="0">
 			<original>ガンガゼロックT シロ</original>
-			<edited>ガンガゼロックT シロ</edited>
+			<edited>海胆摇滚T恤 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES037" offset="00" relocatable="true" max_length="0">
 			<original>ガンガゼロックT クロ</original>
-			<edited>ガンガゼロックT クロ</edited>
+			<edited>海胆摇滚T恤 黑色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES038" offset="00" relocatable="true" max_length="0">
 			<original>バンドT WETFLOOR</original>
-			<edited>バンドT WETFLOOR</edited>
+			<edited>乐队T恤 WETFLOOR</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES039" offset="00" relocatable="true" max_length="0">
 			<original>バンドT SQUIDSQUAD</original>
-			<edited>バンドT SQUIDSQUAD</edited>
+			<edited>乐队T恤 SQUIDSQUAD</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES040" offset="00" relocatable="true" max_length="0">
 			<original>デカロゴT ノーコン</original>
-			<edited>デカロゴT ノーコン</edited>
+			<edited>大Logo T恤 失控</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES041" offset="00" relocatable="true" max_length="0">
 			<original>ミスターシュラッグT</original>
-			<edited>ミスターシュラッグT</edited>
+			<edited>什拉格先生T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES042" offset="00" relocatable="true" max_length="0">
 			<original>バンドT ABXY</original>
-			<edited>バンドT ABXY</edited>
+			<edited>乐队T恤 ABXY</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES043" offset="00" relocatable="true" max_length="0">
 			<original>バンドT HIGHTIDEERA</original>
-			<edited>バンドT HIGHTIDEERA</edited>
+			<edited>乐队T恤 HIGHTIDEERA</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES044" offset="00" relocatable="true" max_length="0">
 			<original>イカレッドV コラボ</original>
-			<edited>イカレッドV コラボ</edited>
+			<edited>鱿鱼红V领 联名</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES045" offset="00" relocatable="true" max_length="0">
 			<original>イカグリーンV コラボ</original>
-			<edited>イカグリーンV コラボ</edited>
+			<edited>鱿鱼绿V领 联名</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES046" offset="00" relocatable="true" max_length="0">
 			<original>ω-3T</original>
-			<edited>ω-3T</edited>
+			<edited>ω-3T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES047" offset="00" relocatable="true" max_length="0">
 			<original>アナアキT ポルポピック</original>
-			<edited>アナアキT ポルポピック</edited>
+			<edited>破洞T恤 波尔波皮克</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES048" offset="00" relocatable="true" max_length="0">
 			<original>ホットグラデT</original>
-			<edited>ホットグラデT</edited>
+			<edited>热渐变T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES049" offset="00" relocatable="true" max_length="0">
 			<original>ヤコタイダイ ギャラクシー</original>
-			<edited>ヤコタイダイ ギャラクシー</edited>
+			<edited>鲂鮄太阳 银河</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES050" offset="00" relocatable="true" max_length="0">
 			<original>ヤコタイダイ レインボー</original>
-			<edited>ヤコタイダイ レインボー</edited>
+			<edited>鲂鮄太阳 彩虹</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES051" offset="00" relocatable="true" max_length="0">
 			<original>ミズシュラッグT</original>
-			<edited>ミズシュラッグT</edited>
+			<edited>水什拉格T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES052" offset="00" relocatable="true" max_length="0">
 			<original>リーグT</original>
-			<edited>リーグT</edited>
+			<edited>联赛T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES053" offset="00" relocatable="true" max_length="0">
 			<original>フレンドT</original>
-			<edited>フレンドT</edited>
+			<edited>好友T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES054" offset="00" relocatable="true" max_length="0">
 			<original>アロメスローガンT</original>
-			<edited>アロメスローガンT</edited>
+			<edited>香炸鱿鱼可乐口号T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES055" offset="00" relocatable="true" max_length="0">
 			<original>アイスグラデT</original>
-			<edited>アイスグラデT</edited>
+			<edited>冰渐变T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES056" offset="00" relocatable="true" max_length="0">
 			<original>キングオクトHKシャツ</original>
-			<edited>キングオクトHKシャツ</edited>
+			<edited>王者章鱼HK衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES057" offset="00" relocatable="true" max_length="0">
 			<original>デカロTキウイ</original>
-			<edited>デカロTキウイ</edited>
+			<edited>大Logo T恤 猕猴桃</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES058" offset="00" relocatable="true" max_length="0">
 			<original>デカロTゴールデン</original>
-			<edited>デカロTゴールデン</edited>
+			<edited>大Logo T恤 金色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES059" offset="00" relocatable="true" max_length="0">
 			<original>キングオクトTブラックベロア</original>
-			<edited>キングオクトTブラックベロア</edited>
+			<edited>王者章鱼T恤 黑丝绒</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES060" offset="00" relocatable="true" max_length="0">
 			<original>キングオクトTミドリベロア</original>
-			<edited>キングオクトTミドリベロア</edited>
+			<edited>王者章鱼T恤 绿丝绒</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES061" offset="00" relocatable="true" max_length="0">
 			<original>SWCロゴT</original>
-			<edited>SWCロゴT</edited>
+			<edited>SWC Logo T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL000" offset="00" relocatable="true" max_length="0">
 			<original>ボーダーホワイト</original>
-			<edited>ボーダーホワイト</edited>
+			<edited>横纹长袖 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL001" offset="00" relocatable="true" max_length="0">
 			<original>バニーポップ ブラック</original>
-			<edited>バニーポップ ブラック</edited>
+			<edited>兔兔波普 黑色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL002" offset="00" relocatable="true" max_length="0">
 			<original>カモフラパープル</original>
-			<edited>カモフラパープル</edited>
+			<edited>迷彩紫</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL003" offset="00" relocatable="true" max_length="0">
 			<original>ボーダーネイビー</original>
-			<edited>ボーダーネイビー</edited>
+			<edited>横纹长袖 藏青</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL004" offset="00" relocatable="true" max_length="0">
@@ -335,102 +335,102 @@
 		</entry>
 		<entry name="TEL005" offset="00" relocatable="true" max_length="0">
 			<original>カレッジラグラン</original>
-			<edited>カレッジラグラン</edited>
+			<edited>学院插肩袖</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL006" offset="00" relocatable="true" max_length="0">
 			<original>ハラグロラグラン</original>
-			<edited>ハラグロラグラン</edited>
+			<edited>黑腹插肩袖</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL007" offset="00" relocatable="true" max_length="0">
 			<original>ハラシロラグラン</original>
-			<edited>ハラシロラグラン</edited>
+			<edited>白腹插肩袖</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL008" offset="00" relocatable="true" max_length="0">
 			<original>バトロング ホワイト</original>
-			<edited>バトロング ホワイト</edited>
+			<edited>战斗长袖 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL009" offset="00" relocatable="true" max_length="0">
 			<original>ボーダーモスグリーン</original>
-			<edited>ボーダーモスグリーン</edited>
+			<edited>横纹长袖 苔绿</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL010" offset="00" relocatable="true" max_length="0">
 			<original>イカバッテンロング</original>
-			<edited>イカバッテンロング</edited>
+			<edited>鱿鱼叉长袖</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL011" offset="00" relocatable="true" max_length="0">
 			<original>アイロニックロング</original>
-			<edited>アイロニックロング</edited>
+			<edited>反讽长袖</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL012" offset="00" relocatable="true" max_length="0">
 			<original>ヤマビコボーダー</original>
-			<edited>ヤマビコボーダー</edited>
+			<edited>山岳横纹</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL013" offset="00" relocatable="true" max_length="0">
 			<original>ゆとりボーダー ピンク</original>
-			<edited>ゆとりボーダー ピンク</edited>
+			<edited>宽松横纹 粉色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL014" offset="00" relocatable="true" max_length="0">
 			<original>トビウォーズHKユニ</original>
-			<edited>トビウォーズHKユニ</edited>
+			<edited>飞鱼WARS HK制服</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL015" offset="00" relocatable="true" max_length="0">
 			<original>アナアキロンT ドライブ</original>
-			<edited>アナアキロンT ドライブ</edited>
+			<edited>破洞长袖T恤 驾驶</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL016" offset="00" relocatable="true" max_length="0">
 			<original>ゆとりボーダー ライム</original>
-			<edited>ゆとりボーダー ライム</edited>
+			<edited>宽松横纹 青柠</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL017" offset="00" relocatable="true" max_length="0">
 			<original>アナアキロンT イボルブ</original>
-			<edited>アナアキロンT イボルブ</edited>
+			<edited>破洞长袖T恤 进化</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL018" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコロンTキャロット</original>
-			<edited>エゾッコロンTキャロット</edited>
+			<edited>泽酷长袖T恤 胡萝卜</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL019" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコロンTラディッシュ</original>
-			<edited>エゾッコロンTラディッシュ</edited>
+			<edited>泽酷长袖T恤 樱桃萝卜</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL020" offset="00" relocatable="true" max_length="0">
 			<original>タコロンT 黒</original>
-			<edited>タコロンT 黒</edited>
+			<edited>章鱼长袖T恤 黑色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL021" offset="00" relocatable="true" max_length="0">
 			<original>ヤコラグランクレイジー</original>
-			<edited>ヤコラグランクレイジー</edited>
+			<edited>鲂鮄插肩袖 疯狂</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL022" offset="00" relocatable="true" max_length="0">
 			<original>タコロンT 赤</original>
-			<edited>タコロンT 赤</edited>
+			<edited>章鱼长袖T恤 红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL023" offset="00" relocatable="true" max_length="0">
 			<original>ヤキフグ16bit カーキ</original>
-			<edited>ヤキフグ16bit カーキ</edited>
+			<edited>烧河豚16bit 卡其</edited>
 			<subEntries />
 		</entry>
 		<entry name="TEL024" offset="00" relocatable="true" max_length="0">
 			<original>ヤキフグ16bit ブルー</original>
-			<edited>ヤキフグ16bit ブルー</edited>
+			<edited>烧河豚16bit 蓝色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY000" offset="00" relocatable="true" max_length="0">
@@ -445,7 +445,7 @@
 		</entry>
 		<entry name="TLY002" offset="00" relocatable="true" max_length="0">
 			<original>カモガサネ</original>
-			<edited>カモガサネ</edited>
+			<edited>迷彩叠穿</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY003" offset="00" relocatable="true" max_length="0">
@@ -460,7 +460,7 @@
 		</entry>
 		<entry name="TLY005" offset="00" relocatable="true" max_length="0">
 			<original>ガチガサネ</original>
-			<edited>ガチガサネ</edited>
+			<edited>真格叠穿</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY006" offset="00" relocatable="true" max_length="0">
@@ -470,7 +470,7 @@
 		</entry>
 		<entry name="TLY007" offset="00" relocatable="true" max_length="0">
 			<original>かくれパイレーツ</original>
-			<edited>かくれパイレーツ</edited>
+			<edited>隐形海盗</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY008" offset="00" relocatable="true" max_length="0">
@@ -485,42 +485,42 @@
 		</entry>
 		<entry name="TLY010" offset="00" relocatable="true" max_length="0">
 			<original>アロメテックT レッド</original>
-			<edited>アロメテックT レッド</edited>
+			<edited>香炸鱿鱼可乐科技T恤 红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY011" offset="00" relocatable="true" max_length="0">
 			<original>アロメテックT ブルー</original>
-			<edited>アロメテックT ブルー</edited>
+			<edited>香炸鱿鱼可乐科技T恤 蓝色</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY012" offset="00" relocatable="true" max_length="0">
 			<original>オクトガサネ</original>
-			<edited>オクトガサネ</edited>
+			<edited>章鱼叠穿</edited>
 			<subEntries />
 		</entry>
 		<entry name="TLY013" offset="00" relocatable="true" max_length="0">
 			<original>イカイエローVガサネ</original>
-			<edited>イカイエローVガサネ</edited>
+			<edited>鱿鱼黄V领叠穿</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO000" offset="00" relocatable="true" max_length="0">
 			<original>さくらエビポロ</original>
-			<edited>さくらエビポロ</edited>
+			<edited>樱虾Polo衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO001" offset="00" relocatable="true" max_length="0">
 			<original>オレンジボーダーラガー</original>
-			<edited>オレンジボーダーラガー</edited>
+			<edited>橙色横纹拉格衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO002" offset="00" relocatable="true" max_length="0">
 			<original>トリコロールラガー</original>
-			<edited>トリコロールラガー</edited>
+			<edited>三色拉格衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO003" offset="00" relocatable="true" max_length="0">
 			<original>よもぎポロ</original>
-			<edited>よもぎポロ</edited>
+			<edited>艾蒿Polo衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO004" offset="00" relocatable="true" max_length="0">
@@ -535,17 +535,17 @@
 		</entry>
 		<entry name="PLO006" offset="00" relocatable="true" max_length="0">
 			<original>チャリキングジャージ</original>
-			<edited>チャリキングジャージ</edited>
+			<edited>骑行王者骑行服</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO007" offset="00" relocatable="true" max_length="0">
 			<original>FCカラスミ</original>
-			<edited>FCカラスミ</edited>
+			<edited>FC乌鱼子</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO008" offset="00" relocatable="true" max_length="0">
 			<original>アオサドーレ</original>
-			<edited>アオサドーレ</edited>
+			<edited>石莼多雷</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT000" offset="00" relocatable="true" max_length="0">
@@ -565,17 +565,17 @@
 		</entry>
 		<entry name="JKT003" offset="00" relocatable="true" max_length="0">
 			<original>スタジャンロゴマシ</original>
-			<edited>スタジャンロゴマシ</edited>
+			<edited>棒球夹克 大Logo</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT004" offset="00" relocatable="true" max_length="0">
 			<original>スクールジャージー</original>
-			<edited>スクールジャージー</edited>
+			<edited>校园运动服</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT005" offset="00" relocatable="true" max_length="0">
 			<original>レタード グリーン</original>
-			<edited>レタード グリーン</edited>
+			<edited>复古皮衣 绿色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT006" offset="00" relocatable="true" max_length="0">
@@ -590,12 +590,12 @@
 		</entry>
 		<entry name="JKT008" offset="00" relocatable="true" max_length="0">
 			<original>FCジャージー</original>
-			<edited>FCジャージー</edited>
+			<edited>FC运动服</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT009" offset="00" relocatable="true" max_length="0">
 			<original>レタード オレンジ</original>
-			<edited>レタード オレンジ</edited>
+			<edited>复古皮衣 橙色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT010" offset="00" relocatable="true" max_length="0">
@@ -610,12 +610,12 @@
 		</entry>
 		<entry name="JKT012" offset="00" relocatable="true" max_length="0">
 			<original>イカセーラー ブルー</original>
-			<edited>イカセーラー ブルー</edited>
+			<edited>鱿鱼水手服 蓝色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT013" offset="00" relocatable="true" max_length="0">
 			<original>イカセーラー ホワイト</original>
-			<edited>イカセーラー ホワイト</edited>
+			<edited>鱿鱼水手服 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT014" offset="00" relocatable="true" max_length="0">
@@ -635,12 +635,12 @@
 		</entry>
 		<entry name="JKT017" offset="00" relocatable="true" max_length="0">
 			<original>マウンテンフローズン</original>
-			<edited>マウンテンフローズン</edited>
+			<edited>登山外套 冰霜</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT018" offset="00" relocatable="true" max_length="0">
 			<original>ヤコナイロンレトロ</original>
-			<edited>ヤコナイロンレトロ</edited>
+			<edited>暇古尼龙拉链上衣 复古</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT019" offset="00" relocatable="true" max_length="0">
@@ -650,17 +650,17 @@
 		</entry>
 		<entry name="JKT020" offset="00" relocatable="true" max_length="0">
 			<original>FA-01オモテ</original>
-			<edited>FA-01オモテ</edited>
+			<edited>FA-01正面</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT021" offset="00" relocatable="true" max_length="0">
 			<original>FA-01ウラ</original>
-			<edited>FA-01ウラ</edited>
+			<edited>FA-01背面</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT022" offset="00" relocatable="true" max_length="0">
 			<original>プルオーバーコート</original>
-			<edited>プルオーバーコート</edited>
+			<edited>套头大衣</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT023" offset="00" relocatable="true" max_length="0">
@@ -670,107 +670,107 @@
 		</entry>
 		<entry name="JKT024" offset="00" relocatable="true" max_length="0">
 			<original>トリスカベッチン</original>
-			<edited>トリスカベッチン</edited>
+			<edited>鸟嘴贝钦</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT025" offset="00" relocatable="true" max_length="0">
 			<original>ウラタコスカジャン</original>
-			<edited>ウラタコスカジャン</edited>
+			<edited>章鱼飞行外套</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT026" offset="00" relocatable="true" max_length="0">
 			<original>エゾッココーチ アカネ</original>
-			<edited>エゾッココーチ アカネ</edited>
+			<edited>泽酷教练外套 茜色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT027" offset="00" relocatable="true" max_length="0">
 			<original>マウンテンノリタマゴ</original>
-			<edited>マウンテンノリタマゴ</edited>
+			<edited>登山外套 海苔蛋</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT028" offset="00" relocatable="true" max_length="0">
 			<original>エゾッココーチ モエギ</original>
-			<edited>エゾッココーチ モエギ</edited>
+			<edited>泽酷教练外套 萌葱</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT029" offset="00" relocatable="true" max_length="0">
 			<original>ボンバージャケット ポジ</original>
-			<edited>ボンバージャケット ポジ</edited>
+			<edited>轰炸机夹克 正片</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT030" offset="00" relocatable="true" max_length="0">
 			<original>FA-11オモテ カスタム</original>
-			<edited>FA-11オモテ カスタム</edited>
+			<edited>FA-11正面 定制</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT031" offset="00" relocatable="true" max_length="0">
 			<original>FA-11ウラ カスタム</original>
-			<edited>FA-11ウラ カスタム</edited>
+			<edited>FA-11背面 定制</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT032" offset="00" relocatable="true" max_length="0">
 			<original>キングベンチカイザー</original>
-			<edited>キングベンチカイザー</edited>
+			<edited>王者长椅凯撒</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT033" offset="00" relocatable="true" max_length="0">
 			<original>キングベンチNV</original>
-			<edited>キングベンチNV</edited>
+			<edited>王者长椅NV</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT034" offset="00" relocatable="true" max_length="0">
 			<original>エゾッココーチ ウコン</original>
-			<edited>エゾッココーチ ウコン</edited>
+			<edited>泽酷教练外套 郁金</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT035" offset="00" relocatable="true" max_length="0">
 			<original>F-3 ペイントカスタム</original>
-			<edited>F-3 ペイントカスタム</edited>
+			<edited>F-3 涂装定制</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT036" offset="00" relocatable="true" max_length="0">
 			<original>ボンバージャケット ネガ</original>
-			<edited>ボンバージャケット ネガ</edited>
+			<edited>轰炸机夹克 负片</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT037" offset="00" relocatable="true" max_length="0">
 			<original>モイストギリースーツ</original>
-			<edited>モイストギリースーツ</edited>
+			<edited>湿润吉利服</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT038" offset="00" relocatable="true" max_length="0">
 			<original>F-3 ホワイトレザー</original>
-			<edited>F-3 ホワイトレザー</edited>
+			<edited>F-3 白色皮革</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT039" offset="00" relocatable="true" max_length="0">
 			<original>マウンテンチリペッパー</original>
-			<edited>マウンテンチリペッパー</edited>
+			<edited>登山外套 辣椒红</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT040" offset="00" relocatable="true" max_length="0">
 			<original>ハウスタグホエールニット</original>
-			<edited>ハウスタグホエールニット</edited>
+			<edited>豪宅标签鲸鱼针织</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT041" offset="00" relocatable="true" max_length="0">
 			<original>ロッケンブレイクジャケット</original>
-			<edited>ロッケンブレイクジャケット</edited>
+			<edited>罗肯贝格破格夹克</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT042" offset="00" relocatable="true" max_length="0">
 			<original>クンフージャージ</original>
-			<edited>クンフージャージ</edited>
+			<edited>功夫运动服</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT043" offset="00" relocatable="true" max_length="0">
 			<original>クンフーパンジャージ</original>
-			<edited>クンフーパンジャージ</edited>
+			<edited>功夫裤运动服</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT044" offset="00" relocatable="true" max_length="0">
 			<original>センニュースーツ</original>
-			<edited>センニュースーツ</edited>
+			<edited>潜水服</edited>
 			<subEntries />
 		</entry>
 		<entry name="TNK000" offset="00" relocatable="true" max_length="0">
@@ -790,22 +790,22 @@
 		</entry>
 		<entry name="TNK004" offset="00" relocatable="true" max_length="0">
 			<original>キングタンク スラッシュ</original>
-			<edited>キングタンク スラッシュ</edited>
+			<edited>王者坦克背心 斜杠</edited>
 			<subEntries />
 		</entry>
 		<entry name="TNK005" offset="00" relocatable="true" max_length="0">
 			<original>キングタンク マリン</original>
-			<edited>キングタンク マリン</edited>
+			<edited>王者坦克背心 海军蓝</edited>
 			<subEntries />
 		</entry>
 		<entry name="TNK006" offset="00" relocatable="true" max_length="0">
 			<original>ロブスターズユニ</original>
-			<edited>ロブスターズユニ</edited>
+			<edited>龙虾队球衣</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT000" offset="00" relocatable="true" max_length="0">
 			<original>カレッジスウェット グレー</original>
-			<edited>カレッジスウェット グレー</edited>
+			<edited>学院卫衣 灰色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT001" offset="00" relocatable="true" max_length="0">
@@ -815,42 +815,42 @@
 		</entry>
 		<entry name="SWT002" offset="00" relocatable="true" max_length="0">
 			<original>レトロジャッジ</original>
-			<edited>レトロジャッジ</edited>
+			<edited>复古裁判</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT003" offset="00" relocatable="true" max_length="0">
 			<original>ホッコリー ネイビー</original>
-			<edited>ホッコリー ネイビー</edited>
+			<edited>北海狮 藏青</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT004" offset="00" relocatable="true" max_length="0">
 			<original>カレッジスウェット ネイビー</original>
-			<edited>カレッジスウェット ネイビー</edited>
+			<edited>学院卫衣 藏青</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT005" offset="00" relocatable="true" max_length="0">
 			<original>リールロールスウェット</original>
-			<edited>リールロールスウェット</edited>
+			<edited>卷线筒卫衣</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT006" offset="00" relocatable="true" max_length="0">
 			<original>イカリスウェット</original>
-			<edited>イカリスウェット</edited>
+			<edited>鱿鱼卫衣</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT007" offset="00" relocatable="true" max_length="0">
 			<original>ドロップスウェット ネガ</original>
-			<edited>ドロップスウェット ネガ</edited>
+			<edited>坠饰卫衣 负片</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT008" offset="00" relocatable="true" max_length="0">
 			<original>ショートニットカサネ</original>
-			<edited>ショートニットカサネ</edited>
+			<edited>短款针织叠穿</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT009" offset="00" relocatable="true" max_length="0">
 			<original>ドロップスウェット ポジ</original>
-			<edited>ドロップスウェット ポジ</edited>
+			<edited>坠饰卫衣 正片</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT010" offset="00" relocatable="true" max_length="0">
@@ -860,27 +860,27 @@
 		</entry>
 		<entry name="SWT011" offset="00" relocatable="true" max_length="0">
 			<original>アナアキニット キソデ</original>
-			<edited>アナアキニット キソデ</edited>
+			<edited>破洞针织衫 黄色袖子</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT012" offset="00" relocatable="true" max_length="0">
 			<original>アナアキニット アカソデ</original>
-			<edited>アナアキニット アカソデ</edited>
+			<edited>破洞针织衫 红色袖子</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT013" offset="00" relocatable="true" max_length="0">
 			<original>エンペーサートレーナー</original>
-			<edited>エンペーサートレーナー</edited>
+			<edited>皇帝训练服</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT014" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアンレトロ</original>
-			<edited>オクタリアンレトロ</edited>
+			<edited>章鱼族复古</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT015" offset="00" relocatable="true" max_length="0">
 			<original>ヤコピステ</original>
-			<edited>ヤコピステ</edited>
+			<edited>鲂鮄骑行服</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT000" offset="00" relocatable="true" max_length="0">
@@ -890,12 +890,12 @@
 		</entry>
 		<entry name="SHT001" offset="00" relocatable="true" max_length="0">
 			<original>イカスタンシャツ</original>
-			<edited>イカスタンシャツ</edited>
+			<edited>鱿鱼斯坦衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT002" offset="00" relocatable="true" max_length="0">
 			<original>ギンガムチェック ミドリ</original>
-			<edited>ギンガムチェック ミドリ</edited>
+			<edited>格纹 绿色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT003" offset="00" relocatable="true" max_length="0">
@@ -905,7 +905,7 @@
 		</entry>
 		<entry name="SHT004" offset="00" relocatable="true" max_length="0">
 			<original>ウーニーズBBシャツ</original>
-			<edited>ウーニーズBBシャツ</edited>
+			<edited>乌尼斯BB衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT005" offset="00" relocatable="true" max_length="0">
@@ -915,32 +915,32 @@
 		</entry>
 		<entry name="SHT006" offset="00" relocatable="true" max_length="0">
 			<original>ギンガムチェック アカ</original>
-			<edited>ギンガムチェック アカ</edited>
+			<edited>格纹 红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT007" offset="00" relocatable="true" max_length="0">
 			<original>ベイビークラゲシャツ</original>
-			<edited>ベイビークラゲシャツ</edited>
+			<edited>宝贝水母衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT008" offset="00" relocatable="true" max_length="0">
 			<original>ミスターベースボール</original>
-			<edited>ミスターベースボール</edited>
+			<edited>棒球先生</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT009" offset="00" relocatable="true" max_length="0">
 			<original>ミックスシャツ グレー</original>
-			<edited>ミックスシャツ グレー</edited>
+			<edited>混色衬衫 灰色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT010" offset="00" relocatable="true" max_length="0">
 			<original>ヴィンテージチェック</original>
-			<edited>ヴィンテージチェック</edited>
+			<edited>复古格纹</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT011" offset="00" relocatable="true" max_length="0">
 			<original>マルエリシャツ</original>
-			<edited>マルエリシャツ</edited>
+			<edited>圆领衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT012" offset="00" relocatable="true" max_length="0">
@@ -950,17 +950,17 @@
 		</entry>
 		<entry name="SHT013" offset="00" relocatable="true" max_length="0">
 			<original>ブロックストライプシャツ</original>
-			<edited>ブロックストライプシャツ</edited>
+			<edited>条纹拼接衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT014" offset="00" relocatable="true" max_length="0">
 			<original>シャンブレーシャツ</original>
-			<edited>シャンブレーシャツ</edited>
+			<edited>牛仔布衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT015" offset="00" relocatable="true" max_length="0">
 			<original>タイシャツ</original>
-			<edited>タイシャツ</edited>
+			<edited>泰式衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT017" offset="00" relocatable="true" max_length="0">
@@ -985,17 +985,17 @@
 		</entry>
 		<entry name="SHT021" offset="00" relocatable="true" max_length="0">
 			<original>タイツキベイビークラゲ</original>
-			<edited>タイツキベイビークラゲ</edited>
+			<edited>带蝴蝶结宝贝水母</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT022" offset="00" relocatable="true" max_length="0">
 			<original>パラシューター プルーン</original>
-			<edited>パラシューター プルーン</edited>
+			<edited>降落伞衬衫 李子</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT023" offset="00" relocatable="true" max_length="0">
 			<original>ピーターパンクタイ ブラッド</original>
-			<edited>ピーターパンクタイ ブラッド</edited>
+			<edited>彼得朋克领带 血红</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT024" offset="00" relocatable="true" max_length="0">
@@ -1010,92 +1010,92 @@
 		</entry>
 		<entry name="SHT026" offset="00" relocatable="true" max_length="0">
 			<original>スミヌキシャツ</original>
-			<edited>スミヌキシャツ</edited>
+			<edited>镂空衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT027" offset="00" relocatable="true" max_length="0">
 			<original>レイヤードットシャツ</original>
-			<edited>レイヤードットシャツ</edited>
+			<edited>层叠圆点衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT028" offset="00" relocatable="true" max_length="0">
 			<original>タタキBBBシャツ</original>
-			<edited>タタキBBBシャツ</edited>
+			<edited>拍打BBB衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT029" offset="00" relocatable="true" max_length="0">
 			<original>BBシャツ プレミアム</original>
-			<edited>BBシャツ プレミアム</edited>
+			<edited>BB衬衫 高级</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST000" offset="00" relocatable="true" max_length="0">
 			<original>マウンテンダウン</original>
-			<edited>マウンテンダウン</edited>
+			<edited>登山羽绒</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST001" offset="00" relocatable="true" max_length="0">
 			<original>フォレストダウン</original>
-			<edited>フォレストダウン</edited>
+			<edited>森林羽绒</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST002" offset="00" relocatable="true" max_length="0">
 			<original>アーバンベスト ナイト</original>
-			<edited>アーバンベスト ナイト</edited>
+			<edited>都市马甲 夜色</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST003" offset="00" relocatable="true" max_length="0">
 			<original>アーバンベスト イエロー</original>
-			<edited>アーバンベスト イエロー</edited>
+			<edited>都市马甲 黄色</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST004" offset="00" relocatable="true" max_length="0">
 			<original>イカゴッチンベスト</original>
-			<edited>イカゴッチンベスト</edited>
+			<edited>鱿鱼机车马甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST005" offset="00" relocatable="true" max_length="0">
 			<original>イカノボリベスト</original>
-			<edited>イカノボリベスト</edited>
+			<edited>鱿鱼攀爬马甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST007" offset="00" relocatable="true" max_length="0">
 			<original>フィッシャーズベスト オジ</original>
-			<edited>フィッシャーズベスト オジ</edited>
+			<edited>渔夫马甲 大叔</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST008" offset="00" relocatable="true" max_length="0">
 			<original>フロントジップベスト</original>
-			<edited>フロントジップベスト</edited>
+			<edited>前拉链马甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="VST009" offset="00" relocatable="true" max_length="0">
 			<original>アロメランベスト シルバー</original>
-			<edited>アロメランベスト シルバー</edited>
+			<edited>香炸鱿鱼可乐马甲 银色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK000" offset="00" relocatable="true" max_length="0">
 			<original>ジップアップ カモ</original>
-			<edited>ジップアップ カモ</edited>
+			<edited>拉链连帽 迷彩</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK001" offset="00" relocatable="true" max_length="0">
 			<original>ジップアップ グリーン</original>
-			<edited>ジップアップ グリーン</edited>
+			<edited>拉链连帽 绿色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK002" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコパーカー アズキ</original>
-			<edited>エゾッコパーカー アズキ</edited>
+			<edited>泽酷连帽衫 红豆</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK004" offset="00" relocatable="true" max_length="0">
 			<original>シャツノゾキブルー</original>
-			<edited>シャツノゾキブルー</edited>
+			<edited>露衬衫蓝</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK005" offset="00" relocatable="true" max_length="0">
 			<original>キングパーカー グレープ</original>
-			<edited>キングパーカー グレープ</edited>
+			<edited>王者连帽衫 葡萄</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK006" offset="00" relocatable="true" max_length="0">
@@ -1105,32 +1105,32 @@
 		</entry>
 		<entry name="PRK007" offset="00" relocatable="true" max_length="0">
 			<original>ホタプラントパーカー</original>
-			<edited>ホタプラントパーカー</edited>
+			<edited>萤火植物连帽衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK008" offset="00" relocatable="true" max_length="0">
 			<original>シャツノゾキピンク</original>
-			<edited>シャツノゾキピンク</edited>
+			<edited>露衬衫粉</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK009" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコパーカー ウグイス</original>
-			<edited>エゾッコパーカー ウグイス</edited>
+			<edited>泽酷连帽衫 莺色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK010" offset="00" relocatable="true" max_length="0">
 			<original>ホタパーカー ブラック</original>
-			<edited>ホタパーカー ブラック</edited>
+			<edited>小萤连帽衫 黑色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK011" offset="00" relocatable="true" max_length="0">
 			<original>おうえんパーカー(タコver.)</original>
-			<edited>おうえんパーカー(タコver.)</edited>
+			<edited>加油连帽衫（章鱼ver.）</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB000" offset="00" relocatable="true" max_length="0">
 			<original>スクールブレザー</original>
-			<edited>スクールブレザー</edited>
+			<edited>学院西装外套</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB001" offset="00" relocatable="true" max_length="0">
@@ -1145,7 +1145,7 @@
 		</entry>
 		<entry name="AMB003" offset="00" relocatable="true" max_length="0">
 			<original>スクールカーデ</original>
-			<edited>スクールカーデ</edited>
+			<edited>学院开衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB004" offset="00" relocatable="true" max_length="0">
@@ -1170,7 +1170,7 @@
 		</entry>
 		<entry name="AMB008" offset="00" relocatable="true" max_length="0">
 			<original>エンチャントローブ</original>
-			<edited>エンチャントローブ</edited>
+			<edited>附魔长袍</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB009" offset="00" relocatable="true" max_length="0">
@@ -1190,7 +1190,7 @@
 		</entry>
 		<entry name="HAP002" offset="00" relocatable="true" max_length="0">
 			<original>フェスＴ レプリカ</original>
-			<edited>フェスＴ レプリカ</edited>
+			<edited>祭典T恤 复刻</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN000" offset="00" relocatable="true" max_length="0">
@@ -1205,87 +1205,87 @@
 		</entry>
 		<entry name="MSN101" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローフーディー レプリカ</original>
-			<edited>ヒーローフーディー レプリカ</edited>
+			<edited>英雄连帽衫 复刻</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN104" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネスプロテクターネオ</original>
-			<edited>タコゾネスプロテクターネオ</edited>
+			<edited>章鱼族护甲 Neo</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN105" offset="00" relocatable="true" max_length="0">
 			<original>ネルアーマー レプリカ</original>
-			<edited>ネルアーマー レプリカ</edited>
+			<edited>涅尔护甲 复刻</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN106" offset="00" relocatable="true" max_length="0">
 			<original>グランパなフク</original>
-			<edited>グランパなフク</edited>
+			<edited>爷爷的衣服</edited>
 			<subEntries />
 		</entry>
 		<entry name="RVL000" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネスプロテクター</original>
-			<edited>タコゾネスプロテクター</edited>
+			<edited>章鱼族护甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP100" offset="00" relocatable="true" max_length="0">
 			<original>イカテンくんポロ</original>
-			<edited>イカテンくんポロ</edited>
+			<edited>鱿鱼天君Polo衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP101" offset="00" relocatable="true" max_length="0">
 			<original>アンカーベスト</original>
-			<edited>アンカーベスト</edited>
+			<edited>锚形马甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP102" offset="00" relocatable="true" max_length="0">
 			<original>フューエルブルゾン</original>
-			<edited>フューエルブルゾン</edited>
+			<edited>燃料飞行夹克</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP103" offset="00" relocatable="true" max_length="0">
 			<original>マクレGT</original>
-			<edited>マクレGT</edited>
+			<edited>马克雷GT</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP104" offset="00" relocatable="true" max_length="0">
 			<original>アゲアゲ・10・プラーXXL</original>
-			<edited>アゲアゲ・10・プラーXXL</edited>
+			<edited>超嗨·10·普拉XXL</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP105" offset="00" relocatable="true" max_length="0">
 			<original>フロムキタグニ87</original>
-			<edited>フロムキタグニ87</edited>
+			<edited>来自北国87</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP106" offset="00" relocatable="true" max_length="0">
 			<original>ゾネスティックプロテクター</original>
-			<edited>ゾネスティックプロテクター</edited>
+			<edited>女战士风护甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP107" offset="00" relocatable="true" max_length="0">
 			<original>レコヤルックEP</original>
-			<edited>レコヤルックEP</edited>
+			<edited>雷科亚鲁克EP</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP108" offset="00" relocatable="true" max_length="0">
 			<original>デベロッパーズワークウエア</original>
-			<edited>デベロッパーズワークウエア</edited>
+			<edited>开发者工作服</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP109" offset="00" relocatable="true" max_length="0">
 			<original>ジムパーソンアーマー</original>
-			<edited>ジムパーソンアーマー</edited>
+			<edited>健身教练护甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP110" offset="00" relocatable="true" max_length="0">
 			<original>アカシックコート</original>
-			<edited>アカシックコート</edited>
+			<edited>阿卡西克大衣</edited>
 			<subEntries />
 		</entry>
 		<entry name="CRC000" offset="00" relocatable="true" max_length="0">
 			<original>メカボディ・AKM</original>
-			<edited>メカボディ・AKM</edited>
+			<edited>机械身体·AKM</edited>
 			<subEntries />
 		</entry>
 	</entries>

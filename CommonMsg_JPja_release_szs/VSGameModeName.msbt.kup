@@ -53,14 +53,14 @@
 		</entry>
 		<entry name="cLeague" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチ</original>
-			<edited>リーグマッチ</edited>
+			<edited>联赛对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cLeague_2L" offset="00" relocatable="true" max_length="0">
 			<original>リーグ
 マッチ</original>
-			<edited>リーグ
-マッチ</edited>
+			<edited>联赛
+对战</edited>
 			<subEntries />
 		</entry>
 	</entries>

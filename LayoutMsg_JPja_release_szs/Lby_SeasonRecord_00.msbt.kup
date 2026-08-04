@@ -60,26 +60,25 @@
 		</entry>
 		<entry name="T_Title_01" offset="00" relocatable="true" max_length="0">
 			<original>次のランキング戦が開始されました！</original>
-			<edited>次のランキング戦が開始されました！</edited>
+			<edited>下一轮排行榜战开始了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>正確な順位やランキングについては、
 インターネットサービス「イカリング２」を
 ご確認ください。</original>
-			<edited>正確な順位やランキングについては、
-インターネットサービス「イカリング２」を
-ご確認ください。</edited>
+			<edited>准确的排名和排行榜，
+请查看网络服务“鱿鱼圈2”。</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Season_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</original>
-			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</edited>
+			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í 的记录</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Season_01" offset="00" relocatable="true" max_length="0">
 			<original>期間　&#xE;&#x5;&#x0;&#x2;&#x0;Í</original>
-			<edited>期間　&#xE;&#x5;&#x0;&#x2;&#x0;Í</edited>
+			<edited>期间 &#xE;&#x5;&#x0;&#x2;&#x0;Í</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -17,7 +17,7 @@
 		</entry>
 		<entry name="L_Timer_00-T_Time_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x1;Í</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú&#x9;&#x4;&#x1;&#x0;&#x1;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Timer_00-T_Info_02" offset="00" relocatable="true" max_length="0">

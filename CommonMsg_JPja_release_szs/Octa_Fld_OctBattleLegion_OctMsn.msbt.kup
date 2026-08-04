@@ -5,132 +5,132 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>大量に敵が出るので、囲まれないようにしましょウ</original>
-			<edited>大量に敵が出るので、囲まれないようにしましょウ</edited>
+			<edited>敌人会大量出现，小心别被包围</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>倒しきれない時は さっさと先に進んでもよいでス</original>
-			<edited>倒しきれない時は さっさと先に進んでもよいでス</edited>
+			<edited>打不完的时候，也可以赶紧往前走</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>敵とシャヘイと 自分の位置関係に注意でス</original>
-			<edited>敵とシャヘイと 自分の位置関係に注意でス</edited>
+			<edited>注意敌人、遮蔽物和自身的位置关系</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0001" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント出ましたね！</original>
-			<edited>ジャンプポイント出ましたね！</edited>
+			<edited>跳跃点出现了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0002" offset="00" relocatable="true" max_length="0">
 			<original>ワラワラ出てきやがって！ なぎはらえー！</original>
-			<edited>ワラワラ出てきやがって！ なぎはらえー！</edited>
+			<edited>一群群地涌出来！横扫它们！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0003" offset="00" relocatable="true" max_length="0">
 			<original>ワナじゃッ！ 退けィ、８号！</original>
-			<edited>ワナじゃッ！ 退けィ、８号！</edited>
+			<edited>是陷阱！快退，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0004" offset="00" relocatable="true" max_length="0">
 			<original>っしゃ！ 全部 片付けたな！</original>
-			<edited>っしゃ！ 全部 片付けたな！</edited>
+			<edited>好嘞！全部清完了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0005" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ 囲まれてんゾ！</original>
-			<edited>ハチ！ 囲まれてんゾ！</edited>
+			<edited>小八！被包围了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0006" offset="00" relocatable="true" max_length="0">
 			<original>おかわりが 出てきました！</original>
-			<edited>おかわりが 出てきました！</edited>
+			<edited>又来一波！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0007" offset="00" relocatable="true" max_length="0">
 			<original>おかわりは パフェだけにして欲しいゾ！</original>
-			<edited>おかわりは パフェだけにして欲しいゾ！</edited>
+			<edited>加菜的话我只想要圣代啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0008" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらすじゃ、８号！</original>
-			<edited>ふぁびゅらすじゃ、８号！</edited>
+			<edited>太棒了，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0009" offset="00" relocatable="true" max_length="0">
 			<original>すばしっこい敵、発見じゃ！ 構えィ！！</original>
-			<edited>すばしっこい敵、発見じゃ！ 構えィ！！</edited>
+			<edited>发现敏捷的敌人！戒备！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0010" offset="00" relocatable="true" max_length="0">
 			<original>止まっていると 集中攻撃をくらいますよ！</original>
-			<edited>止まっていると 集中攻撃をくらいますよ！</edited>
+			<edited>站着不动会被集火！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0011" offset="00" relocatable="true" max_length="0">
 			<original>うむ、見事じゃ！</original>
-			<edited>うむ、見事じゃ！</edited>
+			<edited>嗯，漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0012" offset="00" relocatable="true" max_length="0">
 			<original>早く倒していかないと ジリ貧です！</original>
-			<edited>早く倒していかないと ジリ貧です！</edited>
+			<edited>不快点打掉的话，会陷入被动！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0013" offset="00" relocatable="true" max_length="0">
 			<original>わ～！ いっぱい降ってきますよ！</original>
-			<edited>わ～！ いっぱい降ってきますよ！</edited>
+			<edited>哇～！下来了好多！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0014" offset="00" relocatable="true" max_length="0">
 			<original>真ん中に ジャンプポイント出ましたよ！</original>
-			<edited>真ん中に ジャンプポイント出ましたよ！</edited>
+			<edited>中间出现了跳跃点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0015" offset="00" relocatable="true" max_length="0">
 			<original>タコトルーパーも 降って来よったぞィ！</original>
-			<edited>タコトルーパーも 降って来よったぞィ！</edited>
+			<edited>章鱼兵也掉下来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0016" offset="00" relocatable="true" max_length="0">
 			<original>この辺で打ち止めみたいです！</original>
-			<edited>この辺で打ち止めみたいです！</edited>
+			<edited>到这里好像就没有了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0017" offset="00" relocatable="true" max_length="0">
 			<original>メチャクチャ守られてんジャン！</original>
-			<edited>メチャクチャ守られてんジャン！</edited>
+			<edited>守得也太严密了吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0018" offset="00" relocatable="true" max_length="0">
 			<original>戦線 トッパー！</original>
-			<edited>戦線 トッパー！</edited>
+			<edited>突破战线！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0019" offset="00" relocatable="true" max_length="0">
 			<original>ゥッシ！ ナイスファイト！</original>
-			<edited>ゥッシ！ ナイスファイト！</edited>
+			<edited>好嘞！打得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0020" offset="00" relocatable="true" max_length="0">
 			<original>ギャー！ くんなー！</original>
-			<edited>ギャー！ くんなー！</edited>
+			<edited>哇啊！别过来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0021" offset="00" relocatable="true" max_length="0">
 			<original>あめぃじん！ あれだけの敵をさばくとはのゥ！</original>
-			<edited>あめぃじん！ あれだけの敵をさばくとはのゥ！</edited>
+			<edited>了不起！能应付那么多敌人！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0022" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント 出ました！</original>
-			<edited>ジャンプポイント 出ました！</edited>
+			<edited>跳跃点出现了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleLegion_0023" offset="00" relocatable="true" max_length="0">
 			<original>敵がどんどん降ってくんゾ！</original>
-			<edited>敵がどんどん降ってくんゾ！</edited>
+			<edited>敌人不断掉下来！</edited>
 			<subEntries />
 		</entry>
 	</entries>

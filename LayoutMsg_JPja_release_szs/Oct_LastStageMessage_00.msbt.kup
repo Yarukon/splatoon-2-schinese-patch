@@ -6,57 +6,57 @@
 		<entry name="Fld_OctLastBoss00_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号は敵から身をかくし、
 もぐりこむことに成功したのである…</original>
-			<edited>８号は敵から身をかくし、
-もぐりこむことに成功したのである…</edited>
+			<edited>8号藏身避敌，
+成功潜入了进去…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss01_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号はブキを手に入れ、
 さらに上層を目指すのであった…</original>
-			<edited>８号はブキを手に入れ、
-さらに上層を目指すのであった…</edited>
+			<edited>8号拿到了武器，
+继续向更高的层前进…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss02_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号は道なき道を乗りこえ、
 先に進むのであった…</original>
-			<edited>８号は道なき道を乗りこえ、
-先に進むのであった…</edited>
+			<edited>8号跨越了无路之路，
+继续前行…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss03_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号は敵のトラップをくぐり抜け、
 エネルギーコアを目指すのであった…</original>
-			<edited>８号は敵のトラップをくぐり抜け、
-エネルギーコアを目指すのであった…</edited>
+			<edited>8号穿过敌人的陷阱，
+朝能量核心前进…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss04_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号は全てのロックを解除したが、
 エネルギーコアはどこかへ飛び去ってしまった…</original>
-			<edited>８号は全てのロックを解除したが、
-エネルギーコアはどこかへ飛び去ってしまった…</edited>
+			<edited>8号解除了所有锁，
+但能量核心却飞去了别处…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss05_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号はエネルギーコアを守りぬき、
 電源にセットしたのである…</original>
-			<edited>８号はエネルギーコアを守りぬき、
-電源にセットしたのである…</edited>
+			<edited>8号守护住了能量核心，
+并把它装进了电源…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss06_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号は最強の戦士３号との激闘の末、
 からくも３号を気絶させるに至った…</original>
-			<edited>８号は最強の戦士３号との激闘の末、
-からくも３号を気絶させるに至った…</edited>
+			<edited>8号与最强的战士3号激战之后，
+终于勉强打晕了3号…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBoss_OctMsn" offset="00" relocatable="true" max_length="0">
 			<original>８号は全てをネリかえそうとする巨像の全身を、
 塗りたくることに成功したのであった……</original>
-			<edited>８号は全てをネリかえそうとする巨像の全身を、
-塗りたくることに成功したのであった……</edited>
+			<edited>8号成功把企图重塑一切的巨像全身，
+涂了个遍……</edited>
 			<subEntries />
 		</entry>
 	</entries>

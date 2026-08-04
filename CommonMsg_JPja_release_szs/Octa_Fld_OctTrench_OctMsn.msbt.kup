@@ -5,67 +5,67 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>敵が多めのチャレンジとなりまス</original>
-			<edited>敵が多めのチャレンジとなりまス</edited>
+			<edited>这是敌人较多的挑战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>スロッシャーはタテの上をこえて 攻撃ができまス</original>
-			<edited>スロッシャーはタテの上をこえて 攻撃ができまス</edited>
+			<edited>泼桶能越过障碍攻击</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ブラスターは爆風で タテをカワして攻撃できまス</original>
-			<edited>ブラスターは爆風で タテをカワして攻撃できまス</edited>
+			<edited>爆破枪能用爆风绕开障碍攻击</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0000" offset="00" relocatable="true" max_length="0">
 			<original>この先は敵が大量っぽいな！ 気合入れてけ！</original>
-			<edited>この先は敵が大量っぽいな！ 気合入れてけ！</edited>
+			<edited>前面敌人好像很多！打起精神！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0001" offset="00" relocatable="true" max_length="0">
 			<original>迷路みたいですね… 死角に注意です！</original>
-			<edited>迷路みたいですね… 死角に注意です！</edited>
+			<edited>像迷宫一样… 小心死角！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0002" offset="00" relocatable="true" max_length="0">
 			<original>タテ持ちは 上とか横からインクかけてけ！</original>
-			<edited>タテ持ちは 上とか横からインクかけてけ！</edited>
+			<edited>持盾章鱼，从上面或侧面泼墨！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0003" offset="00" relocatable="true" max_length="0">
 			<original>よく切りぬけたのゥ！ グッドじゃ！</original>
-			<edited>よく切りぬけたのゥ！ グッドじゃ！</edited>
+			<edited>真能闯啊！干得好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0004" offset="00" relocatable="true" max_length="0">
 			<original>集合住宅…？ 上にゴール見えたし登ればよさそーだな</original>
-			<edited>集合住宅…？ 上にゴール見えたし登ればよさそーだな</edited>
+			<edited>公寓…？上面能看到终点，爬上去就行</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0005" offset="00" relocatable="true" max_length="0">
 			<original>よーしッ！ 屋上に とうちゃくじゃ！</original>
-			<edited>よーしッ！ 屋上に とうちゃくじゃ！</edited>
+			<edited>好！抵达屋顶！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0006" offset="00" relocatable="true" max_length="0">
 			<original>タココマンダーがいます！ 気をつけてください！</original>
-			<edited>タココマンダーがいます！ 気をつけてください！</edited>
+			<edited>有章鱼指挥官！小心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0007" offset="00" relocatable="true" max_length="0">
 			<original>敵に気をつけろよ！！</original>
-			<edited>敵に気をつけろよ！！</edited>
+			<edited>小心敌人！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0008" offset="00" relocatable="true" max_length="0">
 			<original>こんなところに インクレールが！</original>
-			<edited>こんなところに インクレールが！</edited>
+			<edited>这种地方居然有墨汁轨道！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Trench_0009" offset="00" relocatable="true" max_length="0">
 			<original>建設中… てゆっか、ただのハリボテだったな！</original>
-			<edited>建設中… てゆっか、ただのハリボテだったな！</edited>
+			<edited>施工中… 其实就是个纸板模型！</edited>
 			<subEntries />
 		</entry>
 	</entries>

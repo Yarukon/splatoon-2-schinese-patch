@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="OBJ_0003" offset="00" relocatable="true" max_length="0">
 			<original>タコウォッシャー</original>
-			<edited>タコウォッシャー</edited>
+			<edited>章鱼清洗机</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0005" offset="00" relocatable="true" max_length="0">
@@ -30,42 +30,42 @@
 		</entry>
 		<entry name="OBJ_0006" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセル</original>
-			<edited>エイトカプセル</edited>
+			<edited>8号胶囊</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0068" offset="00" relocatable="true" max_length="0">
 			<original>エイトボール</original>
-			<edited>エイトボール</edited>
+			<edited>8号球</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0067" offset="00" relocatable="true" max_length="0">
 			<original>ボールゴール</original>
-			<edited>ボールゴール</edited>
+			<edited>球门</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0066" offset="00" relocatable="true" max_length="0">
 			<original>ボールランチャー</original>
-			<edited>ボールランチャー</edited>
+			<edited>球发射器</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0065" offset="00" relocatable="true" max_length="0">
 			<original>ボールスイッチ</original>
-			<edited>ボールスイッチ</edited>
+			<edited>球开关</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0007" offset="00" relocatable="true" max_length="0">
 			<original>ボールバンパー</original>
-			<edited>ボールバンパー</edited>
+			<edited>球挡板</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0008" offset="00" relocatable="true" max_length="0">
 			<original>ウレタン</original>
-			<edited>ウレタン</edited>
+			<edited>缓冲垫</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0077" offset="00" relocatable="true" max_length="0">
 			<original>ボールレール</original>
-			<edited>ボールレール</edited>
+			<edited>球轨道</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0076" offset="00" relocatable="true" max_length="0">
@@ -85,22 +85,22 @@
 		</entry>
 		<entry name="OBJ_0072" offset="00" relocatable="true" max_length="0">
 			<original>カンヅメ発生装置</original>
-			<edited>カンヅメ発生装置</edited>
+			<edited>罐头生成装置</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0071" offset="00" relocatable="true" max_length="0">
 			<original>ゴールポイント</original>
-			<edited>ゴールポイント</edited>
+			<edited>终点</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0070" offset="00" relocatable="true" max_length="0">
 			<original>ログポイント</original>
-			<edited>ログポイント</edited>
+			<edited>记录点</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0069" offset="00" relocatable="true" max_length="0">
 			<original>ドレッサー</original>
-			<edited>ドレッサー</edited>
+			<edited>梳妆台</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0079" offset="00" relocatable="true" max_length="0">
@@ -135,12 +135,12 @@
 		</entry>
 		<entry name="OBJ_0025" offset="00" relocatable="true" max_length="0">
 			<original>ナマコ車掌</original>
-			<edited>ナマコ車掌</edited>
+			<edited>海参车长</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0026" offset="00" relocatable="true" max_length="0">
 			<original>グソクさん</original>
-			<edited>グソクさん</edited>
+			<edited>具足虫先生</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0019" offset="00" relocatable="true" max_length="0">
@@ -180,47 +180,47 @@
 		</entry>
 		<entry name="OBJ_0028" offset="00" relocatable="true" max_length="0">
 			<original>ネル社</original>
-			<edited>ネル社</edited>
+			<edited>涅尔社</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0030" offset="00" relocatable="true" max_length="0">
 			<original>タルタル総帥</original>
-			<edited>タルタル総帥</edited>
+			<edited>塔塔鲁总帅</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0032" offset="00" relocatable="true" max_length="0">
 			<original>ネルス像</original>
-			<edited>ネルス像</edited>
+			<edited>涅尔像</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0039" offset="00" relocatable="true" max_length="0">
 			<original>ミサイルタコプター</original>
-			<edited>ミサイルタコプター</edited>
+			<edited>导弹章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0040" offset="00" relocatable="true" max_length="0">
 			<original>バイソクミサイルタコプター</original>
-			<edited>バイソクミサイルタコプター</edited>
+			<edited>高速导弹章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0054" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4个那东西&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0056" offset="00" relocatable="true" max_length="0">
 			<original>チャットログ</original>
-			<edited>チャットログ</edited>
+			<edited>聊天记录</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0057" offset="00" relocatable="true" max_length="0">
 			<original>残機数</original>
-			<edited>残機数</edited>
+			<edited>剩余次数</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0058" offset="00" relocatable="true" max_length="0">
 			<original>そうび画面</original>
-			<edited>そうび画面</edited>
+			<edited>装备画面</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0059" offset="00" relocatable="true" max_length="0">
@@ -240,12 +240,12 @@
 		</entry>
 		<entry name="OBJ_0062" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラ湾</original>
-			<edited>ハイカラ湾</edited>
+			<edited>尚兴湾</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0064" offset="00" relocatable="true" max_length="0">
 			<original>NAMACOポイント（略称はポイント）</original>
-			<edited>NAMACOポイント（略称はポイント）</edited>
+			<edited>NAMACO积分（简称积分）</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0074" offset="00" relocatable="true" max_length="0">
@@ -255,7 +255,7 @@
 		</entry>
 		<entry name="OBJ_0084" offset="00" relocatable="true" max_length="0">
 			<original>ネリメモリー</original>
-			<edited>ネリメモリー</edited>
+			<edited>记忆蛋糕</edited>
 			<subEntries />
 		</entry>
 	</entries>

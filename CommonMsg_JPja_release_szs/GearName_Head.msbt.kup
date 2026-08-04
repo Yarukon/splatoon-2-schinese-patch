@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="CAP001" offset="00" relocatable="true" max_length="0">
 			<original>キャンプキャップ</original>
-			<edited>キャンプキャップ</edited>
+			<edited>露营帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP002" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="CAP004" offset="00" relocatable="true" max_length="0">
 			<original>チドリキャップ</original>
-			<edited>チドリキャップ</edited>
+			<edited>千鸟帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP005" offset="00" relocatable="true" max_length="0">
@@ -40,32 +40,32 @@
 		</entry>
 		<entry name="CAP006" offset="00" relocatable="true" max_length="0">
 			<original>カモメッシュ</original>
-			<edited>カモメッシュ</edited>
+			<edited>海鸥网帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP007" offset="00" relocatable="true" max_length="0">
 			<original>5パネルキャップ</original>
-			<edited>5パネルキャップ</edited>
+			<edited>五片帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP008" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコメッシュ</original>
-			<edited>エゾッコメッシュ</edited>
+			<edited>泽酷网帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP009" offset="00" relocatable="true" max_length="0">
 			<original>バックワードキャップ</original>
-			<edited>バックワードキャップ</edited>
+			<edited>反戴帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP010" offset="00" relocatable="true" max_length="0">
 			<original>2ラインメッシュ</original>
-			<edited>2ラインメッシュ</edited>
+			<edited>双线网帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP011" offset="00" relocatable="true" max_length="0">
 			<original>ジェットキャップ</original>
-			<edited>ジェットキャップ</edited>
+			<edited>喷气帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP012" offset="00" relocatable="true" max_length="0">
@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="CAP014" offset="00" relocatable="true" max_length="0">
 			<original>チャリキング帽</original>
-			<edited>チャリキング帽</edited>
+			<edited>单车王帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP015" offset="00" relocatable="true" max_length="0">
@@ -85,12 +85,12 @@
 		</entry>
 		<entry name="CAP018" offset="00" relocatable="true" max_length="0">
 			<original>ロングビルキャップ</original>
-			<edited>ロングビルキャップ</edited>
+			<edited>长檐帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP019" offset="00" relocatable="true" max_length="0">
 			<original>キングフリップメッシュ</original>
-			<edited>キングフリップメッシュ</edited>
+			<edited>国王翻转网帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP020" offset="00" relocatable="true" max_length="0">
@@ -105,62 +105,62 @@
 		</entry>
 		<entry name="CAP023" offset="00" relocatable="true" max_length="0">
 			<original>クラゲーダーキャップ</original>
-			<edited>クラゲーダーキャップ</edited>
+			<edited>水母维德帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP024" offset="00" relocatable="true" max_length="0">
 			<original>ハウスタグデニムCAP</original>
-			<edited>ハウスタグデニムCAP</edited>
+			<edited>豪宅标签牛仔帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP025" offset="00" relocatable="true" max_length="0">
 			<original>フグハンチング</original>
-			<edited>フグハンチング</edited>
+			<edited>河豚猎鸭帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP026" offset="00" relocatable="true" max_length="0">
 			<original>ドゥーラグキャップガサネ</original>
-			<edited>ドゥーラグキャップガサネ</edited>
+			<edited>叠戴杜拉格帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="CAP027" offset="00" relocatable="true" max_length="0">
 			<original>フライトぼう</original>
-			<edited>フライトぼう</edited>
+			<edited>飞行帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP000" offset="00" relocatable="true" max_length="0">
 			<original>ボンボンニット</original>
-			<edited>ボンボンニット</edited>
+			<edited>绒球针织帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP001" offset="00" relocatable="true" max_length="0">
 			<original>ショートビーニー</original>
-			<edited>ショートビーニー</edited>
+			<edited>短款毛线帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP002" offset="00" relocatable="true" max_length="0">
 			<original>ボーダービーニー</original>
-			<edited>ボーダービーニー</edited>
+			<edited>条纹毛线帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP003" offset="00" relocatable="true" max_length="0">
 			<original>ウインターボンボン</original>
-			<edited>ウインターボンボン</edited>
+			<edited>冬季绒球帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP004" offset="00" relocatable="true" max_length="0">
 			<original>モンゴウベレー</original>
-			<edited>モンゴウベレー</edited>
+			<edited>纹甲贝雷帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP005" offset="00" relocatable="true" max_length="0">
 			<original>イカノルディック</original>
-			<edited>イカノルディック</edited>
+			<edited>鱿鱼北欧针织帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP006" offset="00" relocatable="true" max_length="0">
 			<original>センニューボンボン</original>
-			<edited>センニューボンボン</edited>
+			<edited>潜入绒球帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP008" offset="00" relocatable="true" max_length="0">
@@ -170,22 +170,22 @@
 		</entry>
 		<entry name="NCP009" offset="00" relocatable="true" max_length="0">
 			<original>アナアキアンピンベレー</original>
-			<edited>アナアキアンピンベレー</edited>
+			<edited>无法无天别针贝雷帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP010" offset="00" relocatable="true" max_length="0">
 			<original>ヤマギリビーニー</original>
-			<edited>ヤマギリビーニー</edited>
+			<edited>山切毛线帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="NCP011" offset="00" relocatable="true" max_length="0">
 			<original>オシノビニット</original>
-			<edited>オシノビニット</edited>
+			<edited>潜行针织帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE000" offset="00" relocatable="true" max_length="0">
 			<original>クロブチ レトロ</original>
-			<edited>クロブチ レトロ</edited>
+			<edited>复古黑框眼镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE001" offset="00" relocatable="true" max_length="0">
@@ -205,17 +205,17 @@
 		</entry>
 		<entry name="EYE004" offset="00" relocatable="true" max_length="0">
 			<original>アローバンド ブラック</original>
-			<edited>アローバンド ブラック</edited>
+			<edited>箭带头带 黑色</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE005" offset="00" relocatable="true" max_length="0">
 			<original>ダイバーゴーグル</original>
-			<edited>ダイバーゴーグル</edited>
+			<edited>潜水护目镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE006" offset="00" relocatable="true" max_length="0">
 			<original>アローバンド ホワイト</original>
-			<edited>アローバンド ホワイト</edited>
+			<edited>箭带头带 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE007" offset="00" relocatable="true" max_length="0">
@@ -235,7 +235,7 @@
 		</entry>
 		<entry name="EYE010" offset="00" relocatable="true" max_length="0">
 			<original>オクタグラス</original>
-			<edited>オクタグラス</edited>
+			<edited>章鱼眼镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE011" offset="00" relocatable="true" max_length="0">
@@ -250,17 +250,17 @@
 		</entry>
 		<entry name="EYE013" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコフリッパー</original>
-			<edited>エゾッコフリッパー</edited>
+			<edited>泽酷帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE014" offset="00" relocatable="true" max_length="0">
 			<original>マルサンSV925</original>
-			<edited>マルサンSV925</edited>
+			<edited>圆形墨镜SV925</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE015" offset="00" relocatable="true" max_length="0">
 			<original>アナアキバスクベレー</original>
-			<edited>アナアキバスクベレー</edited>
+			<edited>无法无天巴斯克贝雷帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE016" offset="00" relocatable="true" max_length="0">
@@ -270,42 +270,42 @@
 		</entry>
 		<entry name="EYE017" offset="00" relocatable="true" max_length="0">
 			<original>スミガードゴーグル</original>
-			<edited>スミガードゴーグル</edited>
+			<edited>防墨护目镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE018" offset="00" relocatable="true" max_length="0">
 			<original>モーグル タタキベッチュー</original>
-			<edited>モーグル タタキベッチュー</edited>
+			<edited>剑尖鱿特制泳镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE019" offset="00" relocatable="true" max_length="0">
 			<original>センニューゴーグル</original>
-			<edited>センニューゴーグル</edited>
+			<edited>潜入护目镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="EYE020" offset="00" relocatable="true" max_length="0">
 			<original>センニュークロブチ</original>
-			<edited>センニュークロブチ</edited>
+			<edited>潜入黑框眼镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT000" offset="00" relocatable="true" max_length="0">
 			<original>ロブスターブーニー</original>
-			<edited>ロブスターブーニー</edited>
+			<edited>龙虾毛线帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT001" offset="00" relocatable="true" max_length="0">
 			<original>サファリハット</original>
-			<edited>サファリハット</edited>
+			<edited>探险帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT002" offset="00" relocatable="true" max_length="0">
 			<original>キャンプハット</original>
-			<edited>キャンプハット</edited>
+			<edited>露营帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT003" offset="00" relocatable="true" max_length="0">
 			<original>フグベルハット</original>
-			<edited>フグベルハット</edited>
+			<edited>河豚铃帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT004" offset="00" relocatable="true" max_length="0">
@@ -315,7 +315,7 @@
 		</entry>
 		<entry name="HAT005" offset="00" relocatable="true" max_length="0">
 			<original>イカンカン</original>
-			<edited>イカンカン</edited>
+			<edited>鱿鱼草帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT006" offset="00" relocatable="true" max_length="0">
@@ -325,7 +325,7 @@
 		</entry>
 		<entry name="HAT007" offset="00" relocatable="true" max_length="0">
 			<original>トレジャーメット</original>
-			<edited>トレジャーメット</edited>
+			<edited>寻宝头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT008" offset="00" relocatable="true" max_length="0">
@@ -335,32 +335,32 @@
 		</entry>
 		<entry name="HAT009" offset="00" relocatable="true" max_length="0">
 			<original>パッチハット</original>
-			<edited>パッチハット</edited>
+			<edited>拼布帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT010" offset="00" relocatable="true" max_length="0">
 			<original>パラソルチューリップ</original>
-			<edited>パラソルチューリップ</edited>
+			<edited>郁金香伞帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT011" offset="00" relocatable="true" max_length="0">
 			<original>フグベルベルハット</original>
-			<edited>フグベルベルハット</edited>
+			<edited>河豚铃铛圆边帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT012" offset="00" relocatable="true" max_length="0">
 			<original>カイガラスゲ</original>
-			<edited>カイガラスゲ</edited>
+			<edited>贝壳斗笠</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT013" offset="00" relocatable="true" max_length="0">
 			<original>ホタプラントハット</original>
-			<edited>ホタプラントハット</edited>
+			<edited>帆立植物圆边帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAT014" offset="00" relocatable="true" max_length="0">
 			<original>ヤマハット</original>
-			<edited>ヤマハット</edited>
+			<edited>山形圆边帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HDP000" offset="00" relocatable="true" max_length="0">
@@ -375,12 +375,12 @@
 		</entry>
 		<entry name="HDP002" offset="00" relocatable="true" max_length="0">
 			<original>イヤーマフ</original>
-			<edited>イヤーマフ</edited>
+			<edited>耳罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="HDP003" offset="00" relocatable="true" max_length="0">
 			<original>エンペラフックHDP</original>
-			<edited>エンペラフックHDP</edited>
+			<edited>鱿皇钩形耳机</edited>
 			<subEntries />
 		</entry>
 		<entry name="HDP004" offset="00" relocatable="true" max_length="0">
@@ -390,17 +390,17 @@
 		</entry>
 		<entry name="HDP005" offset="00" relocatable="true" max_length="0">
 			<original>スタジオオクトホン</original>
-			<edited>スタジオオクトホン</edited>
+			<edited>工作室章鱼耳机</edited>
 			<subEntries />
 		</entry>
 		<entry name="HDP006" offset="00" relocatable="true" max_length="0">
 			<original>センニューヘッドホン</original>
-			<edited>センニューヘッドホン</edited>
+			<edited>潜入耳机</edited>
 			<subEntries />
 		</entry>
 		<entry name="VIS000" offset="00" relocatable="true" max_length="0">
 			<original>キャディ サンバイザー</original>
-			<edited>キャディ サンバイザー</edited>
+			<edited>球童中空遮阳帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="VIS001" offset="00" relocatable="true" max_length="0">
@@ -410,7 +410,7 @@
 		</entry>
 		<entry name="VIS002" offset="00" relocatable="true" max_length="0">
 			<original>サンサンサンバイザー</original>
-			<edited>サンサンサンバイザー</edited>
+			<edited>阳光中空遮阳帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="VIS003" offset="00" relocatable="true" max_length="0">
@@ -425,32 +425,32 @@
 		</entry>
 		<entry name="MET000" offset="00" relocatable="true" max_length="0">
 			<original>サイクルメット</original>
-			<edited>サイクルメット</edited>
+			<edited>单车头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET002" offset="00" relocatable="true" max_length="0">
 			<original>ナイトビジョン</original>
-			<edited>ナイトビジョン</edited>
+			<edited>夜视头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET003" offset="00" relocatable="true" max_length="0">
 			<original>テンタクルズメット</original>
-			<edited>テンタクルズメット</edited>
+			<edited>腕儿姐妹头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET004" offset="00" relocatable="true" max_length="0">
 			<original>スケボーメット</original>
-			<edited>スケボーメット</edited>
+			<edited>滑板头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET005" offset="00" relocatable="true" max_length="0">
 			<original>バイザーメット</original>
-			<edited>バイザーメット</edited>
+			<edited>面罩头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET006" offset="00" relocatable="true" max_length="0">
 			<original>ロゴヅクシMTBメット</original>
-			<edited>ロゴヅクシMTBメット</edited>
+			<edited>满Logo山地车头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET007" offset="00" relocatable="true" max_length="0">
@@ -460,47 +460,47 @@
 		</entry>
 		<entry name="MET008" offset="00" relocatable="true" max_length="0">
 			<original>ツヤケシMTBメット</original>
-			<edited>ツヤケシMTBメット</edited>
+			<edited>哑光山地车头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET009" offset="00" relocatable="true" max_length="0">
 			<original>オクトメットプライズデコ</original>
-			<edited>オクトメットプライズデコ</edited>
+			<edited>章鱼奖品头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET010" offset="00" relocatable="true" max_length="0">
 			<original>モイストワカメット</original>
-			<edited>モイストワカメット</edited>
+			<edited>湿润裙带菜头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="MET011" offset="00" relocatable="true" max_length="0">
 			<original>デカメットアイシールド</original>
-			<edited>デカメットアイシールド</edited>
+			<edited>大头盔护目罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK000" offset="00" relocatable="true" max_length="0">
 			<original>タコマスク</original>
-			<edited>タコマスク</edited>
+			<edited>章鱼口罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK001" offset="00" relocatable="true" max_length="0">
 			<original>フェイスゴーグル</original>
-			<edited>フェイスゴーグル</edited>
+			<edited>面部护目镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK002" offset="00" relocatable="true" max_length="0">
 			<original>エイズリーバンダナ</original>
-			<edited>エイズリーバンダナ</edited>
+			<edited>佩斯利花纹丝巾</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK003" offset="00" relocatable="true" max_length="0">
 			<original>イカスカルマスク</original>
-			<edited>イカスカルマスク</edited>
+			<edited>鱿鱼骷髅口罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK004" offset="00" relocatable="true" max_length="0">
 			<original>ペインターマスク</original>
-			<edited>ペインターマスク</edited>
+			<edited>油漆工口罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK005" offset="00" relocatable="true" max_length="0">
@@ -510,12 +510,12 @@
 		</entry>
 		<entry name="MSK006" offset="00" relocatable="true" max_length="0">
 			<original>キングタコスターマスク</original>
-			<edited>キングタコスターマスク</edited>
+			<edited>章鱼王星星口罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK007" offset="00" relocatable="true" max_length="0">
 			<original>イカバッテンガード</original>
-			<edited>イカバッテンガード</edited>
+			<edited>鱿鱼十字口罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK008" offset="00" relocatable="true" max_length="0">
@@ -525,12 +525,12 @@
 		</entry>
 		<entry name="MSK009" offset="00" relocatable="true" max_length="0">
 			<original>キングオブマスク</original>
-			<edited>キングオブマスク</edited>
+			<edited>口罩之王</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK010" offset="00" relocatable="true" max_length="0">
 			<original>ノーズガードモトクロス</original>
-			<edited>ノーズガードモトクロス</edited>
+			<edited>越野摩托车护鼻罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK011" offset="00" relocatable="true" max_length="0">
@@ -540,22 +540,22 @@
 		</entry>
 		<entry name="MSK012" offset="00" relocatable="true" max_length="0">
 			<original>フォーリマスク デジカモ</original>
-			<edited>フォーリマスク デジカモ</edited>
+			<edited>锻品口罩 数码迷彩</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSK013" offset="00" relocatable="true" max_length="0">
 			<original>こうしえんバンダナ</original>
-			<edited>こうしえんバンダナ</edited>
+			<edited>甲子园头巾</edited>
 			<subEntries />
 		</entry>
 		<entry name="HBD001" offset="00" relocatable="true" max_length="0">
 			<original>バスケバンド</original>
-			<edited>バスケバンド</edited>
+			<edited>篮球头带</edited>
 			<subEntries />
 		</entry>
 		<entry name="HBD002" offset="00" relocatable="true" max_length="0">
 			<original>スカッシュバンド</original>
-			<edited>スカッシュバンド</edited>
+			<edited>壁球头带</edited>
 			<subEntries />
 		</entry>
 		<entry name="HBD003" offset="00" relocatable="true" max_length="0">
@@ -565,12 +565,12 @@
 		</entry>
 		<entry name="HBD004" offset="00" relocatable="true" max_length="0">
 			<original>ランニングバンド</original>
-			<edited>ランニングバンド</edited>
+			<edited>跑步头带</edited>
 			<subEntries />
 		</entry>
 		<entry name="HBD005" offset="00" relocatable="true" max_length="0">
 			<original>サッカーバンド</original>
-			<edited>サッカーバンド</edited>
+			<edited>足球头带</edited>
 			<subEntries />
 		</entry>
 		<entry name="HBD007" offset="00" relocatable="true" max_length="0">
@@ -580,7 +580,7 @@
 		</entry>
 		<entry name="HBD008" offset="00" relocatable="true" max_length="0">
 			<original>クロヤキフグバンダナ</original>
-			<edited>クロヤキフグバンダナ</edited>
+			<edited>黑烧河豚头巾</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB000" offset="00" relocatable="true" max_length="0">
@@ -605,7 +605,7 @@
 		</entry>
 		<entry name="AMB004" offset="00" relocatable="true" max_length="0">
 			<original>イカカゲマスク</original>
-			<edited>イカカゲマスク</edited>
+			<edited>鱿影面罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB005" offset="00" relocatable="true" max_length="0">
@@ -615,7 +615,7 @@
 		</entry>
 		<entry name="AMB006" offset="00" relocatable="true" max_length="0">
 			<original>ヒメイトクラウン</original>
-			<edited>ヒメイトクラウン</edited>
+			<edited>姬伴皇冠</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB007" offset="00" relocatable="true" max_length="0">
@@ -650,177 +650,177 @@
 		</entry>
 		<entry name="MSN101" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローレシーバー レプリカ</original>
-			<edited>ヒーローレシーバー レプリカ</edited>
+			<edited>英雄接收器 复制</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN104" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネスサングラス</original>
-			<edited>タコゾネスサングラス</edited>
+			<edited>章鱼族墨镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN105" offset="00" relocatable="true" max_length="0">
 			<original>ネルメット レプリカ</original>
-			<edited>ネルメット レプリカ</edited>
+			<edited>涅尔头盔 复制</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN106" offset="00" relocatable="true" max_length="0">
 			<original>グランパなアタマ</original>
-			<edited>グランパなアタマ</edited>
+			<edited>老式帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN107" offset="00" relocatable="true" max_length="0">
 			<original>メトロぼう</original>
-			<edited>メトロぼう</edited>
+			<edited>地铁帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN108" offset="00" relocatable="true" max_length="0">
 			<original>金のつまようじ</original>
-			<edited>金のつまようじ</edited>
+			<edited>金牙签</edited>
 			<subEntries />
 		</entry>
 		<entry name="RVL000" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネススコープ</original>
-			<edited>タコゾネススコープ</edited>
+			<edited>章鱼族护目镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP100" offset="00" relocatable="true" max_length="0">
 			<original>ヘッドライトヘルム</original>
-			<edited>ヘッドライトヘルム</edited>
+			<edited>头灯头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP101" offset="00" relocatable="true" max_length="0">
 			<original>ダストブロッカー 2.5</original>
-			<edited>ダストブロッカー 2.5</edited>
+			<edited>防尘罩 2.5</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP102" offset="00" relocatable="true" max_length="0">
 			<original>アイアンマスカレイド</original>
-			<edited>アイアンマスカレイド</edited>
+			<edited>钢铁面具</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP103" offset="00" relocatable="true" max_length="0">
 			<original>ガーディアンアーミーハット</original>
-			<edited>ガーディアンアーミーハット</edited>
+			<edited>护卫军帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP104" offset="00" relocatable="true" max_length="0">
 			<original>ゾネスティックスコープ</original>
-			<edited>ゾネスティックスコープ</edited>
+			<edited>女战士风护目镜</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP105" offset="00" relocatable="true" max_length="0">
 			<original>レジェンドのぼうし</original>
-			<edited>レジェンドのぼうし</edited>
+			<edited>传说的帽子</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP106" offset="00" relocatable="true" max_length="0">
 			<original>オーシャンズヘルム</original>
-			<edited>オーシャンズヘルム</edited>
+			<edited>海洋头盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP107" offset="00" relocatable="true" max_length="0">
 			<original>アセストップソシナ</original>
-			<edited>アセストップソシナ</edited>
+			<edited>止汗头巾</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP108" offset="00" relocatable="true" max_length="0">
 			<original>スペボウ レプリカ</original>
-			<edited>スペボウ レプリカ</edited>
+			<edited>抽绳帽 复制</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP109" offset="00" relocatable="true" max_length="0">
 			<original>マリリンハットウィズピンズ</original>
-			<edited>マリリンハットウィズピンズ</edited>
+			<edited>别针海军圆边帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="ACC001" offset="00" relocatable="true" max_length="0">
 			<original>カイザーカフ</original>
-			<edited>カイザーカフ</edited>
+			<edited>凯撒袖扣</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP000" offset="00" relocatable="true" max_length="0">
 			<original>キョンキョンぼう</original>
-			<edited>キョンキョンぼう</edited>
+			<edited>僵僵帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP001" offset="00" relocatable="true" max_length="0">
 			<original>ウミウシカチューシャ</original>
-			<edited>ウミウシカチューシャ</edited>
+			<edited>海蛞蝓发箍</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP002" offset="00" relocatable="true" max_length="0">
 			<original>ホッケかめん</original>
-			<edited>ホッケかめん</edited>
+			<edited>冰球面具</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP003" offset="00" relocatable="true" max_length="0">
 			<original>アンコウラバーマスク</original>
-			<edited>アンコウラバーマスク</edited>
+			<edited>鮟鱇鱼橡胶口罩</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP004" offset="00" relocatable="true" max_length="0">
 			<original>パーティーコーンデコ</original>
-			<edited>パーティーコーンデコ</edited>
+			<edited>派对圆锥帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP005" offset="00" relocatable="true" max_length="0">
 			<original>ニューイヤーグラスDX</original>
-			<edited>ニューイヤーグラスDX</edited>
+			<edited>新年眼镜DX</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP006" offset="00" relocatable="true" max_length="0">
 			<original>ねじりゴージャス</original>
-			<edited>ねじりゴージャス</edited>
+			<edited>华丽扭结帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP007" offset="00" relocatable="true" max_length="0">
 			<original>ハッピーチンアナゴハット</original>
-			<edited>ハッピーチンアナゴハット</edited>
+			<edited>快乐花园鳗帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP008" offset="00" relocatable="true" max_length="0">
 			<original>ノベルティバイザールピナス</original>
-			<edited>ノベルティバイザールピナス</edited>
+			<edited>纪念品中空遮阳帽·羽扇豆</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP009" offset="00" relocatable="true" max_length="0">
 			<original>ノベルティバイザーナズナ</original>
-			<edited>ノベルティバイザーナズナ</edited>
+			<edited>纪念品中空遮阳帽·荠菜</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP010" offset="00" relocatable="true" max_length="0">
 			<original>ノベルティバイザーポピー</original>
-			<edited>ノベルティバイザーポピー</edited>
+			<edited>纪念品中空遮阳帽·虞美人</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP011" offset="00" relocatable="true" max_length="0">
 			<original>ノベルティバイザーナデシコ</original>
-			<edited>ノベルティバイザーナデシコ</edited>
+			<edited>纪念品中空遮阳帽·抚子</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP012" offset="00" relocatable="true" max_length="0">
 			<original>バーニングブロイラー</original>
-			<edited>バーニングブロイラー</edited>
+			<edited>喷焰盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP013" offset="00" relocatable="true" max_length="0">
 			<original>ギガギョコツ</original>
-			<edited>ギガギョコツ</edited>
+			<edited>鱼骨盔</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP014" offset="00" relocatable="true" max_length="0">
 			<original>コズミックアンテナ</original>
-			<edited>コズミックアンテナ</edited>
+			<edited>宇宙天线</edited>
 			<subEntries />
 		</entry>
 		<entry name="HAP015" offset="00" relocatable="true" max_length="0">
 			<original>ジャスティスブレイン </original>
-			<edited>ジャスティスブレイン </edited>
+			<edited>正义大脑</edited>
 			<subEntries />
 		</entry>
 		<entry name="CRC000" offset="00" relocatable="true" max_length="0">
 			<original>メカヘッド・HTR</original>
-			<edited>メカヘッド・HTR</edited>
+			<edited>机械头部·HTR</edited>
 			<subEntries />
 		</entry>
 	</entries>

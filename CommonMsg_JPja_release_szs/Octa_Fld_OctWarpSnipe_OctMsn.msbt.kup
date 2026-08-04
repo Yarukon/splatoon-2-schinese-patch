@@ -5,42 +5,42 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>位置取りが重要なチャレンジでス</original>
-			<edited>位置取りが重要なチャレンジでス</edited>
+			<edited>这是讲究站位的挑战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイントにインクショットを当てると ワープしまス</original>
-			<edited>ひきよせポイントにインクショットを当てると ワープしまス</edited>
+			<edited>用墨汁射击打中牵引点就会传送</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>自分と相手の射程をつかみましょウ</original>
-			<edited>自分と相手の射程をつかみましょウ</edited>
+			<edited>掌握自己和对手的射程吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="WarpSnipe_0000" offset="00" relocatable="true" max_length="0">
 			<original>敵、かたっぱしから ブッ倒してくゾ！</original>
-			<edited>敵、かたっぱしから ブッ倒してくゾ！</edited>
+			<edited>把敌人一个个全部打倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="WarpSnipe_0001" offset="00" relocatable="true" max_length="0">
 			<original>残り１０体です！</original>
-			<edited>残り１０体です！</edited>
+			<edited>还剩10个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="WarpSnipe_0002" offset="00" relocatable="true" max_length="0">
 			<original>あと３体だ！</original>
-			<edited>あと３体だ！</edited>
+			<edited>还剩3个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="WarpSnipe_0003" offset="00" relocatable="true" max_length="0">
 			<original>残り１体！ 終わりよければ全てよし！ 戦場の鉄則ゥ！</original>
-			<edited>残り１体！ 終わりよければ全てよし！ 戦場の鉄則ゥ！</edited>
+			<edited>还剩1个！收尾漂亮就一切都好！战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="WarpSnipe_0004" offset="00" relocatable="true" max_length="0">
 			<original>敵の射程は、８号さんの射程より長いです！</original>
-			<edited>敵の射程は、８号さんの射程より長いです！</edited>
+			<edited>敌人的射程比8号的长！</edited>
 			<subEntries />
 		</entry>
 	</entries>

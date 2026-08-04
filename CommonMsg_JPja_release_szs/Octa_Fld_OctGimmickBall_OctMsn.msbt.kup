@@ -5,102 +5,102 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールの動きは、自然の法則に従いまス</original>
-			<edited>エイトボールの動きは、自然の法則に従いまス</edited>
+			<edited>8号球的运动遵循自然法则</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>アナタは、エイトボールのレールには乗れませン</original>
-			<edited>アナタは、エイトボールのレールには乗れませン</edited>
+			<edited>您不能乘坐8号球的轨道</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールの真ん中を撃ちましょウ</original>
-			<edited>エイトボールの真ん中を撃ちましょウ</edited>
+			<edited>射击8号球的中心吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0000" offset="00" relocatable="true" max_length="0">
 			<original>ィヤッハー！</original>
-			<edited>ィヤッハー！</edited>
+			<edited>呀哈！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0001" offset="00" relocatable="true" max_length="0">
 			<original>あ、ボールがあんゾ！</original>
-			<edited>あ、ボールがあんゾ！</edited>
+			<edited>啊，有球！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0002" offset="00" relocatable="true" max_length="0">
 			<original>ウレタンが エイトボールの速度を吸収してますね</original>
-			<edited>ウレタンが エイトボールの速度を吸収してますね</edited>
+			<edited>缓冲垫在吸收8号球的速度呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0003" offset="00" relocatable="true" max_length="0">
 			<original>コロコロ～♪</original>
-			<edited>コロコロ～♪</edited>
+			<edited>骨碌骨碌～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0004" offset="00" relocatable="true" max_length="0">
 			<original>ここは、ボム風船の力を借りて…</original>
-			<edited>ここは、ボム風船の力を借りて…</edited>
+			<edited>这里，借助炸弹气球的力量…</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0005" offset="00" relocatable="true" max_length="0">
 			<original>敵じゃ！ タマコロちゃんにかくれながら 進むんじゃ！</original>
-			<edited>敵じゃ！ タマコロちゃんにかくれながら 進むんじゃ！</edited>
+			<edited>是敌人！躲在球后面前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0006" offset="00" relocatable="true" max_length="0">
 			<original>右にゴールを発見！ 確認されたしーッ！</original>
-			<edited>右にゴールを発見！ 確認されたしーッ！</edited>
+			<edited>右边发现终点！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0007" offset="00" relocatable="true" max_length="0">
 			<original>向こうに見えるボールランチャーに 入れましょ～</original>
-			<edited>向こうに見えるボールランチャーに 入れましょ～</edited>
+			<edited>放进对面那个球发射器吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0008" offset="00" relocatable="true" max_length="0">
 			<original>インクレール、来たー！</original>
-			<edited>インクレール、来たー！</edited>
+			<edited>墨汁轨道，来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0009" offset="00" relocatable="true" max_length="0">
 			<original>あ！ おくにもボールバンパーがあります！</original>
-			<edited>あ！ おくにもボールバンパーがあります！</edited>
+			<edited>啊！里面也有球挡板！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0010" offset="00" relocatable="true" max_length="0">
 			<original>センプクして進みましょう！</original>
-			<edited>センプクして進みましょう！</edited>
+			<edited>潜行前进吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0012" offset="00" relocatable="true" max_length="0">
 			<original>ボールバンパーには、まっすぐ当てましょ～</original>
-			<edited>ボールバンパーには、まっすぐ当てましょ～</edited>
+			<edited>对准球挡板正面打吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0013" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント発見！ 飛べィ、８号！</original>
-			<edited>ジャンプポイント発見！ 飛べィ、８号！</edited>
+			<edited>发现跳跃点！飞吧，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0014" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールは 専用のレールに乗せて運べそうですね♪</original>
-			<edited>エイトボールは 専用のレールに乗せて運べそうですね♪</edited>
+			<edited>好像能把8号球放到专用轨道上运送呢♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0015" offset="00" relocatable="true" max_length="0">
 			<original>このインクレールは、もどるためのもんじゃの</original>
-			<edited>このインクレールは、もどるためのもんじゃの</edited>
+			<edited>这条墨汁轨道是用来返回的</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0016" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ タマだけに、たまらんのゥ！</original>
-			<edited>フォー！ タマだけに、たまらんのゥ！</edited>
+			<edited>哦哦！不愧是球，让人欲罢不能！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GimmickBall_0017" offset="00" relocatable="true" max_length="0">
 			<original>ッシャー！ いい動きだ！</original>
-			<edited>ッシャー！ いい動きだ！</edited>
+			<edited>好嘞！动得好！</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -5,52 +5,52 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>時間内に 風船マトを２０コ壊しましょウ</original>
-			<edited>時間内に 風船マトを２０コ壊しましょウ</edited>
+			<edited>请在时间内打坏20个气球靶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ダメ風船を撃つと アウトでス</original>
-			<edited>ダメ風船を撃つと アウトでス</edited>
+			<edited>打到禁止气球就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプ後 着地したら、カウントダウンが始まりまス</original>
-			<edited>ジャンプ後 着地したら、カウントダウンが始まりまス</edited>
+			<edited>跳跃后落地即开始倒计时</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0000" offset="00" relocatable="true" max_length="0">
 			<original>ダメ風船は、撃ったらダメです！</original>
-			<edited>ダメ風船は、撃ったらダメです！</edited>
+			<edited>禁止气球，不能打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0001" offset="00" relocatable="true" max_length="0">
 			<original>ここは、フルチャージで スパァーン！ と…</original>
-			<edited>ここは、フルチャージで スパァーン！ と…</edited>
+			<edited>这里，满蓄力啪地一下…</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0002" offset="00" relocatable="true" max_length="0">
 			<original>でも、それで ダメ風船ごと撃ったら アウトだかんな！</original>
-			<edited>でも、それで ダメ風船ごと撃ったら アウトだかんな！</edited>
+			<edited>不过，那样连禁止气球一起打到可就出局了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0003" offset="00" relocatable="true" max_length="0">
 			<original>あと１０コです！ がんばってください！</original>
-			<edited>あと１０コです！ がんばってください！</edited>
+			<edited>还剩10个！加油！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0004" offset="00" relocatable="true" max_length="0">
 			<original>あと少しじゃ！</original>
-			<edited>あと少しじゃ！</edited>
+			<edited>就差一点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0006" offset="00" relocatable="true" max_length="0">
 			<original>ジェットスイーパーだと 弾が散るのゥ…</original>
-			<edited>ジェットスイーパーだと 弾が散るのゥ…</edited>
+			<edited>喷射清洁枪的话，子弹会散开…</edited>
 			<subEntries />
 		</entry>
 		<entry name="NGBaloon_0007" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ 調子乗って バンバン撃ちまくんなよ！</original>
-			<edited>ハチ！ 調子乗って バンバン撃ちまくんなよ！</edited>
+			<edited>小八！别得意忘形乱开枪！</edited>
 			<subEntries />
 		</entry>
 	</entries>

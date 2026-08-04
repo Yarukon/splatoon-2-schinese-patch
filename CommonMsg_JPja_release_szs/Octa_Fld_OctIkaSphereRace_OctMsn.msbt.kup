@@ -5,62 +5,62 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>無敵のイカスフィアで ゴールを目指してくださイ</original>
-			<edited>無敵のイカスフィアで ゴールを目指してくださイ</edited>
+			<edited>请用无敌的鱿鱼球朝终点前进</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントで 残り時間を少し回復できまス</original>
-			<edited>チェックポイントで 残り時間を少し回復できまス</edited>
+			<edited>在关卡点能稍微恢复剩余时间</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィアは &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で爆発を起こせまス</original>
-			<edited>イカスフィアは &#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で爆発を起こせまス</edited>
+			<edited>鱿鱼球，&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;可以引发爆炸</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0001" offset="00" relocatable="true" max_length="0">
 			<original>時間が減っとるぞィ！ 敵は無視して進めィ！</original>
-			<edited>時間が減っとるぞィ！ 敵は無視して進めィ！</edited>
+			<edited>时间在减少！无视敌人前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0002" offset="00" relocatable="true" max_length="0">
 			<original>どけどけー！！</original>
-			<edited>どけどけー！！</edited>
+			<edited>让开让开！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0004" offset="00" relocatable="true" max_length="0">
 			<original>タコミサイルは よけて行きましょう！</original>
-			<edited>タコミサイルは よけて行きましょう！</edited>
+			<edited>章鱼导弹兵，躲着走吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0006" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィアでも、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプ！</original>
-			<edited>イカスフィアでも、&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプ！</edited>
+			<edited>鱿鱼球也能，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳跃！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0007" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ その調子じゃ！</original>
-			<edited>フォー！ その調子じゃ！</edited>
+			<edited>哦哦！就这势头！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0008" offset="00" relocatable="true" max_length="0">
 			<original>わー！！ なんでもいーから、ゴールしちまえ！</original>
-			<edited>わー！！ なんでもいーから、ゴールしちまえ！</edited>
+			<edited>哇——！！管他呢，先到终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0009" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパーじゃ！ ヤツの攻撃も よけるんじゃ！</original>
-			<edited>タコスナイパーじゃ！ ヤツの攻撃も よけるんじゃ！</edited>
+			<edited>是章鱼狙击兵！它的攻击也要躲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0010" offset="00" relocatable="true" max_length="0">
 			<original>コロガリウムに体当たりして、はね返しましょう！</original>
-			<edited>コロガリウムに体当たりして、はね返しましょう！</edited>
+			<edited>用身体撞滚滚棒，把它弹开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0011" offset="00" relocatable="true" max_length="0">
 			<original>あめぃじん！ ゴールはこの上じゃッ！</original>
-			<edited>あめぃじん！ ゴールはこの上じゃッ！</edited>
+			<edited>了不起！终点就在上面！</edited>
 			<subEntries />
 		</entry>
 	</entries>

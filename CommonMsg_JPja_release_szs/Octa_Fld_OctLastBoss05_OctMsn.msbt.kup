@@ -5,127 +5,127 @@
 	<entries>
 		<entry name="LastBoss05_0000" offset="00" relocatable="true" max_length="0">
 			<original>なので、敵に壊されないよう 最深部まで運んでください</original>
-			<edited>なので、敵に壊されないよう 最深部まで運んでください</edited>
+			<edited>所以，别让敌人打坏它，把它运到最深处</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0001" offset="00" relocatable="true" max_length="0">
 			<original>タコミサイル！ エネルギーコアに当たる前に 倒しましょう！</original>
-			<edited>タコミサイル！ エネルギーコアに当たる前に 倒しましょう！</edited>
+			<edited>章鱼导弹兵！在击中能量核心之前打掉它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0002" offset="00" relocatable="true" max_length="0">
 			<original>タコウォッシャーは倒せません！ よけて行きましょう</original>
-			<edited>タコウォッシャーは倒せません！ よけて行きましょう</edited>
+			<edited>章鱼清洗机打不倒！绕过去吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0003" offset="00" relocatable="true" max_length="0">
 			<original>サングラスのヤツは ボムなら届きそうだゾ！</original>
-			<edited>サングラスのヤツは ボムなら届きそうだゾ！</edited>
+			<edited>戴墨镜的家伙，用炸弹好像够得到！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0004" offset="00" relocatable="true" max_length="0">
 			<original>ボムタコプターです！ 早々に処理を！</original>
-			<edited>ボムタコプターです！ 早々に処理を！</edited>
+			<edited>是炸弹章鱼螺旋桨兵！尽快处理！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0005" offset="00" relocatable="true" max_length="0">
 			<original>おくにミサイルも いんゾ！</original>
-			<edited>おくにミサイルも いんゾ！</edited>
+			<edited>里面还有导弹兵！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0006" offset="00" relocatable="true" max_length="0">
 			<original>右の柱にスイッチあんゾ！ とりあえず、撃て！</original>
-			<edited>右の柱にスイッチあんゾ！ とりあえず、撃て！</edited>
+			<edited>右边的柱子上有开关！先打它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0007" offset="00" relocatable="true" max_length="0">
 			<original>次は、スイッチ… ２つあんゾ！</original>
-			<edited>次は、スイッチ… ２つあんゾ！</edited>
+			<edited>接下来是开关…有2个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0008" offset="00" relocatable="true" max_length="0">
 			<original>今度は 上にスイッチ… １つです！</original>
-			<edited>今度は 上にスイッチ… １つです！</edited>
+			<edited>这次是上方的开关…1个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0009" offset="00" relocatable="true" max_length="0">
 			<original>最深部に… トーチャーーーク！！</original>
-			<edited>最深部に… トーチャーーーク！！</edited>
+			<edited>到最深处…着——陆！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0010" offset="00" relocatable="true" max_length="0">
 			<original>お！ おおっ？！</original>
-			<edited>お！ おおっ？！</edited>
+			<edited>哦！哦哦？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0011" offset="00" relocatable="true" max_length="0">
 			<original>中央エレベーターは この先です！ 急ぎましょう！</original>
-			<edited>中央エレベーターは この先です！ 急ぎましょう！</edited>
+			<edited>中央电梯就在前面！快走吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0012" offset="00" relocatable="true" max_length="0">
 			<original>ダメージ、たまってきてんゾ！</original>
-			<edited>ダメージ、たまってきてんゾ！</edited>
+			<edited>伤害在累积！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0013" offset="00" relocatable="true" max_length="0">
 			<original>ヤベェ！ エネルギーコア、壊れるゾ！</original>
-			<edited>ヤベェ！ エネルギーコア、壊れるゾ！</edited>
+			<edited>糟了！能量核心要坏了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0014" offset="00" relocatable="true" max_length="0">
 			<original>エネルギーコア、ここにいたか！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;…で？</original>
-			<edited>エネルギーコア、ここにいたか！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;…で？</edited>
+			<edited>能量核心，原来在这里！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;…然后呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0015" offset="00" relocatable="true" max_length="0">
 			<original>最深部にセットすれば、中央エレベーターが動きます</original>
-			<edited>最深部にセットすれば、中央エレベーターが動きます</edited>
+			<edited>装到最深处，中央电梯就会启动</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0016" offset="00" relocatable="true" max_length="0">
 			<original>それで アタリメさん達を追いましょう！</original>
-			<edited>それで アタリメさん達を追いましょう！</edited>
+			<edited>那样就能追上鱼干司令他们了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0017" offset="00" relocatable="true" max_length="0">
 			<original>レーザーが進路を ふさいでますね…</original>
-			<edited>レーザーが進路を ふさいでますね…</edited>
+			<edited>激光挡住了去路…</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0018" offset="00" relocatable="true" max_length="0">
 			<original>レーザーが消えました！</original>
-			<edited>レーザーが消えました！</edited>
+			<edited>激光消失了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0019" offset="00" relocatable="true" max_length="0">
 			<original>スキを見て、一気に行ってもいいゾ！</original>
-			<edited>スキを見て、一気に行ってもいいゾ！</edited>
+			<edited>看准空隙，一口气冲过去也行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0020" offset="00" relocatable="true" max_length="0">
 			<original>ふーー… 危ねーなー…</original>
-			<edited>ふーー… 危ねーなー…</edited>
+			<edited>呼——… 好险啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0021" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントで エネルギーコアは回復するようですね</original>
-			<edited>チェックポイントで エネルギーコアは回復するようですね</edited>
+			<edited>在关卡点，能量核心好像会恢复</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0022" offset="00" relocatable="true" max_length="0">
 			<original>シャオラー！</original>
-			<edited>シャオラー！</edited>
+			<edited>哇哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0023" offset="00" relocatable="true" max_length="0">
 			<original>エネルギーコア、セット… 完了です！</original>
-			<edited>エネルギーコア、セット… 完了です！</edited>
+			<edited>能量核心，安装…完成！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss05_0024" offset="00" relocatable="true" max_length="0">
 			<original>エネルギーコアを撃てば、リフトごと動きそうです</original>
-			<edited>エネルギーコアを撃てば、リフトごと動きそうです</edited>
+			<edited>打能量核心的话，好像能连升降台一起移动</edited>
 			<subEntries />
 		</entry>
 	</entries>

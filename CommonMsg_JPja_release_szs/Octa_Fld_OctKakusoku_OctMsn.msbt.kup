@@ -5,62 +5,62 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチは、１発ずつ撃ちましょウ</original>
-			<edited>でんでんスイッチは、１発ずつ撃ちましょウ</edited>
+			<edited>转转开关要一发一发地打</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>タコミサイルは 使いようでス</original>
-			<edited>タコミサイルは 使いようでス</edited>
+			<edited>章鱼导弹兵要看怎么用</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>リールガンの射程を利用しましょウ</original>
-			<edited>リールガンの射程を利用しましょウ</edited>
+			<edited>利用卷线枪的射程吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0002" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチだ！ 撃っちゃえ！</original>
-			<edited>でんでんスイッチだ！ 撃っちゃえ！</edited>
+			<edited>是转转开关！打它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0003" offset="00" relocatable="true" max_length="0">
 			<original>これでタコミサイルの通り道を 変えられそうですね！</original>
-			<edited>これでタコミサイルの通り道を 変えられそうですね！</edited>
+			<edited>这样好像能改变章鱼导弹兵的路线！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0004" offset="00" relocatable="true" max_length="0">
 			<original>ゴールポイントが見えました！</original>
-			<edited>ゴールポイントが見えました！</edited>
+			<edited>看到终点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0005" offset="00" relocatable="true" max_length="0">
 			<original>シャオラー！！</original>
-			<edited>シャオラー！！</edited>
+			<edited>哇哦！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0006" offset="00" relocatable="true" max_length="0">
 			<original>これでタコミサイルが 通れるようになるはずです</original>
-			<edited>これでタコミサイルが 通れるようになるはずです</edited>
+			<edited>这样章鱼导弹兵应该就能通过了</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0007" offset="00" relocatable="true" max_length="0">
 			<original>リフトびゅーん！</original>
-			<edited>リフトびゅーん！</edited>
+			<edited>升降台咻——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0008" offset="00" relocatable="true" max_length="0">
 			<original>リフトびゅーん、パート２！</original>
-			<edited>リフトびゅーん、パート２！</edited>
+			<edited>升降台咻——，第二部！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0009" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチ、発見したゾ！</original>
-			<edited>でんでんスイッチ、発見したゾ！</edited>
+			<edited>发现转转开关了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kakusoku_0010" offset="00" relocatable="true" max_length="0">
 			<original>敵さん、バイバイだ！</original>
-			<edited>敵さん、バイバイだ！</edited>
+			<edited>敌人，拜拜！</edited>
 			<subEntries />
 		</entry>
 	</entries>

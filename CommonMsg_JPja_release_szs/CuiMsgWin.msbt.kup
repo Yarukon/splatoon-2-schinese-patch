@@ -105,7 +105,7 @@
 		</entry>
 		<entry name="Msg_LeaveConfirm_League" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチから抜けますか？</original>
-			<edited>リーグマッチから抜けますか？</edited>
+			<edited>要退出联赛对战吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_LeaveConfirm_League" offset="00" relocatable="true" max_length="0">
@@ -120,7 +120,7 @@
 		</entry>
 		<entry name="Msg_LeaveConfirm_Fest" offset="00" relocatable="true" max_length="0">
 			<original>フェスのチームから抜けますか？</original>
-			<edited>フェスのチームから抜けますか？</edited>
+			<edited>要退出祭典的队伍吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_LeaveConfirm_Fest" offset="00" relocatable="true" max_length="0">
@@ -234,8 +234,7 @@
 		<entry name="Msg_JoinConfirm_Friend" offset="00" relocatable="true" max_length="0">
 			<original>フレンドが遊んでいるバトルに
 合流しますか？</original>
-			<edited>フレンドが遊んでいるバトルに
-合流しますか？</edited>
+			<edited>要加入好友正在进行的对战吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_Friend" offset="00" relocatable="true" max_length="0">
@@ -417,22 +416,22 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		</entry>
 		<entry name="Msg_CreateMatch_League" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチの部屋をつくっています…</original>
-			<edited>リーグマッチの部屋をつくっています…</edited>
+			<edited>正在创建联赛对战的房间…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch_League" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチの部屋に参加しています…</original>
-			<edited>リーグマッチの部屋に参加しています…</edited>
+			<edited>正在加入联赛对战的房间…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CreateMatch_Fest" offset="00" relocatable="true" max_length="0">
 			<original>フェスマッチ(レギュラー)の部屋を作っています</original>
-			<edited>フェスマッチ(レギュラー)の部屋を作っています</edited>
+			<edited>正在创建祭典对战（普通）的房间</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch_Fest" offset="00" relocatable="true" max_length="0">
 			<original>フェスマッチ(レギュラー)に参加しています</original>
-			<edited>フェスマッチ(レギュラー)に参加しています</edited>
+			<edited>正在加入祭典对战（普通）</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_AutoMatch_Coop" offset="00" relocatable="true" max_length="0">
@@ -487,10 +486,9 @@ HOMEメニューのマイページから フレンド追加してみましょう
 元のニンテンドーアカウントを 登録しなおすか、
 セーブデータを 初期化してください
 </original>
-			<edited>このセーブデータは 別のニンテンドーアカウントで
-利用済みです インターネット機能を利用するには
-元のニンテンドーアカウントを 登録しなおすか、
-セーブデータを 初期化してください
+			<edited>这个存档已被另一个任天堂账号使用。
+要使用网络功能，请重新注册原来的任天堂账号，
+或初始化存档。
 </edited>
 			<subEntries />
 		</entry>
@@ -542,7 +540,7 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		</entry>
 		<entry name="Msg_Not_League_Result" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチの結果がありません</original>
-			<edited>リーグマッチの結果がありません</edited>
+			<edited>没有联赛对战的结果</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Goto_DayChange" offset="00" relocatable="true" max_length="0">
@@ -553,22 +551,22 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		<entry name="Msg_Goto_Lobby_ForUdemaeX" offset="00" relocatable="true" max_length="0">
 			<original>－ 初めてウデマエＸに昇格しました －
 ロビーにもどります</original>
-			<edited>－ 初めてウデマエＸに昇格しました －
-ロビーにもどります</edited>
+			<edited>ー 首次晋升段位X ー
+返回大厅</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Maintenance_Soon_Versus" offset="00" relocatable="true" max_length="0">
 			<original>間もなく サーバーメンテナンスが始まります
 終了するまで 新規の対戦が 行えません</original>
-			<edited>間もなく サーバーメンテナンスが始まります
-終了するまで 新規の対戦が 行えません</edited>
+			<edited>服务器维护即将开始
+在结束之前无法进行新的对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Maintenance_Soon_Coop" offset="00" relocatable="true" max_length="0">
 			<original>間もなく サーバーメンテナンスが始まります
 終了するまで 新規のバイトが 行えません</original>
-			<edited>間もなく サーバーメンテナンスが始まります
-終了するまで 新規のバイトが 行えません</edited>
+			<edited>服务器维护即将开始
+在结束之前无法进行新的打工</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_WebUpload_Confirm" offset="00" relocatable="true" max_length="0">
@@ -588,24 +586,23 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		<entry name="Msg_OutOfService_ForShow" offset="00" relocatable="true" max_length="0">
 			<original>「スプラトゥーン２ 先行試射会版」の
 プレイ開始時間まで しばらくお待ちください</original>
-			<edited>「スプラトゥーン２ 先行試射会版」の
-プレイ開始時間まで しばらくお待ちください</edited>
+			<edited>《斯普拉遁2 先行试射会版》的
+游玩开始时间，请稍候。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_EndOfService_ForShow" offset="00" relocatable="true" max_length="0">
 			<original>「スプラトゥーン２ 先行試射会版」の
 プレイ期間は終了しました</original>
-			<edited>「スプラトゥーン２ 先行試射会版」の
-プレイ期間は終了しました</edited>
+			<edited>《斯普拉遁2 先行试射会版》的
+游玩期已结束</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Not_Update_Patch" offset="00" relocatable="true" max_length="0">
 			<original>ダウンロードデータのバージョンが
 新しくなっています
 ソフトの更新をしてください</original>
-			<edited>ダウンロードデータのバージョンが
-新しくなっています
-ソフトの更新をしてください</edited>
+			<edited>下载数据的版本已更新
+请更新软件</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_Reading" offset="00" relocatable="true" max_length="0">
@@ -633,25 +630,23 @@ HOMEメニューのマイページから フレンド追加してみましょう
 			<original>書きこみに失敗しました
 コントローラーが 正しく接続されていることを
 確認してください</original>
-			<edited>書きこみに失敗しました
-コントローラーが 正しく接続されていることを
-確認してください</edited>
+			<edited>写入失败
+请确认手柄是否正确连接</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_OtherReadErr" offset="00" relocatable="true" max_length="0">
 			<original>読みこみに失敗しました
 amiiboの読みこみに対応したコントローラーが
 正しく接続されているか ご確認ください</original>
-			<edited>読みこみに失敗しました
-amiiboの読みこみに対応したコントローラーが
-正しく接続されているか ご確認ください</edited>
+			<edited>读取失败
+请确认支持amiibo读取的手柄是否正确连接</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_ProConReadErr" offset="00" relocatable="true" max_length="0">
 			<original>Proコントローラーを有線通信している場合
 無線通信に切り替えて 再度お試しください</original>
-			<edited>Proコントローラーを有線通信している場合
-無線通信に切り替えて 再度お試しください</edited>
+			<edited>使用Pro手柄有线连接时
+请切换为无线连接后重试</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_NeedRestore" offset="00" relocatable="true" max_length="0">
@@ -772,14 +767,14 @@ ONに切り替えました</original>
 			<original>写真をとりました！
 写真は Switch本体のアルバムに
 保存されたので あとで見てね！</original>
-			<edited>写真をとりました！
-写真は Switch本体のアルバムに
-保存されたので あとで見てね！</edited>
+			<edited>拍好照片了！
+照片已保存到Switch主机的相册里，
+之后记得看哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_MsnWeaponReset" offset="00" relocatable="true" max_length="0">
 			<original>すべてのブキを初期状態にリセットしました</original>
-			<edited>すべてのブキを初期状態にリセットしました</edited>
+			<edited>所有武器已重置为初始状态</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Coconut_FirstInfo" offset="00" relocatable="true" max_length="0">
@@ -881,14 +876,14 @@ SALMON RUN の募集期間をお知らせしております
 
 皆がより豊かに生きられる社会を目指して
 クマサン商会</original>
-			<edited>～現在アルバイトは募集しておりません～
+			<edited>～目前不招募打工～
 
-&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;メニューの「ステージ情報」から、
-SALMON RUN の募集期間をお知らせしております
-日時をご確認のうえ お越しください
+&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;请在菜单的“关卡信息”中，
+查看SALMON RUN的招募期间
+确认日期后前来
 
-皆がより豊かに生きられる社会を目指して
-クマサン商会</edited>
+以让大家过上更富足的生活为目标
+熊先生商会</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Customize_Close" offset="00" relocatable="true" max_length="0">
@@ -909,8 +904,8 @@ SALMON RUN の募集期間をお知らせしております
 		<entry name="Msg_Lobby_AutoRankUpUdeameX" offset="00" relocatable="true" max_length="0">
 			<original>前のバージョンで ウデマエがS+10以上だったため、
 自動的にウデマエXに昇格しました</original>
-			<edited>前のバージョンで ウデマエがS+10以上だったため、
-自動的にウデマエXに昇格しました</edited>
+			<edited>由于上一版本段位达到S+10以上，
+已自动晋升为段位X</edited>
 			<subEntries />
 		</entry>
 		<entry name="Btn_Lobby_AutoRankUpUdeameX" offset="00" relocatable="true" max_length="0">
@@ -924,11 +919,9 @@ SALMON RUN の募集期間をお知らせしております
 購入する必要があります。
 ニンテンドーeショップに行けば、
 購入することができます。</original>
-			<edited>ここから先を遊ぶためには、
-製品版「スプラトゥーン2」を
-購入する必要があります。
-ニンテンドーeショップに行けば、
-購入することができます。</edited>
+			<edited>要游玩后面的内容，
+需要购买制品版《斯普拉遁2》。
+前往任天堂e商店即可购买。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Canyon_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -976,11 +969,9 @@ SALMON RUN の募集期間をお知らせしております
 購入する必要があります。
 ニンテンドーeショップに行けば、
 購入することができます。</original>
-			<edited>ここから先を遊ぶためには、
-製品版「スプラトゥーン2」を
-購入する必要があります。
-ニンテンドーeショップに行けば、
-購入することができます。</edited>
+			<edited>要游玩后面的内容，
+需要购买制品版《斯普拉遁2》。
+前往任天堂e商店即可购买。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Local_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -999,11 +990,9 @@ SALMON RUN の募集期間をお知らせしております
 購入する必要があります。
 ニンテンドーeショップに行けば、
 購入することができます。</original>
-			<edited>ここから先を遊ぶためには、
-製品版「スプラトゥーン2」を
-購入する必要があります。
-ニンテンドーeショップに行けば、
-購入することができます。</edited>
+			<edited>要游玩后面的内容，
+需要购买制品版《斯普拉遁2》。
+前往任天堂e商店即可购买。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Minigame_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -1019,8 +1008,8 @@ SALMON RUN の募集期間をお知らせしております
 		<entry name="Msg_BeforeOpen_Trial" offset="00" relocatable="true" max_length="0">
 			<original>「スプラトゥーン2 特別体験版'20」の
 プレイ開始時間まで お待ちください</original>
-			<edited>「スプラトゥーン2 特別体験版'20」の
-プレイ開始時間まで お待ちください</edited>
+			<edited>请等待《斯普拉遁2 特别体验版'20》
+开放游玩。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Btn_BeforeOpen_Trial" offset="00" relocatable="true" max_length="0">
@@ -1047,14 +1036,12 @@ SALMON RUN の募集期間をお知らせしております
 プレイすることができます。
 ニンテンドーeショップに行けば
 購入することができます。</original>
-			<edited>「スプラトゥーン2 特別体験版'20」の
-プレイ期間は終了しました
+			<edited>《斯普拉遁2 特别体验版'20》
+的游玩期已结束
 
-製品版「スプラトゥーン2」を購入すると
-特別体験版のセーブデータを引き継いで
-プレイすることができます。
-ニンテンドーeショップに行けば
-購入することができます。</edited>
+购买制品版《斯普拉遁2》后，
+可以继承特别体验版的存档继续游玩。
+前往任天堂e商店即可购买。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_AfterOpen_Trial" offset="00" relocatable="true" max_length="0">
@@ -1070,15 +1057,14 @@ SALMON RUN の募集期間をお知らせしております
 		<entry name="Msg_SaveData_Migration" offset="00" relocatable="true" max_length="0">
 			<original>「スプラトゥーン2 特別体験版'20」の
 セーブデータを移行しました</original>
-			<edited>「スプラトゥーン2 特別体験版'20」の
-セーブデータを移行しました</edited>
+			<edited>已迁移《斯普拉遁2 特别体验版'20》
+的存档数据</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_EndCalico" offset="00" relocatable="true" max_length="0">
 			<original>インターネットサービス「イカリング２」は
 サービス終了しました</original>
-			<edited>インターネットサービス「イカリング２」は
-サービス終了しました</edited>
+			<edited>网络服务“鱿鱼圈2”已停止服务</edited>
 			<subEntries />
 		</entry>
 	</entries>

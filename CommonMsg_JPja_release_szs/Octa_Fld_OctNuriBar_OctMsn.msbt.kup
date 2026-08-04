@@ -5,67 +5,67 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>永遠にインクを塗り続けるヌリヌリバー…</original>
-			<edited>永遠にインクを塗り続けるヌリヌリバー…</edited>
+			<edited>永远不停涂墨的涂涂棒…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリバーに押されないよう、お気をつけくださイ</original>
-			<edited>ヌリヌリバーに押されないよう、お気をつけくださイ</edited>
+			<edited>小心别被涂涂棒推走</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリバーは、敵か味方か… 果たしテ…</original>
-			<edited>ヌリヌリバーは、敵か味方か… 果たしテ…</edited>
+			<edited>涂涂棒，是敌是友…到底…</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハイドラントは 射程をイカしましょう！</original>
-			<edited>ハイドラントは 射程をイカしましょう！</edited>
+			<edited>消防栓旋转枪，好好发挥射程吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0002" offset="00" relocatable="true" max_length="0">
 			<original>右見て 左見て 後ろ見て！ 戦場の鉄則ゥ！</original>
-			<edited>右見て 左見て 後ろ見て！ 戦場の鉄則ゥ！</edited>
+			<edited>看看右，看看左，看看后！战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0003" offset="00" relocatable="true" max_length="0">
 			<original>しゃー！ 撃て撃て撃て撃て撃てー！</original>
-			<edited>しゃー！ 撃て撃て撃て撃て撃てー！</edited>
+			<edited>哇！打打打打打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0004" offset="00" relocatable="true" max_length="0">
 			<original>シャー オラー！</original>
-			<edited>シャー オラー！</edited>
+			<edited>哇，上啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0005" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリバー、来てんゾ！</original>
-			<edited>ヌリヌリバー、来てんゾ！</edited>
+			<edited>涂涂棒来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0006" offset="00" relocatable="true" max_length="0">
 			<original>なんかデカい敵、発見！</original>
-			<edited>なんかデカい敵、発見！</edited>
+			<edited>发现大家伙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0007" offset="00" relocatable="true" max_length="0">
 			<original>タカタコドーザー、ですね</original>
-			<edited>タカタコドーザー、ですね</edited>
+			<edited>是鹰章鱼推进洒墨机吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0008" offset="00" relocatable="true" max_length="0">
 			<original>ドーザーはインクで おびきよせましょ～</original>
-			<edited>ドーザーはインクで おびきよせましょ～</edited>
+			<edited>用墨汁引开推进洒墨机吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0009" offset="00" relocatable="true" max_length="0">
 			<original>あのヌリヌリバー、８号のインクを塗っておるぞィ！</original>
-			<edited>あのヌリヌリバー、８号のインクを塗っておるぞィ！</edited>
+			<edited>那个涂涂棒，在涂掉8号的墨汁！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriBar_0010" offset="00" relocatable="true" max_length="0">
 			<original>ィよし！ ナイスじゃった！</original>
-			<edited>ィよし！ ナイスじゃった！</edited>
+			<edited>好嘞！干得漂亮！</edited>
 			<subEntries />
 		</entry>
 	</entries>

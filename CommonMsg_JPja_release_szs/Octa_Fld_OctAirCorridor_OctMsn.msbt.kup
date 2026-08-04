@@ -5,82 +5,82 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここは数多のピロピロが織りなす 空中通路でス</original>
-			<edited>ここは数多のピロピロが織りなす 空中通路でス</edited>
+			<edited>这里是无数吹吹卷织成的空中通道</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>開いたピロピロは、先端を塗ることで 開き続けまス</original>
-			<edited>開いたピロピロは、先端を塗ることで 開き続けまス</edited>
+			<edited>张开的吹吹卷，涂前端就能保持张开</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>開いたピロピロは、敵のインクでもどりまス</original>
-			<edited>開いたピロピロは、敵のインクでもどりまス</edited>
+			<edited>张开的吹吹卷被敌人墨汁碰到会收回</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0000" offset="00" relocatable="true" max_length="0">
 			<original>メインとサブ、両方 使ってけ！</original>
-			<edited>メインとサブ、両方 使ってけ！</edited>
+			<edited>主武器和副武器都用上！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0001" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ ヌリッといくぞー！</original>
-			<edited>シャー！ ヌリッといくぞー！</edited>
+			<edited>哇！涂着走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0002" offset="00" relocatable="true" max_length="0">
 			<original>グッドじゃった！</original>
-			<edited>グッドじゃった！</edited>
+			<edited>干得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0003" offset="00" relocatable="true" max_length="0">
 			<original>一気に行くか ジワジワ行くか、なやみますね…</original>
-			<edited>一気に行くか ジワジワ行くか、なやみますね…</edited>
+			<edited>一口气过去还是慢慢磨，真难选…</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0004" offset="00" relocatable="true" max_length="0">
 			<original>タココマンダー！ ピロピロの動きに注意です！</original>
-			<edited>タココマンダー！ ピロピロの動きに注意です！</edited>
+			<edited>章鱼指挥官！小心吹吹卷的动向！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0005" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ 敵が増えたゾ！</original>
-			<edited>ゲッ！ 敵が増えたゾ！</edited>
+			<edited>呃！敌人变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0006" offset="00" relocatable="true" max_length="0">
 			<original>いいゾ！ 次だ！</original>
-			<edited>いいゾ！ 次だ！</edited>
+			<edited>好！下一个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0007" offset="00" relocatable="true" max_length="0">
 			<original>このライドレール、元の位置にもどってくるようですね</original>
-			<edited>このライドレール、元の位置にもどってくるようですね</edited>
+			<edited>这条墨汁轨道，好像会回到原位</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0008" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロするヤツ、いっぱい あんなー</original>
-			<edited>ピロピロするヤツ、いっぱい あんなー</edited>
+			<edited>吹吹卷的家伙，真多啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0009" offset="00" relocatable="true" max_length="0">
 			<original>向こうにヤバそーなのが いんゾ！</original>
-			<edited>向こうにヤバそーなのが いんゾ！</edited>
+			<edited>对面有危险的家伙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0010" offset="00" relocatable="true" max_length="0">
 			<original>おぉ？ なんか、強くなったな ハチ！</original>
-			<edited>おぉ？ なんか、強くなったな ハチ！</edited>
+			<edited>哦？好像变强了啊，小八！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0011" offset="00" relocatable="true" max_length="0">
 			<original>落ちたかと思いました…</original>
-			<edited>落ちたかと思いました…</edited>
+			<edited>还以为你掉下去了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0012" offset="00" relocatable="true" max_length="0">
 			<original>ナイスとっちめ！</original>
-			<edited>ナイスとっちめ！</edited>
+			<edited>收拾得漂亮！</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -130,7 +130,7 @@
 		</entry>
 		<entry name="L_StageBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチ</original>
-			<edited>リーグマッチ</edited>
+			<edited>联赛对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">

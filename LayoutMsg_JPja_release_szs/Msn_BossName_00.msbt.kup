@@ -5,62 +5,62 @@
 	<entries>
 		<entry name="101_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボベーカリー</original>
-			<edited>タコツボベーカリー</edited>
+			<edited>蛸壶面包房</edited>
 			<subEntries />
 		</entry>
 		<entry name="101_Sub" offset="00" relocatable="true" max_length="0">
 			<original>焼き立てのおいしさ</original>
-			<edited>焼き立てのおいしさ</edited>
+			<edited>新鲜出炉的美味</edited>
 			<subEntries />
 		</entry>
 		<entry name="102_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボザムライ</original>
-			<edited>タコツボザムライ</edited>
+			<edited>蛸壶武士</edited>
 			<subEntries />
 		</entry>
 		<entry name="102_Sub" offset="00" relocatable="true" max_length="0">
 			<original>いざ尋常に</original>
-			<edited>いざ尋常に</edited>
+			<edited>堂堂正正来</edited>
 			<subEntries />
 		</entry>
 		<entry name="103_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボックス</original>
-			<edited>タコツボックス</edited>
+			<edited>蛸壶箱</edited>
 			<subEntries />
 		</entry>
 		<entry name="103_ExtraName" offset="00" relocatable="true" max_length="0">
 			<original>タコツボックス・クール</original>
-			<edited>タコツボックス・クール</edited>
+			<edited>蛸壶箱·酷</edited>
 			<subEntries />
 		</entry>
 		<entry name="103_Sub" offset="00" relocatable="true" max_length="0">
 			<original>帰ってきた</original>
-			<edited>帰ってきた</edited>
+			<edited>回来了</edited>
 			<subEntries />
 		</entry>
 		<entry name="103_ExtraSub" offset="00" relocatable="true" max_length="0">
 			<original>鮮度長持ち</original>
-			<edited>鮮度長持ち</edited>
+			<edited>新鲜持久</edited>
 			<subEntries />
 		</entry>
 		<entry name="104_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボビバノン</original>
-			<edited>タコツボビバノン</edited>
+			<edited>蛸壶维巴农</edited>
 			<subEntries />
 		</entry>
 		<entry name="104_Sub" offset="00" relocatable="true" max_length="0">
 			<original>源泉かけ流し</original>
-			<edited>源泉かけ流し</edited>
+			<edited>天然源泉直供</edited>
 			<subEntries />
 		</entry>
 		<entry name="105_Name" offset="00" relocatable="true" max_length="0">
 			<original>タコツボキング A-MIX</original>
-			<edited>タコツボキング A-MIX</edited>
+			<edited>蛸壶王 A-MIX</edited>
 			<subEntries />
 		</entry>
 		<entry name="105_Sub" offset="00" relocatable="true" max_length="0">
 			<original>DJ Octavio feat. AORI  </original>
-			<edited>DJ Octavio feat. AORI  </edited>
+			<edited>DJ Octavio feat. AORI</edited>
 			<subEntries />
 		</entry>
 	</entries>

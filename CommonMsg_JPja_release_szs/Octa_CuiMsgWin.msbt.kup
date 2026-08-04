@@ -45,15 +45,15 @@
 		<entry name="AllClear_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 とびらの開く音が聞こえた...</original>
-			<edited>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
-とびらの開く音が聞こえた...</edited>
+			<edited>&#xE;&#x1;&#x1;&#x4;333?在深海地铁的某处，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+听到了门打开的声音...</edited>
 			<subEntries />
 		</entry>
 		<entry name="AllClear_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x1;&#x1;&#x4;333?よみがえる　あこがれのキミ　その勇姿&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 シオカラ節の　グルーヴに乗せて…</original>
-			<edited>&#xE;&#x1;&#x1;&#x4;333?よみがえる　あこがれのキミ　その勇姿&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-シオカラ節の　グルーヴに乗せて…</edited>
+			<edited>&#xE;&#x1;&#x1;&#x4;333?复活吧，令人憧憬的你，那英勇身姿&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+乘上塩辛节的律动…</edited>
 			<subEntries />
 		</entry>
 		<entry name="AllClear_02" offset="00" relocatable="true" max_length="0">

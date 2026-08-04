@@ -5,67 +5,67 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>インクが無くなるとアウトでス</original>
-			<edited>インクが無くなるとアウトでス</edited>
+			<edited>墨汁用尽就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>カベを登るのにインクが必要か、よく考えましょウ</original>
-			<edited>カベを登るのにインクが必要か、よく考えましょウ</edited>
+			<edited>好好想想爬墙需要多少墨汁</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>落ち着いて 塗るべき場所を塗るのでス</original>
-			<edited>落ち着いて 塗るべき場所を塗るのでス</edited>
+			<edited>冷静地涂该涂的地方</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0000" offset="00" relocatable="true" max_length="0">
 			<original>インクを使い切ったらアウトだゾ！</original>
-			<edited>インクを使い切ったらアウトだゾ！</edited>
+			<edited>墨汁用完就算出局！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0001" offset="00" relocatable="true" max_length="0">
 			<original>インクの使用は最小限にしましょう</original>
-			<edited>インクの使用は最小限にしましょう</edited>
+			<edited>把墨汁使用控制在最少</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0002" offset="00" relocatable="true" max_length="0">
 			<original>グッドじゃった！</original>
-			<edited>グッドじゃった！</edited>
+			<edited>干得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0003" offset="00" relocatable="true" max_length="0">
 			<original>…さーて、どーしたもんかな？</original>
-			<edited>…さーて、どーしたもんかな？</edited>
+			<edited>…那，该怎么办呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0004" offset="00" relocatable="true" max_length="0">
 			<original>あめぃじん！</original>
-			<edited>あめぃじん！</edited>
+			<edited>了不起！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0005" offset="00" relocatable="true" max_length="0">
 			<original>ジャマなザコだな… ブッ倒したいけど…</original>
-			<edited>ジャマなザコだな… ブッ倒したいけど…</edited>
+			<edited>碍事的小喽啰… 好想打掉…</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0006" offset="00" relocatable="true" max_length="0">
 			<original>８号さん、インク残量に注意です！</original>
-			<edited>８号さん、インク残量に注意です！</edited>
+			<edited>8号，注意墨汁余量！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0007" offset="00" relocatable="true" max_length="0">
 			<original>インクが もうほとんど無いぞィ！</original>
-			<edited>インクが もうほとんど無いぞィ！</edited>
+			<edited>墨汁几乎没了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0008" offset="00" relocatable="true" max_length="0">
 			<original>前方にゴールポイントを発見しました！</original>
-			<edited>前方にゴールポイントを発見しました！</edited>
+			<edited>前方发现终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0009" offset="00" relocatable="true" max_length="0">
 			<original>ゴールは高台の上だ！</original>
-			<edited>ゴールは高台の上だ！</edited>
+			<edited>终点在高台上！</edited>
 			<subEntries />
 		</entry>
 	</entries>

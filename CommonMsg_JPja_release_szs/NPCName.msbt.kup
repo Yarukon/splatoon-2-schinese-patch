@@ -10,22 +10,22 @@
 		</entry>
 		<entry name="AccessoryShop" offset="00" relocatable="true" max_length="0">
 			<original>ミウラ</original>
-			<edited>ミウラ</edited>
+			<edited>三浦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shiroebi" offset="00" relocatable="true" max_length="0">
 			<original>エビィ</original>
-			<edited>エビィ</edited>
+			<edited>虾虾</edited>
 			<subEntries />
 		</entry>
 		<entry name="ClothesShop" offset="00" relocatable="true" max_length="0">
 			<original>ビゼン</original>
-			<edited>ビゼン</edited>
+			<edited>备前</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShoesShop" offset="00" relocatable="true" max_length="0">
 			<original>シガニー</original>
-			<edited>シガニー</edited>
+			<edited>希加尼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Lob" offset="00" relocatable="true" max_length="0">
@@ -105,12 +105,12 @@
 		</entry>
 		<entry name="Namaco" offset="00" relocatable="true" max_length="0">
 			<original>ナマコ車掌</original>
-			<edited>ナマコ車掌</edited>
+			<edited>海参车长</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaBoss" offset="00" relocatable="true" max_length="0">
 			<original>タルタル総帥</original>
-			<edited>タルタル総帥</edited>
+			<edited>塔塔鲁总帅</edited>
 			<subEntries />
 		</entry>
 		<entry name="Receiver" offset="00" relocatable="true" max_length="0">
@@ -120,7 +120,7 @@
 		</entry>
 		<entry name="Kamaboko" offset="00" relocatable="true" max_length="0">
 			<original>グソクさん</original>
-			<edited>グソクさん</edited>
+			<edited>具足虫先生</edited>
 			<subEntries />
 		</entry>
 		<entry name="BrokenPhone" offset="00" relocatable="true" max_length="0">

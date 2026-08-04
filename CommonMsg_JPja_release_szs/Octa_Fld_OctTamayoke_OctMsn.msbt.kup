@@ -5,42 +5,42 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>一定時間 たえ続ければクリアとなりまス</original>
-			<edited>一定時間 たえ続ければクリアとなりまス</edited>
+			<edited>坚持一定时间即可通关</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>敵の攻撃を 見極めましょウ</original>
-			<edited>敵の攻撃を 見極めましょウ</edited>
+			<edited>看清敌人的攻击吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>ビンイクラは よゆうがあるなら 取りましょウ</original>
-			<edited>ビンイクラは よゆうがあるなら 取りましょウ</edited>
+			<edited>瓶装鲑鱼卵，有余力就拿吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tamayoke_0000" offset="00" relocatable="true" max_length="0">
 			<original>３０秒間、よけまくればいいみたいだな！</original>
-			<edited>３０秒間、よけまくればいいみたいだな！</edited>
+			<edited>好像躲过30秒就行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tamayoke_0001" offset="00" relocatable="true" max_length="0">
 			<original>門の向こうに敵発見！ 確認されたしーッ！</original>
-			<edited>門の向こうに敵発見！ 確認されたしーッ！</edited>
+			<edited>门对面发现敌人！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tamayoke_0003" offset="00" relocatable="true" max_length="0">
 			<original>ビンイクラを発見しました！</original>
-			<edited>ビンイクラを発見しました！</edited>
+			<edited>发现瓶装鲑鱼卵了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tamayoke_0004" offset="00" relocatable="true" max_length="0">
 			<original>また ビンイクラが出ましたが、無理は禁物です！</original>
-			<edited>また ビンイクラが出ましたが、無理は禁物です！</edited>
+			<edited>又出现瓶装鲑鱼卵了，但别勉强！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tamayoke_0005" offset="00" relocatable="true" max_length="0">
 			<original>もうちょっとだ！ たえろ！</original>
-			<edited>もうちょっとだ！ たえろ！</edited>
+			<edited>就差一点！顶住！</edited>
 			<subEntries />
 		</entry>
 	</entries>

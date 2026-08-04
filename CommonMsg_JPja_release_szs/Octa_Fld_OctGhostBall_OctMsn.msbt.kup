@@ -5,87 +5,87 @@
 	<entries>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>時間内にゴールに到達してくださイ</original>
-			<edited>時間内にゴールに到達してくださイ</edited>
+			<edited>请在时间内抵达终点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>最終エリアで、ボールバンパーを早く壊すのが ポイントでス</original>
-			<edited>最終エリアで、ボールバンパーを早く壊すのが ポイントでス</edited>
+			<edited>关键是在最终区域尽快打坏球挡板</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0004" offset="00" relocatable="true" max_length="0">
 			<original>なので、エイトボールは 多く持って行くほど 有利でス</original>
-			<edited>なので、エイトボールは 多く持って行くほど 有利でス</edited>
+			<edited>所以，带的8号球越多越有利</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0005" offset="00" relocatable="true" max_length="0">
 			<original>ただし、エイトボールは１つでも落とすと 失敗でス</original>
-			<edited>ただし、エイトボールは１つでも落とすと 失敗でス</edited>
+			<edited>不过，8号球哪怕掉1个也算失败</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0000" offset="00" relocatable="true" max_length="0">
 			<original>おしゃべり無用！ カウントダウン、始まっとるぞィ！</original>
-			<edited>おしゃべり無用！ カウントダウン、始まっとるぞィ！</edited>
+			<edited>少说废话！倒计时已经开始了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0001" offset="00" relocatable="true" max_length="0">
 			<original>バンパー壊して、ジャンプポイント出すゾ！</original>
-			<edited>バンパー壊して、ジャンプポイント出すゾ！</edited>
+			<edited>打坏挡板，让跳跃点出现！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0002" offset="00" relocatable="true" max_length="0">
 			<original>ボールバンパーの裏に ジャンプポイントがかくれてます！</original>
-			<edited>ボールバンパーの裏に ジャンプポイントがかくれてます！</edited>
+			<edited>球挡板后面藏着跳跃点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0003" offset="00" relocatable="true" max_length="0">
 			<original>ボールもう１コあるゾ！ 持ってこーぜ</original>
-			<edited>ボールもう１コあるゾ！ 持ってこーぜ</edited>
+			<edited>还有1个球！搬过来吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0004" offset="00" relocatable="true" max_length="0">
 			<original>了解！ 敵は無視して、エイトボールを運んでください！</original>
-			<edited>了解！ 敵は無視して、エイトボールを運んでください！</edited>
+			<edited>明白！无视敌人，运送8号球！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0005" offset="00" relocatable="true" max_length="0">
 			<original>あの大量のバンパーを壊す時に 役立ちそうですね</original>
-			<edited>あの大量のバンパーを壊す時に 役立ちそうですね</edited>
+			<edited>打坏那堆挡板时好像用得上</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0006" offset="00" relocatable="true" max_length="0">
 			<original>正面に、別のボールがあるゾ！</original>
-			<edited>正面に、別のボールがあるゾ！</edited>
+			<edited>正面还有另一个球！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0007" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント発見！ 確認されたしーッ！</original>
-			<edited>ジャンプポイント発見！ 確認されたしーッ！</edited>
+			<edited>发现跳跃点！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0008" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイントを発見しました！</original>
-			<edited>ジャンプポイントを発見しました！</edited>
+			<edited>发现跳跃点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0009" offset="00" relocatable="true" max_length="0">
 			<original>なんか いっぱい積まれてたな！</original>
-			<edited>なんか いっぱい積まれてたな！</edited>
+			<edited>堆了好多啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0010" offset="00" relocatable="true" max_length="0">
 			<original>バンパーなら後で、エイトボールで 壊しまくりましょ～</original>
-			<edited>バンパーなら後で、エイトボールで 壊しまくりましょ～</edited>
+			<edited>挡板的事以后再说，先用8号球撞个痛快吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0011" offset="00" relocatable="true" max_length="0">
 			<original>グッドじゃった！</original>
-			<edited>グッドじゃった！</edited>
+			<edited>干得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GhostBall_0012" offset="00" relocatable="true" max_length="0">
 			<original>お！ ジャンプポイント、行けんじゃね？</original>
-			<edited>お！ ジャンプポイント、行けんじゃね？</edited>
+			<edited>哦！跳跃点，能过去吧？</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="Key01_0000" offset="00" relocatable="true" max_length="0">
 			<original>おくに部屋があるようじゃ！ 進めィ！</original>
-			<edited>おくに部屋があるようじゃ！ 進めィ！</edited>
+			<edited>里面好像有房间！前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Key01_0001" offset="00" relocatable="true" max_length="0">
 			<original>戦場の鉄則ゥ！</original>
-			<edited>戦場の鉄則ゥ！</edited>
+			<edited>战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Key01_0002" offset="00" relocatable="true" max_length="0">
 			<original>否ーーーッ！！</original>
-			<edited>否ーーーッ！！</edited>
+			<edited>不————！！</edited>
 			<subEntries />
 		</entry>
 	</entries>

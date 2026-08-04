@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="Warehouse01" offset="00" relocatable="true" max_length="0">
 			<original>ハコフグ倉庫</original>
-			<edited>ハコフグ倉庫</edited>
+			<edited>箱鲀仓库</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpDown01" offset="00" relocatable="true" max_length="0">
 			<original>アロワナモール</original>
-			<edited>アロワナモール</edited>
+			<edited>金龙鱼商场</edited>
 			<subEntries />
 		</entry>
 		<entry name="SkatePark02" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="Amida01" offset="00" relocatable="true" max_length="0">
 			<original>ホッケふ頭</original>
-			<edited>ホッケふ頭</edited>
+			<edited>远东多线鱼码头</edited>
 			<subEntries />
 		</entry>
 		<entry name="Maze01" offset="00" relocatable="true" max_length="0">
@@ -40,32 +40,32 @@
 		</entry>
 		<entry name="Tuzura00" offset="00" relocatable="true" max_length="0">
 			<original>タチウオパーキング</original>
-			<edited>タチウオパーキング</edited>
+			<edited>带鱼停车场</edited>
 			<subEntries />
 		</entry>
 		<entry name="Office01" offset="00" relocatable="true" max_length="0">
 			<original>アンチョビットゲームズ</original>
-			<edited>アンチョビットゲームズ</edited>
+			<edited>凤尾鱼游戏公司</edited>
 			<subEntries />
 		</entry>
 		<entry name="Quarry01" offset="00" relocatable="true" max_length="0">
 			<original>ショッツル鉱山</original>
-			<edited>ショッツル鉱山</edited>
+			<edited>盐鱼汁矿山</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ditch02" offset="00" relocatable="true" max_length="0">
 			<original>バッテラストリート</original>
-			<edited>バッテラストリート</edited>
+			<edited>鳗鲶区</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck00" offset="00" relocatable="true" max_length="0">
 			<original>フジツボスポーツクラブ</original>
-			<edited>フジツボスポーツクラブ</edited>
+			<edited>藤壶运动俱乐部</edited>
 			<subEntries />
 		</entry>
 		<entry name="Venue02" offset="00" relocatable="true" max_length="0">
 			<original>ガンガゼ野外音楽堂</original>
-			<edited>ガンガゼ野外音楽堂</edited>
+			<edited>海胆野外音乐厅</edited>
 			<subEntries />
 		</entry>
 		<entry name="Nagasaki00" offset="00" relocatable="true" max_length="0">
@@ -80,17 +80,17 @@
 		</entry>
 		<entry name="Pillar00" offset="00" relocatable="true" max_length="0">
 			<original>マンタマリア号</original>
-			<edited>マンタマリア号</edited>
+			<edited>鬼蝠鲼玛利亚号</edited>
 			<subEntries />
 		</entry>
 		<entry name="Wave00" offset="00" relocatable="true" max_length="0">
 			<original>コンブトラック</original>
-			<edited>コンブトラック</edited>
+			<edited>海带卡车</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kawa00" offset="00" relocatable="true" max_length="0">
 			<original>エンガワ河川敷</original>
-			<edited>エンガワ河川敷</edited>
+			<edited>鲷鱼运河</edited>
 			<subEntries />
 		</entry>
 		<entry name="Line00" offset="00" relocatable="true" max_length="0">
@@ -100,17 +100,17 @@
 		</entry>
 		<entry name="Tunnel00" offset="00" relocatable="true" max_length="0">
 			<original>デボン海洋博物館</original>
-			<edited>デボン海洋博物館</edited>
+			<edited>德文海洋博物馆</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tunnel02" offset="00" relocatable="true" max_length="0">
 			<original>デボン海洋博物館</original>
-			<edited>デボン海洋博物館</edited>
+			<edited>德文海洋博物馆</edited>
 			<subEntries />
 		</entry>
 		<entry name="Court00" offset="00" relocatable="true" max_length="0">
 			<original>アジフライスタジアム</original>
-			<edited>アジフライスタジアム</edited>
+			<edited>炸竹荚鱼体育场</edited>
 			<subEntries />
 		</entry>
 		<entry name="Carousel00" offset="00" relocatable="true" max_length="0">
@@ -120,137 +120,137 @@
 		</entry>
 		<entry name="Nakasu00" offset="00" relocatable="true" max_length="0">
 			<original>ホテルニューオートロ</original>
-			<edited>ホテルニューオートロ</edited>
+			<edited>新奥托罗酒店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Nakasu02" offset="00" relocatable="true" max_length="0">
 			<original>ホテルニューオートロ</original>
-			<edited>ホテルニューオートロ</edited>
+			<edited>新奥托罗酒店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Mirror00" offset="00" relocatable="true" max_length="0">
 			<original>ムツゴ楼</original>
-			<edited>ムツゴ楼</edited>
+			<edited>弹涂楼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli" offset="00" relocatable="true" max_length="0">
 			<original>ミステリーゾーン</original>
-			<edited>ミステリーゾーン</edited>
+			<edited>神秘地带</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa00_02" offset="00" relocatable="true" max_length="0">
 			<original>ウィンドミル・キス</original>
-			<edited>ウィンドミル・キス</edited>
+			<edited>风车之吻</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa01_2" offset="00" relocatable="true" max_length="0">
 			<original>追憶のスライド</original>
-			<edited>追憶のスライド</edited>
+			<edited>追忆的滑梯</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa02_2" offset="00" relocatable="true" max_length="0">
 			<original>約束の丘で会いましょう</original>
-			<edited>約束の丘で会いましょう</edited>
+			<edited>在约定之丘相见吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa03_2" offset="00" relocatable="true" max_length="0">
 			<original>ハンサムなスポンジ</original>
-			<edited>ハンサムなスポンジ</edited>
+			<edited>帅气的海绵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa05" offset="00" relocatable="true" max_length="0">
 			<original>ヒメちゃんのキャノン</original>
-			<edited>ヒメちゃんのキャノン</edited>
+			<edited>小姬的大炮</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa06" offset="00" relocatable="true" max_length="0">
 			<original>トランスペアレント・ボーイ</original>
-			<edited>トランスペアレント・ボーイ</edited>
+			<edited>透明男孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa07" offset="00" relocatable="true" max_length="0">
 			<original>バーの一族</original>
-			<edited>バーの一族</edited>
+			<edited>酒吧一族</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa08" offset="00" relocatable="true" max_length="0">
 			<original>イタズラなヒキヨセ</original>
-			<edited>イタズラなヒキヨセ</edited>
+			<edited>恶作剧的牵引点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa09" offset="00" relocatable="true" max_length="0">
 			<original>あしたはデンデン</original>
-			<edited>あしたはデンデン</edited>
+			<edited>明天是转转</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa10" offset="00" relocatable="true" max_length="0">
 			<original>トジトジ</original>
-			<edited>トジトジ</edited>
+			<edited>关关</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa11" offset="00" relocatable="true" max_length="0">
 			<original>天秤ラヴァーズ</original>
-			<edited>天秤ラヴァーズ</edited>
+			<edited>天秤恋人</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa12" offset="00" relocatable="true" max_length="0">
 			<original>ヌリとスイッチの吐息</original>
-			<edited>ヌリとスイッチの吐息</edited>
+			<edited>涂与开关的叹息</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa13" offset="00" relocatable="true" max_length="0">
 			<original>たこあし注意報！</original>
-			<edited>たこあし注意報！</edited>
+			<edited>章鱼脚警报！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa14" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットの詩</original>
-			<edited>ジャンプマットの詩</edited>
+			<edited>弹跳垫之诗</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa15" offset="00" relocatable="true" max_length="0">
 			<original>キミのハートにライド・オン！</original>
-			<edited>キミのハートにライド・オン！</edited>
+			<edited>冲进你的心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa16" offset="00" relocatable="true" max_length="0">
 			<original>カンケツセンのばら</original>
-			<edited>カンケツセンのばら</edited>
+			<edited>喷泉的玫瑰</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa17" offset="00" relocatable="true" max_length="0">
 			<original>恋はダッシュ×３</original>
-			<edited>恋はダッシュ×３</edited>
+			<edited>恋爱是冲刺×3</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa18" offset="00" relocatable="true" max_length="0">
 			<original>ドーザームーン</original>
-			<edited>ドーザームーン</edited>
+			<edited>推土机月亮</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa19" offset="00" relocatable="true" max_length="0">
 			<original>クイックバスケット</original>
-			<edited>クイックバスケット</edited>
+			<edited>快速投篮</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa20" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリトゥナイト</original>
-			<edited>ヌリヌリトゥナイト</edited>
+			<edited>涂涂之夜</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa21" offset="00" relocatable="true" max_length="0">
 			<original>ビッグ＝パネルが止まらない</original>
-			<edited>ビッグ＝パネルが止まらない</edited>
+			<edited>大面板停不下来</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa22" offset="00" relocatable="true" max_length="0">
 			<original>思い出コロガリウム</original>
-			<edited>思い出コロガリウム</edited>
+			<edited>回忆滚滚棒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa23" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロなんかじゃない</original>
-			<edited>ピロピロなんかじゃない</edited>
+			<edited>才不是吹吹卷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Deli_Octa24" offset="00" relocatable="true" max_length="0">

@@ -5,107 +5,107 @@
 	<entries>
 		<entry name="First_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここは どこなんじゃろ…</original>
-			<edited>ここは どこなんじゃろ…</edited>
+			<edited>这里是哪里呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_0001" offset="00" relocatable="true" max_length="0">
 			<original>外国へ 来たみたいじゃ…</original>
-			<edited>外国へ 来たみたいじゃ…</edited>
+			<edited>像是来到了外国…</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_0002" offset="00" relocatable="true" max_length="0">
 			<original>早く オハギが 食べたいのゥ…</original>
-			<edited>早く オハギが 食べたいのゥ…</edited>
+			<edited>好想吃豆沙糯米团啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyZero_0000" offset="00" relocatable="true" max_length="0">
 			<original>さぁ “アレ” をさがしに行くぞィ！</original>
-			<edited>さぁ “アレ” をさがしに行くぞィ！</edited>
+			<edited>来吧，去找“那东西”！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyZero_0001" offset="00" relocatable="true" max_length="0">
 			<original>“４つのアレ” ってどんなんか 早く見てみたいのゥ！</original>
-			<edited>“４つのアレ” ってどんなんか 早く見てみたいのゥ！</edited>
+			<edited>“4个那东西”到底长什么样，好想快点看看！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyOne_0000" offset="00" relocatable="true" max_length="0">
 			<original>“アレ”が まだ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１コ &#xE;&#x0;&#x3;&#x2;ÿÿとは……</original>
-			<edited>“アレ”が まだ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１コ &#xE;&#x0;&#x3;&#x2;ÿÿとは……</edited>
+			<edited>“那东西” 还只有 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;1个&#xE;&#x0;&#x3;&#x2;ÿÿ 啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyOne_0001" offset="00" relocatable="true" max_length="0">
 			<original>まだまだ 道のりは 長そうじゃ…</original>
-			<edited>まだまだ 道のりは 長そうじゃ…</edited>
+			<edited>前路还长着呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyTwo_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;２コ &#xE;&#x0;&#x3;&#x2;ÿÿの “アレ” を手に入れたものの…　何じゃコレは…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;２コ &#xE;&#x0;&#x3;&#x2;ÿÿの “アレ” を手に入れたものの…　何じゃコレは…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;2个&#xE;&#x0;&#x3;&#x2;ÿÿ “那东西”到手了，可是… 这啥啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyTwo_0001" offset="00" relocatable="true" max_length="0">
 			<original>おなか空いたのゥ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; オハギ食べたいのゥ…</original>
-			<edited>おなか空いたのゥ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; オハギ食べたいのゥ…</edited>
+			<edited>肚子饿了…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 好想吃豆沙糯米团…</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyThree_0000" offset="00" relocatable="true" max_length="0">
 			<original>“アレ”を &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３コ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしたが……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 全部そろうと 何かイイこと 起こるのかのゥ？</original>
-			<edited>“アレ”を &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３コ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしたが……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-全部そろうと 何かイイこと 起こるのかのゥ？</edited>
+			<edited>“那东西” 已经拿到 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3个&#xE;&#x0;&#x3;&#x2;ÿÿ 了……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+集齐全部，会发生什么好事吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyThree_0001" offset="00" relocatable="true" max_length="0">
 			<original>そろそろ ひなたぼっこが したいのゥ…</original>
-			<edited>そろそろ ひなたぼっこが したいのゥ…</edited>
+			<edited>好想快点晒晒太阳啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyAll_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿまで もうすぐじゃ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿまで もうすぐじゃ！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地 &#xE;&#x0;&#x3;&#x2;ÿÿ就在眼前了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyAll_0001" offset="00" relocatable="true" max_length="0">
 			<original>早く 外でオハギが 食べたいのゥ！</original>
-			<edited>早く 外でオハギが 食べたいのゥ！</edited>
+			<edited>好想快点去外面吃豆沙糯米团！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KeyAll_0002" offset="00" relocatable="true" max_length="0">
 			<original>さぁ 進むんじゃ ８号！</original>
-			<edited>さぁ 進むんじゃ ８号！</edited>
+			<edited>来吧，前进吧，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleared_0001" offset="00" relocatable="true" max_length="0">
 			<original>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 タコが好きだよ 前に比べれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</original>
-			<edited>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
-タコが好きだよ 前に比べれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</edited>
+			<edited>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 老夫代表 尚兴广场！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+比起以前，现在更喜欢章鱼了！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 切克！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleared_0002" offset="00" relocatable="true" max_length="0">
 			<original>ワシ、この年になって
 すこし タコが好きになれた気がするんじゃ…</original>
-			<edited>ワシ、この年になって
-すこし タコが好きになれた気がするんじゃ…</edited>
+			<edited>老夫这把年纪，
+感觉稍微开始喜欢上章鱼了呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleared_0003" offset="00" relocatable="true" max_length="0">
 			<original>イカとタコの 平和のかけ橋になれれば うれしいのゥ！</original>
-			<edited>イカとタコの 平和のかけ橋になれれば うれしいのゥ！</edited>
+			<edited>如果能成为鱿鱼与章鱼之间的和平桥梁，老夫就开心了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleared_0004" offset="00" relocatable="true" max_length="0">
 			<original>あそこにある 自販機をつかうと、
 お得なモノが ゲットできるらしいぞィ！</original>
-			<edited>あそこにある 自販機をつかうと、
-お得なモノが ゲットできるらしいぞィ！</edited>
+			<edited>用那边的自动售货机，
+好像能拿到划算的东西哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VendingMachine_Debt" offset="00" relocatable="true" max_length="0">
 			<original>むむッ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 借金しとる身で 気ままにお買い物じゃと…？！&#xE;&#x0;&#x4;&#x0;おヌシには モラルっちゅうもんが ないんかッ！！</original>
-			<edited>むむッ…！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
-借金しとる身で 気ままにお買い物じゃと…？！&#xE;&#x0;&#x4;&#x0;おヌシには モラルっちゅうもんが ないんかッ！！</edited>
+			<edited>唔唔…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+欠着债还悠哉购物…？！&#xE;&#x0;&#x4;&#x0;你难道没有点道德心吗！！</edited>
 			<subEntries />
 		</entry>
 	</entries>

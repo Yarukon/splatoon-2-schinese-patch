@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="SyasyoUza_0001" offset="00" relocatable="true" max_length="0">
 			<original>…お気をつけて行ってらっしゃいまセ</original>
-			<edited>…お気をつけて行ってらっしゃいまセ</edited>
+			<edited>…请小心，慢走</edited>
 			<subEntries />
 		</entry>
 		<entry name="SyasyoUza_0002" offset="00" relocatable="true" max_length="0">
@@ -20,19 +20,19 @@
 		</entry>
 		<entry name="SyasyoUza_0003" offset="00" relocatable="true" max_length="0">
 			<original>もう一度 言いまス…</original>
-			<edited>もう一度 言いまス…</edited>
+			<edited>我再说一遍…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_BaseCamp_0000" offset="00" relocatable="true" max_length="0">
 			<original>いつもご乗車　ありがとうございまス</original>
-			<edited>いつもご乗車　ありがとうございまス</edited>
+			<edited>感谢您经常乘车</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_BaseCamp_0001" offset="00" relocatable="true" max_length="0">
 			<original>NAMACO端末を　お持ちの方は
 &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で路線図を　ご覧になれまス</original>
-			<edited>NAMACO端末を　お持ちの方は
-&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で路線図を　ご覧になれまス</edited>
+			<edited>持有NAMACO终端的乘客，
+&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;即可查看路线图</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_BaseCamp_0002" offset="00" relocatable="true" max_length="0">
@@ -42,7 +42,7 @@
 		</entry>
 		<entry name="Syasyo_BaseCamp_0003" offset="00" relocatable="true" max_length="0">
 			<original>お忘れ物のないよう　ご注意くださイ…</original>
-			<edited>お忘れ物のないよう　ご注意くださイ…</edited>
+			<edited>请注意不要遗忘物品…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_BaseCamp_0004" offset="00" relocatable="true" max_length="0">
@@ -54,9 +54,9 @@
 			<original>いつもご利用 ありがとうございまス…&#xE;&#x0;&#x4;&#x0;さまざまな駅に 訪れていただいたことに 感謝をこめテ
 &#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ をおわたしいたしまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ でアイテムと交換できますのデ
 ぜひ ご利用くださイ…</original>
-			<edited>いつもご利用 ありがとうございまス…&#xE;&#x0;&#x4;&#x0;さまざまな駅に 訪れていただいたことに 感謝をこめテ
-&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ をおわたしいたしまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ でアイテムと交換できますのデ
-ぜひ ご利用くださイ…</edited>
+			<edited>感谢您一直使用本服务…&#xE;&#x0;&#x4;&#x0;为感谢您到访各个车站，
+&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;涅尔勋章&#xE;&#x0;&#x3;&#x2;ÿÿ 送您一枚&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海地铁中央站&#xE;&#x0;&#x3;&#x2;ÿÿ 可以兑换物品
+欢迎使用…</edited>
 			<subEntries />
 		</entry>
 	</entries>

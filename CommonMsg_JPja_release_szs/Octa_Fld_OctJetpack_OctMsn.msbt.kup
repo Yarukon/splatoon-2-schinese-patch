@@ -5,62 +5,62 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジャマなタコミサイルは ショットで倒しましょウ</original>
-			<edited>ジャマなタコミサイルは ショットで倒しましょウ</edited>
+			<edited>碍事的章鱼导弹兵用射击打掉</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>タコッペリン号は 背中が弱点でス</original>
-			<edited>タコッペリン号は 背中が弱点でス</edited>
+			<edited>章鱼柏林号的弱点是背部</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックは &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</original>
-			<edited>ジェットパックは &#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</edited>
+			<edited>喷气背包，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;稍微上浮</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチとひきよせポイントを 利用しましょウ</original>
-			<edited>でんでんスイッチとひきよせポイントを 利用しましょウ</edited>
+			<edited>利用转转开关和牵引点吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックは 下に地面が無いと落ちちゃいます！</original>
-			<edited>ジェットパックは 下に地面が無いと落ちちゃいます！</edited>
+			<edited>喷气背包下方没有地面就会掉下去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0002" offset="00" relocatable="true" max_length="0">
 			<original>その調子じゃッ！</original>
-			<edited>その調子じゃッ！</edited>
+			<edited>就这势头！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0003" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらすじゃ！</original>
-			<edited>ふぁびゅらすじゃ！</edited>
+			<edited>太棒了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0004" offset="00" relocatable="true" max_length="0">
 			<original>タコッペリン号は、タコ足を撃てば 倒せます！</original>
-			<edited>タコッペリン号は、タコ足を撃てば 倒せます！</edited>
+			<edited>章鱼柏林号，打章鱼脚就能打倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0005" offset="00" relocatable="true" max_length="0">
 			<original>ヤッホー！ いいながめ！</original>
-			<edited>ヤッホー！ いいながめ！</edited>
+			<edited>呀吼！风景真好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0006" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイント発見！ 確認されたしーッ！</original>
-			<edited>ひきよせポイント発見！ 確認されたしーッ！</edited>
+			<edited>发现牵引点！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0007" offset="00" relocatable="true" max_length="0">
 			<original>いいゾ！</original>
-			<edited>いいゾ！</edited>
+			<edited>好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack_0008" offset="00" relocatable="true" max_length="0">
 			<original>ゴールポイントを発見しました！</original>
-			<edited>ゴールポイントを発見しました！</edited>
+			<edited>发现终点了！</edited>
 			<subEntries />
 		</entry>
 	</entries>

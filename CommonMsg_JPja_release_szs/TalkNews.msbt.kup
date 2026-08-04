@@ -33,24 +33,24 @@
 		</entry>
 		<entry name="OpeningFestEnd_0000" offset="00" relocatable="true" max_length="0">
 			<original>しゅーりょーー！</original>
-			<edited>しゅーりょーー！</edited>
+			<edited>结——束——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFestEnd_0001" offset="00" relocatable="true" max_length="0">
 			<original>みなさん、おつかれさまでした～</original>
-			<edited>みなさん、おつかれさまでした～</edited>
+			<edited>大家辛苦了～</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFestEnd_0002" offset="00" relocatable="true" max_length="0">
 			<original>それで、どっちが勝ったの？</original>
-			<edited>それで、どっちが勝ったの？</edited>
+			<edited>那么，哪边赢了？</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFestEnd_0003" offset="00" relocatable="true" max_length="0">
 			<original>今から集計するみたいですよ
 結果発表が楽しみですね～</original>
-			<edited>今から集計するみたいですよ
-結果発表が楽しみですね～</edited>
+			<edited>好像现在开始统计了
+好期待结果公布啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ending_0000" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="Ending_0002" offset="00" relocatable="true" max_length="0">
 			<original>ぬりたく～る… テンタクル！！</original>
-			<edited>ぬりたく～る… テンタクル！！</edited>
+			<edited>涂满涂满～…腕儿姐妹！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="EndingFest_0000" offset="00" relocatable="true" max_length="0">
@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="EndingFest_0001" offset="00" relocatable="true" max_length="0">
 			<original>ぬりたく～る… テンタクル！！</original>
-			<edited>ぬりたく～る… テンタクル！！</edited>
+			<edited>涂满涂满～…腕儿姐妹！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0000" offset="00" relocatable="true" max_length="0">
@@ -145,95 +145,94 @@
 		</entry>
 		<entry name="StageLeague_0000" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチのステージは、ここ！</original>
-			<edited>リーグマッチのステージは、ここ！</edited>
+			<edited>联赛对战的地图，就是这里！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageFest_0000" offset="00" relocatable="true" max_length="0">
 			<original>フェスマッチのステージは…、来いっ！</original>
-			<edited>フェスマッチのステージは…、来いっ！</edited>
+			<edited>祭典对战的地图…，来吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0000" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！ ステージ発表の前に
 臨時ニュースよろしく！</original>
-			<edited>イイダ！ ステージ発表の前に
-臨時ニュースよろしく！</edited>
+			<edited>饭田！在公布地图之前
+先来条临时新闻！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0000_Eve" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！ 臨時ニュースよろしく！</original>
-			<edited>イイダ！ 臨時ニュースよろしく！</edited>
+			<edited>饭田！临时新闻拜托了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0001" offset="00" relocatable="true" max_length="0">
 			<original>エッ？！ 急に？
 なんでしたっけ？</original>
-			<edited>エッ？！ 急に？
-なんでしたっけ？</edited>
+			<edited>诶？！这么突然？
+是什么来着？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0002" offset="00" relocatable="true" max_length="0">
 			<original>カミ様が動きだしてるってことは
 例のアレっしょ！</original>
-			<edited>カミ様が動きだしてるってことは
-例のアレっしょ！</edited>
+			<edited>神明大人动起来了的话
+就是那个吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0003" offset="00" relocatable="true" max_length="0">
 			<original>フェスですか！</original>
-			<edited>フェスですか！</edited>
+			<edited>是祭典吗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0004" offset="00" relocatable="true" max_length="0">
 			<original>それそれ！
 近いうちに フェスが始まるよ！</original>
-			<edited>それそれ！
-近いうちに フェスが始まるよ！</edited>
+			<edited>对对！
+不久就要开始祭典了哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0005" offset="00" relocatable="true" max_length="0">
 			<original>テンション上がっちゃいますネ！
 機材のメンテしなくちゃ…</original>
-			<edited>テンション上がっちゃいますネ！
-機材のメンテしなくちゃ…</edited>
+			<edited>心情都激动起来了呢！
+得去维护一下设备…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0006" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！ フェスのお題 まだー？</original>
-			<edited>イイダ！ フェスのお題 まだー？</edited>
+			<edited>饭田！祭典的主题好了没？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0007" offset="00" relocatable="true" max_length="0">
 			<original>ちょっと待ってくださいね！
 フェスのお題… 降りて来たみたいです</original>
-			<edited>ちょっと待ってくださいね！
-フェスのお題… 降りて来たみたいです</edited>
+			<edited>请稍等一下！
+祭典的主题…好像降临了</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0008" offset="00" relocatable="true" max_length="0">
 			<original>……来たっ！
 フェスのお題は… うおっ？！</original>
-			<edited>……来たっ！
-フェスのお題は… うおっ？！</edited>
+			<edited>……来了！
+祭典的主题是… 哇哦？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0009" offset="00" relocatable="true" max_length="0">
 			<original>ヒメセンパイだけ見てないで
 早く教えてくださいよ！</original>
-			<edited>ヒメセンパイだけ見てないで
-早く教えてくださいよ！</edited>
+			<edited>别光顾着自己看啊，小姬前辈！
+快告诉我们吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0010" offset="00" relocatable="true" max_length="0">
 			<original>それじゃあ、
 はっぴょーーーするよ！！</original>
-			<edited>それじゃあ、
-はっぴょーーーするよ！！</edited>
+			<edited>那么，我要发——布——了哦！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0011" offset="00" relocatable="true" max_length="0">
 			<original>ゴクリ…</original>
-			<edited>ゴクリ…</edited>
+			<edited>咕咚…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestAnnounceCmn_0012" offset="00" relocatable="true" max_length="0">
@@ -244,452 +243,452 @@
 		<entry name="MissionEnding_0000" offset="00" relocatable="true" max_length="0">
 			<original>じゃーいつもどおり
 レギュラーマッチのステージは ここだ！</original>
-			<edited>じゃーいつもどおり
-レギュラーマッチのステージは ここだ！</edited>
+			<edited>那么照老规矩
+普通对战的地图就是这里！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0001" offset="00" relocatable="true" max_length="0">
 			<original>あっ、ちがう！臨時ニュースだって！
 イイダ ストップ！</original>
-			<edited>あっ、ちがう！臨時ニュースだって！
-イイダ ストップ！</edited>
+			<edited>啊，不对！是临时新闻！
+饭田，停！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0002" offset="00" relocatable="true" max_length="0">
 			<original>ええ～っ、なんですかまた…</original>
-			<edited>ええ～っ、なんですかまた…</edited>
+			<edited>诶诶～，又是什么事啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0003" offset="00" relocatable="true" max_length="0">
 			<original>えっ！オオデンチナマズくん
 もどってきたって？！</original>
-			<edited>えっ！オオデンチナマズくん
-もどってきたって？！</edited>
+			<edited>诶！大电池鲶鱼
+回来了？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0004" offset="00" relocatable="true" max_length="0">
 			<original>マジじゃん！
 ヤベーっ！</original>
-			<edited>マジじゃん！
-ヤベーっ！</edited>
+			<edited>真的假的！
+太棒了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0005" offset="00" relocatable="true" max_length="0">
 			<original>すご～い！
 写真とりましょう！写真！</original>
-			<edited>すご～い！
-写真とりましょう！写真！</edited>
+			<edited>好厉害～！
+拍张照吧！照片！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0006" offset="00" relocatable="true" max_length="0">
 			<original>…なんか飽きたな！</original>
-			<edited>…なんか飽きたな！</edited>
+			<edited>…好像有点腻了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0007" offset="00" relocatable="true" max_length="0">
 			<original>そうですね～ …っていうか
 いつもこんなかんじでしたね！</original>
-			<edited>そうですね～ …っていうか
-いつもこんなかんじでしたね！</edited>
+			<edited>是啊～…话说回来
+不一直都是这种感觉吗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0008" offset="00" relocatable="true" max_length="0">
 			<original>じゃー気を取り直して…
 レギュラーマッチのステージはここだ！</original>
-			<edited>じゃー気を取り直して…
-レギュラーマッチのステージはここだ！</edited>
+			<edited>那么重整旗鼓…
+普通对战的地图就是这里！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0009" offset="00" relocatable="true" max_length="0">
 			<original>あっ、ちがう！また臨時ニュース！
 イイダ やめ！</original>
-			<edited>あっ、ちがう！また臨時ニュース！
-イイダ やめ！</edited>
+			<edited>啊，不对！又是临时新闻！
+饭田，停下！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0010" offset="00" relocatable="true" max_length="0">
 			<original>ええ～っ…！</original>
-			<edited>ええ～っ…！</edited>
+			<edited>诶诶～…！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0011" offset="00" relocatable="true" max_length="0">
 			<original>おわ！アオリちゃん見つかったって！
 こっちのニュースのが スゲーじゃん！！</original>
-			<edited>おわ！アオリちゃん見つかったって！
-こっちのニュースのが スゲーじゃん！！</edited>
+			<edited>哇！听说找到小拟了！
+这条新闻更厉害吧！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0012" offset="00" relocatable="true" max_length="0">
 			<original>よ、よかった～！！
 ワタシ、ホントにホントに 心配だったんです！</original>
-			<edited>よ、よかった～！！
-ワタシ、ホントにホントに 心配だったんです！</edited>
+			<edited>太、太好了～！！
+我，真的真的担心死了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0013" offset="00" relocatable="true" max_length="0">
 			<original>マジ、ライバルにいなくなられたら
 こまるからな！</original>
-			<edited>マジ、ライバルにいなくなられたら
-こまるからな！</edited>
+			<edited>说真的，要是对手不在了
+会很麻烦的嘛！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0014" offset="00" relocatable="true" max_length="0">
 			<original>シオカラーズ、
 ふたりでひとつですからね…！</original>
-			<edited>シオカラーズ、
-ふたりでひとつですからね…！</edited>
+			<edited>潮色姐妹，
+两人合在一起才是一体啊…！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0015" offset="00" relocatable="true" max_length="0">
 			<original>あっ、次曲紹介じゃん！
 やってやって！</original>
-			<edited>あっ、次曲紹介じゃん！
-やってやって！</edited>
+			<edited>啊，接下来是歌曲介绍！
+快上快上！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0016" offset="00" relocatable="true" max_length="0">
 			<original>ほんとだ！あっ！センパイ、
 ちょうどピッタリの リクエストがきてますよ！</original>
-			<edited>ほんとだ！あっ！センパイ、
-ちょうどピッタリの リクエストがきてますよ！</edited>
+			<edited>真的！啊！前辈，
+正好有超级合适的点歌进来哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0017" offset="00" relocatable="true" max_length="0">
 			<original>ペンネーム【あげたてＢＯＹ】さんからの
 リクエストで</original>
-			<edited>ペンネーム【あげたてＢＯＹ】さんからの
-リクエストで</edited>
+			<edited>来自笔名【现炸BOY】的
+点歌</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0018" offset="00" relocatable="true" max_length="0">
 			<original>今話題沸騰中、 シオカラーズ で
 「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;あさってColor&#xE;&#x0;&#x3;&#x2;ÿÿ」です！</original>
-			<edited>今話題沸騰中、 シオカラーズ で
-「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;あさってColor&#xE;&#x0;&#x3;&#x2;ÿÿ」です！</edited>
+			<edited>现在话题度爆棚的潮色姐妹带来
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;《あさってColor》&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpdateInfo_0000" offset="00" relocatable="true" max_length="0">
 			<original>アップデートのお知らせ！</original>
-			<edited>アップデートのお知らせ！</edited>
+			<edited>更新通知！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpdateInfo_0001" offset="00" relocatable="true" max_length="0">
 			<original>エッ？！ アップデートするんですね～</original>
-			<edited>エッ？！ アップデートするんですね～</edited>
+			<edited>诶？！要更新了啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageUnlock_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいステージ&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいステージ&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよ！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新地图&#xE;&#x0;&#x3;&#x2;ÿÿ追加了哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageUnlock_0001" offset="00" relocatable="true" max_length="0">
 			<original>おお～</original>
-			<edited>おお～</edited>
+			<edited>哦哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageUnlockEnd_0000" offset="00" relocatable="true" max_length="0">
 			<original>いいじゃん！</original>
-			<edited>いいじゃん！</edited>
+			<edited>不错嘛！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageUnlockEnd_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バトルのステージ&#xE;&#x0;&#x3;&#x2;ÿÿに 選ばれるように
 なったそうです！ 楽しみですね～</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バトルのステージ&#xE;&#x0;&#x3;&#x2;ÿÿに 選ばれるように
-なったそうです！ 楽しみですね～</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;对战地图&#xE;&#x0;&#x3;&#x2;ÿÿ会
+被选中出场哦！好期待啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="WeaponUnlock_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいブキ&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいブキ&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよ！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新武器&#xE;&#x0;&#x3;&#x2;ÿÿ追加了哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="WeaponUnlockEnd_0000" offset="00" relocatable="true" max_length="0">
 			<original>また ブキチのやつの話に
 付き合わないと いけないのか…</original>
-			<edited>また ブキチのやつの話に
-付き合わないと いけないのか…</edited>
+			<edited>又要陪武器子那家伙
+聊他的话题了吗…</edited>
 			<subEntries />
 		</entry>
 		<entry name="WeaponUnlockEnd_0001" offset="00" relocatable="true" max_length="0">
 			<original>たまに、すっごい早口で
 ついていけないとき ありますよね…</original>
-			<edited>たまに、すっごい早口で
-ついていけないとき ありますよね…</edited>
+			<edited>有时候他语速超快
+根本跟不上呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearUnlock_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいギア&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいギア&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよ！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新装备&#xE;&#x0;&#x3;&#x2;ÿÿ追加了哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearUnlockEnd_0000" offset="00" relocatable="true" max_length="0">
 			<original>ワ～！
 ぜ～んぶ、欲しくなっちゃいますね！</original>
-			<edited>ワ～！
-ぜ～んぶ、欲しくなっちゃいますね！</edited>
+			<edited>哇～！
+全～部都好想要啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FixGame_0000" offset="00" relocatable="true" max_length="0">
 			<original>ゲーム内容が ちょっと変わったよ！</original>
-			<edited>ゲーム内容が ちょっと変わったよ！</edited>
+			<edited>游戏内容稍微有点变化哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FixGame_0001" offset="00" relocatable="true" max_length="0">
 			<original>は～、そうなんですね～</original>
-			<edited>は～、そうなんですね～</edited>
+			<edited>哈～，原来如此啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FixGame_0002" offset="00" relocatable="true" max_length="0">
 			<original>くわしいこたぁ、公式サイトをチェック！</original>
-			<edited>くわしいこたぁ、公式サイトをチェック！</edited>
+			<edited>具体详情，请查看官方网站！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FixGame_0003" offset="00" relocatable="true" max_length="0">
 			<original>よろしくおねがいしま～す</original>
-			<edited>よろしくおねがいしま～す</edited>
+			<edited>请多关照～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageFestSpecial_0000" offset="00" relocatable="true" max_length="0">
 			<original>今回のフェスのために
 特別なステージを 用意しました！</original>
-			<edited>今回のフェスのために
-特別なステージを 用意しました！</edited>
+			<edited>为了这次的祭典
+准备了特别的地图！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageFestSpecial_0001" offset="00" relocatable="true" max_length="0">
 			<original>まじか！
 イイダ、やるじゃん</original>
-			<edited>まじか！
-イイダ、やるじゃん</edited>
+			<edited>真的假的！
+饭田，挺能干嘛</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Start_0000" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！ ステージ発表の前に
 臨時ニュースよろしく！</original>
-			<edited>イイダ！ ステージ発表の前に
-臨時ニュースよろしく！</edited>
+			<edited>饭田！在公布地图之前
+先来条临时新闻！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Start_0000_Eve" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！ 臨時ニュースよろしく！</original>
-			<edited>イイダ！ 臨時ニュースよろしく！</edited>
+			<edited>饭田！临时新闻拜托了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Start_0001" offset="00" relocatable="true" max_length="0">
 			<original>エッ、アレッ？
 なんでしたっけ？</original>
-			<edited>エッ、アレッ？
-なんでしたっけ？</edited>
+			<edited>诶，咦？
+是什么来着？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Start_0002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス&#xE;&#x0;&#x3;&#x2;ÿÿの結果が出たよー！！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス&#xE;&#x0;&#x3;&#x2;ÿÿの結果が出たよー！！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典&#xE;&#x0;&#x3;&#x2;ÿÿ的结果出来了哦——！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Start_0003" offset="00" relocatable="true" max_length="0">
 			<original>おお～！</original>
-			<edited>おお～！</edited>
+			<edited>哦哦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Jarajara_0000" offset="00" relocatable="true" max_length="0">
 			<original>ドゥルルルルルルー…</original>
-			<edited>ドゥルルルルルルー…</edited>
+			<edited>嘟噜噜噜噜噜——…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Jarajara_0001" offset="00" relocatable="true" max_length="0">
 			<original>デケデケデケデケデケ～…</original>
-			<edited>デケデケデケデケデケ～…</edited>
+			<edited>咚锵咚锵咚锵咚锵～…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Jarajara_0002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;ダン！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;ダン！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;咚！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_Jarajara_0003" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;バン！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;バン！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;砰！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRate_0000" offset="00" relocatable="true" max_length="0">
 			<original>まずは どっちのチームが
 多く投票されたか、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;得票率&#xE;&#x0;&#x3;&#x2;ÿÿの勝負ー！</original>
-			<edited>まずは どっちのチームが
-多く投票されたか、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;得票率&#xE;&#x0;&#x3;&#x2;ÿÿの勝負ー！</edited>
+			<edited>首先是哪个队伍
+获得更多投票，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;得票率&#xE;&#x0;&#x3;&#x2;ÿÿ的较量——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRate_0001" offset="00" relocatable="true" max_length="0">
 			<original>ドキドキ…</original>
-			<edited>ドキドキ…</edited>
+			<edited>心跳加速…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRateAlpha_0000" offset="00" relocatable="true" max_length="0">
 			<original>お！ うんうん、ヨッシ…</original>
-			<edited>お！ うんうん、ヨッシ…</edited>
+			<edited>哦！嗯嗯，好耶…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRateAlpha_0001" offset="00" relocatable="true" max_length="0">
 			<original>ふ～ん、 こうなったんですねぇ…</original>
-			<edited>ふ～ん、 こうなったんですねぇ…</edited>
+			<edited>嗯～，是这样啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRateBravo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ン？！ あっそうきたか…</original>
-			<edited>ン？！ あっそうきたか…</edited>
+			<edited>嗯？！啊，原来如此…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRateBravo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ウンウン、 こうなったんですね～</original>
-			<edited>ウンウン、 こうなったんですね～</edited>
+			<edited>嗯嗯，是这样啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRateEnd_0000" offset="00" relocatable="true" max_length="0">
 			<original>オシ！ 次いくぞ、つぎ！！</original>
-			<edited>オシ！ 次いくぞ、つぎ！！</edited>
+			<edited>好！接下来，下一项！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_VoteRateEnd_0001" offset="00" relocatable="true" max_length="0">
 			<original>そうですね！ 次も大切です！</original>
-			<edited>そうですね！ 次も大切です！</edited>
+			<edited>是啊！下一项也很重要！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_WinningRate_0000" offset="00" relocatable="true" max_length="0">
 			<original>どっちがフェスを盛り上げたか &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;こうけん度&#xE;&#x0;&#x3;&#x2;ÿÿの発表！
 レギュラーとチャレンジ、いっぺんにいくぞ！</original>
-			<edited>どっちがフェスを盛り上げたか &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;こうけん度&#xE;&#x0;&#x3;&#x2;ÿÿの発表！
-レギュラーとチャレンジ、いっぺんにいくぞ！</edited>
+			<edited>哪个队伍把祭典气氛炒得更热，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;贡献度&#xE;&#x0;&#x3;&#x2;ÿÿ公布！
+普通对战和挑战一起来了哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_WinningRate_0001" offset="00" relocatable="true" max_length="0">
 			<original>エッ？！ いっぺんにですか？
 うぅ～、きんちょうする…</original>
-			<edited>エッ？！ いっぺんにですか？
-うぅ～、きんちょうする…</edited>
+			<edited>诶？！一起来吗？
+呜呜～，好紧张…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_FinalResult_0000" offset="00" relocatable="true" max_length="0">
 			<original>マジかよ！</original>
-			<edited>マジかよ！</edited>
+			<edited>真的假的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_FinalResult_0001" offset="00" relocatable="true" max_length="0">
 			<original>おお～！</original>
-			<edited>おお～！</edited>
+			<edited>哦哦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_FinalResult_0002" offset="00" relocatable="true" max_length="0">
 			<original>ここまできたら 最後はアレっしょ！</original>
-			<edited>ここまできたら 最後はアレっしょ！</edited>
+			<edited>都到这一步了，最后当然是那个吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_FinalResult_0003" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;最終結果&#xE;&#x0;&#x3;&#x2;ÿÿですね？！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;最終結果&#xE;&#x0;&#x3;&#x2;ÿÿですね？！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;最终结果&#xE;&#x0;&#x3;&#x2;ÿÿ了吧？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_FinalResult_0004" offset="00" relocatable="true" max_length="0">
 			<original>そのとーり！ っつーわけで、
 今回の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス&#xE;&#x0;&#x3;&#x2;ÿÿを 制したチームは…</original>
-			<edited>そのとーり！ っつーわけで、
-今回の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス&#xE;&#x0;&#x3;&#x2;ÿÿを 制したチームは…</edited>
+			<edited>没错！那么，
+本届&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典&#xE;&#x0;&#x3;&#x2;ÿÿ的冠军队伍是…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FestResult_FinalResult_0005" offset="00" relocatable="true" max_length="0">
 			<original>ゴクリ…</original>
-			<edited>ゴクリ…</edited>
+			<edited>咕咚…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_00_0000" offset="00" relocatable="true" max_length="0">
 			<original>えーっと…クマサン商会カラ
 アルバイト募集ノ オシラセデス</original>
-			<edited>えーっと…クマサン商会カラ
-アルバイト募集ノ オシラセデス</edited>
+			<edited>那个…来自熊先生商会
+的打工招聘通知</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_00_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ！
 カンペ見過ぎですよ！</original>
-			<edited>センパイ！
-カンペ見過ぎですよ！</edited>
+			<edited>前辈！
+提词卡看得太多了啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_01_0000" offset="00" relocatable="true" max_length="0">
 			<original>この前の１日バイト体験のロケ
 楽しかったよなー！</original>
-			<edited>この前の１日バイト体験のロケ
-楽しかったよなー！</edited>
+			<edited>上次的打工一日体验外景
+真开心啊——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_01_0001" offset="00" relocatable="true" max_length="0">
 			<original>リハーサルなしの ぶっつけ本番でしたけど
 それがスリリングでしたね～♪</original>
-			<edited>リハーサルなしの ぶっつけ本番でしたけど
-それがスリリングでしたね～♪</edited>
+			<edited>虽然是没有排练的即兴演出
+但那才刺激呢～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_02_0000" offset="00" relocatable="true" max_length="0">
 			<original>アタシの考えた クマサン商会の
 キャンペーンソング きいてくれよ！</original>
-			<edited>アタシの考えた クマサン商会の
-キャンペーンソング きいてくれよ！</edited>
+			<edited>我写的熊先生商会
+宣传曲，来听听吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_02_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ、 もう番組の時間終わりそうなんで
 また今度でお願いします～</original>
-			<edited>センパイ、 もう番組の時間終わりそうなんで
-また今度でお願いします～</edited>
+			<edited>前辈，节目时间快结束了
+下次再听吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_03_0000" offset="00" relocatable="true" max_length="0">
 			<original>オオモノシャケのやつら、 アタシにびびっててさー
 正面にいても 向かってこねーんだよ！</original>
-			<edited>オオモノシャケのやつら、 アタシにびびっててさー
-正面にいても 向かってこねーんだよ！</edited>
+			<edited>那些巨大鲑鱼，都怕我怕得要死
+就算站在正面它们也不敢冲过来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_03_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイのサイズだと
 シャケの視界に入ってないかもですね…</original>
-			<edited>センパイのサイズだと
-シャケの視界に入ってないかもですね…</edited>
+			<edited>以前辈的体型
+可能根本进不了鲑鱼的视野呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_04_0000" offset="00" relocatable="true" max_length="0">
 			<original>スッゲーたくさんのシャケ シバいてるのに
 すぐバイト終了になるんだよなー…</original>
-			<edited>スッゲーたくさんのシャケ シバいてるのに
-すぐバイト終了になるんだよなー…</edited>
+			<edited>明明打了超多鲑鱼
+打工却马上结束了呢——…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_04_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ、 ちゃんとバイトマニュアル読んでますか？</original>
-			<edited>センパイ、 ちゃんとバイトマニュアル読んでますか？</edited>
+			<edited>前辈，你有好好读打工手册吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="GachiRuleUnlock_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいルール&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよー！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいルール&#xE;&#x0;&#x3;&#x2;ÿÿが 追加されたよー！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新模式&#xE;&#x0;&#x3;&#x2;ÿÿ追加了哦——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GachiRuleUnlock_0001" offset="00" relocatable="true" max_length="0">
 			<original>エッ！ 新ルールですか？！</original>
-			<edited>エッ！ 新ルールですか？！</edited>
+			<edited>诶！新模式吗？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GachiRuleUnlockEnd_0000" offset="00" relocatable="true" max_length="0">
 			<original>コレ、 今すぐやりてー！！</original>
-			<edited>コレ、 今すぐやりてー！！</edited>
+			<edited>这个，我现在就想玩！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GachiRuleUnlockEnd_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチマッチ&#xE;&#x0;&#x3;&#x2;ÿÿで 遊べるようになったそうです！
 楽しみですね～♪</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチマッチ&#xE;&#x0;&#x3;&#x2;ÿÿで 遊べるようになったそうです！
-楽しみですね～♪</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真格对战&#xE;&#x0;&#x3;&#x2;ÿÿ里能玩了！
+好期待啊～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0000" offset="00" relocatable="true" max_length="0">
@@ -750,7 +749,7 @@
 			<original>けど、 このカーリーなヘアスタイル
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;いつもどっかで見てる&#xE;&#x0;&#x3;&#x2;ÿÿ気がすんだよなー…</original>
 			<edited>不过，总觉得这种卷卷的发型
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;平时一直都可以在某处看到&#xE;&#x0;&#x3;&#x2;啊——…</edited>
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;平时总在某处看到&#xE;&#x0;&#x3;&#x2;ÿÿ才觉得安心啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0009" offset="00" relocatable="true" max_length="0">

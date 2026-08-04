@@ -5,77 +5,77 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>開いたピロピロは、先端を撃つことで開き続けまス</original>
-			<edited>開いたピロピロは、先端を撃つことで開き続けまス</edited>
+			<edited>张开的吹吹卷，射击前端就能保持张开</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールを当ててもピロピロは開きまス</original>
-			<edited>エイトボールを当ててもピロピロは開きまス</edited>
+			<edited>用8号球撞也能张开吹吹卷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントは、エイトボールとアナタでONになりまス</original>
-			<edited>チェックポイントは、エイトボールとアナタでONになりまス</edited>
+			<edited>关卡点需要8号球和你一起触发</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0001" offset="00" relocatable="true" max_length="0">
 			<original>タマコロちゃんの真ん中を よーくねらうんじゃ！</original>
-			<edited>タマコロちゃんの真ん中を よーくねらうんじゃ！</edited>
+			<edited>好好瞄准小球球的中心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0002" offset="00" relocatable="true" max_length="0">
 			<original>それにしても、すごい数のキラキラクルクルだな</original>
-			<edited>それにしても、すごい数のキラキラクルクルだな</edited>
+			<edited>话说回来，闪闪转转的东西真多啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0003" offset="00" relocatable="true" max_length="0">
 			<original>おー、なるほどなー！</original>
-			<edited>おー、なるほどなー！</edited>
+			<edited>哦——，原来如此！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0006" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ ヒヤヒヤのヒヤシンスじゃ…</original>
-			<edited>フォー！ ヒヤヒヤのヒヤシンスじゃ…</edited>
+			<edited>哦哦！真是提心吊胆啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0007" offset="00" relocatable="true" max_length="0">
 			<original>このレールは、前にもどる用だな！</original>
-			<edited>このレールは、前にもどる用だな！</edited>
+			<edited>这条轨道是用来返回的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0008" offset="00" relocatable="true" max_length="0">
 			<original>ダジャレ？ おもしれー！</original>
-			<edited>ダジャレ？ おもしれー！</edited>
+			<edited>冷笑话？真有意思！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0009" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールのゴールを発見しました！</original>
-			<edited>エイトボールのゴールを発見しました！</edited>
+			<edited>发现8号球的终点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0010" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロです！ 上手く乗せていきましょ～♪</original>
-			<edited>ピロピロです！ 上手く乗せていきましょ～♪</edited>
+			<edited>是吹吹卷！巧妙地放上去吧～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0011" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらすじゃ！</original>
-			<edited>ふぁびゅらすじゃ！</edited>
+			<edited>太棒了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0012" offset="00" relocatable="true" max_length="0">
 			<original>おー！ ナイス！</original>
-			<edited>おー！ ナイス！</edited>
+			<edited>哦——！漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0013" offset="00" relocatable="true" max_length="0">
 			<original>横の道から進めそうです！</original>
-			<edited>横の道から進めそうです！</edited>
+			<edited>好像能从侧面的路走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0015" offset="00" relocatable="true" max_length="0">
 			<original>うむ、あとは ゴールするだけじゃ！</original>
-			<edited>うむ、あとは ゴールするだけじゃ！</edited>
+			<edited>嗯，接下来只要到终点就行！</edited>
 			<subEntries />
 		</entry>
 	</entries>

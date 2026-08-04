@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Stall_00" offset="00" relocatable="true" max_length="0">
 			<original>おっ、いらっしゃ～い！</original>
-			<edited>おっ、いらっしゃ～い！</edited>
+			<edited>哦，欢迎光临！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Stall_01" offset="00" relocatable="true" max_length="0">
@@ -14,18 +14,18 @@
 バクアゲじゃ～ん？&#xE;&#x0;&#x4;&#x0;注文は おカネじゃなくて
 チケットが必要だから 気をつけてね～
 どうだい アゲてっちゃう？</original>
-			<edited>ロブズ・１０・プラーにようこそ！&#xE;&#x0;&#x4;&#x0;ウチの店で飲み食いすれば
-バトルでゲットできる おカネや ケイケン値が
-バクアゲじゃ～ん？&#xE;&#x0;&#x4;&#x0;注文は おカネじゃなくて
-チケットが必要だから 気をつけてね～
-どうだい アゲてっちゃう？</edited>
+			<edited>欢迎光临阿龙·10·普拉！&#xE;&#x0;&#x4;&#x0;在本店吃喝的话，
+对战获得的金钱和经验值
+就会暴涨哦～？&#xE;&#x0;&#x4;&#x0;点餐不用金钱，
+需要券，注意哦～
+怎么样，要嗨起来吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Stall_02" offset="00" relocatable="true" max_length="0">
 			<original>チケット、持ってないから
 注文できないっしょ～！</original>
-			<edited>チケット、持ってないから
-注文できないっしょ～！</edited>
+			<edited>没有券的话
+就点不了餐哦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Stall_03" offset="00" relocatable="true" max_length="0">
@@ -34,26 +34,26 @@
 まだ残ってんじゃ～ん？&#xE;&#x0;&#x4;&#x0;新しいのでアゲちゃったら
 そっちの効果に 変わっちゃうけど…
 新しいのにアゲ直しちゃって OK？</original>
-			<edited>…って アレアレ？
-前に飲み食いしたヤツの効果が
-まだ残ってんじゃ～ん？&#xE;&#x0;&#x4;&#x0;新しいのでアゲちゃったら
-そっちの効果に 変わっちゃうけど…
-新しいのにアゲ直しちゃって OK？</edited>
+			<edited>…哎呀哎呀？
+之前吃喝的效果
+还留着呢～？&#xE;&#x0;&#x4;&#x0;要是换成新的，
+效果就会变成新那个哦…
+要换成新的吗？OK？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Stall_04" offset="00" relocatable="true" max_length="0">
 			<original>また来てね～</original>
-			<edited>また来てね～</edited>
+			<edited>下次再来哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Stall_Short_00" offset="00" relocatable="true" max_length="0">
 			<original>どれでアゲてく？</original>
-			<edited>どれでアゲてく？</edited>
+			<edited>要上哪个？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Stall_Short_01" offset="00" relocatable="true" max_length="0">
 			<original>これでアゲとく？</original>
-			<edited>これでアゲとく？</edited>
+			<edited>要上这个吗？</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -5,27 +5,27 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>制限時間内に 敵を全て倒してくださイ</original>
-			<edited>制限時間内に 敵を全て倒してくださイ</edited>
+			<edited>请在限制时间内打倒所有敌人</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>コロガリウムは、上を向いて高く飛ばしましょウ</original>
-			<edited>コロガリウムは、上を向いて高く飛ばしましょウ</edited>
+			<edited>滚滚棒，朝上射能飞得更高</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>木箱にかくれて、敵の弾を防ぎましょウ</original>
-			<edited>木箱にかくれて、敵の弾を防ぎましょウ</edited>
+			<edited>躲在木箱后挡敌人的子弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceFeverG_0000" offset="00" relocatable="true" max_length="0">
 			<original>コロガリウムで 敵さんを倒せ、とな？！</original>
-			<edited>コロガリウムで 敵さんを倒せ、とな？！</edited>
+			<edited>要用滚滚棒打倒敌人，是吗？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceFeverG_0001" offset="00" relocatable="true" max_length="0">
 			<original>コロガリウムは 上を向いて撃てば高く飛ばせます！</original>
-			<edited>コロガリウムは 上を向いて撃てば高く飛ばせます！</edited>
+			<edited>滚滚棒朝上射能飞得更高！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceFeverG_0002" offset="00" relocatable="true" max_length="0">
@@ -35,22 +35,22 @@
 		</entry>
 		<entry name="SpaceFeverG_0003" offset="00" relocatable="true" max_length="0">
 			<original>あと１体！ どこだーっ？！</original>
-			<edited>あと１体！ どこだーっ？！</edited>
+			<edited>还剩1个！在哪？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceFeverG_0004" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパーじゃ！ 注意されたしーッ！</original>
-			<edited>タコスナイパーじゃ！ 注意されたしーッ！</edited>
+			<edited>是章鱼狙击兵！小心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceFeverG_0005" offset="00" relocatable="true" max_length="0">
 			<original>ちょろちょろ ウザってーな！</original>
-			<edited>ちょろちょろ ウザってーな！</edited>
+			<edited>窜来窜去真烦人！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceFeverG_0006" offset="00" relocatable="true" max_length="0">
 			<original>敵の行く先に コロガリウムを放ちましょう！</original>
-			<edited>敵の行く先に コロガリウムを放ちましょう！</edited>
+			<edited>朝敌人前进的方向放滚滚棒吧！</edited>
 			<subEntries />
 		</entry>
 	</entries>

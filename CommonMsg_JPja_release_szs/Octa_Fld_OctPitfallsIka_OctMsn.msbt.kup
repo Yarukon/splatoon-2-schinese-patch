@@ -5,92 +5,92 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>壊れる足場から落ちずに 戦うのでス</original>
-			<edited>壊れる足場から落ちずに 戦うのでス</edited>
+			<edited>战斗时别从会破碎的平台上掉下去</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ムダ撃ちは 大変キケンでス</original>
-			<edited>ムダ撃ちは 大変キケンでス</edited>
+			<edited>乱射非常危险</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>固い木箱の位置を確認しましょウ</original>
-			<edited>固い木箱の位置を確認しましょウ</edited>
+			<edited>确认牢固木箱的位置吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0000" offset="00" relocatable="true" max_length="0">
 			<original>なんだ ありゃあ…</original>
-			<edited>なんだ ありゃあ…</edited>
+			<edited>那是什么…</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0001" offset="00" relocatable="true" max_length="0">
 			<original>あそこが 戦いの場になるようですね</original>
-			<edited>あそこが 戦いの場になるようですね</edited>
+			<edited>那里就是战场</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0002" offset="00" relocatable="true" max_length="0">
 			<original>ファッ？！ これじゃと足場がインクで壊れるのゥ！</original>
-			<edited>ファッ？！ これじゃと足場がインクで壊れるのゥ！</edited>
+			<edited>哎呀？！这样平台会被墨汁打碎！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0003" offset="00" relocatable="true" max_length="0">
 			<original>ヒッセンは射程が短いんだよ！ もっと距離をつめろ</original>
-			<edited>ヒッセンは射程が短いんだよ！ もっと距離をつめろ</edited>
+			<edited>毛刷射程短！再拉近距离！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0004" offset="00" relocatable="true" max_length="0">
 			<original>遠くへにげられたら いったんはなれて、おびき出しましょう</original>
-			<edited>遠くへにげられたら いったんはなれて、おびき出しましょう</edited>
+			<edited>对手逃远了就先拉开，把它引出来</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0005" offset="00" relocatable="true" max_length="0">
 			<original>敵が増えたゾ！</original>
-			<edited>敵が増えたゾ！</edited>
+			<edited>敌人增多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0006" offset="00" relocatable="true" max_length="0">
 			<original>バイソクタコプターは 移動したあとをねらいましょう！</original>
-			<edited>バイソクタコプターは 移動したあとをねらいましょう！</edited>
+			<edited>高速章鱼螺旋桨兵，等它移动后瞄准！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0007" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ ヤベェの出てきた！</original>
-			<edited>ゲッ！ ヤベェの出てきた！</edited>
+			<edited>呃！来了个麻烦的家伙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0008" offset="00" relocatable="true" max_length="0">
 			<original>バイソクボムタコプターは、ブースト移動後に攻撃で！</original>
-			<edited>バイソクボムタコプターは、ブースト移動後に攻撃で！</edited>
+			<edited>高速炸弹章鱼螺旋桨兵，等它冲刺后攻击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0009" offset="00" relocatable="true" max_length="0">
 			<original>近づけないなら クイックボム！ 戦場の鉄則ゥ！</original>
-			<edited>近づけないなら クイックボム！ 戦場の鉄則ゥ！</edited>
+			<edited>靠近不了就用快速炸弹！战场的铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0010" offset="00" relocatable="true" max_length="0">
 			<original>インク撃ったら どんどん足場を変えてけよ！</original>
-			<edited>インク撃ったら どんどん足場を変えてけよ！</edited>
+			<edited>打过墨就不断更换平台！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0011" offset="00" relocatable="true" max_length="0">
 			<original>イクラ入りの木箱は 敵のインクでは 壊れないようです！</original>
-			<edited>イクラ入りの木箱は 敵のインクでは 壊れないようです！</edited>
+			<edited>装有鲑鱼卵的木箱，敌人的墨汁打不坏！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0012" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ ロゴ入り木箱の上で戦え！</original>
-			<edited>ハチ！ ロゴ入り木箱の上で戦え！</edited>
+			<edited>小八！站在带标志的木箱上战斗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0013" offset="00" relocatable="true" max_length="0">
 			<original>近くの敵は、ヨコ振りで木箱を温存しましょ～</original>
-			<edited>近くの敵は、ヨコ振りで木箱を温存しましょ～</edited>
+			<edited>近处的敌人用横挥，保存木箱！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsIka_0014" offset="00" relocatable="true" max_length="0">
 			<original>遠くの敵は、かたい木箱の上でタテ振りドンッだ！</original>
-			<edited>遠くの敵は、かたい木箱の上でタテ振りドンッだ！</edited>
+			<edited>远处的敌人，站在牢固木箱上用纵挥砸！</edited>
 			<subEntries />
 		</entry>
 	</entries>

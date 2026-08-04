@@ -5,87 +5,87 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールをゴールへ導くのでス</original>
-			<edited>エイトボールをゴールへ導くのでス</edited>
+			<edited>把8号球引导到终点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールを敵に当てると ダメージをあたえられまス</original>
-			<edited>エイトボールを敵に当てると ダメージをあたえられまス</edited>
+			<edited>让8号球砸中敌人能造成伤害</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ダイタンかつセンサイに ショットするのでス</original>
-			<edited>ダイタンかつセンサイに ショットするのでス</edited>
+			<edited>大胆又精准地射击吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0000" offset="00" relocatable="true" max_length="0">
 			<original>ゲーーーーーーッ！！！</original>
-			<edited>ゲーーーーーーッ！！！</edited>
+			<edited>哇————！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0001" offset="00" relocatable="true" max_length="0">
 			<original>追いかけましょう！</original>
-			<edited>追いかけましょう！</edited>
+			<edited>追上去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0002" offset="00" relocatable="true" max_length="0">
 			<original>エレベーター！ でも、ボールは乗せれなそーだな…</original>
-			<edited>エレベーター！ でも、ボールは乗せれなそーだな…</edited>
+			<edited>电梯！不过，球好像放不上去…</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0003" offset="00" relocatable="true" max_length="0">
 			<original>ヤッホーーーィ！！！</original>
-			<edited>ヤッホーーーィ！！！</edited>
+			<edited>呀吼！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0004" offset="00" relocatable="true" max_length="0">
 			<original>ほれ！ いそいでカギを手に入れるんじゃ！</original>
-			<edited>ほれ！ いそいでカギを手に入れるんじゃ！</edited>
+			<edited>喂！快去拿钥匙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0005" offset="00" relocatable="true" max_length="0">
 			<original>ドアの前に エイトボールのスイッチを発見です！</original>
-			<edited>ドアの前に エイトボールのスイッチを発見です！</edited>
+			<edited>门前发现了8号球的开关！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0006" offset="00" relocatable="true" max_length="0">
 			<original>上り坂になってんな</original>
-			<edited>上り坂になってんな</edited>
+			<edited>是上坡路啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0007" offset="00" relocatable="true" max_length="0">
 			<original>真ん中の手すりに、一度乗せましょ～</original>
-			<edited>真ん中の手すりに、一度乗せましょ～</edited>
+			<edited>先放到中间的栏杆上吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0008" offset="00" relocatable="true" max_length="0">
 			<original>ふぁんたすてぃっくじゃッ！</original>
-			<edited>ふぁんたすてぃっくじゃッ！</edited>
+			<edited>太美妙了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0009" offset="00" relocatable="true" max_length="0">
 			<original>シーソーは、一気に行きましょう！</original>
-			<edited>シーソーは、一気に行きましょう！</edited>
+			<edited>跷跷板要一口气过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0010" offset="00" relocatable="true" max_length="0">
 			<original>このボム風船でエイトボールを、飛ばしましょう！</original>
-			<edited>このボム風船でエイトボールを、飛ばしましょう！</edited>
+			<edited>用这个炸弹气球把8号球弹出去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0011" offset="00" relocatable="true" max_length="0">
 			<original>タマコロちゃん、シーソーを わたりきったようじゃ！</original>
-			<edited>タマコロちゃん、シーソーを わたりきったようじゃ！</edited>
+			<edited>小球球，好像已经过了跷跷板！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0012" offset="00" relocatable="true" max_length="0">
 			<original>遠くのシーソーが、下がった時な！</original>
-			<edited>遠くのシーソーが、下がった時な！</edited>
+			<edited>就是远处跷跷板降下去的时候！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0013" offset="00" relocatable="true" max_length="0">
 			<original>カギ発見！ 確認されたしーッ！</original>
-			<edited>カギ発見！ 確認されたしーッ！</edited>
+			<edited>发现钥匙！请确认！</edited>
 			<subEntries />
 		</entry>
 	</entries>

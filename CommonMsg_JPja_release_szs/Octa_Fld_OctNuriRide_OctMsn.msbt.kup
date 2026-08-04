@@ -5,97 +5,97 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリ棒を ライドレールですりぬけるチャレンジでス</original>
-			<edited>ヌリヌリ棒を ライドレールですりぬけるチャレンジでス</edited>
+			<edited>这是用墨汁轨道穿过涂涂棒的挑战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチは 同じ攻撃で同じだけ動きまス</original>
-			<edited>でんでんスイッチは 同じ攻撃で同じだけ動きまス</edited>
+			<edited>转转开关用相同攻击会移动相同距离</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ライドレールでヌリヌリ棒に当たると 落ちてしまいまス</original>
-			<edited>ライドレールでヌリヌリ棒に当たると 落ちてしまいまス</edited>
+			<edited>在墨汁轨道上撞到涂涂棒会掉下去</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0000" offset="00" relocatable="true" max_length="0">
 			<original>ナイスフライです！</original>
-			<edited>ナイスフライです！</edited>
+			<edited>飞得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0001" offset="00" relocatable="true" max_length="0">
 			<original>グルグルしてんなー！</original>
-			<edited>グルグルしてんなー！</edited>
+			<edited>转个不停呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0002" offset="00" relocatable="true" max_length="0">
 			<original>イカフライまで取っちゃうなんて、ヨユウですね～♪</original>
-			<edited>イカフライまで取っちゃうなんて、ヨユウですね～♪</edited>
+			<edited>连炸鱿鱼圈都拿到，真是游刃有余呢～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0003" offset="00" relocatable="true" max_length="0">
 			<original>オ～プ～ン♪</original>
-			<edited>オ～プ～ン♪</edited>
+			<edited>打开～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0004" offset="00" relocatable="true" max_length="0">
 			<original>回っておる… でっかいのが回っておるぞィ</original>
-			<edited>回っておる… でっかいのが回っておるぞィ</edited>
+			<edited>在转… 有个大东西在转！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0005" offset="00" relocatable="true" max_length="0">
 			<original>いい感じでグルグルを止めたいですね</original>
-			<edited>いい感じでグルグルを止めたいですね</edited>
+			<edited>想恰到好处地停下旋转呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0006" offset="00" relocatable="true" max_length="0">
 			<original>すごい… イカフライ全部ゲットですね！</original>
-			<edited>すごい… イカフライ全部ゲットですね！</edited>
+			<edited>厉害… 炸鱿鱼圈全拿到了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0007" offset="00" relocatable="true" max_length="0">
 			<original>ギャンッ！！</original>
-			<edited>ギャンッ！！</edited>
+			<edited>哇！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0008" offset="00" relocatable="true" max_length="0">
 			<original>ナイスすりぬけじゃッ！</original>
-			<edited>ナイスすりぬけじゃッ！</edited>
+			<edited>穿过得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0009" offset="00" relocatable="true" max_length="0">
 			<original>キャッ？！</original>
-			<edited>キャッ？！</edited>
+			<edited>呀？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0010" offset="00" relocatable="true" max_length="0">
 			<original>ファッ？！</original>
-			<edited>ファッ？！</edited>
+			<edited>哎呀？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0011" offset="00" relocatable="true" max_length="0">
 			<original>よし、次だ！</original>
-			<edited>よし、次だ！</edited>
+			<edited>好，下一个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0012" offset="00" relocatable="true" max_length="0">
 			<original>めっちゃグルグルしてたな！</original>
-			<edited>めっちゃグルグルしてたな！</edited>
+			<edited>转得真够厉害的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0013" offset="00" relocatable="true" max_length="0">
 			<original>もうヘロヘロです…</original>
-			<edited>もうヘロヘロです…</edited>
+			<edited>已经累瘫了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0014" offset="00" relocatable="true" max_length="0">
 			<original>進路良好！ 全速前進ーッ！</original>
-			<edited>進路良好！ 全速前進ーッ！</edited>
+			<edited>路线畅通！全速前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0015" offset="00" relocatable="true" max_length="0">
 			<original>でっかいのの真ん中にも でんでんスイッチありますね</original>
-			<edited>でっかいのの真ん中にも でんでんスイッチありますね</edited>
+			<edited>大东西的中间也有转转开关呢</edited>
 			<subEntries />
 		</entry>
 	</entries>

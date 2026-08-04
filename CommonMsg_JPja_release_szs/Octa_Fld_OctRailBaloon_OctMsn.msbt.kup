@@ -5,47 +5,47 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>風船マト３０コ、全て壊してくださイ</original>
-			<edited>風船マト３０コ、全て壊してくださイ</edited>
+			<edited>请打坏全部30个气球靶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>風船マトを１つでも見のがすと 先に進めなくなりまス</original>
-			<edited>風船マトを１つでも見のがすと 先に進めなくなりまス</edited>
+			<edited>漏看1个气球靶就无法继续前进</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプで着いたら 始まりまス</original>
-			<edited>ジャンプで着いたら 始まりまス</edited>
+			<edited>跳到落地即开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>ダメージをくらうと アウトとなりまス</original>
-			<edited>ダメージをくらうと アウトとなりまス</edited>
+			<edited>受到伤害就算出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailBaloon_0001" offset="00" relocatable="true" max_length="0">
 			<original>あーあ、マト外した…</original>
-			<edited>あーあ、マト外した…</edited>
+			<edited>哎呀，靶子没打中…</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailBaloon_0002" offset="00" relocatable="true" max_length="0">
 			<original>あ～…</original>
-			<edited>あ～…</edited>
+			<edited>啊～…</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailBaloon_0003" offset="00" relocatable="true" max_length="0">
 			<original>ここで半分です！</original>
-			<edited>ここで半分です！</edited>
+			<edited>到这里一半了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailBaloon_0004" offset="00" relocatable="true" max_length="0">
 			<original>残りわずかじゃ！ 気をゆるめること 無かれィ！</original>
-			<edited>残りわずかじゃ！ 気をゆるめること 無かれィ！</edited>
+			<edited>所剩无几！不可松懈！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailBaloon_0005" offset="00" relocatable="true" max_length="0">
 			<original>撃ち方、用意じゃ！</original>
-			<edited>撃ち方、用意じゃ！</edited>
+			<edited>射击预备！</edited>
 			<subEntries />
 		</entry>
 	</entries>

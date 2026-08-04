@@ -5,142 +5,142 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコを、相手のゴールまで運んでくださイ</original>
-			<edited>ガチホコを、相手のゴールまで運んでくださイ</edited>
+			<edited>请把真格鱼虎运到对手的终点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ホコを持って&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、強力なショットが撃てまス</original>
-			<edited>ホコを持って&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、強力なショットが撃てまス</edited>
+			<edited>拿着鱼虎，&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按即可发射强力射击</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ホコを持っていると ボムは使えないので、注意でス</original>
-			<edited>ホコを持っていると ボムは使えないので、注意でス</edited>
+			<edited>拿着鱼虎时无法使用炸弹，请注意</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0000" offset="00" relocatable="true" max_length="0">
 			<original>…ってか ここ、マンタマリア号そっくりじゃねーか</original>
-			<edited>…ってか ここ、マンタマリア号そっくりじゃねーか</edited>
+			<edited>…话说，这里跟鬼蝠鲼玛利亚号一模一样吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0001" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコを運ぶようですね… では、ホコをゲットしましょう</original>
-			<edited>ガチホコを運ぶようですね… では、ホコをゲットしましょう</edited>
+			<edited>看来要运送真格鱼虎… 那么，先拿到鱼虎吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0025" offset="00" relocatable="true" max_length="0">
 			<original>ホコのバリアをインクショットで割り、ホコにさわってください</original>
-			<edited>ホコのバリアをインクショットで割り、ホコにさわってください</edited>
+			<edited>用墨汁射击打破鱼虎的护罩，然后触碰鱼虎</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0002" offset="00" relocatable="true" max_length="0">
 			<original>時間内ならやり直せるゾ！ ホコを取りもどせー！</original>
-			<edited>時間内ならやり直せるゾ！ ホコを取りもどせー！</edited>
+			<edited>时间允许的话还能重来！把鱼虎夺回来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0003" offset="00" relocatable="true" max_length="0">
 			<original>やり直しじゃな… 気をしっかり持つんじゃ！</original>
-			<edited>やり直しじゃな… 気をしっかり持つんじゃ！</edited>
+			<edited>要重来了… 打起精神！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0004" offset="00" relocatable="true" max_length="0">
 			<original>急げ！ 残り１分を切ったゾ！</original>
-			<edited>急げ！ 残り１分を切ったゾ！</edited>
+			<edited>快！只剩不到1分钟了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0005" offset="00" relocatable="true" max_length="0">
 			<original>キエーッ！ ままよッ！</original>
-			<edited>キエーッ！ ままよッ！</edited>
+			<edited>哇啊！管他呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0006" offset="00" relocatable="true" max_length="0">
 			<original>ッシャー！ 相手のゴールまで運べー！</original>
-			<edited>ッシャー！ 相手のゴールまで運べー！</edited>
+			<edited>好嘞！运到对手的终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0007" offset="00" relocatable="true" max_length="0">
 			<original>ホレ、おいでなすったぞィ！</original>
-			<edited>ホレ、おいでなすったぞィ！</edited>
+			<edited>喏，送上门来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0008" offset="00" relocatable="true" max_length="0">
 			<original>動きを読んで、フルチャージの爆発に巻きこみましょう！</original>
-			<edited>動きを読んで、フルチャージの爆発に巻きこみましょう！</edited>
+			<edited>看准动作，把对手卷进满蓄力的爆炸吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0009" offset="00" relocatable="true" max_length="0">
 			<original>おい、何してんだ！ ホコを運べって！</original>
-			<edited>おい、何してんだ！ ホコを運べって！</edited>
+			<edited>喂，在干什么！叫你运鱼虎啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0010" offset="00" relocatable="true" max_length="0">
 			<original>ホコは ガイドの示す方向にあるはずです！</original>
-			<edited>ホコは ガイドの示す方向にあるはずです！</edited>
+			<edited>鱼虎应该就在指引标志的方向！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0011" offset="00" relocatable="true" max_length="0">
 			<original>ゴールまで あと半分じゃ！</original>
-			<edited>ゴールまで あと半分じゃ！</edited>
+			<edited>离终点还差一半！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0013" offset="00" relocatable="true" max_length="0">
 			<original>８号さん、ホコを取りもどしましょう！</original>
-			<edited>８号さん、ホコを取りもどしましょう！</edited>
+			<edited>8号，把鱼虎夺回来吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0014" offset="00" relocatable="true" max_length="0">
 			<original>ホコを取る前に、ブキでとっちめるのもアリだゾ！</original>
-			<edited>ホコを取る前に、ブキでとっちめるのもアリだゾ！</edited>
+			<edited>在拿鱼虎之前，先用武器收拾它们也行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0015" offset="00" relocatable="true" max_length="0">
 			<original>ゴールは目の前じゃ！ 気合でトッパせィ！</original>
-			<edited>ゴールは目の前じゃ！ 気合でトッパせィ！</edited>
+			<edited>终点就在眼前！靠气势冲过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0016" offset="00" relocatable="true" max_length="0">
 			<original>８号さん、がんばって～！</original>
-			<edited>８号さん、がんばって～！</edited>
+			<edited>8号，加油～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0017" offset="00" relocatable="true" max_length="0">
 			<original>これでどうだーっ！</original>
-			<edited>これでどうだーっ！</edited>
+			<edited>这下怎么样！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0018" offset="00" relocatable="true" max_length="0">
 			<original>バリアが割れました！ 急いでホコを取りましょう！</original>
-			<edited>バリアが割れました！ 急いでホコを取りましょう！</edited>
+			<edited>护罩破了！快去拿鱼虎！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0019" offset="00" relocatable="true" max_length="0">
 			<original>バリアが割れたら、ホコを放っとくなよ！</original>
-			<edited>バリアが割れたら、ホコを放っとくなよ！</edited>
+			<edited>护罩破了就别放着鱼虎不管！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0020" offset="00" relocatable="true" max_length="0">
 			<original>取らないと、最初の位置にもどっちゃうんですよね…</original>
-			<edited>取らないと、最初の位置にもどっちゃうんですよね…</edited>
+			<edited>不拿的话，鱼虎会回到初始位置吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0021" offset="00" relocatable="true" max_length="0">
 			<original>おい、またホコが もどったゾ！</original>
-			<edited>おい、またホコが もどったゾ！</edited>
+			<edited>喂，鱼虎又回去了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0022" offset="00" relocatable="true" max_length="0">
 			<original>この船、下のデッキは立ち入り禁止なんだよな…</original>
-			<edited>この船、下のデッキは立ち入り禁止なんだよな…</edited>
+			<edited>这艘船，下层甲板禁止进入啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0023" offset="00" relocatable="true" max_length="0">
 			<original>そんなところまで、そっくりに作ってあるんですね…</original>
-			<edited>そんなところまで、そっくりに作ってあるんですね…</edited>
+			<edited>连这种地方都做得一模一样呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="PillarHoko_0024" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ ヤバそーなヤツらが いんゾ！</original>
-			<edited>ゲッ！ ヤバそーなヤツらが いんゾ！</edited>
+			<edited>呃！有看起来很危险的家伙！</edited>
 			<subEntries />
 		</entry>
 	</entries>

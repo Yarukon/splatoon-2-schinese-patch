@@ -177,7 +177,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船&#xE;&#x0;&#x3;&#x2;ÿÿ、割ってド～ンね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹气球&#xE;&#x0;&#x3;&#x2;ÿÿ，打爆它，咚——！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹气球&#xE;&#x0;&#x3;&#x2;ÿÿ，打爆它，“咚——”哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn004" offset="00" relocatable="true" max_length="0">
@@ -192,7 +192,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラ正面&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リセット&#xE;&#x0;&#x3;&#x2;ÿÿできるかんね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;镜头朝向&#xE;&#x0;&#x3;&#x2;ÿÿ偏了的话，按&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;重置&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;镜头正面&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;重置&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn007" offset="00" relocatable="true" max_length="0">
@@ -202,7 +202,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>うちながら下がって！ これぞ、退きうち！</original>
-			<edited>边射击边后退！这才叫边退边打！</edited>
+			<edited>边退边射击！这就是边退边打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn009" offset="00" relocatable="true" max_length="0">
@@ -217,7 +217,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>あ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで くぐってみよ～</original>
-			<edited>啊，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸鱿鱼圈&#xE;&#x0;&#x3;&#x2;ÿÿ！用&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳起来钻过去试试～</edited>
+			<edited>啊，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸鱿鱼圈&#xE;&#x0;&#x3;&#x2;ÿÿ！用&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳过去试试～</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn012" offset="00" relocatable="true" max_length="0">
@@ -272,7 +272,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn022" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;かたむけ 左右を見回す！ 戦場の鉄則ゥ</original>
-			<edited>推动&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;环顾四周！这是战场铁律哦</edited>
+			<edited>拨动&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;环顾四周！这是战场铁律哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn023" offset="00" relocatable="true" max_length="0">
@@ -282,7 +282,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn024" offset="00" relocatable="true" max_length="0">
 			<original>見てて ヒヤヒヤするし</original>
-			<edited>看着都让人捏把汗</edited>
+			<edited>看得我胆战心惊的</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn025" offset="00" relocatable="true" max_length="0">
@@ -522,7 +522,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn024" offset="00" relocatable="true" max_length="0">
 			<original>カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で 素早く登る！ 戦場の鉄則ゥ</original>
-			<edited>爬墙的话连按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能快速登上去！这是战场铁律哦</edited>
+			<edited>爬墙的话连按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能快速登上去！战场铁律哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn025" offset="00" relocatable="true" max_length="0">
@@ -1367,7 +1367,7 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>見えないトコの ボム注意！ 戦場の鉄則ゥ♪</original>
-			<edited>小心看不见的炸弹！这是战场铁律♪</edited>
+			<edited>小心看不见的炸弹！战场铁律♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn021" offset="00" relocatable="true" max_length="0">
@@ -1487,7 +1487,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>安全なトコから、ねらいを付ける！ 戦場の鉄則ゥ！ </original>
-			<edited>从安全的地方瞄准！这是战场铁律！</edited>
+			<edited>从安全的地方瞄准！战场铁律！</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn005" offset="00" relocatable="true" max_length="0">
@@ -1797,7 +1797,7 @@
 		</entry>
 		<entry name="017_Rotation_A4_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>クルマの後ろで深呼吸！ 戦場の鉄則ゥ♪</original>
-			<edited>在车后面深呼吸！这是战场铁律♪</edited>
+			<edited>在车后面深呼吸！战场铁律♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="017_Rotation_A4_Msn004" offset="00" relocatable="true" max_length="0">
@@ -2402,7 +2402,7 @@
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn015" offset="00" relocatable="true" max_length="0">
 			<original>ここは… 押しでダメなら退いてみよ！ 戦場の鉄則ゥ</original>
-			<edited>这里…强攻不行就撤退试试！这是战场铁律</edited>
+			<edited>这里…强攻不行就撤退试试！战场铁律</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn016" offset="00" relocatable="true" max_length="0">

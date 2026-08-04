@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="T_CollectionTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>ネリメモリーズ</original>
-			<edited>ネリメモリーズ</edited>
+			<edited>记忆蛋糕</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LogBtn_00-T_Title_00" offset="00" relocatable="true" max_length="0">
@@ -106,8 +106,8 @@
 		<entry name="T_Confirmation_00" offset="00" relocatable="true" max_length="0">
 			<original>チャレンジ料を払えませんが、
 この駅へ行きますか？</original>
-			<edited>チャレンジ料を払えませんが、
-この駅へ行きますか？</edited>
+			<edited>无法支付挑战费用，
+要去这个车站吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">

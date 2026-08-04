@@ -20,78 +20,78 @@
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íをゲットした！</original>
-			<edited>&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íをゲットした！</edited>
+			<edited>&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í获得了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;が使えるようになった！</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;が使えるようになった！</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;章鱼&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;可以使用了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>ネルメダルをゲットした！</original>
-			<edited>ネルメダルをゲットした！</edited>
+			<edited>获得了涅尔勋章！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;２００００&#xE;&#x0;&#x3;&#x2;ÿÿをゲットした！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;２００００&#xE;&#x0;&#x3;&#x2;ÿÿをゲットした！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;20000&#xE;&#x0;&#x3;&#x2;ÿÿ获得了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>ドリンクチケットを３枚ゲットした！</original>
-			<edited>ドリンクチケットを３枚ゲットした！</edited>
+			<edited>获得了3张饮料券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>ドリンクチケットを１４枚ゲットした！</original>
-			<edited>ドリンクチケットを１４枚ゲットした！</edited>
+			<edited>获得了14张饮料券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>ドリンクチケットをゲットした！</original>
-			<edited>ドリンクチケットをゲットした！</edited>
+			<edited>获得了饮料券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>フードチケットをゲットした！</original>
-			<edited>フードチケットをゲットした！</edited>
+			<edited>获得了食物券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="050" offset="00" relocatable="true" max_length="0">
 			<original>深海メトロから 脱出できたら
 使えるようになるぞ！</original>
-			<edited>深海メトロから 脱出できたら
-使えるようになるぞ！</edited>
+			<edited>逃出深海地铁后
+就能使用了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="051" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアに もどったら
 使えるようになるぞ！</original>
-			<edited>ハイカラスクエアに もどったら
-使えるようになるぞ！</edited>
+			<edited>回到尚兴广场后
+就能使用了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="052" offset="00" relocatable="true" max_length="0">
 			<original>オプションのプレイヤー設定から、
 &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿを切り替えることができるぞ！</original>
-			<edited>オプションのプレイヤー設定から、
-&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿを切り替えることができるぞ！</edited>
+			<edited>从选项的玩家设置里，
+&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ和&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;章鱼&#xE;&#x0;&#x3;&#x2;ÿÿ可以切换哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="053" offset="00" relocatable="true" max_length="0">
 			<original>深海メトロ中央駅で 使ってみよう！</original>
-			<edited>深海メトロ中央駅で 使ってみよう！</edited>
+			<edited>在深海地铁中央站试试吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="054" offset="00" relocatable="true" max_length="0">
 			<original>頭にさして じまんしよう！！</original>
-			<edited>頭にさして じまんしよう！！</edited>
+			<edited>插在头上炫耀吧！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="055" offset="00" relocatable="true" max_length="0">
 			<original>チャレンジや自販機で 使ってみよう！</original>
-			<edited>チャレンジや自販機で 使ってみよう！</edited>
+			<edited>在挑战和自动售货机里试试吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">

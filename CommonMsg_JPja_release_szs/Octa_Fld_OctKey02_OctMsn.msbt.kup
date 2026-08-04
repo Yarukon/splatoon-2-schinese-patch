@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="Key02_0000" offset="00" relocatable="true" max_length="0">
 			<original>なんともあやしい部屋ですね～</original>
-			<edited>なんともあやしい部屋ですね～</edited>
+			<edited>真是个可疑的房间呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Key02_0001" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ ネギトロ炭鉱を思い出すわィ！</original>
-			<edited>フォー！ ネギトロ炭鉱を思い出すわィ！</edited>
+			<edited>哦哦！让我想起葱鲔鱼煤矿场！</edited>
 			<subEntries />
 		</entry>
 	</entries>

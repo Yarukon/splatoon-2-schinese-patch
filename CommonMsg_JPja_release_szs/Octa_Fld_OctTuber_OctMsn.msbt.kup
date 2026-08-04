@@ -5,92 +5,92 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージしたままタコダッシュ… それがチャージキープ</original>
-			<edited>フルチャージしたままタコダッシュ… それがチャージキープ</edited>
+			<edited>保持满蓄力边鱿鱼冲刺…那就是保持蓄力</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ソイチューバーは チャージキープを使いこなしましょウ</original>
-			<edited>ソイチューバーは チャージキープを使いこなしましょウ</edited>
+			<edited>好好掌握高压吸油枪的保持蓄力吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>チャージキープは一定時間経つと 効果が無くなりまス</original>
-			<edited>チャージキープは一定時間経つと 効果が無くなりまス</edited>
+			<edited>保持蓄力过一段时间会失效</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>１４式竹筒銃・甲は、空中チャージも利用しましょウ</original>
-			<edited>１４式竹筒銃・甲は、空中チャージも利用しましょウ</edited>
+			<edited>14式竹筒枪·甲，也要利用空中蓄力</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0000" offset="00" relocatable="true" max_length="0">
 			<original>そう言えば最近、チャージキープ ちぅのがあるそうじゃの</original>
-			<edited>そう言えば最近、チャージキープ ちぅのがあるそうじゃの</edited>
+			<edited>说起来，最近好像有叫“保持蓄力”的东西</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0001" offset="00" relocatable="true" max_length="0">
 			<original>正面にスイッチを発見！</original>
-			<edited>正面にスイッチを発見！</edited>
+			<edited>正面发现开关！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0002" offset="00" relocatable="true" max_length="0">
 			<original>フォーー！ それがチャージキープか！</original>
-			<edited>フォーー！ それがチャージキープか！</edited>
+			<edited>哦哦！那就是保持蓄力吗！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0003" offset="00" relocatable="true" max_length="0">
 			<original>ここもチャージキープ、というヤツかのゥ？</original>
-			<edited>ここもチャージキープ、というヤツかのゥ？</edited>
+			<edited>这里也要用保持蓄力吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0004" offset="00" relocatable="true" max_length="0">
 			<original>ナイッスゲー！</original>
-			<edited>ナイッスゲー！</edited>
+			<edited>漂亮厉害！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0005" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージしてからダッシュ板に乗りましょう</original>
-			<edited>フルチャージしてからダッシュ板に乗りましょう</edited>
+			<edited>满蓄力后再上冲刺板吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0006" offset="00" relocatable="true" max_length="0">
 			<original>ッシャーオラー！</original>
-			<edited>ッシャーオラー！</edited>
+			<edited>好嘞上啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0007" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイント、発見です！</original>
-			<edited>ひきよせポイント、発見です！</edited>
+			<edited>发现牵引点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0008" offset="00" relocatable="true" max_length="0">
 			<original>最近のチャージャ－は、チャージを保ってタコダッシュできます</original>
-			<edited>最近のチャージャ－は、チャージを保ってタコダッシュできます</edited>
+			<edited>最近的蓄力狙击枪，能边保持蓄力边鱿鱼冲刺</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0009" offset="00" relocatable="true" max_length="0">
 			<original>最後は、あそこですね…</original>
-			<edited>最後は、あそこですね…</edited>
+			<edited>最后是那里…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0010" offset="00" relocatable="true" max_length="0">
 			<original>おー！ 今の動画サイトにアップしとこ！</original>
-			<edited>おー！ 今の動画サイトにアップしとこ！</edited>
+			<edited>哦！把这个传到视频网站上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0011" offset="00" relocatable="true" max_length="0">
 			<original>お！ ゴール発見！</original>
-			<edited>お！ ゴール発見！</edited>
+			<edited>哦！发现终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0012" offset="00" relocatable="true" max_length="0">
 			<original>竹筒銃なら 空中でのチャージも早いぞィ！</original>
-			<edited>竹筒銃なら 空中でのチャージも早いぞィ！</edited>
+			<edited>竹筒枪空中蓄力也快！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuber_0013" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ その身のこなし、昔のワシにクリソツじゃ！</original>
-			<edited>フォー！ その身のこなし、昔のワシにクリソツじゃ！</edited>
+			<edited>哦哦！那身法，简直和年轻时的老夫一模一样！</edited>
 			<subEntries />
 		</entry>
 	</entries>
