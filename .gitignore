@@ -22,3 +22,5 @@ nx_layout_toolbox.pdb
 
 # Local Agent memory directory
 .agent-memory/
+
+out/
