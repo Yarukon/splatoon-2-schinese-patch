@@ -13,6 +13,12 @@ pack_szs.py
 glossary/
 *.kup.bak
 
+# Local backup of translation drafts (not part of the patch)
+_backup/
+
 # Local tooling (not part of the patch)
 nx-layout-toolbox.exe
 nx_layout_toolbox.pdb
+
+# Local Agent memory directory
+.agent-memory/
