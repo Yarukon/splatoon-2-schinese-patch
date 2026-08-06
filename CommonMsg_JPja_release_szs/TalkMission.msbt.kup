@@ -32,7 +32,7 @@
 ちょっとだけ イカダッシュできるでし！&#xE;&#x0;&#x4;&#x0;名付けて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャージキープ&#xE;&#x0;&#x3;&#x2;ÿÿ！！
 使いこなして クールにキメるでし！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄蓄力狙击枪&#xE;&#x0;&#x3;&#x2;ÿÿ来咯！长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
-蓄满力！瞄准远处的敌人射击吧！&#xE;&#x0;&#x4;&#x0;蓄满力后保持蓄力状态，
+蓄力到满！瞄准远处的敌人射击吧！&#xE;&#x0;&#x4;&#x0;蓄满力后保持蓄力状态，
 还能稍微用鱿鱼冲刺移动！&#xE;&#x0;&#x4;&#x0;这就是&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;保持蓄力&#xE;&#x0;&#x3;&#x2;ÿÿ！！
 熟练运用，帅一把吧！</edited>
 			<subEntries />
@@ -63,8 +63,8 @@
 足を取られないよう注意して 立ち回るでし！</original>
 			<edited>压倒性的连射火力！
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄旋转枪&#xE;&#x0;&#x3;&#x2;ÿÿ来咯！&#xE;&#x0;&#x4;&#x0;长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;蓄力，
-然后爆发出排山倒海的攻势吧！&#xE;&#x0;&#x4;&#x0;不过蓄力时破绽也很大…
-小心别被抓住机会哦！</edited>
+然后爆发出排山倒海的攻势吧！不过&#xE;&#x0;&#x4;&#x0;蓄力时破绽也很大…
+小心别被敌人抓住破绽哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NewWeaponTalk_Shooter_BlasterMissionMiddle" offset="00" relocatable="true" max_length="0">
@@ -83,9 +83,9 @@
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースロッシャー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でバシャバシャ！ インクのキドウをイカして
 カベの向こうの敵を やっつけるでし！&#xE;&#x0;&#x4;&#x0;ねらった場所にうつには、慣れがいるでしが…
 きっと 期待にこたえてくれるでし！</original>
-			<edited>让墨水画出抛物线的
+			<edited>墨水会划出抛物线的
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄泼桶&#xE;&#x0;&#x3;&#x2;ÿÿ来咯！&#xE;&#x0;&#x4;&#x0;按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;哗啦哗啦！利用墨水的弹道，
-解决墙后的敌人吧！&#xE;&#x0;&#x4;&#x0;想精准泼中需要练习…
+解决墙后的敌人吧&#xE;&#x0;&#x4;&#x0;！想泼准，得多练练…
 但它一定不会辜负你的期待！</edited>
 			<subEntries />
 		</entry>
@@ -137,7 +137,7 @@
 		</entry>
 		<entry name="00_Common_R012" offset="00" relocatable="true" max_length="0">
 			<original>オッケ！</original>
-			<edited>好的！</edited>
+			<edited>好嘞！</edited>
 			<subEntries />
 		</entry>
 		<entry name="00_Common_R013" offset="00" relocatable="true" max_length="0">
@@ -157,7 +157,7 @@
 		</entry>
 		<entry name="00_Common_R017" offset="00" relocatable="true" max_length="0">
 			<original>ヒーロースーツこわれた！ 直るまで無理せんよ！</original>
-			<edited>英雄套装坏掉了！修好之前别硬撑哦！</edited>
+			<edited>英雄套装坏掉了！修好前先别勉强哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="00_Common_R018" offset="00" relocatable="true" max_length="0">
@@ -177,27 +177,27 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船&#xE;&#x0;&#x3;&#x2;ÿÿ、割ってド～ンね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹气球&#xE;&#x0;&#x3;&#x2;ÿÿ，打爆它，“咚——”哦</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹气球&#xE;&#x0;&#x3;&#x2;ÿÿ，打爆它，轰——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ取ったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに向かって</original>
-			<edited>拿到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ就朝&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ走</edited>
+			<edited>拿到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ就去&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ那边！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn005" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ要变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ钻过去哦</edited>
+			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;ÿÿ鱿鱼&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，从&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ钻过去哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラ正面&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リセット&#xE;&#x0;&#x3;&#x2;ÿÿできるかんね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;镜头正面&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;重置&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;就能把&#xE;&#x0;&#x3;&#x2;ÿÿ镜头&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;转回&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;正面&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アーマー&#xE;&#x0;&#x3;&#x2;ÿÿだ、取っちゃえ</original>
-			<edited>是&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;盔甲&#xE;&#x0;&#x3;&#x2;ÿÿ，拿走它！</edited>
+			<edited>是&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;盔甲&#xE;&#x0;&#x3;&#x2;ÿÿ，快拿上！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn008" offset="00" relocatable="true" max_length="0">
@@ -212,7 +212,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn010" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿで注意をそらしてから、背中をうつ！</original>
-			<edited>先用&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ引开它，再打背后！</edited>
+			<edited>先用&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ引开它，再打它背后！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn011" offset="00" relocatable="true" max_length="0">
@@ -252,7 +252,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でかくれて、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿ回復ね</original>
-			<edited>用&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;躲起来，恢复&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨水&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜进墨水里，回复&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨水&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn019" offset="00" relocatable="true" max_length="0">
@@ -267,7 +267,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn021" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ちがう色のインク&#xE;&#x0;&#x3;&#x2;ÿÿは、塗り返して</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;不同颜色的墨水&#xE;&#x0;&#x3;&#x2;ÿÿ，要涂回来哦</edited>
+			<edited>把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;不同颜色的墨水&#xE;&#x0;&#x3;&#x2;ÿÿ涂回自己的颜色哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn022" offset="00" relocatable="true" max_length="0">
@@ -292,12 +292,12 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn026" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ要变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钻过去&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;ÿÿ鱿鱼&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，从&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钻过去&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn027" offset="00" relocatable="true" max_length="0">
 			<original>やるねぇ、 んじゃ次</original>
-			<edited>干得不错嘛，那下一个</edited>
+			<edited>干得不错嘛～，接着来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn028" offset="00" relocatable="true" max_length="0">
@@ -307,12 +307,12 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn029" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ 確認されたし！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ找到了！确认一下！</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ！确认无误！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn030" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで ぬけられるっしょ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ的话，变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ就能钻过去啦</edited>
+			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;ÿÿ鱿鱼&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，就能从&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ钻过去啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn031" offset="00" relocatable="true" max_length="0">
@@ -327,17 +327,17 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn033" offset="00" relocatable="true" max_length="0">
 			<original>カベが無いな…&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でかくれて、ゆっくり近づこっか</original>
-			<edited>没有墙啊…用&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;躲起来，慢慢靠近吧</edited>
+			<edited>没有墙啊…按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜进墨水里，慢慢靠近吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn034" offset="00" relocatable="true" max_length="0">
 			<original>タテ持ちは &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿで気を引き 背中うつ！</original>
-			<edited>持盾章鱼，用&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ引开它，再打背后！</edited>
+			<edited>持盾章鱼！用&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ引开它，再打它背后！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>カベは塗って&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで登って</original>
-			<edited>把墙涂满墨水，变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ爬上去</edited>
+			<edited>先把墙涂上墨水，再按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ爬上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn002" offset="00" relocatable="true" max_length="0">
@@ -347,7 +347,7 @@
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スポンジ&#xE;&#x0;&#x3;&#x2;ÿÿはうって、上手く使お～</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海绵&#xE;&#x0;&#x3;&#x2;ÿÿ要打它，好好利用哦～</edited>
+			<edited>打中&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海绵&#xE;&#x0;&#x3;&#x2;ÿÿ，好好利用它吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn005" offset="00" relocatable="true" max_length="0">
@@ -387,7 +387,7 @@
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、速く登れるかんね～</original>
-			<edited>变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ后按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，能爬得更快哦～</edited>
+			<edited>按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ，再按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能爬得更快哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn015" offset="00" relocatable="true" max_length="0">
@@ -402,12 +402,12 @@
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn017" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムタコプター&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ ヤバそ…</original>
-			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹章鱼螺旋桨兵&#xE;&#x0;&#x3;&#x2;ÿÿ！好像很危险…</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹章鱼螺旋桨兵&#xE;&#x0;&#x3;&#x2;ÿÿ！看着不好惹…</edited>
 			<subEntries />
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スポンジ&#xE;&#x0;&#x3;&#x2;ÿÿも &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカ&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で、速く登れるかんね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海绵&#xE;&#x0;&#x3;&#x2;ÿÿ也是，变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;鱿鱼后连按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，能爬得更快哦</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海绵&#xE;&#x0;&#x3;&#x2;ÿÿ也一样：按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;变成鱿鱼，再连按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，就能爬得更快哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002_EasyClimb00_A1_Msn019" offset="00" relocatable="true" max_length="0">
@@ -422,7 +422,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>低い段差は &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで、登ろう</original>
-			<edited>低一点的台阶用&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳上去吧</edited>
+			<edited>矮台阶用&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳上去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn004" offset="00" relocatable="true" max_length="0">
@@ -437,7 +437,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで泳いで、遠くまで&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプ</original>
-			<edited>变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;鱿鱼游过去，再按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳向远处</edited>
+			<edited>按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;变成鱿鱼游过去，再按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳到远处！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn007" offset="00" relocatable="true" max_length="0">
@@ -447,7 +447,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>遠くにとぶなら、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで泳いで &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプだよ</original>
-			<edited>想跳得远的话，就变成&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;鱿鱼游起来，再按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳</edited>
+			<edited>想跳得远，就按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;变成鱿鱼游过去，再按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn009" offset="00" relocatable="true" max_length="0">
@@ -462,7 +462,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>タコプターを目視にて確認、注意されたし！</original>
-			<edited>亲眼确认到章鱼螺旋桨兵，注意！</edited>
+			<edited>发现章鱼螺旋桨兵！注意！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn012" offset="00" relocatable="true" max_length="0">
@@ -492,7 +492,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バイタコトルーパー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ 落ち着いてトツゲキ～！</original>
-			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;强化章鱼兵&#xE;&#x0;&#x3;&#x2;ÿÿ！冷静冲锋～！</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;强化章鱼兵&#xE;&#x0;&#x3;&#x2;ÿÿ！冷静点，准备迎战～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn019" offset="00" relocatable="true" max_length="0">
@@ -502,7 +502,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>タイミング よ～く見て行こ～</original>
-			<edited>好好看准时机再走～</edited>
+			<edited>看准时机再上～</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn021" offset="00" relocatable="true" max_length="0">
@@ -522,7 +522,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn024" offset="00" relocatable="true" max_length="0">
 			<original>カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で 素早く登る！ 戦場の鉄則ゥ</original>
-			<edited>爬墙的话连按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能快速登上去！战场铁律哦</edited>
+			<edited>对着墙连按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能快速爬上去！这是战场铁律！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn025" offset="00" relocatable="true" max_length="0">
@@ -537,7 +537,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn027" offset="00" relocatable="true" max_length="0">
 			<original>ィよし！ 一気にとっちめたったね</original>
-			<edited>好！一口气全收拾掉了</edited>
+			<edited>好！一口气全收拾掉啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn028" offset="00" relocatable="true" max_length="0">
@@ -567,7 +567,7 @@
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn033" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿ！ とんで 真ん中くぐって</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸鱿鱼圈&#xE;&#x0;&#x3;&#x2;ÿÿ！跳过去，从中间钻过去</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸鱿鱼圈&#xE;&#x0;&#x3;&#x2;ÿÿ！跳起来，从正中间穿过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003_EasyJump00_A1_Msn034" offset="00" relocatable="true" max_length="0">
@@ -582,12 +582,12 @@
 		</entry>
 		<entry name="004_Gabon00_A2_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>コロコロ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ はっけ～ん</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滚滚棒&#xE;&#x0;&#x3;&#x2;ÿÿ，发现啦～</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滚滚棒&#xE;&#x0;&#x3;&#x2;ÿÿ啦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004_Gabon00_A2_Msn002" offset="00" relocatable="true" max_length="0">
 			<original>ここは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ転がして、自分色に染めるでし！</original>
-			<edited>这里把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滚滚棒&#xE;&#x0;&#x3;&#x2;ÿÿ滚过去，染成自己的颜色！</edited>
+			<edited>把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滚滚棒&#xE;&#x0;&#x3;&#x2;ÿÿ滚过去，把这里涂成自己的颜色！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004_Gabon00_A2_Msn003" offset="00" relocatable="true" max_length="0">
@@ -627,12 +627,12 @@
 		</entry>
 		<entry name="004_Gabon00_A2_Msn010" offset="00" relocatable="true" max_length="0">
 			<original>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ… だけど、タコリバーサー多過ぎ…</original>
-			<edited>里面有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;跳跃点&#xE;&#x0;&#x3;&#x2;ÿÿ…但是章鱼投掷兵太多了…</edited>
+			<edited>前面有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;跳跃点&#xE;&#x0;&#x3;&#x2;ÿÿ…可章鱼投掷兵太多了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="004_Gabon00_A2_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けるでし！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;高压水枪&#xE;&#x0;&#x3;&#x2;ÿÿ按&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发动后，按住&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发射！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;高压水枪&#xE;&#x0;&#x3;&#x2;ÿÿ按&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发动后，再按住&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发射！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004_Gabon00_A2_Msn012" offset="00" relocatable="true" max_length="0">
@@ -677,7 +677,7 @@
 		</entry>
 		<entry name="004_Gabon00_A2_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>そうでし！ タテ振りで 一気に塗れたでし？</original>
-			<edited>没错吧！用纵劈一下全涂满了吧？</edited>
+			<edited>没错吧！用纵劈一下就全涂满了吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="004_Gabon00_A2_Msn021" offset="00" relocatable="true" max_length="0">
@@ -687,12 +687,12 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn002" offset="00" relocatable="true" max_length="0">
 			<original>あっ イカフライ、乗ってるだけで 取れそじゃね？</original>
-			<edited>啊，炸鱿鱼圈，光站着就能拿到了吧？</edited>
+			<edited>啊，炸鱿鱼圈，站上去就能拿到吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>平行ライドレールは横に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！ となりのに移れる？</original>
-			<edited>平行的墨汁轨道按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;横移！能跳到旁边那条吗？</edited>
+			<edited>在平行的墨汁轨道上按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;横移！能跳到旁边那条吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn004" offset="00" relocatable="true" max_length="0">
@@ -702,7 +702,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn005" offset="00" relocatable="true" max_length="0">
 			<original>…４号って けっこうムチャするタイプ？</original>
-			<edited>…4号你原来是挺莽的类型？</edited>
+			<edited>…4号，你还挺敢乱来的嘛？</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn006" offset="00" relocatable="true" max_length="0">
@@ -712,7 +712,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>レールの行き先に 注意して進も</original>
-			<edited>注意轨道通向哪里再前进</edited>
+			<edited>先看清轨道通向哪儿，再往前走。</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn008" offset="00" relocatable="true" max_length="0">
@@ -742,7 +742,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>ライドレールは立てるよ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でショットをうってみよ</original>
-			<edited>墨汁轨道能立起来，用&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;射击试试</edited>
+			<edited>墨汁轨道可以竖起来，按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;射击试试！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn016" offset="00" relocatable="true" max_length="0">
@@ -757,12 +757,12 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>うんうん、次いってみよ～</original>
-			<edited>嗯嗯，继续下一段吧～</edited>
+			<edited>嗯嗯，接着往下走吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn019" offset="00" relocatable="true" max_length="0">
 			<original>カレイな身のこなし、お見事！</original>
-			<edited>身手好利落，真漂亮！</edited>
+			<edited>身手真利落，漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn020" offset="00" relocatable="true" max_length="0">
@@ -777,7 +777,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn023" offset="00" relocatable="true" max_length="0">
 			<original>乗ったら、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ジャ～ンプ！</original>
-			<edited>上去之后，按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳～！</edited>
+			<edited>乘上去后，按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn025" offset="00" relocatable="true" max_length="0">
@@ -787,7 +787,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn026" offset="00" relocatable="true" max_length="0">
 			<original>移動ショットしながら &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿ！ 思い出すでし！</original>
-			<edited>边移动射击边按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滑步&#xE;&#x0;&#x3;&#x2;ÿÿ！想起来了吧！</edited>
+			<edited>边移动边射击，按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;使出&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滑步&#xE;&#x0;&#x3;&#x2;ÿÿ！想起来了吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn027" offset="00" relocatable="true" max_length="0">
@@ -802,7 +802,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn029" offset="00" relocatable="true" max_length="0">
 			<original>アーマー はっけ～ん</original>
-			<edited>发现盔甲</edited>
+			<edited>发现盔甲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005_Grind00_A2_Msn030" offset="00" relocatable="true" max_length="0">
@@ -812,7 +812,7 @@
 		</entry>
 		<entry name="005_Grind00_A2_Msn031" offset="00" relocatable="true" max_length="0">
 			<original>ちょっぱや～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿは連続で２回できるよ</original>
-			<edited>超快！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滑步&#xE;&#x0;&#x3;&#x2;ÿÿ可以连续用两次哦</edited>
+			<edited>超快！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;滑步&#xE;&#x0;&#x3;&#x2;ÿÿ能连着使两次哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="006_Magnum00_A2_Msn002" offset="00" relocatable="true" max_length="0">
@@ -862,7 +862,7 @@
 		</entry>
 		<entry name="006_Magnum00_A2_Msn012" offset="00" relocatable="true" max_length="0">
 			<original>さっさと 次、行っちゃえ</original>
-			<edited>赶紧去下一处吧</edited>
+			<edited>赶紧往下走吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="006_Magnum00_A2_Msn013" offset="00" relocatable="true" max_length="0">
@@ -897,7 +897,7 @@
 		</entry>
 		<entry name="006_Magnum00_A2_Msn019" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しつづけてフルチャージしたら、遠くをねらうでし！</original>
-			<edited>长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;蓄满力后，瞄准远处！</edited>
+			<edited>长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;蓄力到满后，瞄准远处！</edited>
 			<subEntries />
 		</entry>
 		<entry name="006_Magnum00_A2_Msn020" offset="00" relocatable="true" max_length="0">
@@ -927,7 +927,7 @@
 		</entry>
 		<entry name="007_Mega00_A2_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>やられる！ チョ～にげて、今スグ！</original>
-			<edited>会被干掉！快跑，现在马上！</edited>
+			<edited>要被打倒了！快跑，马上！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn005" offset="00" relocatable="true" max_length="0">
@@ -957,7 +957,7 @@
 		</entry>
 		<entry name="007_Mega00_A2_Msn010" offset="00" relocatable="true" max_length="0">
 			<original>また業務用インクリーナー、はっけ～ん</original>
-			<edited>又发现工业级吸墨器了</edited>
+			<edited>又发现工业级吸墨器啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn011" offset="00" relocatable="true" max_length="0">
@@ -967,7 +967,7 @@
 		</entry>
 		<entry name="007_Mega00_A2_Msn012" offset="00" relocatable="true" max_length="0">
 			<original>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</original>
-			<edited>发现里面的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>里面有扇&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn014" offset="00" relocatable="true" max_length="0">
@@ -992,7 +992,7 @@
 		</entry>
 		<entry name="007_Mega00_A2_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>業務用インクリーナー、今 、トキハナツ！</original>
-			<edited>工业级吸墨器，现在就放它出来！</edited>
+			<edited>工业级吸墨器…现在，把它放出来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn019" offset="00" relocatable="true" max_length="0">
@@ -1022,12 +1022,12 @@
 		</entry>
 		<entry name="007_Mega00_A2_Msn024" offset="00" relocatable="true" max_length="0">
 			<original>このままインクで みちびこうね</original>
-			<edited>就这样用墨水引它吧</edited>
+			<edited>就这样用墨水把它引过来吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn025" offset="00" relocatable="true" max_length="0">
 			<original>ヤツは特に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムのインク&#xE;&#x0;&#x3;&#x2;ÿÿが 大好物なはずでし</original>
-			<edited>那家伙应该特别&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;爱吃炸弹的墨水&#xE;&#x0;&#x3;&#x2;ÿÿ才对</edited>
+			<edited>那家伙肯定特别爱吃&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹留下的墨水&#xE;&#x0;&#x3;&#x2;ÿÿ才对</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn026" offset="00" relocatable="true" max_length="0">
@@ -1042,7 +1042,7 @@
 		</entry>
 		<entry name="007_Mega00_A2_Msn028" offset="00" relocatable="true" max_length="0">
 			<original>なにやら あやしい気配… 気をつけて</original>
-			<edited>好像有可疑的气息…小心点</edited>
+			<edited>有股可疑的气息…小心点</edited>
 			<subEntries />
 		</entry>
 		<entry name="007_Mega00_A2_Msn029" offset="00" relocatable="true" max_length="0">
@@ -1057,7 +1057,7 @@
 		</entry>
 		<entry name="008_Blowouts_A2_Msn002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿは塗ったら クルクルのびてくよ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;吹吹卷&#xE;&#x0;&#x3;&#x2;ÿÿ涂上墨水就会旋转着伸展开哦</edited>
+			<edited>给&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;吹吹卷&#xE;&#x0;&#x3;&#x2;ÿÿ涂上墨水，它就会一边旋转一边伸长哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="008_Blowouts_A2_Msn003" offset="00" relocatable="true" max_length="0">
@@ -1082,12 +1082,12 @@
 		</entry>
 		<entry name="008_Blowouts_A2_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>ナイス、縦ピロピロ♪</original>
-			<edited>漂亮，竖着的吹吹卷♪</edited>
+			<edited>漂亮，竖起来的吹吹卷♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="008_Blowouts_A2_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>落ち着いていけば ダイジョブダイジョブ</original>
-			<edited>冷静着来就没问题没问题</edited>
+			<edited>冷静点，慢慢来就没问题没问题</edited>
 			<subEntries />
 		</entry>
 		<entry name="008_Blowouts_A2_Msn009" offset="00" relocatable="true" max_length="0">
@@ -1112,12 +1112,12 @@
 		</entry>
 		<entry name="008_Blowouts_A2_Msn013" offset="00" relocatable="true" max_length="0">
 			<original>タテ持ちがイッパイ… 正面からはキツそ…</original>
-			<edited>持盾章鱼一大堆…正面突破好像很难…</edited>
+			<edited>持盾章鱼一大堆…正面冲过去恐怕有点难…</edited>
 			<subEntries />
 		</entry>
 		<entry name="008_Blowouts_A2_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>あ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ！ チラっと見えたでし！</original>
-			<edited>啊，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！刚才瞥到了一眼！</edited>
+			<edited>啊，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！刚才瞥见了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="008_Blowouts_A2_Msn015" offset="00" relocatable="true" max_length="0">
@@ -1137,7 +1137,7 @@
 		</entry>
 		<entry name="008_Blowouts_A2_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>うは！ のびすぎっしょ…</original>
-			<edited>呜哇！这也伸太长了吧…</edited>
+			<edited>呜哇！这也伸得太长了吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="008_Blowouts_A2_Msn019" offset="00" relocatable="true" max_length="0">
@@ -1152,7 +1152,7 @@
 		</entry>
 		<entry name="009_Ditch00_A2_Msn002" offset="00" relocatable="true" max_length="0">
 			<original>ナ～イス、２コめ ゲット</original>
-			<edited>太～棒了，拿到第2个</edited>
+			<edited>太～棒了，第 2 个到手！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009_Ditch00_A2_Msn003" offset="00" relocatable="true" max_length="0">
@@ -1162,7 +1162,7 @@
 		</entry>
 		<entry name="009_Ditch00_A2_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>よ～し ４コめゲット、これで半分</original>
-			<edited>好～，拿到第4个，这就一半了</edited>
+			<edited>好～，第 4 个到手，这下过半了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009_Ditch00_A2_Msn005" offset="00" relocatable="true" max_length="0">
@@ -1172,12 +1172,12 @@
 		</entry>
 		<entry name="009_Ditch00_A2_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>６コめゲットでし！ 順調に取り返してるでしね！</original>
-			<edited>拿到第6个！进展很顺利呢！</edited>
+			<edited>第 6 个到手！收集得很顺利呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009_Ditch00_A2_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>７コめゲット♪ もうちょいだ</original>
-			<edited>拿到第7个♪ 还差一点</edited>
+			<edited>第 7 个到手♪ 还差一点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009_Ditch00_A2_Msn008" offset="00" relocatable="true" max_length="0">
@@ -1192,7 +1192,7 @@
 		</entry>
 		<entry name="009_Ditch00_A2_Msn013" offset="00" relocatable="true" max_length="0">
 			<original>マメデンチナマズは８コ集めて、デンチナマズ１コ分ね</original>
-			<edited>8个小电池鲶鱼等于1个电池鲶鱼哦</edited>
+			<edited>收集 8 个小电池鲶鱼，就等于 1 个电池鲶鱼哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="009_Ditch00_A2_Msn014" offset="00" relocatable="true" max_length="0">
@@ -1202,7 +1202,7 @@
 		</entry>
 		<entry name="009_Ditch00_A2_Msn015" offset="00" relocatable="true" max_length="0">
 			<original>うわ… イカにもなんか出てきそ…</original>
-			<edited>呜哇…鱿鱼那边好像也要出什么…</edited>
+			<edited>呜哇…那边好像也要冒出什么了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="009_Ditch00_A2_Msn016" offset="00" relocatable="true" max_length="0">
@@ -1232,7 +1232,7 @@
 		</entry>
 		<entry name="010_Flyer00_A3_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ開いてないね…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ没开呢…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ还没开呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="010_Flyer00_A3_Msn004" offset="00" relocatable="true" max_length="0">
@@ -1257,7 +1257,7 @@
 		</entry>
 		<entry name="010_Flyer00_A3_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船 &#xE;&#x0;&#x3;&#x2;ÿÿ見えとるね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹气球&#xE;&#x0;&#x3;&#x2;ÿÿ看得到呢</edited>
+			<edited>看见&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹气球&#xE;&#x0;&#x3;&#x2;ÿÿ了呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="010_Flyer00_A3_Msn009" offset="00" relocatable="true" max_length="0">
@@ -1287,7 +1287,7 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出た！ 取ったら&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに向お</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出现了！拿到就朝&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ走</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ掉出来了！拿到就去&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ那边</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn004" offset="00" relocatable="true" max_length="0">
@@ -1297,7 +1297,7 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn005" offset="00" relocatable="true" max_length="0">
 			<original>ん～… とにかく気をつけてトツゲキ～！</original>
-			<edited>唔～…总之小心冲锋～！</edited>
+			<edited>唔～…总之小心点，冲上去～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn006" offset="00" relocatable="true" max_length="0">
@@ -1307,22 +1307,22 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>ナイス♪ 次、行ってみよ～</original>
-			<edited>漂亮♪ 去下一处吧～</edited>
+			<edited>漂亮♪ 接着走吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>ィよし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
-			<edited>好，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>好，拿到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出现了！</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn010" offset="00" relocatable="true" max_length="0">
 			<original>オッケ♪ また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね～</original>
-			<edited>好的♪ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ又出现了～</edited>
+			<edited>好嘞♪ 又发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn011" offset="00" relocatable="true" max_length="0">
@@ -1342,7 +1342,7 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn015" offset="00" relocatable="true" max_length="0">
 			<original>カベの後ろで深呼吸！ 背中ねらって</original>
-			<edited>在墙后面深呼吸！瞄准背后打</edited>
+			<edited>在墙后面深呼吸！瞄准它的背后！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn016" offset="00" relocatable="true" max_length="0">
@@ -1357,12 +1357,12 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>よしよし♪</original>
-			<edited>好好♪</edited>
+			<edited>好样的♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn019" offset="00" relocatable="true" max_length="0">
 			<original>すばやい敵は、移動先を うつくらいがいいかな</original>
-			<edited>敏捷的敌人，朝它的移动方向打比较好哦</edited>
+			<edited>对付灵活的敌人，预判它的移动方向开枪比较好哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn020" offset="00" relocatable="true" max_length="0">
@@ -1377,7 +1377,7 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn022" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね 回収よろぴく～</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出现了，拜托回收一下～</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出现了，拜托你回收啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="011_Rundown00_A3_Msn023" offset="00" relocatable="true" max_length="0">
@@ -1387,12 +1387,12 @@
 		</entry>
 		<entry name="011_Rundown00_A3_Msn025" offset="00" relocatable="true" max_length="0">
 			<original>一気に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね</original>
-			<edited>一下子&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ全出来了</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ一下子全出来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="012_Jump00_A3_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプマット&#xE;&#x0;&#x3;&#x2;ÿÿだ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、たか～くジャンプ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;弹跳垫&#xE;&#x0;&#x3;&#x2;ÿÿ！长按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，跳得高高～</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;弹跳垫&#xE;&#x0;&#x3;&#x2;ÿÿ！长按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，跳得高高的～</edited>
 			<subEntries />
 		</entry>
 		<entry name="012_Jump00_A3_Msn002" offset="00" relocatable="true" max_length="0">
@@ -1407,7 +1407,7 @@
 		</entry>
 		<entry name="012_Jump00_A3_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>カベにつき落とされないように、大ジャンプしよ</original>
-			<edited>别被墙撞下去，来个超级大跳吧</edited>
+			<edited>别被墙撞下去，赶紧大跳吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="012_Jump00_A3_Msn005" offset="00" relocatable="true" max_length="0">
@@ -1437,12 +1437,12 @@
 		</entry>
 		<entry name="013_Spinner00_A3_Msn005" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿが どっかにあるんやろね</original>
-			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ应该在什么地方吧</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ应该就在附近吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="013_Spinner00_A3_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>あ、正面に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ見っけ</original>
-			<edited>啊，正面发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>啊，在正前方发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="013_Spinner00_A3_Msn007" offset="00" relocatable="true" max_length="0">
@@ -1457,7 +1457,7 @@
 		</entry>
 		<entry name="013_Spinner00_A3_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>上の方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿの光が見えるでし！</original>
-			<edited>能看到上方&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ的光！</edited>
+			<edited>上面能看到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ的光！</edited>
 			<subEntries />
 		</entry>
 		<entry name="013_Spinner00_A3_Msn011" offset="00" relocatable="true" max_length="0">
@@ -1467,7 +1467,7 @@
 		</entry>
 		<entry name="013_Spinner00_A3_Msn012" offset="00" relocatable="true" max_length="0">
 			<original>ここまで来たのはいいけど… この後どうする？</original>
-			<edited>能走到这里是不错…但接下来怎么办？</edited>
+			<edited>能到这里就不错了…接下来怎么办？</edited>
 			<subEntries />
 		</entry>
 		<entry name="013_Spinner00_A3_Msn013" offset="00" relocatable="true" max_length="0">
@@ -1502,7 +1502,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>チャージキープ、決まった？！</original>
-			<edited>保持蓄力，准备好了吗？！</edited>
+			<edited>保持蓄力成功？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn008" offset="00" relocatable="true" max_length="0">
@@ -1527,7 +1527,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn013" offset="00" relocatable="true" max_length="0">
 			<original>アイツが見てない間に 先進んじゃえ</original>
-			<edited>趁它没注意，赶紧先往前走</edited>
+			<edited>趁它没注意，赶紧往前走</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn014" offset="00" relocatable="true" max_length="0">
@@ -1552,7 +1552,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>ほ～、あ、気づいとったよ もちろん</original>
-			<edited>嚯～，啊，当然早就发现了</edited>
+			<edited>嚯～，当然发现了啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn019" offset="00" relocatable="true" max_length="0">
@@ -1562,7 +1562,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>チャージしたまま &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ダッシュ板&#xE;&#x0;&#x3;&#x2;ÿÿでジャンプ、できる？</original>
-			<edited>保持蓄力，能借着&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;冲刺板&#xE;&#x0;&#x3;&#x2;ÿÿ跳起来吗？</edited>
+			<edited>保持蓄力，能踩着&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;冲刺板&#xE;&#x0;&#x3;&#x2;ÿÿ跳起来吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn021" offset="00" relocatable="true" max_length="0">
@@ -1577,7 +1577,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn022" offset="00" relocatable="true" max_length="0">
 			<original>ィよし！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ</original>
-			<edited>好！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出来了</edited>
+			<edited>好！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ掉出来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn023" offset="00" relocatable="true" max_length="0">
@@ -1587,7 +1587,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn024" offset="00" relocatable="true" max_length="0">
 			<original>あ、れ… 行き止まり？</original>
-			<edited>诶，咦…死路？</edited>
+			<edited>诶…死路？</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn025" offset="00" relocatable="true" max_length="0">
@@ -1607,7 +1607,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn031" offset="00" relocatable="true" max_length="0">
 			<original>こんなトコ よく見つけたね…</original>
-			<edited>这种地方都能找到…</edited>
+			<edited>这种地方都能被你找到啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn033" offset="00" relocatable="true" max_length="0">
@@ -1632,12 +1632,12 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn038" offset="00" relocatable="true" max_length="0">
 			<original>屋上だ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿも見えるね</original>
-			<edited>到屋顶了～！能看到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ了</edited>
+			<edited>到屋顶啦～！能看到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn039" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス &#xE;&#x0;&#x3;&#x2;ÿÿ２体確認！ 注意されたし！</original>
-			<edited>确认2只&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼女战士&#xE;&#x0;&#x3;&#x2;ÿÿ！注意！</edited>
+			<edited>确认有 2 只&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼女战士&#xE;&#x0;&#x3;&#x2;ÿÿ！注意！</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn040" offset="00" relocatable="true" max_length="0">
@@ -1667,7 +1667,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn047" offset="00" relocatable="true" max_length="0">
 			<original>と～ちゃ～く！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿよろしくね</original>
-			<edited>到～达～！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ拜托啦</edited>
+			<edited>到～达～！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ就拜托你啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn049" offset="00" relocatable="true" max_length="0">
@@ -1677,7 +1677,7 @@
 		</entry>
 		<entry name="014_Unit01_Ambush00_A3_Msn050" offset="00" relocatable="true" max_length="0">
 			<original>おくの照準が最大射程 手前のが当たる場所でし</original>
-			<edited>远处的准星是最大射程，靠前一点才是能打中的位置哦</edited>
+			<edited>远处的准星表示最大射程，近一些的准星才打得到哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="015_Wave00_A3_Msn001" offset="00" relocatable="true" max_length="0">
@@ -1707,17 +1707,17 @@
 		</entry>
 		<entry name="015_Wave00_A3_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>４コめゲット～、これで半分…</original>
-			<edited>第4个到手～，这就一半了…</edited>
+			<edited>第 4 个到手～，这下过半了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="015_Wave00_A3_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>５コめゲットでし、早く全部集めるでし！！</original>
-			<edited>第5个到手！快点全收集完吧！！</edited>
+			<edited>第 5 个到手！快把剩下的全收集齐吧！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="015_Wave00_A3_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>６コめゲット～！ グッドグッド～</original>
-			<edited>第6个到手～！好好好～</edited>
+			<edited>第 6 个到手～！好嘞好嘞～</edited>
 			<subEntries />
 		</entry>
 		<entry name="015_Wave00_A3_Msn009" offset="00" relocatable="true" max_length="0">
@@ -1752,7 +1752,7 @@
 		</entry>
 		<entry name="016_Rock01_A4_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿを発見！ ねらわれ注意で</original>
-			<edited>发现里面的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼狙击兵&#xE;&#x0;&#x3;&#x2;ÿÿ！小心被瞄准</edited>
+			<edited>在里面发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼狙击兵&#xE;&#x0;&#x3;&#x2;ÿÿ！小心别被瞄准</edited>
 			<subEntries />
 		</entry>
 		<entry name="016_Rock01_A4_Msn006" offset="00" relocatable="true" max_length="0">
@@ -1762,12 +1762,12 @@
 		</entry>
 		<entry name="016_Rock01_A4_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>その調子♪</original>
-			<edited>就这样♪</edited>
+			<edited>保持这个势头♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="016_Rock01_A4_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ確認！ 行くよ</original>
-			<edited>确认&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！出发</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！出发！</edited>
 			<subEntries />
 		</entry>
 		<entry name="016_Rock01_A4_Msn010" offset="00" relocatable="true" max_length="0">
@@ -1777,7 +1777,7 @@
 		</entry>
 		<entry name="016_Rock01_A4_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>４号さん！ タコストライクを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャヘイ&#xE;&#x0;&#x3;&#x2;ÿÿにできないでしか？</original>
-			<edited>4号！不能把章鱼保龄球兵当&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;遮蔽物&#xE;&#x0;&#x3;&#x2;ÿÿ用吗？</edited>
+			<edited>4号！不能拿章鱼保龄球兵当&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;遮挡物&#xE;&#x0;&#x3;&#x2;ÿÿ吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="016_Rock01_A4_Msn012" offset="00" relocatable="true" max_length="0">
@@ -1792,7 +1792,7 @@
 		</entry>
 		<entry name="017_Rotation_A4_Msn002" offset="00" relocatable="true" max_length="0">
 			<original>足元注意！ しっかり塗らんとね</original>
-			<edited>小心脚下！得好好涂墨才行哦</edited>
+			<edited>小心脚下！得把地面好好涂上才行哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="017_Rotation_A4_Msn003" offset="00" relocatable="true" max_length="0">
@@ -1867,7 +1867,7 @@
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>今 デンチナマズ飛びこえなかった？ ま、イッカ</original>
-			<edited>刚才是不是跳过了电池鲶鱼？嘛，算了</edited>
+			<edited>刚才是不是从电池鲶鱼上跳过去了？算了，管它呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn007" offset="00" relocatable="true" max_length="0">
@@ -1892,7 +1892,7 @@
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>チャージ オッケ～？</original>
-			<edited>蓄力没问题吧～？</edited>
+			<edited>蓄好力了吗～？</edited>
 			<subEntries />
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn012" offset="00" relocatable="true" max_length="0">
@@ -1902,12 +1902,12 @@
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>敵いるね チャージ用意…</original>
-			<edited>有敌人呢，准备蓄力…</edited>
+			<edited>有敌人，准备蓄力…</edited>
 			<subEntries />
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn014_b" offset="00" relocatable="true" max_length="0">
 			<original>ここは、ボムなら届きそうでし！！</original>
-			<edited>这里的话，炸弹好像够得到！！</edited>
+			<edited>这里的话，炸弹应该够得着！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn015" offset="00" relocatable="true" max_length="0">
@@ -1937,7 +1937,7 @@
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>ィよし 次行こうね</original>
-			<edited>好，去下一处吧</edited>
+			<edited>好，接着走吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn022" offset="00" relocatable="true" max_length="0">
@@ -1992,7 +1992,7 @@
 		</entry>
 		<entry name="018_Unit02_Charger02_A4_Msn035" offset="00" relocatable="true" max_length="0">
 			<original>ひゅ～… おつかれおつかれ</original>
-			<edited>呼～…辛苦了辛苦了</edited>
+			<edited>呼～…辛苦啦辛苦啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn000" offset="00" relocatable="true" max_length="0">
@@ -2002,7 +2002,7 @@
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ひきよせポイント&#xE;&#x0;&#x3;&#x2;ÿÿは ブラスターの爆風でも行けそうでし</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;牵引点&#xE;&#x0;&#x3;&#x2;ÿÿ用爆破枪的爆炸波好像也能行</edited>
+			<edited>用爆破枪的爆风好像也能启动&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;牵引点&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn002" offset="00" relocatable="true" max_length="0">
@@ -2022,7 +2022,7 @@
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>３つの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿと ３つの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿか</original>
-			<edited>3扇&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ配3个&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;跳跃点&#xE;&#x0;&#x3;&#x2;ÿÿ啊</edited>
+			<edited>有 3 扇&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;门&#xE;&#x0;&#x3;&#x2;ÿÿ和 3 个&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;跳跃点&#xE;&#x0;&#x3;&#x2;ÿÿ啊</edited>
 			<subEntries />
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn007" offset="00" relocatable="true" max_length="0">
@@ -2032,7 +2032,7 @@
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>あっちに、カギが見えとるね</original>
-			<edited>那边能看到钥匙呢</edited>
+			<edited>那边看得到钥匙呢</edited>
 			<subEntries />
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn009" offset="00" relocatable="true" max_length="0">
@@ -2057,7 +2057,7 @@
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn013" offset="00" relocatable="true" max_length="0">
 			<original>今度は 遠くでクルクルしだした！</original>
-			<edited>这次在远处转起来了！</edited>
+			<edited>这次是远处转起来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn014" offset="00" relocatable="true" max_length="0">
@@ -2077,7 +2077,7 @@
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn017" offset="00" relocatable="true" max_length="0">
 			<original>ん？ ここどこ？</original>
-			<edited>嗯？这里是哪？</edited>
+			<edited>嗯？这是哪儿？</edited>
 			<subEntries />
 		</entry>
 		<entry name="019_Unit03_Blaster00_A4_Msn018" offset="00" relocatable="true" max_length="0">
@@ -2092,7 +2092,7 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ &#xE;&#x0;&#x3;&#x2;ÿÿ出たよ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出来了！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出现啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn002" offset="00" relocatable="true" max_length="0">
@@ -2107,7 +2107,7 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しでカサが開くよ</original>
-			<edited>长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;伞就会打开</edited>
+			<edited>长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打开伞</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn005" offset="00" relocatable="true" max_length="0">
@@ -2122,7 +2122,7 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>ガードしたい そんな時ほど カサが無い</original>
-			<edited>越想挡住的时候，越没有伞</edited>
+			<edited>偏偏想挡的时候，伞却不在手上</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn008" offset="00" relocatable="true" max_length="0">
@@ -2132,7 +2132,7 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>タコドーザーの頭に 乗れる？</original>
-			<edited>能站到章鱼推进洒墨机头上吗？</edited>
+			<edited>能跳到章鱼推进洒墨机头上吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn010" offset="00" relocatable="true" max_length="0">
@@ -2182,12 +2182,12 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn019" offset="00" relocatable="true" max_length="0">
 			<original>ここは 遠くから&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿじゃね？</original>
-			<edited>这里该从远处&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;甩伞面&#xE;&#x0;&#x3;&#x2;ÿÿ吧？</edited>
+			<edited>这里该从远处把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;伞面甩出去&#xE;&#x0;&#x3;&#x2;ÿÿ吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>こんなトコまで来るとか… さすが４号</original>
-			<edited>这种地方都能来…不愧是4号</edited>
+			<edited>居然能来到这种地方…不愧是 4 号</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn021" offset="00" relocatable="true" max_length="0">
@@ -2212,7 +2212,7 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn025" offset="00" relocatable="true" max_length="0">
 			<original>ィよし！ 先を急ごう</original>
-			<edited>好！抓紧赶路吧</edited>
+			<edited>好！赶紧往前走吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn026" offset="00" relocatable="true" max_length="0">
@@ -2222,7 +2222,7 @@
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn027" offset="00" relocatable="true" max_length="0">
 			<original>なんか投げて あっちのプロペラ 動かせない？</original>
-			<edited>扔点什么，能不能让那边的螺旋桨动起来？</edited>
+			<edited>扔个炸弹试试，能不能让那边的螺旋桨动起来？</edited>
 			<subEntries />
 		</entry>
 		<entry name="020_Unit04_Umbrella_A4_Msn028" offset="00" relocatable="true" max_length="0">
@@ -2232,7 +2232,7 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネス… とっちめるしかないっしょ</original>
-			<edited>章鱼女战士…只能收拾掉了</edited>
+			<edited>章鱼女战士…只能收拾掉它了吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn002" offset="00" relocatable="true" max_length="0">
@@ -2242,12 +2242,12 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>４号って 意外と… キチョ～メン？</original>
-			<edited>4号你意外地…很细致？</edited>
+			<edited>4 号，没想到你还挺细心？</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>よく 見つけたね…</original>
-			<edited>真能找到呢…</edited>
+			<edited>还真让你找到了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn005" offset="00" relocatable="true" max_length="0">
@@ -2277,7 +2277,7 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>１コめゲット～、次いこ 次～</original>
-			<edited>第1个到手～，下一个，下一个～</edited>
+			<edited>第 1 个到手～，接着找下一个～</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn010" offset="00" relocatable="true" max_length="0">
@@ -2287,7 +2287,7 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>グッドグッド、３コめ～♪</original>
-			<edited>好好好，第3个～♪</edited>
+			<edited>好嘞好嘞，第 3 个～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn012" offset="00" relocatable="true" max_length="0">
@@ -2302,7 +2302,7 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>６コめゲットでし！ 気を抜かずに次行くでし！</original>
-			<edited>第6个到手！别松懈，继续下一个！</edited>
+			<edited>第 6 个到手！别松懈，接着找下一个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn015" offset="00" relocatable="true" max_length="0">
@@ -2322,7 +2322,7 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn018" offset="00" relocatable="true" max_length="0">
 			<original>まずは一体！</original>
-			<edited>先干掉1只！</edited>
+			<edited>先解决一只！</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn019" offset="00" relocatable="true" max_length="0">
@@ -2332,7 +2332,7 @@
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>ライドレール！ これで向こうに わたっちゃえ</original>
-			<edited>墨汁轨道！用这个到对面去</edited>
+			<edited>墨汁轨道！坐这个到对面去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="021_Tuzura00_A4_Msn021" offset="00" relocatable="true" max_length="0">
@@ -2362,7 +2362,7 @@
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn004" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カーリングボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打でし！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;冰壶炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ按&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，再连按&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;冰壶炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ按&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发动，再连按&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn005" offset="00" relocatable="true" max_length="0">
@@ -2382,7 +2382,7 @@
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn008" offset="00" relocatable="true" max_length="0">
 			<original>よしよし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ</original>
-			<edited>好好好，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出来了</edited>
+			<edited>好嘞好嘞，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出现啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn009" offset="00" relocatable="true" max_length="0">
@@ -2427,27 +2427,27 @@
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn020" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿおるね、追いかけよ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼溜兵&#xE;&#x0;&#x3;&#x2;ÿÿ在，追上去</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼溜兵&#xE;&#x0;&#x3;&#x2;ÿÿ在那儿，追上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn021" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローブラシは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打、連打でし！！</original>
-			<edited>英雄毛刷要连按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、连按！</edited>
+			<edited>用英雄毛刷就连按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、连按！</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn022" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 早く使うでし！！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级着陆&#xE;&#x0;&#x3;&#x2;ÿÿ！快用！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级着陆&#xE;&#x0;&#x3;&#x2;ÿÿ！快发动！</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn023" offset="00" relocatable="true" max_length="0">
 			<original>タテ持ち敵いるけど、背中ねらえばヨユーっしょ</original>
-			<edited>有持盾章鱼，但瞄准背后打的话很轻松</edited>
+			<edited>有持盾章鱼，但瞄准它背后打就很轻松</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn024" offset="00" relocatable="true" max_length="0">
 			<original>業務用インクリーナーは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクやボムで導く&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>工业级吸墨器，用&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨水或炸弹引它走&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>用&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨水或炸弹把工业级吸墨器引开&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="022_Unit05_Invisible_A5_Msn025" offset="00" relocatable="true" max_length="0">
@@ -2477,7 +2477,7 @@
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn001" offset="00" relocatable="true" max_length="0">
 			<original>どんどん行こ！</original>
-			<edited>继续冲！</edited>
+			<edited>继续往前冲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn002" offset="00" relocatable="true" max_length="0">
@@ -2502,12 +2502,12 @@
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>ここは 並んでるライドレール、とび移ろう</original>
-			<edited>这里并排着墨汁轨道，跳过去换一条吧</edited>
+			<edited>这里有几条并排的墨汁轨道，跳过去换一条吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>当たると痛いよ～</original>
-			<edited>撞到会很疼哦～</edited>
+			<edited>碰到会很疼哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn008" offset="00" relocatable="true" max_length="0">
@@ -2517,7 +2517,7 @@
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>ここは レールを乗りついで、進むでし！！</original>
-			<edited>这里要顺着轨道一路骑过去！</edited>
+			<edited>这里要接着换乘轨道往前走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn010" offset="00" relocatable="true" max_length="0">
@@ -2527,12 +2527,12 @@
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>どんどん行くよ！</original>
-			<edited>继续前进！</edited>
+			<edited>继续往前走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn012" offset="00" relocatable="true" max_length="0">
 			<original>ハイ、ジャンプ</original>
-			<edited>来，跳</edited>
+			<edited>来，跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn013" offset="00" relocatable="true" max_length="0">
@@ -2542,12 +2542,12 @@
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>ハイ、イカジャ～ンプ</original>
-			<edited>来，鱿鱼大跳～</edited>
+			<edited>来，鱿鱼大跳～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn015" offset="00" relocatable="true" max_length="0">
 			<original>サクサク行こね！</original>
-			<edited>利索地前进吧！</edited>
+			<edited>利索点，往前走吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="023_Unit06_Grind03_A5_Msn016" offset="00" relocatable="true" max_length="0">
@@ -2592,7 +2592,7 @@
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn002" offset="00" relocatable="true" max_length="0">
 			<original>ここは構造上、まだまだ上に行けるみたいでし！</original>
-			<edited>从构造上看，好像还能往上走呢！</edited>
+			<edited>看样子还能继续往上走呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn003" offset="00" relocatable="true" max_length="0">
@@ -2612,7 +2612,7 @@
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、出たよ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ，出来了！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钥匙&#xE;&#x0;&#x3;&#x2;ÿÿ出来啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn007" offset="00" relocatable="true" max_length="0">
@@ -2637,7 +2637,7 @@
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>ここはこれで オッケ～っしょ</original>
-			<edited>这里这样就OK～了吧</edited>
+			<edited>这里这样就没问题了吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn012" offset="00" relocatable="true" max_length="0">
@@ -2657,7 +2657,7 @@
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn015" offset="00" relocatable="true" max_length="0">
 			<original>もうチョイ行ったら、ひと休みね</original>
-			<edited>再走一点就休息一下</edited>
+			<edited>再往前一点就休息一下</edited>
 			<subEntries />
 		</entry>
 		<entry name="024_Unit07_SlideLift_A5_Msn016" offset="00" relocatable="true" max_length="0">
@@ -2677,7 +2677,7 @@
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>あ！ 敵出とるよ</original>
-			<edited>啊！敌人出来了</edited>
+			<edited>啊！敌人来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn004" offset="00" relocatable="true" max_length="0">
@@ -2692,12 +2692,12 @@
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>４号、ここはセミになったつもりで はりつくよ～</original>
-			<edited>4号，这里就当自己是蝉，贴住别动哦～</edited>
+			<edited>4 号，这里就当自己是蝉，贴在墙上别动哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>ここは カベの後ろで深呼吸っしょ</original>
-			<edited>这里在墙后面深呼吸吧</edited>
+			<edited>这里躲到墙后深呼吸吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn008" offset="00" relocatable="true" max_length="0">
@@ -2717,7 +2717,7 @@
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn013" offset="00" relocatable="true" max_length="0">
 			<original>ベルトコンベヤーに 流されんよう、気をつけて</original>
-			<edited>小心别被传送带冲走</edited>
+			<edited>小心别被传送带卷走</edited>
 			<subEntries />
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn014" offset="00" relocatable="true" max_length="0">
@@ -2732,7 +2732,7 @@
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn016" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ はっけ～ん</original>
-			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;跳跃点&#xE;&#x0;&#x3;&#x2;ÿÿ～</edited>
+			<edited>发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;跳跃点&#xE;&#x0;&#x3;&#x2;ÿÿ啦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="025_Unit08_BelCon00_A5_Msn017" offset="00" relocatable="true" max_length="0">
@@ -2752,7 +2752,7 @@
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn003" offset="00" relocatable="true" max_length="0">
 			<original>ここは カベにはりついて待つ！</original>
-			<edited>这里贴住墙等着！</edited>
+			<edited>这里贴在墙上等着！</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn004" offset="00" relocatable="true" max_length="0">
@@ -2767,7 +2767,7 @@
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプで進んで クールに決めよ</original>
-			<edited>跳着前进，帅气地搞定</edited>
+			<edited>跳着往前走，帅气地闯过去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn007" offset="00" relocatable="true" max_length="0">
@@ -2782,17 +2782,17 @@
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn009" offset="00" relocatable="true" max_length="0">
 			<original>あれっ？ 行き止まり… もどろっか</original>
-			<edited>咦？死路…回去吗</edited>
+			<edited>咦？死路…回去吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn010" offset="00" relocatable="true" max_length="0">
 			<original>正面遠方に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ もうちょっとでし！</original>
-			<edited>确认正前方远处有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！就差一点！</edited>
+			<edited>正前方远处发现&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！就差一点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn011" offset="00" relocatable="true" max_length="0">
 			<original>登ったら すぐよけて！</original>
-			<edited>爬上去立刻躲开！</edited>
+			<edited>一爬上去就立刻躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn012" offset="00" relocatable="true" max_length="0">
@@ -2807,7 +2807,7 @@
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn014" offset="00" relocatable="true" max_length="0">
 			<original>あ、次 行ってみよ～</original>
-			<edited>啊，去下一处吧～</edited>
+			<edited>啊，接着走吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn015" offset="00" relocatable="true" max_length="0">
@@ -2817,7 +2817,7 @@
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn016" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アメフラシ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 投げて塗り返すでし！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨雨云&#xE;&#x0;&#x3;&#x2;ÿÿ！扔出去涂回墨水！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨雨云&#xE;&#x0;&#x3;&#x2;ÿÿ！扔出去，把地面涂回来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="026_Unit09_TakoStrike2_A5_Msn017" offset="00" relocatable="true" max_length="0">
@@ -2847,12 +2847,12 @@
 		</entry>
 		<entry name="027_Unduck00_A5_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>ナイスナイス♪ ３コめ</original>
-			<edited>漂亮漂亮♪ 第3个</edited>
+			<edited>干得漂亮♪ 第 3 个到手！</edited>
 			<subEntries />
 		</entry>
 		<entry name="027_Unduck00_A5_Msn007" offset="00" relocatable="true" max_length="0">
 			<original>オケオケ♪ 早く全部集めて 次行こね</original>
-			<edited>好好♪ 快点全收集完，去下一处吧</edited>
+			<edited>好嘞好嘞♪ 快把剩下的全收集齐，接着走吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="027_Unduck00_A5_Msn008" offset="00" relocatable="true" max_length="0">
@@ -2882,7 +2882,7 @@
 		</entry>
 		<entry name="B1_GelidiumKing_A1001" offset="00" relocatable="true" max_length="0">
 			<original>パン… 塗って登れん？</original>
-			<edited>面包…涂上墨水能爬上去吗？</edited>
+			<edited>面包…把它涂上墨水，能爬上去吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="B1_GelidiumKing_A1002" offset="00" relocatable="true" max_length="0">
@@ -2892,7 +2892,7 @@
 		</entry>
 		<entry name="B1_GelidiumKing_A1003" offset="00" relocatable="true" max_length="0">
 			<original>ナイス♪ この調子でパンパンにしちゃえ</original>
-			<edited>漂亮♪ 就这样把它塞满墨水吧</edited>
+			<edited>漂亮♪ 就这样把它涂得满满的吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="B1_GelidiumKing_A1004" offset="00" relocatable="true" max_length="0">
@@ -2907,7 +2907,7 @@
 		</entry>
 		<entry name="B1_GelidiumKing_A1006" offset="00" relocatable="true" max_length="0">
 			<original>グッドグッド♪</original>
-			<edited>好好好♪</edited>
+			<edited>好嘞好嘞♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="B1_GelidiumKing_A1007" offset="00" relocatable="true" max_length="0">
@@ -2932,7 +2932,7 @@
 		</entry>
 		<entry name="B1_GelidiumKing_A1011" offset="00" relocatable="true" max_length="0">
 			<original>パンのワンパン速ッ！ パンの正面は危ないね</original>
-			<edited>面包一拍就扁，真快！面包正面很危险</edited>
+			<edited>面包一巴掌拍下来可真快！正面很危险</edited>
 			<subEntries />
 		</entry>
 		<entry name="B1_GelidiumKing_A1012" offset="00" relocatable="true" max_length="0">
@@ -2942,12 +2942,12 @@
 		</entry>
 		<entry name="B1_GelidiumKing_A1013" offset="00" relocatable="true" max_length="0">
 			<original>…にしても、本体の塗れるカベ 少なくなったような</original>
-			<edited>…话说回来，本体能涂墨的墙好像变少了</edited>
+			<edited>…话说回来，本体上能涂墨的墙好像变少了</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2001" offset="00" relocatable="true" max_length="0">
 			<original>制限時間イッパイ… はっけよ～い</original>
-			<edited>时间到…预备～</edited>
+			<edited>时间差不多了…预备～</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2002" offset="00" relocatable="true" max_length="0">
@@ -2957,7 +2957,7 @@
 		</entry>
 		<entry name="B2_RollerKing_A2003" offset="00" relocatable="true" max_length="0">
 			<original>キツいなら、センプクするのもアリやね</original>
-			<edited>吃不消的话，潜墨躲起来也行哦</edited>
+			<edited>吃不消的话，潜进墨水里躲躲也行哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2004" offset="00" relocatable="true" max_length="0">
@@ -2992,12 +2992,12 @@
 		</entry>
 		<entry name="B2_RollerKing_A2009" offset="00" relocatable="true" max_length="0">
 			<original>サムライとかバイクとか、いろいろ 盛りすぎっしょ…</original>
-			<edited>武士、摩托什么的，要素也太多了吧…</edited>
+			<edited>武士、摩托什么的，塞得也太多了吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2010" offset="00" relocatable="true" max_length="0">
 			<original>バイク攻撃、来るよ！ よける準備、よ～い</original>
-			<edited>摩托攻击来了！准备躲开，预～备</edited>
+			<edited>摩托攻击来了！准备躲开，预备～</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2011" offset="00" relocatable="true" max_length="0">
@@ -3017,7 +3017,7 @@
 		</entry>
 		<entry name="B2_RollerKing_A2014" offset="00" relocatable="true" max_length="0">
 			<original>あの構え… 絶対ヤバイやつが 来るでし！</original>
-			<edited>那个架势…肯定有危险的东西要来！</edited>
+			<edited>那个架势…肯定有狠招要来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2014_2" offset="00" relocatable="true" max_length="0">
@@ -3027,7 +3027,7 @@
 		</entry>
 		<entry name="B2_RollerKing_A2015" offset="00" relocatable="true" max_length="0">
 			<original>回転ぎり？！ 来る時、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;目が光った&#xE;&#x0;&#x3;&#x2;ÿÿし</original>
-			<edited>旋转斩？！来的时候&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;眼睛发亮了&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>旋转斩？！它发动时&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;眼睛会发光&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="B2_RollerKing_A2016" offset="00" relocatable="true" max_length="0">
@@ -3067,7 +3067,7 @@
 		</entry>
 		<entry name="B3_StampKingDeco_A3003_3" offset="00" relocatable="true" max_length="0">
 			<original>何度来ても 結果は同じ！ ４号も、とっちめちゃって</original>
-			<edited>来多少次结果都一样！4号也干掉它吧</edited>
+			<edited>来多少次结果都一样！4 号，也收拾掉它吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="B3_StampKingDeco_A3004" offset="00" relocatable="true" max_length="0">
@@ -3082,7 +3082,7 @@
 		</entry>
 		<entry name="B3_StampKingDeco_A3006" offset="00" relocatable="true" max_length="0">
 			<original>アイツの体、塗って登れる？</original>
-			<edited>它的身体，能涂墨爬上去吗？</edited>
+			<edited>能把它的身体涂上墨水，再爬上去吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="B3_StampKingDeco_A3007" offset="00" relocatable="true" max_length="0">
@@ -3092,7 +3092,7 @@
 		</entry>
 		<entry name="B3_StampKingDeco_A3008" offset="00" relocatable="true" max_length="0">
 			<original>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でスライド！ カレイによけて！</original>
-			<edited>移动射击中按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;滑步！华丽地躲开！</edited>
+			<edited>边移动边射击时，按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;使出滑步！华丽地躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B3_StampKingDeco_A3009" offset="00" relocatable="true" max_length="0">
@@ -3107,7 +3107,7 @@
 		</entry>
 		<entry name="B3_StampKingDeco_A3010_b" offset="00" relocatable="true" max_length="0">
 			<original>スピナー攻撃っ！ うかつに近づくとヤバいよ！</original>
-			<edited>旋转枪攻击！冒冒失失靠近会很危险！</edited>
+			<edited>旋转枪攻击！贸然靠近会很危险！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B3_StampKingDeco_A3011" offset="00" relocatable="true" max_length="0">
@@ -3137,7 +3137,7 @@
 		</entry>
 		<entry name="B4_HangedKing_A4004" offset="00" relocatable="true" max_length="0">
 			<original>タコプターがバイソクになった！ 本気出してきたね</original>
-			<edited>章鱼螺旋桨兵加速了！它来真的了</edited>
+			<edited>章鱼螺旋桨兵加速了！它要动真格了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4005" offset="00" relocatable="true" max_length="0">
@@ -3147,7 +3147,7 @@
 		</entry>
 		<entry name="B4_HangedKing_A4006" offset="00" relocatable="true" max_length="0">
 			<original>ハイパープレッサー？！ カベ通過してくるでし！ 注意！！</original>
-			<edited>高压水枪？！能穿过墙壁的！小心！！</edited>
+			<edited>高压水枪？！会穿过墙壁！小心！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4007" offset="00" relocatable="true" max_length="0">
@@ -3162,7 +3162,7 @@
 		</entry>
 		<entry name="B4_HangedKing_A4009" offset="00" relocatable="true" max_length="0">
 			<original>センプクだけじゃ場所がバレる！ 少し移動するでし！</original>
-			<edited>光潜墨会被发现位置！稍微动一动！</edited>
+			<edited>光靠潜进墨水，位置还是会暴露！稍微动一动！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4010" offset="00" relocatable="true" max_length="0">
@@ -3182,22 +3182,22 @@
 		</entry>
 		<entry name="B4_HangedKing_A4013" offset="00" relocatable="true" max_length="0">
 			<original>上空に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコプター&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ 本体をつってる アイツらは？</original>
-			<edited>发现上空的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼螺旋桨兵&#xE;&#x0;&#x3;&#x2;ÿÿ！吊着本体的就是它们吗？</edited>
+			<edited>发现上空的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼螺旋桨兵&#xE;&#x0;&#x3;&#x2;ÿÿ！是它们吊着本体吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4014" offset="00" relocatable="true" max_length="0">
 			<original>いろいろ置かれとるね… コイツらを利用して…</original>
-			<edited>摆着好多东西呢…利用它们…</edited>
+			<edited>这里摆了不少东西呢…能怎么利用它们呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4015" offset="00" relocatable="true" max_length="0">
 			<original>４号さん！ コロガリウムを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上向き&#xE;&#x0;&#x3;&#x2;ÿÿに うってみるでし！</original>
-			<edited>4号！把滚滚棒朝&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上&#xE;&#x0;&#x3;&#x2;ÿÿ打试试！</edited>
+			<edited>4 号！试着把滚滚棒朝&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上&#xE;&#x0;&#x3;&#x2;ÿÿ打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4016" offset="00" relocatable="true" max_length="0">
 			<original>出たよ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>出来了！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼足&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼足&#xE;&#x0;&#x3;&#x2;ÿÿ出来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B4_HangedKing_A4017" offset="00" relocatable="true" max_length="0">
@@ -3217,7 +3217,7 @@
 		</entry>
 		<entry name="B5_LastKing_01" offset="00" relocatable="true" max_length="0">
 			<original>グルグルパンチ！ あれは打ち返せないでし！</original>
-			<edited>旋转拳！那个打不回去！</edited>
+			<edited>旋转拳！那招打不回去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_02" offset="00" relocatable="true" max_length="0">
@@ -3227,7 +3227,7 @@
 		</entry>
 		<entry name="B5_LastKing_03" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、ためて ドーンでし！</original>
-			<edited>真格鱼虎要长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;蓄力，然后“咚”地发射！</edited>
+			<edited>长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;给真格鱼虎蓄力，再轰出去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_04" offset="00" relocatable="true" max_length="0">
@@ -3237,7 +3237,7 @@
 		</entry>
 		<entry name="B5_LastKing_05" offset="00" relocatable="true" max_length="0">
 			<original>４号！ うち返せないパンチは ジャンプでよけて！</original>
-			<edited>4号！打不回去的拳头，用跳躲开！</edited>
+			<edited>4 号！打不回去的拳头，跳起来躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_07" offset="00" relocatable="true" max_length="0">
@@ -3252,7 +3252,7 @@
 		</entry>
 		<entry name="B5_LastKing_11" offset="00" relocatable="true" max_length="0">
 			<original>４号！ アタシもそっちに行くから、ちょっとがんばっといて！</original>
-			<edited>4号！我也过去那边，你先撑一下！</edited>
+			<edited>4 号！我也过去，你先撑住！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_12" offset="00" relocatable="true" max_length="0">
@@ -3312,7 +3312,7 @@
 		</entry>
 		<entry name="B5_LastKing_29" offset="00" relocatable="true" max_length="0">
 			<original>４号！ ライドレール中央から タコワサに向かって！</original>
-			<edited>4号！从墨汁轨道中央朝芥末章鱼冲！</edited>
+			<edited>4 号！从中央的墨汁轨道朝芥末章鱼冲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_30" offset="00" relocatable="true" max_length="0">
@@ -3330,14 +3330,14 @@
 バッキバキに改造して 持って来たでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けてブースト圧を高めて、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;はなす！
 そうすれば かなり遠くまで インクをブッぱなせるでし！&#xE;&#x0;&#x4;&#x0;さぁ ４号さん、改造&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿの晴れ姿を
 ボクに見せて欲しいでし！</original>
-			<edited>4号！我把对战用的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真格鱼虎&#xE;&#x0;&#x3;&#x2;ÿÿ
-咔咔地改造了一番带过来啦！&#xE;&#x0;&#x4;&#x0;按住&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;提升推进压力，再松开&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！
+			<edited>4 号！我把对战用的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真格鱼虎&#xE;&#x0;&#x3;&#x2;ÿÿ
+咔咔改造了一通，给你带来啦！&#xE;&#x0;&#x4;&#x0;按住&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;提升推进压力，再松开&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！
 这样就能把墨水射到非常远！&#xE;&#x0;&#x4;&#x0;来吧4号，让我看看你拿着改造&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真格鱼虎&#xE;&#x0;&#x3;&#x2;ÿÿ的英姿吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_33" offset="00" relocatable="true" max_length="0">
 			<original>効いてるよ ４号！ いい感じ！</original>
-			<edited>有效果哦，4号！状态不错！</edited>
+			<edited>有效果哦，4 号！干得不错！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_34" offset="00" relocatable="true" max_length="0">
@@ -3352,12 +3352,12 @@
 		</entry>
 		<entry name="B5_LastKing_36" offset="00" relocatable="true" max_length="0">
 			<original>ギギ、コシャクナ！ バイソクモード！</original>
-			<edited>叽叽，真碍事！加速模式！</edited>
+			<edited>叽叽，真碍事！加速模式启动！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_37" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿ…！ キケン…！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真格鱼虎&#xE;&#x0;&#x3;&#x2;ÿÿ…！危险…！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真格鱼虎&#xE;&#x0;&#x3;&#x2;ÿÿ…！小心…！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_38" offset="00" relocatable="true" max_length="0">
@@ -3392,12 +3392,12 @@
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_03_AOB" offset="00" relocatable="true" max_length="0">
 			<original>コーナッタラ…</original>
-			<edited>要是你碍事的话…</edited>
+			<edited>既然这样…</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_03b_AOB" offset="00" relocatable="true" max_length="0">
 			<original>チカラヅクデモ カエッテモラウヨ！</original>
-			<edited>就算用强的，也要把你弄回去！</edited>
+			<edited>就算用武力，也要把你们赶回去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_04_AOB" offset="00" relocatable="true" max_length="0">
@@ -3414,7 +3414,7 @@
 			<original>ギギ… アオリチャン チョロイ！
 カンタンニ センノウ デキタ！</original>
 			<edited>叽叽…小拟真好骗！
-轻松就洗脑成功了！</edited>
+轻轻松松就洗脑成功啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_06_AOB" offset="00" relocatable="true" max_length="0">
@@ -3436,7 +3436,7 @@
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv1_01_HT" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃん！ アタシだよ… 思い出して！</original>
-			<edited>小拟！是我啊…想起来！</edited>
+			<edited>小拟！是我啊…快想起来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv1_02_AOB" offset="00" relocatable="true" max_length="0">
@@ -3528,7 +3528,7 @@
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv3_05_BK" offset="00" relocatable="true" max_length="0">
 			<original>待ってました！ みなさん ご存知、シオカラ節でし！！</original>
-			<edited>等好久了！大家熟悉的塩辛节！！</edited>
+			<edited>终于等到了！大家熟悉的塩辛节！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv4_00_WA_R" offset="00" relocatable="true" max_length="0">
@@ -3563,7 +3563,7 @@
 		</entry>
 		<entry name="B5_LastKing_03_2nd" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、ためて ドーンでし！</original>
-			<edited>真格鱼虎要长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;蓄力，然后“咚”地发射！</edited>
+			<edited>长按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;给真格鱼虎蓄力，再轰出去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_04_2nd" offset="00" relocatable="true" max_length="0">
@@ -3573,12 +3573,12 @@
 		</entry>
 		<entry name="B5_LastKing_05_2nd" offset="00" relocatable="true" max_length="0">
 			<original>打ち返せないパンチは ジャンプ！</original>
-			<edited>打不回去的拳头，用跳躲！</edited>
+			<edited>打不回去的拳头，跳起来躲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_07_2nd" offset="00" relocatable="true" max_length="0">
 			<original>イケイケ、ショーグン！ オセオセ、ショーグン！</original>
-			<edited>上啊上啊，将军！打回去打回去，将军！</edited>
+			<edited>上啊上啊，将军！冲啊冲啊，将军！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_08_2nd" offset="00" relocatable="true" max_length="0">
@@ -3588,7 +3588,7 @@
 		</entry>
 		<entry name="B5_LastKing_11_2nd" offset="00" relocatable="true" max_length="0">
 			<original>４号、またそっち行くわ～… ちょっとがんばっといて</original>
-			<edited>4号，我再去那边～…你先撑一下</edited>
+			<edited>4 号，我再过去～…你先撑住</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_12_2nd" offset="00" relocatable="true" max_length="0">
@@ -3608,12 +3608,12 @@
 		</entry>
 		<entry name="B5_LastKing_21_2nd" offset="00" relocatable="true" max_length="0">
 			<original>はいはい、上から～</original>
-			<edited>好好好，从上面来～</edited>
+			<edited>是是是，从上面来～</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_22_2nd" offset="00" relocatable="true" max_length="0">
 			<original>はいはい ダッシュパンチ、読み読み～</original>
-			<edited>好好好，冲刺拳，看穿了看穿了～</edited>
+			<edited>是是是，冲刺拳，早就看穿啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_23_2nd" offset="00" relocatable="true" max_length="0">
@@ -3643,12 +3643,12 @@
 		</entry>
 		<entry name="B5_LastKing_28_2nd" offset="00" relocatable="true" max_length="0">
 			<original>タコワサ、らいらいの ら～い！</original>
-			<edited>芥末章鱼，来来来的来～啦！</edited>
+			<edited>芥末章鱼，来来来啦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_29_2nd" offset="00" relocatable="true" max_length="0">
 			<original>中央のライドレールに 移動ね！</original>
-			<edited>移动到中央的墨汁轨道上！</edited>
+			<edited>到中央的墨汁轨道上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_30_2nd" offset="00" relocatable="true" max_length="0">
@@ -3676,7 +3676,7 @@
 		</entry>
 		<entry name="B5_LastKing_34_2nd" offset="00" relocatable="true" max_length="0">
 			<original>サングラス… ワタサナイ…</original>
-			<edited>墨镜…不会还给你的…</edited>
+			<edited>墨镜…不还给你们…</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_35_2nd" offset="00" relocatable="true" max_length="0">
@@ -3686,7 +3686,7 @@
 		</entry>
 		<entry name="B5_LastKing_36_2nd" offset="00" relocatable="true" max_length="0">
 			<original>ギギ… コシャクナ… バイソクモード、オン！</original>
-			<edited>叽叽…真碍事…加速模式，开启！</edited>
+			<edited>叽叽…真碍事…加速模式，启动！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_37_2nd" offset="00" relocatable="true" max_length="0">
@@ -3696,7 +3696,7 @@
 		</entry>
 		<entry name="B5_LastKing_38_2nd" offset="00" relocatable="true" max_length="0">
 			<original>こっちこそ カルパッチョにしてやんよ… ４号が！</original>
-			<edited>这边才要把你做成章鱼刺身…由4号来！</edited>
+			<edited>该把你做成章鱼刺身的是这边…由 4 号来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_40_2nd" offset="00" relocatable="true" max_length="0">
@@ -3726,12 +3726,12 @@
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_03_AOB_2nd" offset="00" relocatable="true" max_length="0">
 			<original>コーナッタラ…</original>
-			<edited>要是你碍事的话…</edited>
+			<edited>既然这样…</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_03b_AOB_2nd" offset="00" relocatable="true" max_length="0">
 			<original>チカラヅクデモ カエッテモラウカラ！</original>
-			<edited>就算用强的，也要把你弄回去！</edited>
+			<edited>就算用武力，也要把你们赶回去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_04_AOB_2nd" offset="00" relocatable="true" max_length="0">
@@ -3748,7 +3748,7 @@
 			<original>ギギ… アオリチャン チョロイ！
 ガクヤノ サングラス スリカエタ！</original>
 			<edited>叽叽…小拟真好骗！
-我把演员后台的墨镜换掉了！</edited>
+我把后台的墨镜掉包了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv0_06_AOB_2nd" offset="00" relocatable="true" max_length="0">
@@ -3781,7 +3781,7 @@
 		<entry name="B5_LastKing_Demo_Lv1_02b_AOB_2nd" offset="00" relocatable="true" max_length="0">
 			<original>マダマダツヅケルヨ！
 DJ！ キーポン・ダンシン！</original>
-			<edited>还要继续下去哦！
+			<edited>还要继续！
 DJ！音乐别停！</edited>
 			<subEntries />
 		</entry>
@@ -3792,12 +3792,12 @@ DJ！音乐别停！</edited>
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv2_01_HI_2nd" offset="00" relocatable="true" max_length="0">
 			<original>と～ちゃく</original>
-			<edited>到～达</edited>
+			<edited>到～啦</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv2_01b_AO_2nd" offset="00" relocatable="true" max_length="0">
 			<original>あデッ！</original>
-			<edited>啊噫！</edited>
+			<edited>啊，痛！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv2_02_WA_2nd" offset="00" relocatable="true" max_length="0">
@@ -3819,7 +3819,7 @@ DJ！音乐别停！</edited>
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv2_05_HI_2nd" offset="00" relocatable="true" max_length="0">
 			<original>４号！ アオリちゃんに 特製スミソが効いている間に</original>
-			<edited>4号！趁特制酢味增墨水对小拟起作用的时候</edited>
+			<edited>4 号！趁特制酢味增墨水还对小拟起效，</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv2_05b_HI_2nd" offset="00" relocatable="true" max_length="0">
@@ -3864,7 +3864,7 @@ DJ！音乐别停！</edited>
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv3_05_BK_2nd" offset="00" relocatable="true" max_length="0">
 			<original>それじゃ いってみよー！ シオカラーズで、シオカラ節でし！</original>
-			<edited>那就来吧！潮色姐妹的塩辛节！</edited>
+			<edited>那么，开始咯！潮色姐妹再次献上塩辛节！</edited>
 			<subEntries />
 		</entry>
 		<entry name="B5_LastKing_Demo_Lv4_00_WA_R_2nd" offset="00" relocatable="true" max_length="0">
