@@ -6,126 +6,126 @@
 		<entry name="Coop_InGame_AppearTarget" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが あらわれたようだね
 あわててはいけないよ だが、急いで探すんだ</original>
-			<edited>嗯… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;巨大鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了呢
-不要慌张，但要赶快去找</edited>
+			<edited>嗯……&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;巨大鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ似乎出现了。
+别慌，不过得赶紧去找。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_AppearBank" offset="00" relocatable="true" max_length="0">
 			<original>イクラコンテナを セットしておくよ
 たくさんの 金イクラを 期待しているからね</original>
-			<edited>我把鲑鱼卵箱放好了
-期待你们带来大量的金鲑鱼卵</edited>
+			<edited>我已安置好鲑鱼卵箱。
+我期待着大量金鲑鱼卵。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_DisappearBank" offset="00" relocatable="true" max_length="0">
 			<original>イクラコンテナは こちらで回収しておくよ
 次もがんばってくれたまえ</original>
-			<edited>鲑鱼卵箱由我这边回收
-下次也请加油</edited>
+			<edited>鲑鱼卵箱就由我回收。
+下次也请继续努力。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_DisappearBank_Final" offset="00" relocatable="true" max_length="0">
 			<original>おつかれさま、 今回はこれで終わりだよ
 ふむ… じゃあ船を出すからもどっておいで</original>
-			<edited>辛苦了，这次就到这里
-嗯…那我开船了，回来吧</edited>
+			<edited>辛苦了，本次到此为止。
+嗯……我开船了，回来吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtRally_Start" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが出てきたね…
 やっかいだな… これは全員で向かってくれたまえ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;走私鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了呢…
-真麻烦…这个得全员一起上</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;走私鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了……
+真麻烦……全员一起应对。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtRally_Start_WaterLow" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが出てきたね…
 やっかいだな… これは全員で向かってくれたまえ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;走私鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了呢…
-真麻烦…这个得全员一起上</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;走私鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了。
+真麻烦……全员一起应对。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtRally_Prepare" offset="00" relocatable="true" max_length="0">
 			<original>おや…？ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが
 イクラコンテナのほうを 見ているね…</original>
-			<edited>咦…？ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;走私鱼&#xE;&#x0;&#x3;&#x2;ÿÿ在
-盯着鲑鱼卵箱看呢…</edited>
+			<edited>哦……？&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;走私鱼&#xE;&#x0;&#x3;&#x2;ÿÿ正
+盯着鲑鱼卵箱呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtRally_Attack" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラコンテナ&#xE;&#x0;&#x3;&#x2;ÿÿが 危ない！
 すぐに コンテナへ向かいなさい</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼卵箱&#xE;&#x0;&#x3;&#x2;ÿÿ危险了！
-马上去箱子那边</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼卵箱&#xE;&#x0;&#x3;&#x2;ÿÿ有危险！
+立刻前往箱子那边。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtDozer_First" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グリル&#xE;&#x0;&#x3;&#x2;ÿÿが出てきた…背中の弱点を ねらえばいいが、
 それは相手にも、ねらってくださいという あいさつになる</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;烤架鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了…瞄准背上的弱点就好，
-但这在对方看来，也等于在说“请来瞄准我”</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;烤架鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了……瞄准它背上的弱点即可，
+但那也等于向对方打招呼：“请来瞄准我。”</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtDozer_Increment" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グリル&#xE;&#x0;&#x3;&#x2;ÿÿが&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í体に増えたぞ
 外見は さわがしいが まるでピクニックのようだね</original>
-			<edited>嗯… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;烤架鱼&#xE;&#x0;&#x3;&#x2;ÿÿ已经增加到&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í只了
-外表看着吵吵闹闹的，简直像在野餐一样</edited>
+			<edited>嗯……&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;烤架鱼&#xE;&#x0;&#x3;&#x2;ÿÿ增加到&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í只了。
+看起来闹哄哄的，简直像野餐一样。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtFog_Start" offset="00" relocatable="true" max_length="0">
 			<original>霧だ… 気をつけなさい…
 希望が 絶望にひっくりかえるのは いつもこういう時だ</original>
-			<edited>起雾了…小心…
-希望变成绝望，总是在这种时候</edited>
+			<edited>起雾了……小心。
+希望翻作绝望，总是在这种时候。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtFog_Start_WaterLow" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケの大群&#xE;&#x0;&#x3;&#x2;ÿÿが 集まって
 来ているね だが、この霧だ… 気をつけて向かいなさい</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼大群&#xE;&#x0;&#x3;&#x2;ÿÿ正聚集
-过来。但偏偏起了雾…小心前进</edited>
+过来。不过起雾了……小心前进。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtGeyser_Start" offset="00" relocatable="true" max_length="0">
 			<original>海が鳴いている… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが近くまできているね
 そこにも きっといるはずだから 探してみてくれ</original>
-			<edited>海在轰鸣… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ已经靠近了
-那边一定也有，去找找看</edited>
+			<edited>海在鸣响……&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ已来到附近。
+那边肯定也有，去找找吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtGeyser_Appear" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 出たぞ！
 悠々と急ぎなさい けして あわててはいけない</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ出现了！
-从容地快走，千万别慌张</edited>
+从容地快些去，千万别慌。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtGeyser_Reset" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが かくれているようだ
 </original>
-			<edited>嗯… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ好像躲起来了</edited>
+			<edited>嗯……&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ似乎藏起来了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtMissile_Start" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドスコイの大群&#xE;&#x0;&#x3;&#x2;ÿÿが見える…
 キャノンを置いておくから 有効に使ってくれたまえ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相扑鱼大群&#xE;&#x0;&#x3;&#x2;ÿÿ看得见…
-我放了一门大炮，要好好利用</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边能看见&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相扑鱼大群&#xE;&#x0;&#x3;&#x2;ÿÿ……
+我放好了大炮，务必善加利用。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtRush_Start" offset="00" relocatable="true" max_length="0">
 			<original>シャケ達が さわがしい… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒカリバエ&#xE;&#x0;&#x3;&#x2;ÿÿも出てきた…
 カラダが光ったら とにかく気をつけなさい</original>
-			<edited>鲑鱼们很吵闹… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;荧光蝇&#xE;&#x0;&#x3;&#x2;ÿÿ也出现了…
-身体一亮起来，总之要小心</edited>
+			<edited>鲑鱼们很骚动……&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;荧光蝇&#xE;&#x0;&#x3;&#x2;ÿÿ也出现了……
+身体一发光，就务必小心。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_InGame_EvtNone_Start_WaterLow" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケの大群&#xE;&#x0;&#x3;&#x2;ÿÿが集まって
 きているね これは全員で 向かってくれたまえ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼大群&#xE;&#x0;&#x3;&#x2;ÿÿ正在聚集
-过来，全员一起上</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干涸的土地&#xE;&#x0;&#x3;&#x2;ÿÿ那边，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼大群&#xE;&#x0;&#x3;&#x2;ÿÿ正聚集
+过来。全员一起应对。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_First_00" offset="00" relocatable="true" max_length="0">
@@ -142,7 +142,7 @@
 		</entry>
 		<entry name="Coop_Tutorial_First_02" offset="00" relocatable="true" max_length="0">
 			<original>かれらをインクで うつと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを落とすんだ</original>
-			<edited>用墨水打中它们，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼卵&#xE;&#x0;&#x3;&#x2;ÿÿ就会掉落</edited>
+			<edited>用墨水击倒它们，就会掉落&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼卵&#xE;&#x0;&#x3;&#x2;ÿÿ。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_First_03" offset="00" relocatable="true" max_length="0">
@@ -212,15 +212,15 @@
 		<entry name="Coop_Tutorial_Ikura_Already" offset="00" relocatable="true" max_length="0">
 			<original>おっと すでに持っていたのかい… 仕事が早いね、
 これまでのアルバイトの中でも 一番かもしれないな…</original>
-			<edited>哦呀，已经拿到了吗…手脚真快，
-在我见过的打工者里，说不定是第一名…</edited>
+			<edited>哦呀，已经拿到了吗……手脚真快。
+在我见过的打工者里，你或许是第一名……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Bank_00" offset="00" relocatable="true" max_length="0">
 			<original>金イクラは １つまでしか 持てないよ
 どんなにキミが 有能でも限界があるからね</original>
-			<edited>金鲑鱼卵最多只能拿1个
-就算你再能干，也总有限度的</edited>
+			<edited>金鲑鱼卵一次只能带1个。
+再能干的人，也有极限。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Bank_01" offset="00" relocatable="true" max_length="0">
@@ -244,7 +244,7 @@
 		</entry>
 		<entry name="Coop_Tutorial_Bagman_00" offset="00" relocatable="true" max_length="0">
 			<original>あのシャケは 金イクラを 回収するシャケだ…</original>
-			<edited>那种鲑鱼，是会回收金鲑鱼卵的鲑鱼…</edited>
+			<edited>那家伙会回收金鲑鱼卵……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Bagman_01" offset="00" relocatable="true" max_length="0">
@@ -283,13 +283,13 @@
 		<entry name="Coop_Tutorial_SecondIkura_HelpPost_00" offset="00" relocatable="true" max_length="0">
 			<original>仲間が困っていたら 助けてあげることは重要だよ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ゼンメツ&#xE;&#x0;&#x3;&#x2;ÿÿしてしまうと バイトを続けられないからね…</original>
-			<edited>同伴遇到困难时，伸出援手很重要
-因为一旦&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;团灭&#xE;&#x0;&#x3;&#x2;ÿÿ，就没办法继续打工了…</edited>
+			<edited>同伴有难时，伸手相助很重要。
+一旦&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;团灭&#xE;&#x0;&#x3;&#x2;ÿÿ，打工就无法继续……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_SecondIkura_HelpPost_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カモン&#xE;&#x0;&#x3;&#x2;ÿÿと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヘルプ&#xE;&#x0;&#x3;&#x2;ÿÿを使うには &#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; の上を押しなさい</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;过来&#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;救命&#xE;&#x0;&#x3;&#x2;ÿÿ时，按&#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;的上方</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;过来&#xE;&#x0;&#x3;&#x2;ÿÿ和&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;救命&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;的上方。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_SecondIkura_Bank" offset="00" relocatable="true" max_length="0">
@@ -307,8 +307,8 @@
 		<entry name="Coop_Tutorial_Timer_01" offset="00" relocatable="true" max_length="0">
 			<original>そうそう、 バイトには &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タイムリミット&#xE;&#x0;&#x3;&#x2;ÿÿが あるんだ…
 時間内に ノルマを達成するのも大切な仕事だよ</original>
-			<edited>对对，打工是有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;时间限制&#xE;&#x0;&#x3;&#x2;ÿÿ的…
-在规定时间内达成目标，也是重要的工作哦</edited>
+			<edited>对，打工设有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;时间限制&#xE;&#x0;&#x3;&#x2;ÿÿ……
+在时限内完成配额，也是重要工作。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_ThirdIkura_Pick" offset="00" relocatable="true" max_length="0">
@@ -318,7 +318,7 @@
 		</entry>
 		<entry name="Coop_Tutorial_ThirdIkura_Bank" offset="00" relocatable="true" max_length="0">
 			<original>よし、 金イクラを イクラコンテナまで 運んでくれ…</original>
-			<edited>好，把金鲑鱼卵运到鲑鱼卵箱来吧…</edited>
+			<edited>好，把金鲑鱼卵运到鲑鱼卵箱去吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_NormaClear_00" offset="00" relocatable="true" max_length="0">
@@ -338,13 +338,13 @@
 		<entry name="Coop_Tutorial_Special" offset="00" relocatable="true" max_length="0">
 			<original>そうそう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スペシャルパウチ&#xE;&#x0;&#x3;&#x2;ÿÿを ２つ支給しておくよ
 ここぞというときに 使いなさい</original>
-			<edited>对对，我给你&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;特殊武器袋&#xE;&#x0;&#x3;&#x2;ÿÿ2个
-要在关键时刻使用</edited>
+			<edited>对，我发给你2个&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;特殊武器袋&#xE;&#x0;&#x3;&#x2;ÿÿ。
+关键时刻再使用。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_WaveClear_00" offset="00" relocatable="true" max_length="0">
 			<original>おつかれさま、 今回の けんしゅうは ここまでだよ…</original>
-			<edited>辛苦了，这次的训练就到这里…</edited>
+			<edited>辛苦了，本次训练到此为止……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Failed_00" offset="00" relocatable="true" max_length="0">
@@ -395,15 +395,15 @@
 		<entry name="Coop_Tutorial_Targets_01" offset="00" relocatable="true" max_length="0">
 			<original>前回 キミが出会った オオモノシャケだがね、
 じつは他にも &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;７種類のオオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが いるんだ…</original>
-			<edited>上次你遇到的巨大鲑鱼，
-其实还有其他&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;7种巨大鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ哦…</edited>
+			<edited>上次遇到的巨大鲑鱼之外，
+其实还有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;另外7种巨大鲑鱼&#xE;&#x0;&#x3;&#x2;ÿÿ……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Targets_02" offset="00" relocatable="true" max_length="0">
 			<original>今回は ７種類の オオモノシャケと 戦ってもらうよ
  なに、 ワタシがサポートするから 心配はいらないよ</original>
-			<edited>这次要和7种巨大鲑鱼交手
-别担心，有我来支援</edited>
+			<edited>这次就让你与那7种巨大鲑鱼交手。
+别担心，我会支援你。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Enemy_PickIkura" offset="00" relocatable="true" max_length="0">
@@ -419,56 +419,55 @@
 		<entry name="Coop_Tutorial_DeadSkip_00" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… どうやら 苦戦しているようだね
 このシャケは 放っておこうか…</original>
-			<edited>嗯…看来你陷入苦战了呢
-这只鲑鱼就放一放吧…</edited>
+			<edited>嗯……看来你正陷入苦战。
+这只鲑鱼就先放着吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_DeadSkip_01" offset="00" relocatable="true" max_length="0">
 			<original>その分の金イクラは ワタシが あずけておくよ…</original>
-			<edited>那部分的金鲑鱼卵，由我替你保管…</edited>
+			<edited>那份金鲑鱼卵，就由我暂且保管……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Bomber_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その１ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バクダン &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第1种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第1种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Bomber_01" offset="00" relocatable="true" max_length="0">
 			<original>巨大な&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿを 投げてくるシャケだ
 ヤツの体はカタくて インクを はじいてしまうんだ…</original>
-			<edited>会投掷巨大&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ的鲑鱼
-那家伙身体很硬，会弹开墨水…</edited>
+			<edited>它会投出巨大的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ。
+它的身体坚硬，会弹开墨水……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Bomber_02" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;頭上でふくらませたボム&#xE;&#x0;&#x3;&#x2;ÿÿを 攻撃することで、
 ボムが爆発し 倒すことができるよ…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;它头顶鼓起的炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ是攻击的要点，
-让炸弹爆炸就能打倒它…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;它头顶鼓起的炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ是攻击目标；使其爆炸便能将它击倒……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Cup_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その７ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カタパッド &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第7种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;垫肩飞鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第7种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;垫肩飞鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Cup_01" offset="00" relocatable="true" max_length="0">
 			<original>ふらふらと飛んでいる シャケだ… 気まぐれに
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿを うってくる… やっかいなヤツだ…</original>
-			<edited>晃晃悠悠飞着的鲑鱼…会随意地
-发射&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;多重导弹&#xE;&#x0;&#x3;&#x2;ÿÿ…真是个麻烦的家伙…</edited>
+			<edited>它摇摇晃晃地飞着，还会随心所欲地
+发射&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;多重导弹&#xE;&#x0;&#x3;&#x2;ÿÿ……是个麻烦的家伙。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Cup_02" offset="00" relocatable="true" max_length="0">
 			<original>２つの発射口に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムを投げ入れる&#xE;&#x0;&#x3;&#x2;ÿÿことで
 内側から 倒すことができるんだ…</original>
-			<edited>往两个发射口&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;投进炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ，
-就能从内部打倒它…</edited>
+			<edited>往两个发射口各&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;投进炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ，
+就能从内部将它击倒……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Snake_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その２ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヘビ &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第2种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;蛇鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第2种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;蛇鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Snake_01" offset="00" relocatable="true" max_length="0">
@@ -481,20 +480,20 @@
 		<entry name="Coop_Tutorial_Snake_02" offset="00" relocatable="true" max_length="0">
 			<original>一番うしろに 操縦手のシャケが 乗っているよ…
 うまく回りこんで 倒すんだ…</original>
-			<edited>最后面坐着驾驶它的鲑鱼…
-绕到它后面打倒它…</edited>
+			<edited>最后方坐着操纵它的鲑鱼……
+设法绕到后方击倒它。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Tower_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その４ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タワー &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第4种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;高塔鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第4种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;高塔鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Tower_01" offset="00" relocatable="true" max_length="0">
 			<original>塔のように 高い シャケだね… ヤツは海岸から
 インクを ふき出して攻撃してくるんだ…</original>
-			<edited>像塔一样高的鲑鱼呢…它会从海岸
-喷出墨水攻击…</edited>
+			<edited>是像塔一样高的鲑鱼……它会从海岸
+喷出墨水发动攻击。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Tower_02" offset="00" relocatable="true" max_length="0">
@@ -506,14 +505,14 @@
 		</entry>
 		<entry name="Coop_Tutorial_Diver_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その５ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;モグラ &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第5种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鼹鼠鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第5种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鼹鼠鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Diver_01" offset="00" relocatable="true" max_length="0">
 			<original>インクに もぐりながら 追いかけてくるシャケだ…
 足元から 急に飛び出し 食らいついてくる…</original>
-			<edited>会潜进墨水追赶你的鲑鱼…
-会突然从脚边窜出来咬住你…</edited>
+			<edited>它会潜入墨水追赶你……
+还会突然从脚边钻出，咬住你。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Diver_02" offset="00" relocatable="true" max_length="0">
@@ -525,243 +524,243 @@
 		</entry>
 		<entry name="Coop_Tutorial_Shield_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その３ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;テッパン &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第3种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁板鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第3种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁板鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Shield_01" offset="00" relocatable="true" max_length="0">
 			<original>大きなテッパンを 持ったシャケだよ… やっかいなことに
 正面から 攻撃しても ガードされてしまう… ただ…</original>
-			<edited>是举着大铁板的鲑鱼哦…麻烦的是
-从正面攻击也会被挡住…不过…</edited>
+			<edited>它举着巨大的铁板……麻烦的是，
+从正面攻击也会被挡下……不过……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Shield_02" offset="00" relocatable="true" max_length="0">
 			<original>攻撃し続けると 姿勢がくずれて 動かなくなるんだ
 そのスキに うしろから 攻撃をあてるのがポイントだよ…</original>
-			<edited>持续攻击的话，它的姿势会垮掉、动不了
-趁那个空隙从背后攻击，是取胜的关键…</edited>
+			<edited>持续攻击，它便会失去平衡、无法行动。
+趁那空当从背后攻击，才是关键……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Rocket_00" offset="00" relocatable="true" max_length="0">
 			<original>- オオモノシャケ その６ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コウモリ &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
-			<edited>- 巨大鲑鱼 第6种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;蝙蝠鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<edited>- 巨大鲑鱼·第6种 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;蝙蝠鱼 &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Rocket_01" offset="00" relocatable="true" max_length="0">
 			<original>雨雲を発生させるロケットを うつシャケだね…
 ヤツが カサをさしている間は 攻撃が効かないんだ…</original>
-			<edited>是会发射产生雨云的火箭的鲑鱼呢…
-它撑伞的时候，攻击是不起作用的…</edited>
+			<edited>它会发射制造雨云的火箭……
+它撑伞时，攻击对它无效。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Rocket_02" offset="00" relocatable="true" max_length="0">
 			<original>体が カサから出たときを ねらってくれたまえ…
 ロケットを攻撃すると &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;うち返す&#xE;&#x0;&#x3;&#x2;ÿÿこともできるからね</original>
-			<edited>趁它身体露出伞外的时机下手…
-攻击火箭的话，还能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;打回去&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>瞄准它身体露出伞外的时机……
+攻击火箭，还能将其&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;打回去&#xE;&#x0;&#x3;&#x2;ÿÿ。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_WaveClear_01" offset="00" relocatable="true" max_length="0">
 			<original>やあやあ、 おつかれさま
 今回の けんしゅうは これでオシマイだよ…</original>
-			<edited>呀啊呀啊，辛苦了
-这次的训练就到此为止…</edited>
+			<edited>呀啊呀啊，辛苦了。
+本次训练到此为止……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Success_00" offset="00" relocatable="true" max_length="0">
 			<original>やあやあ、 みんなありがとう
 今回は 金イクラを&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコか、 ふむ… 上出来だ</original>
-			<edited>呀啊呀啊，谢谢大家
-这次的金鲑鱼卵有&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í个啊，嗯…干得漂亮</edited>
+			<edited>呀啊呀啊，感谢各位。
+这次收集了&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í个金鲑鱼卵吗……嗯，干得漂亮。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Success_GoldenIkura100_00" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… キミたちは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海に愛されている&#xE;&#x0;&#x3;&#x2;ÿÿようだね
 これほどの成果をあげるとは… 次も期待しているよ</original>
-			<edited>嗯…你们像是被&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大海眷顾&#xE;&#x0;&#x3;&#x2;ÿÿ着呢
-能取得这样的成果…下次也期待你们的表现</edited>
+			<edited>嗯……看来你们正受&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大海眷顾&#xE;&#x0;&#x3;&#x2;ÿÿ。
+竟取得这般成果……下次也期待各位表现。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Success_AllMaster_00" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… キミたちから感じる海への愛は とても深い…
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真の たつじん&#xE;&#x0;&#x3;&#x2;ÿÿ とはキミたちのことを言うのだろうね</original>
-			<edited>嗯…我从你们身上感受到的海之爱非常深沉…
-所谓&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真正的达人&#xE;&#x0;&#x3;&#x2;ÿÿ，说的就是你们吧</edited>
+			<edited>嗯……我从各位身上感受到的对海之爱，十分深沉。
+所谓&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真正的达人&#xE;&#x0;&#x3;&#x2;ÿÿ，说的就是各位吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Success_DifficultyMax_00" offset="00" relocatable="true" max_length="0">
 			<original>まさか &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キケン度MAX&#xE;&#x0;&#x3;&#x2;ÿÿ をクリアしてしまうとは…
 もはやキミたちが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海そのもの&#xE;&#x0;&#x3;&#x2;ÿÿ だよ</original>
-			<edited>没想到连&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;危险度MAX&#xE;&#x0;&#x3;&#x2;ÿÿ都能通关…
-你们简直已经&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;是大海本身&#xE;&#x0;&#x3;&#x2;ÿÿ了</edited>
+			<edited>没想到连&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;危险度MAX&#xE;&#x0;&#x3;&#x2;ÿÿ都能完成……
+各位已然&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;化作大海本身&#xE;&#x0;&#x3;&#x2;ÿÿ。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Failure_AllDead_00" offset="00" relocatable="true" max_length="0">
 			<original>ゼンメツしてしまったようだね… だが よくがんばった
 金イクラが&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコ集まった それで十分だよ</original>
-			<edited>好像团灭了呢…但你们已经尽力了
-金鲑鱼卵收集了&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í个，这就足够了</edited>
+			<edited>看来团灭了……不过各位已尽力。
+收集到&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í个金鲑鱼卵，这就足够了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Failure_TimeUp_00" offset="00" relocatable="true" max_length="0">
 			<original>残念ながら 時間切れだ… なに、気にすることはない
 金イクラは&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコ 集まったしね</original>
-			<edited>很遗憾，时间到了…别在意
-金鲑鱼卵也收集了&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í个</edited>
+			<edited>很遗憾，时间到了……不必在意。
+也收集到&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í个金鲑鱼卵了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C1_Failure_GoldenIkura0_00" offset="00" relocatable="true" max_length="0">
 			<original>ふむ… まだ現場に出るのは 早かったかな…
 次までに バイトマニュアルを読んでおくように</original>
-			<edited>嗯…看来现在就上战场还太早了呢…
-下次之前，记得把打工手册读一读</edited>
+			<edited>嗯……看来让你们上现场还太早。
+下次前，记得读一读打工手册。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Success_00" offset="00" relocatable="true" max_length="0">
 			<original>いやはや 本当に すばらしい仕事ぶりだよ…
 キミたちの さらなるちょうせんを 楽しみにしているよ</original>
-			<edited>哎呀呀，真是漂亮的工作表现…
-期待你们进一步的挑战</edited>
+			<edited>哎呀呀，真是出色的工作表现……
+期待各位迎接更多挑战。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Success_RareWeapon_00" offset="00" relocatable="true" max_length="0">
 			<original>見慣れないブキが まぎれていたようだね…
 どうだい？ ワタシ特製のブキの 使い心地は</original>
-			<edited>好像混进了不常见的武器呢…
-怎么样？我特制武器的使用手感</edited>
+			<edited>看来混进了把少见的武器……
+如何？我特制武器的手感。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_WaterLow_00" offset="00" relocatable="true" max_length="0">
 			<original>干潮のときは 戦う場所が変わる
 全員で干上がった土地へ 向かってくれたまえ</original>
-			<edited>退潮的时候，战斗的场地会改变
-全员前往干涸的土地吧</edited>
+			<edited>干潮时，作战地点会改变。
+全员前往干涸的土地。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_WaterHigh_00" offset="00" relocatable="true" max_length="0">
 			<original>満潮のときは とにかくやられないように
 仲間同士で かたまって助け合うことが大切だ…</original>
-			<edited>涨潮的时候，最重要的是别被干掉
-同伴之间聚在一起互相帮助</edited>
+			<edited>满潮时，最要紧的是别被击倒。
+同伴聚在一起，互相援助。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_00" offset="00" relocatable="true" max_length="0">
 			<original>シャケは カベをのぼることが できない
 にげる時のために 先に塗っておいてはどうかな</original>
-			<edited>鲑鱼不会爬墙
-逃跑之前，先把墙涂好怎么样</edited>
+			<edited>鲑鱼不会爬墙。
+为了逃跑，先把墙涂好如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_01" offset="00" relocatable="true" max_length="0">
 			<original>シャケは ひとつの方角から かたまってやってくる
 この方角が 時間とともに 切りかわる</original>
-			<edited>鲑鱼会从同一个方向成群过来
-这个方向会随时间变化</edited>
+			<edited>鲑鱼会从同一个方向成群来袭。
+那个方向会随着时间改变。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_02" offset="00" relocatable="true" max_length="0">
 			<original>海の近くで オオモノシャケを倒すと 金イクラ運びが
 大変だ… ときにはイクラコンテナに おびき寄せよう</original>
-			<edited>在海边打倒巨大鲑鱼的话，搬运金鲑鱼卵会
-很麻烦…有时候把它们引到鲑鱼卵箱附近吧</edited>
+			<edited>在海边击倒巨大鲑鱼，搬运金鲑鱼卵会很
+麻烦……有时不妨把它们引到鲑鱼卵箱旁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_03" offset="00" relocatable="true" max_length="0">
 			<original>イカセンプクは シャケには 通用しない…
 ヤツらはニオイで 標的の位置を 正確にとらえる</original>
-			<edited>鱿鱼潜行对鲑鱼不管用…
-它们靠气味精确锁定目标位置</edited>
+			<edited>鱿鱼潜行对鲑鱼不管用……
+它们会凭气味准确锁定目标位置。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_SakelienBomber_00" offset="00" relocatable="true" max_length="0">
 			<original>ブキには 向き不向きがある… たとえば バクダンは
 チャージャーに任せると いいかも知れないね…</original>
-			<edited>武器也有适合不适合…比如炸弹鱼，
-交给蓄力狙击枪可能更好…</edited>
+			<edited>武器也各有擅长与不擅长……比如炸弹鱼，
+交给蓄力狙击枪对付或许更好。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_SakelienCupTwins_00" offset="00" relocatable="true" max_length="0">
 			<original>カタパッドに ボムを投げるときは
 &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しして じっくりねらってみるのはどうだろう</original>
-			<edited>朝垫肩飞鱼投炸弹的时候，
-&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按仔细瞄准怎么样</edited>
+			<edited>向垫肩飞鱼投炸弹时，
+长按&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;仔细瞄准如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_SakelienSnake_00" offset="00" relocatable="true" max_length="0">
 			<original>ヘビは ひとりを ねらい続ける… ねらわれたら、
 倒しやすい場所へ さそいこむのもテクニックだよ</original>
-			<edited>蛇鱼会一直盯准一个人…被盯上的话，
-把它引到容易打倒的地方也是技巧</edited>
+			<edited>蛇鱼会持续盯住一个人……被盯上时，
+把它引到容易击倒的地方也是技巧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_SakelienTower_00" offset="00" relocatable="true" max_length="0">
 			<original>タワーは 放っておくと やっかいだ…
 オオモノシャケを 倒す順番は 考えた方がいい</original>
-			<edited>高塔鱼放着不管会很麻烦…
-打倒巨大鲑鱼的顺序，还是想想比较好</edited>
+			<edited>高塔鱼放着不管会很麻烦……
+最好考虑一下击倒巨大鲑鱼的顺序。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Sakediver_00" offset="00" relocatable="true" max_length="0">
 			<original>モグラは ボムを食べさせると すぐに倒せる
 思い切って 下を向きながら ボムを投げてみよう</original>
-			<edited>鼹鼠鱼喂它吃炸弹，马上就能打倒
-大胆地低头把炸弹扔下去试试</edited>
+			<edited>给鼹鼠鱼喂下炸弹，就能立刻击倒。
+大胆低头，把炸弹扔下去试试。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_SakelienShield_00" offset="00" relocatable="true" max_length="0">
 			<original>テッパンは ガードしながら こちらに向かってくる…
 うち続けて ひるんだときが 倒すチャンスだ</original>
-			<edited>铁板鱼会一边防御一边朝这边过来…
-持续攻击，等它硬直的时候就是打倒它的机会</edited>
+			<edited>铁板鱼会一边防御一边逼近……
+持续攻击；它畏缩时，就是击倒它的机会。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Sakerocket_00" offset="00" relocatable="true" max_length="0">
 			<original>コウモリのうつ弾は うち返せる
 上手く本体に うち返せば 一気に倒せるぞ</original>
-			<edited>蝙蝠鱼射出的弹丸可以打回去
-要是成功打回本体，一口气就能打倒</edited>
+			<edited>蝙蝠鱼射出的弹丸可以打回去。
+若能打回本体，便能一口气将它击倒。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Rush_00" offset="00" relocatable="true" max_length="0">
 			<original>ヒカリバエには 要注意だ…
 まとわりつかれると 全てのシャケに ねらわれるからね…</original>
-			<edited>要小心荧光蝇…
-被缠上的话，所有鲑鱼都会盯上你…</edited>
+			<edited>要小心荧光蝇……
+一旦被缠上，所有鲑鱼都会盯住你。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Geyser_00" offset="00" relocatable="true" max_length="0">
 			<original>かくれたキンシャケの 近くにあるカンケツセンは
 ふき出す光の量が多いらしい、 参考にしてくれたまえ</original>
-			<edited>躲起来的金鲑鱼附近的喷泉，
-据说喷出的光量更多，可以作为参考</edited>
+			<edited>藏着金鲑鱼的附近喷泉，
+据说喷出的光更多，可以作为参考。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Dozer_00" offset="00" relocatable="true" max_length="0">
 			<original>グリルは 赤いレーザーで ねらいをつける
 ねらわれたものは 急いで にげるように</original>
-			<edited>烤架鱼会用红色激光瞄准
-被瞄准的人，赶紧逃跑</edited>
+			<edited>烤架鱼会用红色激光锁定目标。
+被锁定的人，赶紧逃离。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Rally_00" offset="00" relocatable="true" max_length="0">
 			<original>ハコビヤが近づいてきたら イクラコンテナに集合だ…
 金イクラを吸い取られてしまうからね、 要注意だよ</original>
-			<edited>走私鱼靠近的话，就到鲑鱼卵箱集合…
-金鲑鱼卵会被吸走的，要特别注意</edited>
+			<edited>走私鱼靠近时，在鲑鱼卵箱集合……
+金鲑鱼卵会被吸走，务必当心。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Fog_00" offset="00" relocatable="true" max_length="0">
 			<original>霧の中ではとくに 声をかけあうことが重要だ
 &#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の上を押すことで 仲間を呼ぶことができる</original>
-			<edited>雾中尤其重要的是互相喊话
-按&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;的上方，就能呼叫同伴</edited>
+			<edited>雾中尤其要互相呼应。
+按下&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;的上方，即可呼叫同伴。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Result_C2_Failure_Missile_00" offset="00" relocatable="true" max_length="0">
 			<original>ドスコイの群れに 一人で立ち向かうのは危険だ…
 キャノンを使って 仲間をサポートしてあげるんだよ</original>
-			<edited>一个人面对相扑鱼群太危险了…
-用大炮支援同伴吧</edited>
+			<edited>独自面对相扑鱼群太危险……
+使用大炮支援同伴吧。</edited>
 			<subEntries />
 		</entry>
 	</entries>
