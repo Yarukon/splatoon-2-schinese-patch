@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="Fld_Oct1Shot_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>一発で 木箱 全部こわせ！</original>
-			<edited>一击打碎全部木箱！</edited>
+			<edited>一发打碎所有木箱！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctAirCorridor_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -25,12 +25,12 @@
 		</entry>
 		<entry name="Fld_OctAirCorridor_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロ街道を ぶっち切れ！</original>
-			<edited>冲破吹吹卷街道！</edited>
+			<edited>冲过吹吹卷大道！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctAirCorridor_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>宙をまいつつ ゴールせよ！</original>
-			<edited>边空中飞舞边抵达终点！</edited>
+			<edited>一边在空中翻腾，一边抵达终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctAmida01Hoko_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="Fld_OctAmida01Hoko_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>いくらでも 食らわせちゃって</original>
-			<edited>尽管放马过来</edited>
+			<edited>尽情招呼他们吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctAmida01Hoko_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -105,7 +105,7 @@
 		</entry>
 		<entry name="Fld_OctBattleLegion_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>敵 たおしながら ゴールせよ！</original>
-			<edited>边打倒敌人边抵达终点！</edited>
+			<edited>一边击败敌人，一边抵达终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBattleTower_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -130,7 +130,7 @@
 		</entry>
 		<entry name="Fld_OctBigRotate_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>男のかくれ家、ここにあり</original>
-			<edited>男人的藏身处，就在这里</edited>
+			<edited>男人的秘密基地就在这！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBigRotate_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -145,7 +145,7 @@
 		</entry>
 		<entry name="Fld_OctBlowoutsCharger_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロのおかげです</original>
-			<edited>多亏了吹吹卷</edited>
+			<edited>全靠吹吹卷！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBlowoutsCharger_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -175,7 +175,7 @@
 		</entry>
 		<entry name="Fld_OctBoxAirport_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>人生のレールにあらがえ！</original>
-			<edited>反抗人生的轨道！</edited>
+			<edited>跟人生的轨道对着干！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBoxAirport_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -195,7 +195,7 @@
 		</entry>
 		<entry name="Fld_OctBoxRail_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>レールに乗って マト 全部こわせ！</original>
-			<edited>乘着轨道打碎全部靶子！</edited>
+			<edited>坐上轨道，打碎所有靶子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBoxRota_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -205,7 +205,7 @@
 		</entry>
 		<entry name="Fld_OctBoxRota_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>回転率の高いカフェで</original>
-			<edited>在翻台率很高的咖啡店</edited>
+			<edited>在高翻台率的咖啡馆</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBoxRota_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -235,7 +235,7 @@
 		</entry>
 		<entry name="Fld_OctBoxSniper_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>今夜、視線を独り占め</original>
-			<edited>今夜，独占视线</edited>
+			<edited>今夜，独占所有目光</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBoxSniper_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -250,7 +250,7 @@
 		</entry>
 		<entry name="Fld_OctBox_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ハイエナどもの夢の跡地</original>
-			<edited>鬣狗们的梦想旧址</edited>
+			<edited>鬣狗们梦想的遗址</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBox_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -265,7 +265,7 @@
 		</entry>
 		<entry name="Fld_OctBrushBeat_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>メイクブラシで書き殴れ</original>
-			<edited>用化妆刷乱写一通</edited>
+			<edited>用化妆刷尽情涂鸦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBrushBeat_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -280,7 +280,7 @@
 		</entry>
 		<entry name="Fld_OctBrushRush_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>今日は朝から床そうじ</original>
-			<edited>今天从早上就开始擦地板</edited>
+			<edited>一大早就开始擦地</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBrushRush_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -295,7 +295,7 @@
 		</entry>
 		<entry name="Fld_OctChargeRoom_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>上から見下ろす気分はどうだい？</original>
-			<edited>居高临下的感觉如何？</edited>
+			<edited>从高处俯瞰的感觉如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctChargeRoom_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -310,7 +310,7 @@
 		</entry>
 		<entry name="Fld_CentralStation00_Octa_OctCnt01" offset="00" relocatable="true" max_length="0">
 			<original>そうだ 約束の地 行こう</original>
-			<edited>是啊 去约定之地吧</edited>
+			<edited>走，去约定之地。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctCleaner_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -320,12 +320,12 @@
 		</entry>
 		<entry name="Fld_OctCleaner_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>運賃は経費で落とせ</original>
-			<edited>车费走报销</edited>
+			<edited>把车费报销掉</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctCleaner_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>業務用インクリーナーを乗りこなし ゴールせよ！</original>
-			<edited>熟练驾驶工业用吸墨器抵达终点！</edited>
+			<edited>驾驭工业吸墨器，抵达终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctDefenseCanon_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -340,7 +340,7 @@
 		</entry>
 		<entry name="Fld_OctDefenseCanon_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルを 守りきれ！</original>
-			<edited>守住8号胶囊！</edited>
+			<edited>务必守住8号胶囊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctDefenseZones_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -350,12 +350,12 @@
 		</entry>
 		<entry name="Fld_OctDefenseZones_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ワタシ達が お相手ヨ！</original>
-			<edited>我们来当你的对手哟！</edited>
+			<edited>由我们来会会你！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctDefenseZones_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>エイトカプセルを 守りきれ！</original>
-			<edited>守住8号胶囊！</edited>
+			<edited>务必守住8号胶囊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctDendenSnipe_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -380,7 +380,7 @@
 		</entry>
 		<entry name="Fld_OctDenden_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>回してでんでん、すべって落ちたら</original>
-			<edited>转转再转转，一滑倒就掉下去</edited>
+			<edited>转呀转呀，一滑就会掉下去</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctDenden_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -395,7 +395,7 @@
 		</entry>
 		<entry name="Fld_OctFireBar_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>飛んで、国外脱出</original>
-			<edited>飞起来，逃离国外</edited>
+			<edited>飞身逃出国境</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctFireBar_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -410,7 +410,7 @@
 		</entry>
 		<entry name="Fld_OctFlappyCarWash_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ボクらのタフギア</original>
-			<edited>我们的硬派装备</edited>
+			<edited>我们的硬核装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctFlappyCarWash_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -440,7 +440,7 @@
 		</entry>
 		<entry name="Fld_OctGhostBall_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>エイトボール達の不協和音</original>
-			<edited>8号球们的不和谐音</edited>
+			<edited>8号球们的不协和音</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctGhostBall_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -455,7 +455,7 @@
 		</entry>
 		<entry name="Fld_OctGimmickBall_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ワナの満漢全席</original>
-			<edited>陷阱的满汉全席</edited>
+			<edited>陷阱盛宴</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctGimmickBall_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -485,7 +485,7 @@
 		</entry>
 		<entry name="Fld_OctIkaSphereRace_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>無敵で追いかけ爆発ドーン</original>
-			<edited>无敌追击，爆炸咚</edited>
+			<edited>无敌追击，砰然爆炸！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctIkaSphereRace_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -500,7 +500,7 @@
 		</entry>
 		<entry name="Fld_OctInkBottle_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ギリインク クリアできたら じまんげに</original>
-			<edited>勉强过关的话 值得炫耀</edited>
+			<edited>极限墨量过关，够炫吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctInkBottle_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -530,7 +530,7 @@
 		</entry>
 		<entry name="Fld_OctInvisibleWorld_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>道を切り開け！ ファスナーは閉じろ！</original>
-			<edited>开辟道路！ 拉链要拉上！</edited>
+			<edited>开路！拉好拉链！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctInvisibleWorld_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -545,7 +545,7 @@
 		</entry>
 		<entry name="Fld_OctJetpackPilotwings_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックで連れてって</original>
-			<edited>用喷射背包带我去</edited>
+			<edited>用喷射背包带我走</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctJetpackPilotwings_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -590,7 +590,7 @@
 		</entry>
 		<entry name="Fld_OctKakusoku_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>タコミサイル、飛びすぎムズすぎ</original>
-			<edited>章鱼导弹，飞过头好难搞</edited>
+			<edited>章鱼导弹，飞太远太难了</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKakusoku_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -605,12 +605,12 @@
 		</entry>
 		<entry name="Fld_OctKatanukiL_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ねらってないのに壊れて、いや～ん</original>
-			<edited>没瞄准却打碎了，讨厌啦</edited>
+			<edited>明明没瞄准却打碎了，讨厌～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKatanukiL_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>同じ形にせよ！</original>
-			<edited>做成相同形状！</edited>
+			<edited>拼成相同形状！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKatanukiS_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -620,12 +620,12 @@
 		</entry>
 		<entry name="Fld_OctKatanukiS_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>１つでも壊し間違うとアウトです</original>
-			<edited>打错一个就出局</edited>
+			<edited>只要打错一个就出局</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKatanukiS_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>同じ形にせよ！</original>
-			<edited>做成相同形状！</edited>
+			<edited>拼成相同形状！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKawaYagura_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -635,7 +635,7 @@
 		</entry>
 		<entry name="Fld_OctKawaYagura_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>女子に攻められ</original>
-			<edited>被姑娘们猛攻</edited>
+			<edited>遭姑娘们围攻</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKawaYagura_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -690,7 +690,7 @@
 		</entry>
 		<entry name="Fld_OctKojima_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ヤツから逃げて！</original>
-			<edited>从那家伙手下逃走吧！</edited>
+			<edited>逃离那家伙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctKojima_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -705,7 +705,7 @@
 		</entry>
 		<entry name="Fld_OctLiftBaloon_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>マトを見逃し</original>
-			<edited>错过了靶子</edited>
+			<edited>别放过靶子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLiftBaloon_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -720,7 +720,7 @@
 		</entry>
 		<entry name="Fld_OctMissleTacopter_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ニクめないアイツと遠距離恋愛</original>
-			<edited>与恨不起来的家伙异地恋</edited>
+			<edited>和那个讨厌不起来的家伙异地恋</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctMissleTacopter_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -735,7 +735,7 @@
 		</entry>
 		<entry name="Fld_OctNGBaloon_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>調子に乗りすぎ要注意</original>
-			<edited>得意忘形要小心</edited>
+			<edited>小心别太得意忘形</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctNGBaloon_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -750,7 +750,7 @@
 		</entry>
 		<entry name="Fld_OctNigeBaloon_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>走れ！ アイツのように</original>
-			<edited>跑吧！ 像那家伙一样</edited>
+			<edited>像那家伙一样跑起来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctNigeBaloon_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -765,7 +765,7 @@
 		</entry>
 		<entry name="Fld_OctNightTutorial_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>朝も夜も働いてます</original>
-			<edited>昼夜都在工作</edited>
+			<edited>早晚都在工作</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctNightTutorial_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -780,12 +780,12 @@
 		</entry>
 		<entry name="Fld_OctNuriBar_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>塗りたくって</original>
-			<edited>尽情涂抹</edited>
+			<edited>尽情涂吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctNuriBar_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>塗り返しつつ ゴールせよ！</original>
-			<edited>边涂回墨水边抵达终点！</edited>
+			<edited>一边重新涂墨，一边抵达终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctNuriRide_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -795,7 +795,7 @@
 		</entry>
 		<entry name="Fld_OctNuriRide_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>せまりくる！ ヌリヌリ棒に</original>
-			<edited>逼近了！ 涂涂棒</edited>
+			<edited>涂涂棒逼近了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctNuriRide_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -810,7 +810,7 @@
 		</entry>
 		<entry name="Fld_OctPillarHoko_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>校区外は悪の巣窟</original>
-			<edited>校区外是恶的巢穴</edited>
+			<edited>校区外是邪恶的巢穴</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctPillarHoko_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -825,7 +825,7 @@
 		</entry>
 		<entry name="Fld_OctPitfallsGeso_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>自分で穴を開けまくっちゃって～</original>
-			<edited>自己疯狂挖坑～</edited>
+			<edited>自己把洞挖个没完～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctPitfallsGeso_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -840,7 +840,7 @@
 		</entry>
 		<entry name="Fld_OctPitfallsIka_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>自分で危険を広げる</original>
-			<edited>自己扩大危险</edited>
+			<edited>自己扩大危险区</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctPitfallsIka_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -855,7 +855,7 @@
 		</entry>
 		<entry name="Fld_OctRailBaloon_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>あっ、マト外しちゃった♪</original>
-			<edited>啊，打偏靶子了♪</edited>
+			<edited>啊，靶子打偏了♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctRailBaloon_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -870,7 +870,7 @@
 		</entry>
 		<entry name="Fld_OctRailTower_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ボヨーン、バシュッで</original>
-			<edited>弹跳、嗖射</edited>
+			<edited>弹一下，嗖一下</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctRailTower_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -885,7 +885,7 @@
 		</entry>
 		<entry name="Fld_OctRollingBlocks_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>動きを止めたら</original>
-			<edited>一旦停下动作</edited>
+			<edited>要是停下来就……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctRollingBlocks_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -900,7 +900,7 @@
 		</entry>
 		<entry name="Fld_OctRotPropeller_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>確実に 撃ってプロペラ 意思疎通</original>
-			<edited>瞄准射击螺旋桨，心意相通</edited>
+			<edited>精准射击，与螺旋桨心意相通</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctRotPropeller_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -930,7 +930,7 @@
 		</entry>
 		<entry name="Fld_OctShortRail_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ライドレール、いっぱいすぎて</original>
-			<edited>墨汁轨道，多得过头</edited>
+			<edited>墨汁轨道多到数不过来</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctShortRail_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -945,7 +945,7 @@
 		</entry>
 		<entry name="Fld_OctSpaceBall_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>エイトボール、撃って走ってスイッチON</original>
-			<edited>8号球，射击冲刺开开关</edited>
+			<edited>8号球，边射边跑开开关</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctSpaceBall_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -960,7 +960,7 @@
 		</entry>
 		<entry name="Fld_OctSpaceFever4Ever_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>お腹イッパイ タコイッパイ</original>
-			<edited>肚子饱饱 章鱼多多</edited>
+			<edited>吃饱饱，章鱼多多</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctSpaceFever4Ever_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -975,7 +975,7 @@
 		</entry>
 		<entry name="Fld_OctSpaceFeverG_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>食らって！ タコのカルパッチョ</original>
-			<edited>尝尝吧！ 章鱼刺身</edited>
+			<edited>尝尝吧！章鱼卡帕乔</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctSpaceFeverG_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -990,7 +990,7 @@
 		</entry>
 		<entry name="Fld_OctSpecialBall_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>エイトボール見つけて引き返せ！</original>
-			<edited>找到8号球就折返！</edited>
+			<edited>找到8号球，立即折返！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctSpecialBall_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1005,7 +1005,7 @@
 		</entry>
 		<entry name="Fld_OctSphere_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>あなたと着たい イカスフィア</original>
-			<edited>想和你一起穿 鱿鱼球</edited>
+			<edited>想和你一起穿的鱿鱼球</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctSphere_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1050,7 +1050,7 @@
 		</entry>
 		<entry name="Fld_OctTakoris_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>ぐるぐる回せ！</original>
-			<edited>咕噜咕噜转起来！</edited>
+			<edited>转起来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctTakoris_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1065,7 +1065,7 @@
 		</entry>
 		<entry name="Fld_OctTamayoke_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>踊り続けて</original>
-			<edited>继续跳舞</edited>
+			<edited>一直跳下去</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctTamayoke_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1080,7 +1080,7 @@
 		</entry>
 		<entry name="Fld_OctToggleNuriSwitch_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>返されないで</original>
-			<edited>别被涂回去</edited>
+			<edited>别让人涂回来</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctToggleNuriSwitch_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1095,7 +1095,7 @@
 		</entry>
 		<entry name="Fld_OctTrench_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>セレブなタコの生息地</original>
-			<edited>上流章鱼的栖息地</edited>
+			<edited>名流章鱼的栖息地</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctTrench_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1110,7 +1110,7 @@
 		</entry>
 		<entry name="Fld_OctTuber_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>七色のチャージャー使い</original>
-			<edited>七色蓄力狙击枪使用者</edited>
+			<edited>七彩狙击手</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctTuber_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1125,7 +1125,7 @@
 		</entry>
 		<entry name="Fld_OctUmbrellaMaze_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>敵インク、踏んでびっくり</original>
-			<edited>踩到敌人墨水，吓一跳</edited>
+			<edited>踩到敌方墨水，吓一跳</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctUmbrellaMaze_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1140,7 +1140,7 @@
 		</entry>
 		<entry name="Fld_OctVBallBingo_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>エイトボール 穴に落として オトシダマ</original>
-			<edited>把8号球推进洞里 落球</edited>
+			<edited>把8号球送进洞里，落球啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctVBallBingo_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1155,7 +1155,7 @@
 		</entry>
 		<entry name="Fld_OctVBallDDA_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>踏んで！ 華麗なステップ</original>
-			<edited>踩上去！ 华丽的舞步</edited>
+			<edited>踩上去！华丽的舞步</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctVBallDDA_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1185,7 +1185,7 @@
 		</entry>
 		<entry name="Fld_OctVBallPiroPiro_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>まちがって、ピロピロ撃って</original>
-			<edited>不小心，打中了吹吹卷</edited>
+			<edited>一不小心打中吹吹卷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctVBallPiroPiro_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1200,7 +1200,7 @@
 		</entry>
 		<entry name="Fld_OctVBallSwitch7_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールの新しい遊び方が</original>
-			<edited>8号球的新玩法</edited>
+			<edited>8号球的新玩法！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctVBallSwitch7_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1215,7 +1215,7 @@
 		</entry>
 		<entry name="Fld_OctVBallUpDown_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>更新無き工事現場</original>
-			<edited>没有更新的施工现场</edited>
+			<edited>停工的施工现场</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctVBallUpDown_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1230,7 +1230,7 @@
 		</entry>
 		<entry name="Fld_OctVenueYagura_OctMsn01" offset="00" relocatable="true" max_length="0">
 			<original>かっこよく乗りこなして</original>
-			<edited>帅气地驾驭</edited>
+			<edited>帅气地驾驭它</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctVenueYagura_OctMsn02" offset="00" relocatable="true" max_length="0">
@@ -1270,7 +1270,7 @@
 		</entry>
 		<entry name="Fld_OctLastBoss01_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>ブキを手に入れて 進めッ！</original>
-			<edited>拿到武器前进！</edited>
+			<edited>拿到武器，前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss02_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -1280,7 +1280,7 @@
 		</entry>
 		<entry name="Fld_OctLastBoss02_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>飛んでわたって たどり着けッ！</original>
-			<edited>飞越抵达！</edited>
+			<edited>飞过去，抵达终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss03_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -1290,7 +1290,7 @@
 		</entry>
 		<entry name="Fld_OctLastBoss03_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>レーザーよけながら しのびこめッ！</original>
-			<edited>边躲激光边潜入！</edited>
+			<edited>躲开激光，潜入其中！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss04_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -1300,7 +1300,7 @@
 		</entry>
 		<entry name="Fld_OctLastBoss04_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>すべてのロックを 解除しろッ！</original>
-			<edited>解除所有锁！</edited>
+			<edited>解除全部锁定！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss05_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -1310,7 +1310,7 @@
 		</entry>
 		<entry name="Fld_OctLastBoss05_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>エネルギーコアを 運べッ！</original>
-			<edited>搬运能量核心！</edited>
+			<edited>把能量核心运过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctLastBoss06_OctMsn00" offset="00" relocatable="true" max_length="0">
@@ -1320,7 +1320,7 @@
 		</entry>
 		<entry name="Fld_OctLastBoss06_OctMsn02" offset="00" relocatable="true" max_length="0">
 			<original>地上へ 出ろッ！</original>
-			<edited>前往地面！</edited>
+			<edited>到地面去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctBoss_OctMsn00" offset="00" relocatable="true" max_length="0">
