@@ -17,7 +17,7 @@
 		</entry>
 		<entry name="Ditch_01_0000" offset="00" relocatable="true" max_length="0">
 			<original>イイダのマネっ！</original>
-			<edited>学饭田！</edited>
+			<edited>学饭田的样子！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ditch_01_0001" offset="00" relocatable="true" max_length="0">
@@ -28,8 +28,8 @@
 		<entry name="Ditch_02_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここを ガーッと行って バッと曲がったトコの
 店のケーキ！ チョーウメェ！</original>
-			<edited>从这儿呼地冲过去、啪地拐弯的地方，
-那家店的蛋糕！ 超好吃！</edited>
+			<edited>从这儿呼地冲过去，再啪地一拐的那家店，
+蛋糕超好吃！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ditch_02_0001" offset="00" relocatable="true" max_length="0">
@@ -100,7 +100,7 @@
 		</entry>
 		<entry name="Ditch_07_0001" offset="00" relocatable="true" max_length="0">
 			<original>そういえば、また新しいスマホでしたね…</original>
-			<edited>说起来，那是部新手机来着…</edited>
+			<edited>对了，前辈又换新手机了呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ditch_08_0000" offset="00" relocatable="true" max_length="0">
@@ -147,7 +147,7 @@
 		<entry name="Ditch_Fest00_0001" offset="00" relocatable="true" max_length="0">
 			<original>じゃあ こころおきなく
 塗りたくっちゃいましょ～！</original>
-			<edited>那就毫无顾忌地
+			<edited>那就放心大胆地
 尽情涂个痛快吧～！</edited>
 			<subEntries />
 		</entry>
@@ -264,7 +264,7 @@
 		</entry>
 		<entry name="Venue_08_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヒメセンパイの優しさで お腹いっぱいです！</original>
-			<edited>小姬前辈的温柔，让我好满足！</edited>
+			<edited>小姬前辈的温柔，我都要吃不消啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Venue_09_0000" offset="00" relocatable="true" max_length="0">
@@ -298,7 +298,7 @@
 		</entry>
 		<entry name="Venue_11_0001" offset="00" relocatable="true" max_length="0">
 			<original>モロモロの手配が…</original>
-			<edited>各项安排都…</edited>
+			<edited>各种安排都还没搞定呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Venue_Fest00_0000" offset="00" relocatable="true" max_length="0">
@@ -308,7 +308,7 @@
 		</entry>
 		<entry name="Venue_Fest00_0001" offset="00" relocatable="true" max_length="0">
 			<original>音のノリ方も けっこう ちがいますよね～</original>
-			<edited>音乐的嗨法，也相当不一样呢～</edited>
+			<edited>随着音乐摇摆的感觉，也很不一样呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_00_0000" offset="00" relocatable="true" max_length="0">
@@ -346,21 +346,21 @@
 		</entry>
 		<entry name="Unduck_02_0001" offset="00" relocatable="true" max_length="0">
 			<original>……手のリーチの差じゃないんですか？</original>
-			<edited>……难道不是手臂够得着的差距吗？</edited>
+			<edited>……难道不是手臂长度的差距吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_03_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここでもっと筋トレして
 シメたほうがいいのかな…</original>
-			<edited>是不是该在这儿多做点肌肉训练，
-练结实点比较好呢…</edited>
+			<edited>是不是该在这儿多锻炼锻炼，
+把自己练结实点呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_03_0001" offset="00" relocatable="true" max_length="0">
 			<original>えっ？！
 ワタシ シメられちゃうんですか？！</original>
 			<edited>诶？！
-我会被练结实吗？！</edited>
+是要把我练结实吗？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_04_0000" offset="00" relocatable="true" max_length="0">
@@ -397,14 +397,14 @@
 		</entry>
 		<entry name="Unduck_06_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ、CMの練習は 後でお願いします</original>
-			<edited>前辈，广告练习请待会儿再做</edited>
+			<edited>前辈，广告词留着待会儿再练吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_07_0000" offset="00" relocatable="true" max_length="0">
 			<original>アタシ、ここに来るのに
 家から歩いて１時間かかんだよなー</original>
-			<edited>我为了来这儿，
-从家步行花了一个小时啊—</edited>
+			<edited>我从家走到这儿，
+花了整整一个小时啊—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_07_0001" offset="00" relocatable="true" max_length="0">
@@ -444,8 +444,8 @@
 		<entry name="Unduck_10_0001" offset="00" relocatable="true" max_length="0">
 			<original>ワタシのマネはともかく、
 ここでライブは 無理があるかと…</original>
-			<edited>学我倒是无所谓，
-在这儿开演唱会有点勉强吧…</edited>
+			<edited>学我就算了，
+在这儿开演唱会也太勉强了吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unduck_Fest00_0000" offset="00" relocatable="true" max_length="0">
@@ -458,8 +458,8 @@
 		<entry name="Unduck_Fest00_0001" offset="00" relocatable="true" max_length="0">
 			<original>そのとき コジャッジくんが 頂上から
 見てた あの目が忘れられないです…</original>
-			<edited>那时候小裁判猫从山顶
-看着的那眼神，我忘不了…</edited>
+			<edited>我忘不了小裁判猫当时从顶上
+看下来的那个眼神…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Upland_00_0000" offset="00" relocatable="true" max_length="0">
@@ -505,8 +505,8 @@
 		<entry name="Upland_03_0000" offset="00" relocatable="true" max_length="0">
 			<original>マニューバーで バシュバシュしてると
 ガラスにおでこ ぶつけるんだよな…</original>
-			<edited>用双枪嗖嗖地滑的时候，
-老是撞到玻璃上磕到额头啊—…</edited>
+			<edited>用双枪嗖嗖地射着时，
+老是撞上玻璃磕到额头啊—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Upland_03_0001" offset="00" relocatable="true" max_length="0">
@@ -539,7 +539,7 @@
 		</entry>
 		<entry name="Upland_05_0001" offset="00" relocatable="true" max_length="0">
 			<original>両サイドのルートも 要注意ですよ～、はい</original>
-			<edited>两边的路线也要多加注意哦～，是的</edited>
+			<edited>两边的路线也要多加注意哦～，没错</edited>
 			<subEntries />
 		</entry>
 		<entry name="Upland_06_0000" offset="00" relocatable="true" max_length="0">
@@ -558,7 +558,7 @@
 		</entry>
 		<entry name="Upland_07_0000" offset="00" relocatable="true" max_length="0">
 			<original>ウチらの衣装のデザイナー、ここ出身らしいぞ</original>
-			<edited>听说咱们服装的设计师，是这儿出身的</edited>
+			<edited>听说咱们服装的设计师，是从这儿毕业的</edited>
 			<subEntries />
 		</entry>
 		<entry name="Upland_07_0001" offset="00" relocatable="true" max_length="0">
@@ -572,7 +572,7 @@
 			<original>ここって学校だろ？
 インク塗りたくって おこられないかな？</original>
 			<edited>这儿是学校吧？
-涂满墨水不会被骂吗？</edited>
+到处涂墨水不会挨骂吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Upland_08_0001" offset="00" relocatable="true" max_length="0">
@@ -658,7 +658,7 @@
 			<original>ここのハネ橋、 
 ちょーサイコーポイントだから！！</original>
 			<edited>这里的吊桥，
-是超绝最佳得分点！！</edited>
+可是超绝的得分点！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Nagasaki_00_0001" offset="00" relocatable="true" max_length="0">
@@ -793,15 +793,14 @@
 		</entry>
 		<entry name="Nagasaki_Fest00_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ！ 危ないんで イキナリ歌わないでください！</original>
-			<edited>（小声）……说不定
-能做出不错的曲子来呢～</edited>
+			<edited>前辈！很危险，别突然唱起来啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Pillar_00_0000" offset="00" relocatable="true" max_length="0">
 			<original>この船…
 昔 誕生日にもらったのと同じヤツだ</original>
 			<edited>这艘船…
-跟以前生日收到的是同一款</edited>
+跟我以前生日收到的那艘一模一样</edited>
 			<subEntries />
 		</entry>
 		<entry name="Pillar_00_0001" offset="00" relocatable="true" max_length="0">
@@ -878,7 +877,7 @@
 		</entry>
 		<entry name="Pillar_06_0001" offset="00" relocatable="true" max_length="0">
 			<original>「さん」付けするセンパイ、かわいい…</original>
-			<edited>叫'小鱼儿'的前辈，好可爱…</edited>
+			<edited>连小鱼儿都要敬称的前辈，好可爱…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Pillar_07_0000" offset="00" relocatable="true" max_length="0">
@@ -927,8 +926,8 @@
 		<entry name="Wave_00_0001" offset="00" relocatable="true" max_length="0">
 			<original>まずは 自転車を
 ホジョ輪なしで乗れないと… ですネ</original>
-			<edited>首先，得先能不用辅助轮
-骑自行车才行吧… 呢</edited>
+			<edited>先得学会不带辅助轮
+骑自行车才行呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Wave_01_0000" offset="00" relocatable="true" max_length="0">
@@ -965,8 +964,8 @@
 		<entry name="Wave_03_0001" offset="00" relocatable="true" max_length="0">
 			<original>ずっと片足でケンケンしてるのに、自転車を
 追いこしてくセンパイ カッコ良すぎます～！</original>
-			<edited>前辈一直单脚蹦着，还能超过自行车，
-帅过头了～！</edited>
+			<edited>前辈一直单脚蹦着，却能超过自行车，
+也太帅了～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Wave_04_0000" offset="00" relocatable="true" max_length="0">
@@ -992,14 +991,14 @@
 			<original>で、でも
 たぶん 足 届かないと思います…</original>
 			<edited>可、可是
-估计我的脚够不到…</edited>
+我觉得前辈的脚大概够不着…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Wave_06_0000" offset="00" relocatable="true" max_length="0">
 			<original>この前 マニューバーで メチャカッコイイ
 トリック決めたの見てた？</original>
-			<edited>你看到我用双枪耍了个超帅的
-特技了吗？</edited>
+			<edited>你看到我用双枪使出的超帅
+花式动作了吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Wave_06_0001" offset="00" relocatable="true" max_length="0">
@@ -1192,7 +1191,7 @@
 			<original>ウネウネ動くバケットに
 シンパシーを感じます～♪</original>
 			<edited>那扭来扭去的铲斗，
-让我很有共鸣～♪</edited>
+让我倍感亲切～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kawa_09_0000" offset="00" relocatable="true" max_length="0">
@@ -1210,8 +1209,8 @@
 		<entry name="Kawa_Fest00_0000" offset="00" relocatable="true" max_length="0">
 			<original>カモさん達に夢中になって
 川に落ちんなよー！ カワイーかんな！</original>
-			<edited>别光顾着看鸭子们
-掉进河里啊—！ 太可爱了啦！</edited>
+			<edited>可别光顾着看鸭子们
+掉进河里啊—！它们太可爱了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kawa_Fest00_0001" offset="00" relocatable="true" max_length="0">
@@ -1227,8 +1226,8 @@
 		<entry name="Tuzura_00_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ、バトル中なのに
 下まで降りてこないの どうにかしてください！</original>
-			<edited>前辈，对战中都让你别下来到下面了，
-快想想办法吧！</edited>
+			<edited>前辈，对战时老是不肯下来，
+您想想办法吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuzura_01_0000" offset="00" relocatable="true" max_length="0">
@@ -1250,7 +1249,7 @@
 		</entry>
 		<entry name="Tuzura_02_0001" offset="00" relocatable="true" max_length="0">
 			<original>広すぎて、下の階で足りてるみたいですよ？</original>
-			<edited>因为太大，好像光下面几层就够了？</edited>
+			<edited>停车场太大，光下面几层好像就够用了？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuzura_03_0000" offset="00" relocatable="true" max_length="0">
@@ -1268,7 +1267,7 @@
 		<entry name="Tuzura_04_0000" offset="00" relocatable="true" max_length="0">
 			<original>インクレールで 相手のふところに
 ガガッと 攻めこめー！</original>
-			<edited>用墨汁轨道，冲到对手面前
+			<edited>乘着墨汁轨道冲进对手阵地，
 猛攻—！</edited>
 			<subEntries />
 		</entry>
@@ -1346,8 +1345,8 @@
 		<entry name="Tuzura_10_0000" offset="00" relocatable="true" max_length="0">
 			<original>カベの高いトコに スプリンクラーつけられると
 マジ キッツイわー…</original>
-			<edited>被人把洒墨器装到墙的高处，
-真的超难受的—…</edited>
+			<edited>对手把洒墨器装在墙高处，
+真的超棘手啊—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuzura_10_0001" offset="00" relocatable="true" max_length="0">
@@ -1381,15 +1380,15 @@
 		<entry name="Amida_00_0001" offset="00" relocatable="true" max_length="0">
 			<original>中央は相手のほうまで 一直線に
 つながってるので 注意ですよ～</original>
-			<edited>中央是直通对面的直线，
+			<edited>中央有条路直通对面，
 要小心哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_01_0000" offset="00" relocatable="true" max_length="0">
 			<original>フトウってアレだろ？！
 つぶつぶで あまくて おいしいやつだろ？</original>
-			<edited>浮岛就是那个吧？！
-一粒一粒的、甜甜的好吃那个吧？</edited>
+			<edited>“码头”就是那个吧？！
+一粒一粒、甜甜的那个？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_01_0001" offset="00" relocatable="true" max_length="0">
@@ -1400,8 +1399,8 @@
 		<entry name="Amida_02_0000" offset="00" relocatable="true" max_length="0">
 			<original>スポンジを イカに利用するかが
 勝利への カギだな！</original>
-			<edited>怎么利用海绵，
-是通往胜利的关键！</edited>
+			<edited>怎么灵活利用海绵，
+才是取胜的关键！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_02_0001" offset="00" relocatable="true" max_length="0">
@@ -1420,7 +1419,7 @@
 			<original>ちゃんと アワ立ててから
 洗うのが 一番です！</original>
 			<edited>先好好打出泡沫再洗，
-才是最好的！</edited>
+才是最重要的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_04_0000" offset="00" relocatable="true" max_length="0">
@@ -1458,7 +1457,7 @@
 		</entry>
 		<entry name="Amida_06_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ、いつ落ち着いてました？</original>
-			<edited>前辈，你什么时候安心过？</edited>
+			<edited>前辈，您什么时候安静过？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_07_0000" offset="00" relocatable="true" max_length="0">
@@ -1483,7 +1482,7 @@
 		</entry>
 		<entry name="Amida_08_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヒメセンパイを 守りぬけることですね！</original>
-			<edited>是能守护好小姬前辈！</edited>
+			<edited>就是能好好守护小姬前辈！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_09_0000" offset="00" relocatable="true" max_length="0">
@@ -1502,8 +1501,8 @@
 		<entry name="Amida_10_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここだと人少ないし、大声出しても
 メーワクかからなそうだな！ マーー…！！</original>
-			<edited>这里人少，大声喊也不会
-打扰到别人吧！ 嘛——…！！</edited>
+			<edited>这里人少，就算大喊大叫
+应该也不会打扰到别人吧！嘛——…！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida_10_0001" offset="00" relocatable="true" max_length="0">
@@ -1579,7 +1578,7 @@
 		<entry name="SkatePark_03_0000" offset="00" relocatable="true" max_length="0">
 			<original>オラー！ 高台から、ハイパープレッサー
 ぶっぱなしたれぁー！！</original>
-			<edited>看招！ 从高台上，高压水泵
+			<edited>看招！从高台上用高压水泵
 轰它一发—！！</edited>
 			<subEntries />
 		</entry>
@@ -1604,14 +1603,14 @@
 			<original>ここってせまいから
 すぐ相手とハチ合わせして 楽しー！</original>
 			<edited>这里很窄，
-马上就能撞上对手，超好玩！</edited>
+一下就会和对手撞个正着，超刺激！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SkatePark_05_0001" offset="00" relocatable="true" max_length="0">
 			<original>あれだけ囲まれてるのに 切り抜けるセンパイ
 ステキすぎます…</original>
-			<edited>被围成那样还能脱身的前辈，
-帅过头了…</edited>
+			<edited>被围成那样还能突围的前辈，
+也太帅了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="SkatePark_06_0000" offset="00" relocatable="true" max_length="0">
@@ -1796,8 +1795,8 @@
 		<entry name="Maze_09_0000" offset="00" relocatable="true" max_length="0">
 			<original>この場を借りて言っとこ！
 ウチらはテンタクル「ズ」だからな！</original>
-			<edited>借这个地方说一下！
-我们是腕儿姐妹'们'！</edited>
+			<edited>借这个机会说一下！
+我们叫“腕儿姐妹”！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Maze_09_0001" offset="00" relocatable="true" max_length="0">
@@ -1852,7 +1851,7 @@
 		</entry>
 		<entry name="Warehouse_01_0001" offset="00" relocatable="true" max_length="0">
 			<original>きっと、ロボット化が進んでるんですよ～</original>
-			<edited>一定是机器化推进得很快吧～</edited>
+			<edited>一定是机器人化进行得很顺利吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Warehouse_02_0000" offset="00" relocatable="true" max_length="0">
@@ -1865,8 +1864,8 @@
 		<entry name="Warehouse_02_0001" offset="00" relocatable="true" max_length="0">
 			<original>なるほど！ よくある無機質な感じの
 MVになりそうですね～！</original>
-			<edited>原来如此！ 感觉能拍出那种常见的
-无机质风格的MV呢～！</edited>
+			<edited>原来如此！ 感觉能拍成那种很常见的
+工业风 MV 呢～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Warehouse_03_0000" offset="00" relocatable="true" max_length="0">
@@ -1886,8 +1885,8 @@ MVになりそうですね～！</original>
 		<entry name="Warehouse_04_0000" offset="00" relocatable="true" max_length="0">
 			<original>チャージャーは 高いとこにいるの
 マジやめて欲しい！</original>
-			<edited>蓄力狙击枪待在高处，
-真的求你放过我！</edited>
+			<edited>蓄力狙击枪别老待在高处，
+真的拜托了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Warehouse_04_0001" offset="00" relocatable="true" max_length="0">
@@ -1919,15 +1918,15 @@ MVになりそうですね～！</original>
 		<entry name="Warehouse_06_0001" offset="00" relocatable="true" max_length="0">
 			<original>真ん中の高台をステージにするには
 せますぎますよ～</original>
-			<edited>把中间的高台当舞台，
-有点太小了哦～</edited>
+			<edited>要把中间高台当成舞台的话，
+也太小了哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Warehouse_07_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここ 電波悪いから バトルの後に
 おむかえの車 すぐ呼べないんだよねー</original>
 			<edited>这里信号不好，打完对战
-都没法马上叫接送的車啊—</edited>
+都没法马上叫出租车啊—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Warehouse_07_0001" offset="00" relocatable="true" max_length="0">
@@ -1963,7 +1962,7 @@ MVになりそうですね～！</original>
 			<original>スライドしながら ウィンドウショッピングすると
 効率よく 見て回れるからオススメ！</original>
 			<edited>一边滑步一边逛街，
-能高效地看完所有店，推荐哦！</edited>
+逛起来很有效率，推荐哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpDown_01_0001" offset="00" relocatable="true" max_length="0">
@@ -1996,7 +1995,7 @@ MVになりそうですね～！</original>
 			<original>じゃあ落ちちゃうセンパイが見られると
 ラッキー♪ってことですね？！</original>
 			<edited>那就是说，能看到前辈掉下去
-就算赚到♪对吧？！</edited>
+就算走运♪对吧？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpDown_04_0000" offset="00" relocatable="true" max_length="0">
@@ -2012,8 +2011,8 @@ MVになりそうですね～！</original>
 		<entry name="UpDown_05_0000" offset="00" relocatable="true" max_length="0">
 			<original>アナタの元へ スーパーチャクチ！
 愛と勝利を届けます！ イイダ、名付けて！</original>
-			<edited>飞向你身边 超级落击！
-为你送上爱与胜利！ 饭田，命名！</edited>
+			<edited>飞向你身边，超级落击！
+为你送上爱与胜利！饭田，给它起名！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpDown_05_0001" offset="00" relocatable="true" max_length="0">
@@ -2030,7 +2029,7 @@ MVになりそうですね～！</original>
 		</entry>
 		<entry name="UpDown_06_0001" offset="00" relocatable="true" max_length="0">
 			<original>お天気コーナーも ねらってるんですか？！</original>
-			<edited>连天气预报环节也要抢吗？！</edited>
+			<edited>连天气预报环节也想抢吗？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="UpDown_07_0000" offset="00" relocatable="true" max_length="0">
@@ -2107,7 +2106,7 @@ MVになりそうですね～！</original>
 		</entry>
 		<entry name="Line_04_0000" offset="00" relocatable="true" max_length="0">
 			<original>なーイイダ、「ザトウ」って何の意味なんだ？</original>
-			<edited>喂饭田，'座头鲸'是什么意思？</edited>
+			<edited>喂，饭田，“座头”是什么意思？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Line_04_0001" offset="00" relocatable="true" max_length="0">
@@ -2161,7 +2160,7 @@ MVになりそうですね～！</original>
 		</entry>
 		<entry name="Line_08_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハミガキの味がクールですよね～</original>
-			<edited>有种牙膏味的酷感呢～</edited>
+			<edited>有股牙膏味，真清凉呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Line_Fest00_0000" offset="00" relocatable="true" max_length="0">
@@ -2245,7 +2244,7 @@ MV作るぞー！</original>
 		</entry>
 		<entry name="Tunnel_05_0001" offset="00" relocatable="true" max_length="0">
 			<original>絶対 当たりますね…</original>
-			<edited>绝对会猜中的…</edited>
+			<edited>这预报肯定会说中…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tunnel_06_0000" offset="00" relocatable="true" max_length="0">
@@ -2301,7 +2300,7 @@ MV作るぞー！</original>
 		</entry>
 		<entry name="Athletic_00_0001" offset="00" relocatable="true" max_length="0">
 			<original>パパさん、ここのオーナーですよね！</original>
-			<edited>爸爸先生，是这里的老板嘛！</edited>
+			<edited>前辈的爸爸，是这里的老板吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Athletic_01_0000" offset="00" relocatable="true" max_length="0">
@@ -2355,8 +2354,8 @@ MV作ろうぜー</original>
 		<entry name="Athletic_04_0001" offset="00" relocatable="true" max_length="0">
 			<original>センパイ、たまにほっぺで
 通話オフのボタン 押してますよ？</original>
-			<edited>前辈，你偶尔会用脸颊
-碰到挂断键哦？</edited>
+			<edited>前辈，您偶尔会用脸颊
+按到挂断键哦？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Athletic_05_0000" offset="00" relocatable="true" max_length="0">
@@ -2368,7 +2367,7 @@ MV作ろうぜー</original>
 		</entry>
 		<entry name="Athletic_05_0001" offset="00" relocatable="true" max_length="0">
 			<original>推しますね～</original>
-			<edited>我支持哦～</edited>
+			<edited>您还真爱推这个呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Athletic_06_0000" offset="00" relocatable="true" max_length="0">
@@ -2380,7 +2379,7 @@ MV作ろうぜー</original>
 		</entry>
 		<entry name="Athletic_06_0001" offset="00" relocatable="true" max_length="0">
 			<original>そうなれば、重機 見放題ですね！</original>
-			<edited>那样的话，就能看个够重机了！</edited>
+			<edited>那样一来，就能把重机看个够了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Athletic_07_0000" offset="00" relocatable="true" max_length="0">
@@ -2438,8 +2437,8 @@ MV作ろうぜー</original>
 		<entry name="Quarry_02_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここのナナメのベルトコンベヤーに乗ったら
 メッチャ飛ばされたわ…</original>
-			<edited>坐上这儿倾斜的传送带，
-被甩飞得好远啊…</edited>
+			<edited>坐上这儿斜着的传送带，
+一下就被带出去好远啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Quarry_02_0001" offset="00" relocatable="true" max_length="0">
@@ -2462,8 +2461,8 @@ MV作ろうぜー</original>
 		<entry name="Quarry_04_0000" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！ ここで音撮りすると
 面白いの できそうだな！</original>
-			<edited>饭田！ 在这儿采音，
-感觉能做出有趣的东西！</edited>
+			<edited>饭田！在这儿录点声音，
+感觉能做出有意思的作品！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Quarry_04_0001" offset="00" relocatable="true" max_length="0">
@@ -2559,7 +2558,7 @@ MV作ろうぜー</original>
 			<original>バスケでもバトルでも 相手のゴールを
 うばうことが 重要なんですね～！</original>
 			<edited>不管是篮球还是对战，
-抢占对方的篮筐都很重要呢～！</edited>
+夺下对方的得分点都很重要呢～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Court_03_0000" offset="00" relocatable="true" max_length="0">
@@ -2598,8 +2597,8 @@ MV作ろうぜー</original>
 		<entry name="Court_05_0001" offset="00" relocatable="true" max_length="0">
 			<original>ウデを伸ばしてゴールに入れるので
 正確には ダンクではないような…</original>
-			<edited>它是把手臂伸进篮筐放进去的，
-严格来说不算灌篮吧…</edited>
+			<edited>它是伸长手臂把球放进篮筐的，
+严格说来不算灌篮吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Court_06_0000" offset="00" relocatable="true" max_length="0">
@@ -2646,7 +2645,7 @@ MV作ろうぜー</original>
 			<original>ここでやった ビーチサイドライブは
 スゲー気持ちよかったなー！</original>
 			<edited>在这里办的海滨演唱会，
-超舒服的—！</edited>
+超爽的—！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Carousel_00_0001" offset="00" relocatable="true" max_length="0">
@@ -2681,7 +2680,7 @@ MV作ろうぜー</original>
 		</entry>
 		<entry name="Carousel_03_0000" offset="00" relocatable="true" max_length="0">
 			<original>フリーフォールが なかなか落ちてこねー…</original>
-			<edited>自由落体怎么还不掉下来啊—…</edited>
+			<edited>自由落体怎么还不落下来啊—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Carousel_03_0001" offset="00" relocatable="true" max_length="0">
@@ -2723,7 +2722,7 @@ MV作ろうぜー</original>
 			<original>そういえば何でセンパイは ここに来る時だけ
 超厚底のブーツはくんですか～？</original>
 			<edited>说起来，为什么前辈只有来这儿的时候，
-会穿超高底的靴子呢～？</edited>
+会穿超厚底的靴子呢～？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Carousel_06_0001" offset="00" relocatable="true" max_length="0">
@@ -2737,7 +2736,7 @@ MV作ろうぜー</original>
 			<original>全国のちびっこ諸君！ 園内で迷ったら
 コインロッカー横の迷子センターへ ＧＯ！ だぞ！！</original>
 			<edited>全国的小朋友们！ 在园内迷路了，
-就去投币储物柜旁的走失儿童中心！ 出发！</edited>
+就去投币储物柜旁的走失儿童服务处！快去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Carousel_07_0001" offset="00" relocatable="true" max_length="0">
@@ -2787,7 +2786,7 @@ MV作ろうぜー</original>
 			<original>ここライブする時、 水上ステージまで移動すんのに
 バナナボート使うの ヤバかったな…</original>
 			<edited>在这里开演唱会时，去水上舞台
-得坐香蕉船，太刺激了…</edited>
+得坐香蕉船，太吓人了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Nakasu_01_0001" offset="00" relocatable="true" max_length="0">
@@ -2799,7 +2798,7 @@ MV作ろうぜー</original>
 		</entry>
 		<entry name="Nakasu_02_0000" offset="00" relocatable="true" max_length="0">
 			<original>イイダ、このステージの必勝法よろしく！</original>
-			<edited>饭田，这个舞台的必胜法交给你！</edited>
+			<edited>饭田，这个舞台的必胜法就交给你了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Nakasu_02_0001" offset="00" relocatable="true" max_length="0">
@@ -2812,7 +2811,7 @@ MV作ろうぜー</original>
 		<entry name="Nakasu_03_0000" offset="00" relocatable="true" max_length="0">
 			<original>中央わたろうとすると すぐチャージャーにやられる…
 スライドやってんのに なんでだよ？！</original>
-			<edited>想穿过中央，马上就吃蓄力狙击枪…
+			<edited>想穿过中央，立刻就被蓄力狙击枪干掉…
 明明都滑步了，为什么啊？！</edited>
 			<subEntries />
 		</entry>
@@ -2884,7 +2883,7 @@ MV作ろうぜー</original>
 		</entry>
 		<entry name="Nakasu_Fest00_0001" offset="00" relocatable="true" max_length="0">
 			<original>この日のために 自撮りクレーン運んできました～！</original>
-			<edited>为了这一天，我连自拍杆都运来了～！</edited>
+			<edited>为了这一天，我连自拍摇臂都运来啦～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Office_00_0000" offset="00" relocatable="true" max_length="0">
@@ -2895,8 +2894,8 @@ MV作ろうぜー</original>
 		<entry name="Office_00_0001" offset="00" relocatable="true" max_length="0">
 			<original>開発をメインに おこなうために
 新設したらしいですね～</original>
-			<edited>听说是为了以开发为主
-而新建的～</edited>
+			<edited>听说是为了专心搞开发
+才新建的～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Office_01_0000" offset="00" relocatable="true" max_length="0">
@@ -2907,7 +2906,7 @@ MV作ろうぜー</original>
 		<entry name="Office_01_0001" offset="00" relocatable="true" max_length="0">
 			<original>バトルそっちのけで プロペラ回すのは
 やめてくださいよ～</original>
-			<edited>别放着对战不管光转螺旋桨
+			<edited>别不管对战，光顾着转螺旋桨
 啦～</edited>
 			<subEntries />
 		</entry>
@@ -3122,14 +3121,14 @@ MV作ろうぜー</original>
 		<entry name="Mirror_08_0000" offset="00" relocatable="true" max_length="0">
 			<original>上のほう塗ってたら 下のほう塗られてっし…
 下のほう行ったら 上を塗られて… うぁー！！</original>
-			<edited>涂着上面，下面就被涂了…
-去下面，上面又被涂了… 哇—！！</edited>
+			<edited>我涂上面，下面就被涂了…
+去涂下面，上面又被涂了…哇—！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Mirror_08_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヒメセンパイは、 仲間と息を合わせて
 動くことが大切だよって言ってます♪</original>
-			<edited>小姬前辈，她说了跟队友配合好
+			<edited>小姬前辈说，和队友配合好
 一起行动很重要哦♪</edited>
 			<subEntries />
 		</entry>
