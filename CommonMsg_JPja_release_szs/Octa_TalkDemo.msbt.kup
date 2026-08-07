@@ -16,15 +16,15 @@
 		<entry name="Demo01_0001" offset="00" relocatable="true" max_length="0">
 			<original>ィよーーーし！！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;目覚めたか？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 さぁ戦いのつづきじゃ、ブキを持てーーーィ！ </original>
-			<edited>好——了！！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;醒了吗？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-来吧，战斗继续，拿起武器——！ </edited>
+			<edited>好——！！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;醒了吗？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+来，继续战斗，拿起武器——！ </edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;…と言いたいところじゃが、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 おヌシ、どこかでブキを落としたようじゃのゥ</original>
 			<edited>&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;…本想这么说的，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-不过你好像把武器落在某个地方了</edited>
+不过你好像把武器落在哪儿了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0003" offset="00" relocatable="true" max_length="0">
@@ -35,25 +35,25 @@
 		<entry name="Demo01_0004" offset="00" relocatable="true" max_length="0">
 			<original>おヌシ と &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３号 &#xE;&#x0;&#x3;&#x2;ÿÿが タコツボバレーで戦っとるとき、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;だれか &#xE;&#x0;&#x3;&#x2;ÿÿにおそわれた気がするんじゃが……</original>
-			<edited>你 和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3号 &#xE;&#x0;&#x3;&#x2;ÿÿ在蛸壶谷对战的时候，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;好像被谁 &#xE;&#x0;&#x3;&#x2;ÿÿ袭击了呀……</edited>
+			<edited>你和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3 号&#xE;&#x0;&#x3;&#x2;ÿÿ在蛸壶谷战斗时，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+好像被&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;什么人&#xE;&#x0;&#x3;&#x2;ÿÿ袭击了……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0005" offset="00" relocatable="true" max_length="0">
 			<original>ともかく、ここにいても しょうがあるまい&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 一時休戦して ここからぬけ出さんとな！</original>
 			<edited>总之，待在这儿也不是办法&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-先暂时休战，从这里逃出去吧！</edited>
+先暂时休战，从这儿出去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0006" offset="00" relocatable="true" max_length="0">
 			<original>…おっと、その前に&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 名乗るのを忘れておった</original>
-			<edited>…哎呀，在那之前，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 忘了自报家门了</edited>
+			<edited>…哎呀，在那之前，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 忘了报上名号。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0007" offset="00" relocatable="true" max_length="0">
 			<original>ワシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アタリメ &#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0; New！カラストンビ部隊の司令じゃ</original>
-			<edited>我是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鱼干 &#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0; New!喷嘴部队的司令</edited>
+			<edited>老夫是&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; 鱼干&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;，New!喷嘴部队司令。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0008" offset="00" relocatable="true" max_length="0">
@@ -71,7 +71,7 @@
 落ちたショックで キオクが飛んだんか？&#xE;&#x0;&#x4;&#x0;おヌシ自身について…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 なにか思い出せることは あるか？</original>
 			<edited>…难道说，你&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-因为坠落的冲击失忆了？&#xE;&#x0;&#x4;&#x0;关于你自己…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+从高处摔下来，把记忆摔没了？&#xE;&#x0;&#x4;&#x0;关于你自己…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 有什么能想起来的吗？</edited>
 			<subEntries />
 		</entry>
@@ -80,7 +80,7 @@
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラ節 &#xE;&#x0;&#x3;&#x2;ÿÿを口ずさんどったぞィ&#xE;&#x0;&#x4;&#x0;もしや おヌシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 “魂にシオカラ節のグルーヴを宿したタコ” なんか…？</original>
 			<edited>说起来…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;你昏迷的时候，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;一直在哼&#xE;&#x0;&#x3;&#x2;ÿÿ塩辛节呢&#xE;&#x0;&#x4;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;一直在哼&#xE;&#x0;&#x3;&#x2;ÿÿ塩辛节的调子呢。&#xE;&#x0;&#x4;&#x0;
 难道你…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;是'灵魂里宿着塩辛节律动的章鱼'…？</edited>
 			<subEntries />
 		</entry>
@@ -88,8 +88,8 @@
 			<original>…だまっとる、っちぅことは YES！ ってことじゃな&#xE;&#x0;&#x4;&#x0;２年前、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;DJタコワサ将軍 &#xE;&#x0;&#x3;&#x2;ÿÿと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３号 &#xE;&#x0;&#x3;&#x2;ÿÿとの戦いで
 シオカラ節をきいた オクタリアンの中に、&#xE;&#x0;&#x4;&#x0;“魂にシオカラ節のグルーヴを宿したタコ” がおると
 聞いとったが…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; おヌシもその一人じゃったか…</original>
-			<edited>…沉默，也就是说 YES 了吧&#xE;&#x0;&#x4;&#x0;两年前， &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;DJ芥末章鱼将军 &#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3号 &#xE;&#x0;&#x3;&#x2;ÿÿ战斗时
-听过塩辛节的章鱼族里，&#xE;&#x0;&#x4;&#x0;据说有'灵魂里宿着塩辛节律动的章鱼'
+			<edited>…你不说话，那就是答应了吧。&#xE;&#x0;&#x4;&#x0;两年前， &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;DJ芥末章鱼将军 &#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3号 &#xE;&#x0;&#x3;&#x2;ÿÿ战斗时
+听过塩辛节的章鱼族里，&#xE;&#x0;&#x4;&#x0;据说有“灵魂里宿着塩辛节律动的章鱼”
 …&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 原来你也是其中一个啊…</edited>
 			<subEntries />
 		</entry>
@@ -97,8 +97,8 @@
 			<original>そうとは知らず、さっきは３号をけしかけて すまなんだ&#xE;&#x0;&#x4;&#x0;「シオカラ節が好きな者に 悪い者はおらん」&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 …これ真理にして、人生の鉄則！！&#xE;&#x0;&#x4;&#x0;そうと分かれば スタンダップ！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 ワシと協力して ここからぬけ出すぞィ！</original>
-			<edited>刚才不知情，还怂恿3号对付你，抱歉了&#xE;&#x0;&#x4;&#x0;「喜欢塩辛节的人，不会有坏人」&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-…此乃真理，人生铁律！！&#xE;&#x0;&#x4;&#x0;既然明白了，那就站起来！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+			<edited>刚才不明真相，叫 3 号对付你，抱歉啦。&#xE;&#x0;&#x4;&#x0;「喜欢塩辛节的人，不会有坏人」&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+…此乃真理，人生的铁律！！&#xE;&#x0;&#x4;&#x0;既然明白了，那就站起来！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 跟我合作，从这里逃出去吧！</edited>
 			<subEntries />
 		</entry>
@@ -109,7 +109,7 @@
 		</entry>
 		<entry name="Demo02_0000" offset="00" relocatable="true" max_length="0">
 			<original>ふぅ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; やっと出たようじゃ</original>
-			<edited>呼…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 总算出来了</edited>
+			<edited>呼…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 总算出来啦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo02_0001" offset="00" relocatable="true" max_length="0">
@@ -132,7 +132,7 @@
 		<entry name="Demo02_0005" offset="00" relocatable="true" max_length="0">
 			<original>…おはようございマス、 No.10008！！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅 &#xE;&#x0;&#x3;&#x2;ÿÿへようコソ！！！</original>
-			<edited>…早上好，No.10008！！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+			<edited>…您好，No.10008！！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;欢迎来到深海地铁中央站&#xE;&#x0;&#x3;&#x2;ÿÿ！！！</edited>
 			<subEntries />
 		</entry>
@@ -158,7 +158,7 @@
 		<entry name="Demo02_0009" offset="00" relocatable="true" max_length="0">
 			<original>アラ失礼、ちょっと何言ってるか分からないご様子…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 じゃ、軽～く説明させて いただきマスね！！</original>
-			<edited>哎呀失礼，看来您有点听不懂…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+			<edited>哎呀失礼，看来您有点没听懂呢…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 那就让我简单说明一下吧！！</edited>
 			<subEntries />
 		</entry>
@@ -180,13 +180,13 @@
 			<original>幸運なことに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地&#xE;&#x0;&#x3;&#x2;ÿÿに行くことができる資格を&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 アナタはいま、手に入れたのデス！</original>
 			<edited>幸运的是，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;前往约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ的资格&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-您现在，已经得到了！</edited>
+您现在已经获得资格了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo02_0013" offset="00" relocatable="true" max_length="0">
 			<original>過去に いどんだのは 10007名…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アナタは通算 10008番目のチャレンジャーとなりマス</original>
-			<edited>过去挑战过的是10007名…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>至今挑战过的人有 10007 名…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 您将成为第10008名挑战者</edited>
 			<subEntries />
 		</entry>
@@ -201,7 +201,7 @@
 			<original>そんなワケで この深海メトロ中央駅は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 その &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿへ向かうための 出発点となりマス</original>
 			<edited>因此，这座深海地铁中央站，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-就是前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ的出发点</edited>
+就是通往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ的出发点。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo02_0016" offset="00" relocatable="true" max_length="0">
@@ -218,7 +218,7 @@
 		</entry>
 		<entry name="Demo02_0018" offset="00" relocatable="true" max_length="0">
 			<original>メトロに乗って 出発進行～！！！</original>
-			<edited>坐上地铁，出发前进～！！！</edited>
+			<edited>地铁即将发车～！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo02_0019" offset="00" relocatable="true" max_length="0">
@@ -227,7 +227,7 @@
 それはつまり、地上のことじゃな！&#xE;&#x0;&#x4;&#x0;そうとわかれば、善は急げじゃ！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 ほんじゃ８号、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;端末とカードを拾って&#xE;&#x0;&#x3;&#x2;ÿÿ そこを目指すぞィ</original>
 			<edited>你，叫 No.10008 吗…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-太麻烦了，就叫你 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;8号&#xE;&#x0;&#x3;&#x2;ÿÿ 吧？&#xE;&#x0;&#x4;&#x0;约誓之地光芒四射，也就是说&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+太麻烦了，就叫你 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;8 号&#xE;&#x0;&#x3;&#x2;ÿÿ吧。&#xE;&#x0;&#x4;&#x0;约誓之地光芒四射，也就是说&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 那不就是地面嘛！&#xE;&#x0;&#x4;&#x0;明白了就别磨蹭！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 那8号，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;捡起终端和卡片&#xE;&#x0;&#x3;&#x2;ÿÿ，朝那里出发吧</edited>
 			<subEntries />
@@ -247,8 +247,8 @@
 		<entry name="Demo03_0002" offset="00" relocatable="true" max_length="0">
 			<original>ワタクシ、車掌をつとめさせていただきまス&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナマコ車掌&#xE;&#x0;&#x3;&#x2;ÿÿ と申しまス</original>
-			<edited>我担任列车长一职&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;名叫海参列车长&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>我是列车长，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;名叫海参列车长&#xE;&#x0;&#x3;&#x2;ÿÿ。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo03_0003" offset="00" relocatable="true" max_length="0">
@@ -325,7 +325,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>おそらク…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; では、最初のチャレンジに ご案内しまス&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO端末 &#xE;&#x0;&#x3;&#x2;ÿÿを起動してくださイ</original>
 			<edited>大概吧…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 那么，我来带您去第一个挑战&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-请用&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;启动NAMACO终端&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+请用&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;启动 NAMACO 终端&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo04_0000" offset="00" relocatable="true" max_length="0">
@@ -498,7 +498,7 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo05_0003" offset="00" relocatable="true" max_length="0">
 			<original>そんじゃ ８号、この調子で、イカよろしく～</original>
-			<edited>那8号，保持这个势头，请多关照～</edited>
+			<edited>那 8 号，照这个势头继续加油吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo06_0000" offset="00" relocatable="true" max_length="0">
@@ -511,7 +511,7 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo06_0001" offset="00" relocatable="true" max_length="0">
 			<original>もう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ&#xE;&#x0;&#x3;&#x2;ÿÿ 半分も 集めちゃうトハ…
 いやぁ アナタは有能デス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; のこりも 探してくださイネ！！</original>
-			<edited>已经&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;把那东西&#xE;&#x0;&#x3;&#x2;ÿÿ 集了一半了…
+			<edited>已经&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;把那东西&#xE;&#x0;&#x3;&#x2;ÿÿ集齐一半了…
 哎呀，您真是能干！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 剩下的也请继续找吧！！</edited>
 			<subEntries />
 		</entry>
@@ -524,7 +524,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>何かの部品みたいに 見えますが…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 コレだけだと、メカ好きのワタシでも分からないですね…</original>
 			<edited>看起来像是什么零件…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-只有这些的话，连我这个机械迷也看不懂啊…</edited>
+光看这些，连我这个机械迷也弄不明白…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo07_0000" offset="00" relocatable="true" max_length="0">
@@ -556,7 +556,7 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo08_0002" offset="00" relocatable="true" max_length="0">
 			<original>それデハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地&#xE;&#x0;&#x3;&#x2;ÿÿ へ案内しますので、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 こちらへ来てくだサイ！</original>
-			<edited>那么，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;我带您去约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>那么，我这就带您前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 请到这边来！</edited>
 			<subEntries />
 		</entry>
@@ -573,20 +573,20 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo09_ConfirmStartDemo_cBoss2" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地&#xE;&#x0;&#x3;&#x2;ÿÿ へ行くということで、
 ホントに よろしいでスネ？</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;您确定要去约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ吗，
-真的没问题吧？</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;您确定要前往约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ吗？
+真的没问题吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0000" offset="00" relocatable="true" max_length="0">
 			<original>おめでとうございマス、No.10008！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 コレで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿへの とびらが開放されマス！！！</original>
 			<edited>恭喜，No.10008！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-这样一来，通往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ的门扉就开放了！！！</edited>
+这样一来，通往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ的大门就会打开！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0001" offset="00" relocatable="true" max_length="0">
 			<original>さあ、お入りくだサイ！！ さあ、さあ！！</original>
-			<edited>来吧，请进！！ 请请！！</edited>
+			<edited>请进！！请进！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0002" offset="00" relocatable="true" max_length="0">
@@ -610,7 +610,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>材料ノ セットガ 完了シマシタ…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリモノ&#xE;&#x0;&#x3;&#x2;ÿÿ ヘノ 加工ヲ スタートシマス…</original>
 			<edited>材料设置完毕…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;开始加工成记忆物&#xE;&#x0;&#x3;&#x2;ÿÿ…</edited>
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;开始加工成糊状物&#xE;&#x0;&#x3;&#x2;ÿÿ…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0006" offset="00" relocatable="true" max_length="0">
@@ -621,7 +621,7 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo09_0007" offset="00" relocatable="true" max_length="0">
 			<original>イイダ！！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;このままじゃ ２人とも ミンチになっちゃうゾ！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 なんとかなんねーのかよッ！！</original>
-			<edited>饭田！！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;这样下去我们俩都要变成肉馅了！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+			<edited>饭田！！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;再这样下去，我们俩都要被搅成肉馅了！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 快想想办法啊！！</edited>
 			<subEntries />
 		</entry>
@@ -629,7 +629,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>あわわ… ミキサーへのアクセスが ロックされていて、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 こちらの入力を 受け付けません！！</original>
 			<edited>糟了糟了… 搅拌机的访问被锁定了，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-这边无法输入任何指令！！</edited>
+这边的指令完全输不进去！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0009" offset="00" relocatable="true" max_length="0">
@@ -672,7 +672,7 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo09_0015" offset="00" relocatable="true" max_length="0">
 			<original>カーッ！ ダメじゃ！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;さっきのショックで ノビとるぞィ！</original>
-			<edited>哎呀！ 糟了！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;被刚才的冲击震晕过去了！</edited>
+			<edited>哎呀！ 糟了！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;被刚才的冲击震晕了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0016" offset="00" relocatable="true" max_length="0">
@@ -692,7 +692,7 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo09_0019" offset="00" relocatable="true" max_length="0">
 			<original>ちょっと待ってください&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; アクセスしてみますね…</original>
-			<edited>请稍等&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; 我来访问看看…</edited>
+			<edited>请稍等&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;，我来连接看看…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0020" offset="00" relocatable="true" max_length="0">
@@ -704,7 +704,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>８号さん、アタリメさん！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 これがあれば 出られそうですよ！</original>
 			<edited>8号先生、鱼干先生！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-有了这个，好像就能出去了！</edited>
+有了这个，应该就能出去了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo09_0022" offset="00" relocatable="true" max_length="0">
@@ -721,14 +721,14 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>８号！ すまんが先に行っといてくれ！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 ワシは３号が起きるまで そばにいるぞィ！</original>
 			<edited>8号！ 抱歉，你先走吧！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-我要守着3号直到他醒来！</edited>
+我得守在 3 号身边，直到他醒来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo10_0000" offset="00" relocatable="true" max_length="0">
 			<original>あの…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; キミが集めているソレ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ちょっと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おじさん &#xE;&#x0;&#x3;&#x2;ÿÿに
 見せてもらっても…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; いいかな…</original>
-			<edited>那个…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 你收集的那个…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 能不能给&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大叔&#xE;&#x0;&#x3;&#x2;ÿÿ我
-看看…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 呢…</edited>
+			<edited>那个…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 你收集的那个…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 能让这个&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大叔&#xE;&#x0;&#x3;&#x2;ÿÿ我
+看看…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;可以吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo10_0001" offset="00" relocatable="true" max_length="0">
@@ -809,14 +809,14 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo13_0001" offset="00" relocatable="true" max_length="0">
 			<original>ＨＥＹ！ 家に帰るまでがボウケン！</original>
-			<edited>HEY！ 到家之前都算冒险！</edited>
+			<edited>HEY！到家之前，冒险都还没结束！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0002" offset="00" relocatable="true" max_length="0">
 			<original>ヘリの設備を テンケン！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ここで生きる 戦場のケイケン！</original>
-			<edited>直升机设备要检查！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-在这里活下来的战场经验！</edited>
+			<edited>检查直升机设备！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+活用在这里积累的战场经验！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0003" offset="00" relocatable="true" max_length="0">
@@ -826,12 +826,12 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo13_0004" offset="00" relocatable="true" max_length="0">
 			<original>ちょっとちょっと！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; なんなんですか！</original>
-			<edited>等等等等！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 你们在干什么！</edited>
+			<edited>等等等等！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 你们这是在干什么！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0005" offset="00" relocatable="true" max_length="0">
 			<original>再入場には ハンケン！</original>
-			<edited>再次入场要盖章！</edited>
+			<edited>再次入场需凭半券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0006" offset="00" relocatable="true" max_length="0">
@@ -886,13 +886,13 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo13_0015" offset="00" relocatable="true" max_length="0">
 			<original>ワタシは 博士の命を受ケ １２０００年の間、
 ずっと貴様らのデータを 収集してイタ…</original>
-			<edited>吾奉博士之命，在12000年间，
+			<edited>吾奉博士之命，12000 年来，
 一直在收集你们的资料…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0016" offset="00" relocatable="true" max_length="0">
 			<original>急速な勢いで 貴様ら… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;魚介類は栄エ、</original>
-			<edited>你们… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;鱼介类飞速繁荣，</edited>
+			<edited>你们… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;鱼介类飞速发展，</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0017" offset="00" relocatable="true" max_length="0">
@@ -907,7 +907,7 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo13_0019" offset="00" relocatable="true" max_length="0">
 			<original>ムダなナワバリ争いを くり広げるばかりではなイカ！</original>
-			<edited>却只知道进行无谓的领地争夺！</edited>
+			<edited>却只会无休止地争夺地盘！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0020" offset="00" relocatable="true" max_length="0">
@@ -920,20 +920,20 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo13_0021" offset="00" relocatable="true" max_length="0">
 			<original>カンペキな世界を導く 新人類のタネ…
 それが貴様ら 実験体のはずだったのダガ…</original>
-			<edited>引导完美世界的新人类种子…
+			<edited>将带领世界走向完美的新人类种子…
 那本该是你们这些实验体…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0022" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;貴様らには失望した！&#xE;&#x1;&#x0;&#x4;Z&#x0;&#x0;&#x0; さぁ、ネルス像ヨ！ &#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;你们让吾失望了！&#xE;&#x1;&#x0;&#x4;Z&#x0;&#x0;&#x0; 来吧，涅尔像！ &#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;你们太让吾失望了！&#xE;&#x1;&#x0;&#x4;Z&#x0;&#x0;&#x0; 来吧，涅尔像！ &#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0023" offset="00" relocatable="true" max_length="0">
 			<original>全てをネリ直し、もう一度
 我が創造主 『ニンゲン』の世界を 取りもどすノダ！</original>
-			<edited>重塑一切，再一次
-夺回吾之造物主『人类』的世界！</edited>
+			<edited>重塑一切，重新
+夺回吾之造物主“人类”的世界！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0024" offset="00" relocatable="true" max_length="0">
@@ -948,7 +948,7 @@ NAMACO端末 をお持ちですネ？</original>
 		</entry>
 		<entry name="Demo13_0026" offset="00" relocatable="true" max_length="0">
 			<original>あの像から ものすごいエネルギー反応を確認しました…</original>
-			<edited>确认到那座像发出巨大的能量反应…</edited>
+			<edited>检测到那座像有强大的能量反应…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0027" offset="00" relocatable="true" max_length="0">
@@ -960,7 +960,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>あのネルス像は 今まさに
 世界を完全にネリ返すエネルギーを チャージしています</original>
 			<edited>那座涅尔像正在蓄积
-将世界彻底重塑的能量</edited>
+足以彻底重塑世界的能量</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0029" offset="00" relocatable="true" max_length="0">
@@ -984,7 +984,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>なので、あの像全体をインクで塗りつくせば
 エネルギーのチャージを止められるかと…</original>
 			<edited>所以，只要用墨水涂满那座像，
-应该就能停止能量蓄积了…</edited>
+应该就能阻止它继续蓄能了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0033" offset="00" relocatable="true" max_length="0">
@@ -996,14 +996,14 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>ワタシの開発した&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イイダボム&#xE;&#x0;&#x3;&#x2;ÿÿを 像に放ちます&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 でも まだ準備中なので、自動で爆発しません</original>
 			<edited>我开发了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;饭田炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ，会投向那座像&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-不过还没准备完成，不会自动爆炸</edited>
+不过还在准备中，不会自动爆炸。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0035" offset="00" relocatable="true" max_length="0">
 			<original>なので８号さん… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ネルス像に近づいて
 イイダボムをショットで撃ち、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;起爆してください！</original>
 			<edited>所以8号先生… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;请靠近涅尔像，
-用射击引爆饭田炸弹，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;起爆吧！</edited>
+用射击引爆饭田炸弹后，按&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;起爆吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0036" offset="00" relocatable="true" max_length="0">
@@ -1015,7 +1015,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>センパイは ネルス像のエネルギーが弱まったら、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 フルパワーのセンパイキャノンで 像を破壊してください</original>
 			<edited>前辈等涅尔像能量减弱后，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-请用全力的前辈加农炮破坏那座像</edited>
+请用全力的前辈加农炮摧毁那座像！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0038" offset="00" relocatable="true" max_length="0">
@@ -1036,14 +1036,14 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>センパイはその３分の間、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 反復横とびで テンションを高めといてください</original>
 			<edited>前辈在那3分钟里，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-请用反复横跳把情绪提起来</edited>
+请用反复横跳把劲头提起来。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0041" offset="00" relocatable="true" max_length="0">
 			<original>…わかった&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 それで世界が救えるなら、このノド くれてやるよ</original>
 			<edited>…明白了&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-要是这样能拯救世界，这条嗓子就给你了</edited>
+要是这样能拯救世界，这把嗓子就交给你了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0042" offset="00" relocatable="true" max_length="0">
@@ -1055,7 +1055,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>アタリメさんは…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 かっこいい作戦名を考えて 実行の指示を！</original>
 			<edited>鱼干先生…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-请想个帅气的作战名，并下达执行指示！</edited>
+请想个帅气的作战名，再下达行动指示！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0044" offset="00" relocatable="true" max_length="0">
@@ -1066,7 +1066,7 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo13_0045" offset="00" relocatable="true" max_length="0">
 			<original>とれとれぴちぴち ユー＆アイ、当たってくだけて大作戦&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 レッツゴーじゃー！</original>
-			<edited>活蹦乱跳 你和我，撞上就碎大作战&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+			<edited>活蹦乱跳的你和我，撞上就碎大作战！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 出发吧—！</edited>
 			<subEntries />
 		</entry>
@@ -1079,7 +1079,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>世界をネリ返すエネルギーが
 フルチャージに達しないまま、放出されそうです！</original>
 			<edited>重塑世界的能量
-似乎要在未满蓄满的状态下释放了！</edited>
+好像还没蓄满，就要释放出来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo15_0001" offset="00" relocatable="true" max_length="0">
@@ -1093,7 +1093,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>こうなったら 博士の願ったカンペキな世界…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 その一部と なるがヨイ</original>
 			<edited>既然这样，就化作博士所期望的完美世界…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-的一部分吧</edited>
+的一部分吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo15_0003" offset="00" relocatable="true" max_length="0">
@@ -1174,8 +1174,8 @@ NAMACO点数&#xE;&#x0;&#x4;&#x0;那么，请用&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&
 ネル社内で 満足度の高かったブキでありまス&#xE;&#x0;&#x4;&#x0;クリア時にもらえる &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリアほうしゅう&#xE;&#x0;&#x3;&#x2;ÿÿ の値段は
 ブキによって変わりまス… ご参考くださイ</original>
 			<edited>请从3把武器中，用&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;选择要使用的武器&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;.&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;带有推荐&#xE;&#x0;&#x3;&#x2;ÿÿ标记的武器，
-是涅尔社内满意度较高的武器&#xE;&#x0;&#x4;&#x0;通关时能拿到的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;通关报酬&#xE;&#x0;&#x3;&#x2;ÿÿ 的价格
-会因武器而异… 请作参考</edited>
+是涅尔社内满意度较高的武器&#xE;&#x0;&#x4;&#x0;通关时获得的“&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;通关报酬&#xE;&#x0;&#x3;&#x2;ÿÿ”数额
+会因武器而异… 请作参考。</edited>
 			<subEntries />
 		</entry>
 		<entry name="WeaponSelectExplanation_MultiWeapon_00" offset="00" relocatable="true" max_length="0">
