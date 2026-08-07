@@ -6,8 +6,8 @@
 		<entry name="First_00" offset="00" relocatable="true" max_length="0">
 			<original>あ！ こ、こんにちは４号！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 はずかしながら 帰って参りました…</original>
-			<edited>啊！ 你、你好，4号！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-真不好意思，我回来了…</edited>
+			<edited>啊！你、你好，4号！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+不好意思，我回来啦…</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_01" offset="00" relocatable="true" max_length="0">
@@ -19,14 +19,14 @@
 		</entry>
 		<entry name="First_02" offset="00" relocatable="true" max_length="0">
 			<original>これまで通り がんばってこー！ と、思っておりまーす！</original>
-			<edited>今后也要继续加油！…我是这么想的！</edited>
+			<edited>今后也要照常加油！我是这么想的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_03" offset="00" relocatable="true" max_length="0">
 			<original>ま、アタシは おじいちゃんと３号が帰って来るまで
 ここにいなきゃだし… ヒマなら寄ってってよ</original>
 			<edited>嘛，我在爷爷和3号回来之前
-得待在这里… 有空的话来坐坐吧</edited>
+得待在这里… 有空就过来坐坐吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_04" offset="00" relocatable="true" max_length="0">
@@ -46,7 +46,7 @@
 		<entry name="FirstMame_01" offset="00" relocatable="true" max_length="0">
 			<original>ってゆーワケで、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタルちゃん印の４号豆知識&#xE;&#x0;&#x3;&#x2;ÿÿを
 こっそり教えちゃいまーす！</original>
-			<edited>所以呢，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小萤亲传的4号豆知识&#xE;&#x0;&#x3;&#x2;ÿÿ，
+			<edited>所以呢，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小萤牌 4 号冷知识&#xE;&#x0;&#x3;&#x2;ÿÿ，
 我偷偷告诉你吧！</edited>
 			<subEntries />
 		</entry>
@@ -76,9 +76,9 @@
 			<original>ステージだと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿで
 調子いいね！</original>
-			<edited>在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
-Í&#xE;&#x0;&#x3;&#x2;ÿÿ场地，
-状态很好呢！</edited>
+			<edited>你在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿ
+状态特别好呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleWinningRate_03" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 一試合に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だって！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
 Í&#xE;&#x0;&#x3;&#x2;ÿÿ，
-一场比赛掉了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
+平均每场掉下去&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleFall_03" offset="00" relocatable="true" max_length="0">
@@ -132,7 +132,7 @@
 		</entry>
 		<entry name="MameBattleSpecialHoldDeath_01" offset="00" relocatable="true" max_length="0">
 			<original>どんどん 使ってこ～</original>
-			<edited>要多用出来才行～</edited>
+			<edited>攒好了就赶紧用吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleKillSpree_00" offset="00" relocatable="true" max_length="0">
@@ -150,7 +150,7 @@
 		<entry name="MameBattleMap_00" offset="00" relocatable="true" max_length="0">
 			<original>最近の４号は１分間に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回くらい
 ナワバリマップを開いてるって！</original>
-			<edited>最近的4号，每分钟大概打开 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次
+			<edited>最近 4 号每分钟大概会打开&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次
 对战地图呢！</edited>
 			<subEntries />
 		</entry>
@@ -163,7 +163,7 @@
 		</entry>
 		<entry name="MameBattleMap_02" offset="00" relocatable="true" max_length="0">
 			<original>戦況をこまめにチェックで勝率アップ！ 戦場の鉄則～</original>
-			<edited>随时确认战况提升胜率！ 这是战场铁律～</edited>
+			<edited>多看看战况，胜率才会提高！战场铁律～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleSuperJump_00" offset="00" relocatable="true" max_length="0">
@@ -233,7 +233,7 @@
 		</entry>
 		<entry name="MameBattleSub_02" offset="00" relocatable="true" max_length="0">
 			<original>カユいところにはサブウェポン！ 戦場の鉄則～！</original>
-			<edited>痒的地方就交给副武器！ 这是战场铁律～！</edited>
+			<edited>哪儿不对劲就用副武器！战场铁律～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameRegularLastKillDeath_00" offset="00" relocatable="true" max_length="0">
@@ -293,7 +293,7 @@
 		</entry>
 		<entry name="MameVArea_02" offset="00" relocatable="true" max_length="0">
 			<original>逆に、エリア内でやられたのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回だ！</original>
-			<edited>反过来，在区域内被干掉的是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
+			<edited>相反，在区域里被干掉了 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVArea_03" offset="00" relocatable="true" max_length="0">
@@ -317,8 +317,8 @@
 		<entry name="MameVLift_02" offset="00" relocatable="true" max_length="0">
 			<original>あとあと、ガチヤグラに乗ってる敵を
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるよ！</original>
-			<edited>还有，塔楼上的敌人
-被你干掉 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次哦！</edited>
+			<edited>还有，你在塔楼上
+干掉敌人&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVLift_03" offset="00" relocatable="true" max_length="0">
@@ -360,13 +360,13 @@
 		<entry name="MameVAsari_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ アサリをひろって、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿコ ガチアサリを作っているみたい！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个蛤蜊，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个真格蛤蜊的样子！</edited>
+			<edited>捡了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个蛤蜊，
+还做成了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个真格蛤蜊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameVAsari_02" offset="00" relocatable="true" max_length="0">
 			<original>無心で集めちゃうよね～</original>
-			<edited>一收集起来就停不下来呢～</edited>
+			<edited>一捡起来就停不下来呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeapon_00" offset="00" relocatable="true" max_length="0">
@@ -379,7 +379,7 @@
 		<entry name="MameWeapon_01" offset="00" relocatable="true" max_length="0">
 			<original>「ブキはかわいがるほど 新しい顔を見せてくれるでし！」
 って ブキチくんが言ってた！</original>
-			<edited>'武器越用心疼爱，越会展现出新的一面！'
+			<edited>'越疼爱武器，它越会展现新的一面！'
 武器子这么说过！</edited>
 			<subEntries />
 		</entry>
@@ -391,8 +391,8 @@
 		<entry name="MameWeaponShooter_00" offset="00" relocatable="true" max_length="0">
 			<original>４号はシューターだと
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿをよく使うみたいね</original>
-			<edited>4号的话，射击枪类
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ好像用得比较多呢</edited>
+			<edited>4 号在射击枪类里，
+好像常用&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ呢。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_01" offset="00" relocatable="true" max_length="0">
@@ -403,8 +403,7 @@
 		<entry name="MameWeaponShooter_02" offset="00" relocatable="true" max_length="0">
 			<original>そんでそんで、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい
 射撃しているみたい</original>
-			<edited>而且，每分钟大概有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒
-在射击的样子</edited>
+			<edited>而且，每分钟大概会射击&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒呢。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_03" offset="00" relocatable="true" max_length="0">
@@ -422,13 +421,13 @@
 		<entry name="MameWeaponRoller_01" offset="00" relocatable="true" max_length="0">
 			<original>ヨコ振り &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で、
 タテ振り &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ ％ ってカンジ！</original>
-			<edited>横挥 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
-竖挥 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 这种感觉！</edited>
+			<edited>横挥占&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
+竖挥占&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，大概是这样！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponRoller_02" offset="00" relocatable="true" max_length="0">
 			<original>上手く使い分けれる人は、イカしてるよね</original>
-			<edited>能灵活切换用的人，超帅气的呢</edited>
+			<edited>能灵活切换用法的人，真帅气呢。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponTwins_00" offset="00" relocatable="true" max_length="0">
@@ -441,8 +440,7 @@
 		<entry name="MameWeaponTwins_01" offset="00" relocatable="true" max_length="0">
 			<original>そんでもって、１分間に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、
 スライドしてるんだって！</original>
-			<edited>而且，每分钟有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
-在滑步的样子！</edited>
+			<edited>而且每分钟会滑步&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponTwins_02" offset="00" relocatable="true" max_length="0">
@@ -461,14 +459,14 @@
 			<original>直撃が &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で
 爆風を当てたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％なんだって！</original>
 			<edited>直击占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
-爆炸波及的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
+爆风命中的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBlaster_02" offset="00" relocatable="true" max_length="0">
 			<original>直撃当てつつ爆風も当てれる人、
 ソンケ～するわ～</original>
-			<edited>直击和爆炸都能打中的人，
-我超佩服的～</edited>
+			<edited>直击和爆风都能命中的人，
+我超佩服～</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponCharger_00" offset="00" relocatable="true" max_length="0">
@@ -481,7 +479,7 @@
 		<entry name="MameWeaponCharger_01" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージを 相手に当てたのと 外した割合は
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 対 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％だって！</original>
-			<edited>蓄满力打中对手和打偏的比例是
+			<edited>满蓄命中对手和打空的比例是
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％ 对 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
 			<subEntries />
 		</entry>
@@ -489,7 +487,7 @@
 			<original>え？ 外したんじゃなくって、遠くまで塗っただけ？
 そ～ゆ～事にしとくわ♪</original>
 			<edited>诶？ 不是打偏，只是涂到远处去了？
-就~当是这样吧♪</edited>
+就当是这么回事吧♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSlosher_00" offset="00" relocatable="true" max_length="0">
@@ -502,7 +500,7 @@
 		<entry name="MameWeaponSlosher_01" offset="00" relocatable="true" max_length="0">
 			<original>フツーにインクを当てたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％で
 高低差がある相手に当てたのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％だって！</original>
-			<edited>普通泼中墨水的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
+			<edited>普通命中的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％，
 打中高低差对手的占 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ％呢！</edited>
 			<subEntries />
 		</entry>
@@ -522,7 +520,7 @@
 			<original>あとあと、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回シェルターを開いていて、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回、手元で壊されているみたい</original>
 			<edited>还有，每分钟打开伞&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次是在手边被打破的样子</edited>
+有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次伞刚撑开就被打破了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponUmbrella_02" offset="00" relocatable="true" max_length="0">
@@ -541,7 +539,7 @@
 			<original>えと、１分あたり&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回振っていて、
 ホタルちゃん&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ人分の距離 塗り進んでるみたい！</original>
 			<edited>那个，每分钟挥&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次，
-涂了相当于&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个小萤长度的距离的样子！</edited>
+涂过的距离相当于&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ个小萤的身高！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponBrush_02" offset="00" relocatable="true" max_length="0">
@@ -560,7 +558,7 @@
 			<original>１分あたり &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒間射撃してて、
 フルチャージして &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒くらい 待機しているみたい！</original>
 			<edited>每分钟射击&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒，
-蓄满力后待机&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒左右的样子！</edited>
+满蓄后大概会待机&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;û&#x1;&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ秒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponSpinner_02" offset="00" relocatable="true" max_length="0">
@@ -571,8 +569,8 @@
 		<entry name="MameCoopPlay_00" offset="00" relocatable="true" max_length="0">
 			<original>４号がバイトに行った回数は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 かせいでるなら オゴってほしいぞ！ ４号！</original>
-			<edited>4号去打鲑鱼打工的次数是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-要是赚到了，可得请我哦！ 4号！</edited>
+			<edited>4号去鲑鱼打工了 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+要是赚到了，可得请我哦，4号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopPlay_01" offset="00" relocatable="true" max_length="0">
@@ -631,8 +629,8 @@
 		<entry name="MameCoopKillEnemy_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は最近５０回のバイトで、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ回 倒してるみたい！</original>
-			<edited>4号在最近50次打工中，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 干掉了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次的样子！</edited>
+			<edited>4号最近 50 次打工中，
+好像干掉了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿ次！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameCoopKillEnemy_01" offset="00" relocatable="true" max_length="0">
@@ -643,8 +641,8 @@
 		<entry name="Free00_00" offset="00" relocatable="true" max_length="0">
 			<original>アオリの ドキドキヴギウギブキうらないー！
 今日オススメブキを ピックアップしてあげるよ！</original>
-			<edited>小拟的 心跳砰砰武器占卜！
-今天为你pick up推荐武器哦！</edited>
+			<edited>小拟的心跳砰砰武器占卜！
+今天就给你挑把推荐武器！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free00_01" offset="00" relocatable="true" max_length="0">
@@ -661,21 +659,21 @@
 		</entry>
 		<entry name="Free00_03" offset="00" relocatable="true" max_length="0">
 			<original>うんうん、アリよりのアリやね</original>
-			<edited>嗯嗯，超级靠谱的选择呢</edited>
+			<edited>嗯嗯，这把很可以嘛。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free01_00" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラのゴール直前！
 ハイパープレッサーでゴリ押しだ！ 名付けて！</original>
 			<edited>真格塔楼临近终点！
-用高压水泵硬冲吧！ 名字就叫！</edited>
+用高压水枪强行推进！名为！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free01_01" offset="00" relocatable="true" max_length="0">
 			<original>ブリリアント・シャイニング・ローーード！！
 最後メッチャのばしてこ～</original>
 			<edited>闪耀光辉之路！！
-最后要狠狠地把距离拉长～</edited>
+最后一定要拉——长——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02_00" offset="00" relocatable="true" max_length="0">
@@ -685,19 +683,19 @@
 		</entry>
 		<entry name="Free02_01" offset="00" relocatable="true" max_length="0">
 			<original>ずいぶん前に来たっきりやね</original>
-			<edited>是很久以前来过一封就没动静了呢</edited>
+			<edited>就只有很久以前来过一封。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02_02" offset="00" relocatable="true" max_length="0">
 			<original>アレ、達筆すぎて読めなかったよね…</original>
-			<edited>那封信，字太漂亮了反而读不懂呢…</edited>
+			<edited>那封信，字写得太潦草，根本读不懂呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_00" offset="00" relocatable="true" max_length="0">
 			<original>そういえば、やっとおじいちゃんと連絡とれたんよ
 なんとチャットで</original>
 			<edited>说起来，总算和爷爷联络上了
-居然是用聊天软件</edited>
+居然是用聊天室联系上的。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_01" offset="00" relocatable="true" max_length="0">
@@ -710,8 +708,8 @@
 		<entry name="Free02Oct_02" offset="00" relocatable="true" max_length="0">
 			<original>短文だったから、よ～わからんケド
 ３号と元気にやっているみたい</original>
-			<edited>消息都很短，看不太懂，
-不过好像和3号过得挺好的</edited>
+			<edited>他说得太简短，我也没太看懂，
+不过好像和 3 号过得不错。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free02Oct_03" offset="00" relocatable="true" max_length="0">
@@ -740,19 +738,19 @@
 		</entry>
 		<entry name="Free03_02" offset="00" relocatable="true" max_length="0">
 			<original>なんで必死なのアオリちゃん…</original>
-			<edited>小拟你干嘛这么拼命…</edited>
+			<edited>小拟你干嘛这么着急…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free04_00" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃん、最近、オハギの減りが
 早いような気がするんだけど…</original>
-			<edited>小拟，最近牡丹饼的消耗量
-好像变快了耶…</edited>
+			<edited>小拟，最近牡丹饼
+好像吃得特别快。…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free04_01" offset="00" relocatable="true" max_length="0">
 			<original>DJタコワサ将軍が バクバク食べてたよー …もぐもぐ</original>
-			<edited>DJ芥末章鱼将军大口大口吃掉了哦— …吧唧吧唧</edited>
+			<edited>DJ 芥末章鱼将军刚刚在大口吃呢— …吧唧吧唧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free05_00" offset="00" relocatable="true" max_length="0">
@@ -773,7 +771,7 @@
 		</entry>
 		<entry name="Free06_01" offset="00" relocatable="true" max_length="0">
 			<original>アタシたち 三人で見張ってるからダイジョブ… って</original>
-			<edited>我们三个看着呢，没问题的… 才怪</edited>
+			<edited>有我们三个盯着，肯定没问题……才怪。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free06_02" offset="00" relocatable="true" max_length="0">
@@ -795,7 +793,7 @@
 		</entry>
 		<entry name="Free07_02" offset="00" relocatable="true" max_length="0">
 			<original>あ、そこはカサじゃないんだ</original>
-			<edited>啊，那里不是伞哦</edited>
+			<edited>啊，原来你不是选伞啊。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free07_03" offset="00" relocatable="true" max_length="0">
@@ -819,7 +817,7 @@
 			<original>アタシのも実家にあるはずだから、
 シオカラ地方に里帰りしたら 取ってこよーっと！</original>
 			<edited>我的应该也在老家放着，
-等回潮色地方探亲的时候拿回来吧—！</edited>
+等回潮色地区探亲时，再拿回来吧—！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free09_00" offset="00" relocatable="true" max_length="0">
@@ -858,7 +856,7 @@
 			<original>あのね４号！ こないだテンタクルズと
 ライブしたんだけど、チョー楽しかったの！</original>
 			<edited>听我说4号！ 前几天和腕儿姐妹
-一起办了演唱会，超开心的！</edited>
+一起登台演出了，超开心的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free11_01" offset="00" relocatable="true" max_length="0">
@@ -870,7 +868,7 @@
 			<original>ホタルちゃん？！ 盛り上がりすぎて、
 曲順 忘れちゃってた事は、ヒミツだって！</original>
 			<edited>小萤？！ 太嗨了结果
-把曲目顺序忘光的事，要保密啦！</edited>
+我一兴奋把曲目顺序忘掉的事，要保密哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free12_00" offset="00" relocatable="true" max_length="0">
@@ -895,7 +893,7 @@
 		</entry>
 		<entry name="Free13_02" offset="00" relocatable="true" max_length="0">
 			<original>んもー、４号もまだまだなんだからー</original>
-			<edited>真是的，4号还差得远呢—</edited>
+			<edited>真是的，4号懂得还不够多呢—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free13_03" offset="00" relocatable="true" max_length="0">
@@ -919,14 +917,14 @@
 		</entry>
 		<entry name="Free14_02" offset="00" relocatable="true" max_length="0">
 			<original>多くね？</original>
-			<edited>人有点多吧？</edited>
+			<edited>这也太多人了吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free15_00" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんあてに マスキングテープとか
 大量に届いてたよ</original>
-			<edited>寄给小拟的纸胶带什么的
-到了好多呢</edited>
+			<edited>寄给小拟的纸胶带之类的，
+一下来了好多。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free15_01" offset="00" relocatable="true" max_length="0">
@@ -954,8 +952,8 @@
 		<entry name="Free16_02" offset="00" relocatable="true" max_length="0">
 			<original>ロウト配送センター ってところ経由の
 手紙が増えてるみたい！</original>
-			<edited>好像经由一个叫漏斗配送中心
-的地方寄来的信变多了！</edited>
+			<edited>好像经由“漏斗配送中心”
+寄来的信变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free16_03" offset="00" relocatable="true" max_length="0">
@@ -965,7 +963,7 @@
 		</entry>
 		<entry name="Free17_00" offset="00" relocatable="true" max_length="0">
 			<original>タコスタンプって意外と可愛くない？</original>
-			<edited>章鱼印章，意外地挺可爱的不是吗？</edited>
+			<edited>章鱼图章，意外地挺可爱的吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free17_01" offset="00" relocatable="true" max_length="0">
@@ -975,12 +973,12 @@
 		</entry>
 		<entry name="Free17_02" offset="00" relocatable="true" max_length="0">
 			<original>前がヌペッとしてるからだよー</original>
-			<edited>是因为前面滑溜溜的啦—</edited>
+			<edited>是因为正面扁扁的啦—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_00" offset="00" relocatable="true" max_length="0">
 			<original>仕事に穴開けちゃったから いそがしくて大変だー…</original>
-			<edited>工作开了天窗，忙得要命—…</edited>
+			<edited>工作耽误了，忙得要命—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_01" offset="00" relocatable="true" max_length="0">
@@ -992,19 +990,19 @@
 		</entry>
 		<entry name="Free18_02" offset="00" relocatable="true" max_length="0">
 			<original>やたっ！ ごいっしょに ドリンクも付けていい？</original>
-			<edited>耶！ 可以顺便加杯饮料吗？</edited>
+			<edited>耶！ 还可以一起点饮料吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free18_03" offset="00" relocatable="true" max_length="0">
 			<original>スマイルなら お付けしま～す</original>
-			<edited>只要笑一笑的话就送你～</edited>
+			<edited>笑容免费奉送～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free19_00" offset="00" relocatable="true" max_length="0">
 			<original>YO！YO！シオカラ亭にラップの本がおいてあったけどYO！
 ホタルちゃん、ラップを始めるメーン？</original>
 			<edited>YO！YO！潮色亭里有本说唱书YO！
-小萤，你是要开始玩说唱吗？</edited>
+小萤，你要开始说唱了吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free19_01" offset="00" relocatable="true" max_length="0">
@@ -1020,8 +1018,8 @@
 		<entry name="Free20_00" offset="00" relocatable="true" max_length="0">
 			<original>４号って、ホタルちゃんにスカウトされて
 New!カラストンビ部隊に 入ったんだよね？</original>
-			<edited>4号你，是被小萤挖角
-才加入New!喷嘴部队的吧？</edited>
+			<edited>4号你，是小萤招募你加入
+New!喷嘴部队的吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_01" offset="00" relocatable="true" max_length="0">
@@ -1039,7 +1037,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 			<original>虫とりに夢中のアオリちゃんが、
 まちがえてアミで つかまえてきたじゃん</original>
 			<edited>当时沉迷捉虫的小拟，
-不小心用网子把我兜住了嘛</edited>
+一不小心拿虫网把我抓住了嘛。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free20_04" offset="00" relocatable="true" max_length="0">
@@ -1051,14 +1049,14 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		</entry>
 		<entry name="Free20_05" offset="00" relocatable="true" max_length="0">
 			<original>フォローになってないんだけど…</original>
-			<edited>那根本算不上圆场吧…</edited>
+			<edited>这根本不是在替我解围吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_00" offset="00" relocatable="true" max_length="0">
 			<original>４号は 何かこわいモノある？
 アタシはオバケがこわいかなー…</original>
 			<edited>4号，你有什么怕的东西吗？
-我的话，大概是怕鬼吧—…</edited>
+我嘛，大概最怕鬼了—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_01" offset="00" relocatable="true" max_length="0">
@@ -1068,7 +1066,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		</entry>
 		<entry name="Free21_02" offset="00" relocatable="true" max_length="0">
 			<original>森の中でうごめく 白 く 小 さ な カ ゲ…</original>
-			<edited>在森林里蠕动着的 白 色 小 小 的 影 子…</edited>
+			<edited>森林里蠢动着的 白 色 小 小 的 身 影…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_03" offset="00" relocatable="true" max_length="0">
@@ -1080,7 +1078,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		</entry>
 		<entry name="Free21_04" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;ギャ～～～ッ！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;哇啊啊啊啊～！！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;呀啊啊啊啊——！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free21_05" offset="00" relocatable="true" max_length="0">
@@ -1092,12 +1090,12 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 			<original>ねーねー、今度ロブくんのとこの
 アゲホイップダブルクロス、食べに行こーよー</original>
 			<edited>喂喂，下次去阿龙那儿
-吃炸奶油双拼吧—</edited>
+去吃炸奶油双拼吧—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free22_01" offset="00" relocatable="true" max_length="0">
 			<original>それ以前に、名前が覚えられん…</original>
-			<edited>在那之前，名字记不住…</edited>
+			<edited>先不说别的，这名字我都记不住…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free22_02" offset="00" relocatable="true" max_length="0">
@@ -1113,14 +1111,14 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		</entry>
 		<entry name="Free23_01" offset="00" relocatable="true" max_length="0">
 			<original>いちお～ さそったんだけど、</original>
-			<edited>我姑且邀请过他了，</edited>
+			<edited>我倒是邀请过他，，</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free23_02" offset="00" relocatable="true" max_length="0">
 			<original>「技術班は 第一線の部隊とは
 ある程度 距離を置くのが 鉄則でし」 …だって</original>
-			<edited>'技术班跟第一线部队
-保持一定距离才是铁律的说' …他是这么说的</edited>
+			<edited>'技术班和一线部队之间
+保持适当距离才是铁律的说' …他是这么说的</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free23_03" offset="00" relocatable="true" max_length="0">
@@ -1131,8 +1129,8 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		<entry name="Free24_00" offset="00" relocatable="true" max_length="0">
 			<original>アネモちゃん、仕事いそがしーのが苦手だから
 ネットショップ始めたらしいね</original>
-			<edited>小银莲花，因为不擅长忙忙碌碌的工作，
-听说开了家网店</edited>
+			<edited>小银莲花不擅长忙忙碌碌的工作，
+所以好像开了家网店。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free24_01" offset="00" relocatable="true" max_length="0">
@@ -1149,7 +1147,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 			<original>『コジャッジくん』って、呼ばれとるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 あの、カビの生えた大福感がたまらんのよね～</original>
 			<edited>好像被叫做'小裁判猫'呢&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-那种长霉的大福饼感，真是让人欲罢不能呢～</edited>
+那股发霉大福的感觉，真让人上头呢～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free25_02" offset="00" relocatable="true" max_length="0">
@@ -1168,8 +1166,8 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		<entry name="Free26_01" offset="00" relocatable="true" max_length="0">
 			<original>ABXYのこと？ 今回もキッチュでアバンギャルドという
 アンビバレンツなサウンドがエモーショナルだったわ</original>
-			<edited>是说ABXY吗？ 这次的旋律也是既俗气又前卫，
-那种矛盾的感觉真是动人</edited>
+			<edited>是说ABXY吗？ 这次也是既俗气又前卫，
+那种矛盾感真有感染力。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free26_02" offset="00" relocatable="true" max_length="0">
@@ -1180,15 +1178,15 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		<entry name="Free27_00" offset="00" relocatable="true" max_length="0">
 			<original>こないだビゼンくんだ！と思って声かけたら
 エチゼンくんだったよ…</original>
-			<edited>前几天看到备前君，喊了一声，
-结果那是越前君…</edited>
+			<edited>前几天我以为是备前君就喊了他，
+结果是越前君…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free27_01" offset="00" relocatable="true" max_length="0">
 			<original>アタシもエチゼンくんだ と思って声かけたら
 ビゼンくんだったよ…</original>
-			<edited>我也是以为是越前君喊了一声，
-结果那是备前君…</edited>
+			<edited>我也是以为是越前君就喊了他，
+结果是备前君…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free28_00" offset="00" relocatable="true" max_length="0">
@@ -1200,7 +1198,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 			<original>シオカラーズで「あさってColor」！
 イカよろしく～！</original>
 			<edited>潮色姐妹的《あさってColor》！
-请多关照～！</edited>
+请多多支持～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free28_02" offset="00" relocatable="true" max_length="0">
@@ -1238,7 +1236,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 			<original>ルナティックローズ・ネバーダーイ！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 最後「ダーイ」って のばすのがポイントね</original>
 			<edited>狂月玫瑰·永不放弃！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-最后拉长'放弃'的'弃'音是重点哦</edited>
+最后“放弃”要拉——长——才是重点哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Free31_00" offset="00" relocatable="true" max_length="0">
@@ -1377,7 +1375,7 @@ New!カラストンビ部隊に 入ったんだよね？</original>
 		</entry>
 		<entry name="Uza22_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（はい、アオリちゃんボケて！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（来，小拟，快吐槽！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（来，小拟，快犯傻！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Uza23_00" offset="00" relocatable="true" max_length="0">
