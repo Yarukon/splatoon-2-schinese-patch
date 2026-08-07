@@ -60,27 +60,27 @@
 		</entry>
 		<entry name="SLO010" offset="00" relocatable="true" max_length="0">
 			<original>ユデスパイカ</original>
-			<edited>水煮尖钉鞋</edited>
+			<edited>足球鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO011" offset="00" relocatable="true" max_length="0">
 			<original>レアスパイカ</original>
-			<edited>稀有尖钉鞋</edited>
+			<edited>限定版足球鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO012" offset="00" relocatable="true" max_length="0">
 			<original>ボルダーシューズ タイノエ</original>
-			<edited>巨石攀岩鞋 鱼虱</edited>
+			<edited>阳光攀岩鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO013" offset="00" relocatable="true" max_length="0">
 			<original>ボルダーシューズ ハザクラ</original>
-			<edited>巨石攀岩鞋 叶樱</edited>
+			<edited>白桦攀岩鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO014" offset="00" relocatable="true" max_length="0">
 			<original>ヒモヒモグリーン</original>
-			<edited>系带鞋 绿色</edited>
+			<edited>绿色系带鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO015" offset="00" relocatable="true" max_length="0">
@@ -95,22 +95,22 @@
 		</entry>
 		<entry name="SLO017" offset="00" relocatable="true" max_length="0">
 			<original>ノーリーチャッカ グレー</original>
-			<edited>免系带查卡靴 灰色</edited>
+			<edited>麂皮灰色系带鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO018" offset="00" relocatable="true" max_length="0">
 			<original>ノーリーチャッカ トライブ</original>
-			<edited>免系带查卡靴 部落</edited>
+			<edited>麂皮部落系带鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO019" offset="00" relocatable="true" max_length="0">
 			<original>ノーリーチャッカ ロビンズ</original>
-			<edited>免系带查卡靴 知更鸟</edited>
+			<edited>麂皮海军蓝系带鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO020" offset="00" relocatable="true" max_length="0">
 			<original>スパイカ タタキベッチュー</original>
-			<edited>剑尖鱿尖钉鞋</edited>
+			<edited>剑尖鱿足球鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI000" offset="00" relocatable="true" max_length="0">
@@ -215,12 +215,12 @@
 		</entry>
 		<entry name="SHI021" offset="00" relocatable="true" max_length="0">
 			<original>エンペリアルカイザー</original>
-			<edited>鱿皇凯撒鞋</edited>
+			<edited>乳白鱿皇鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI022" offset="00" relocatable="true" max_length="0">
 			<original>エンペリアルNV</original>
-			<edited>鱿皇鞋 NV</edited>
+			<edited>藏青鱿皇鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI023" offset="00" relocatable="true" max_length="0">
@@ -280,12 +280,12 @@
 		</entry>
 		<entry name="SHI034" offset="00" relocatable="true" max_length="0">
 			<original>パワーストリップ アカアシ</original>
-			<edited>能量条纹鞋 红鞋底</edited>
+			<edited>红色能量条纹鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI035" offset="00" relocatable="true" max_length="0">
 			<original>パワーストリップ アオアシ</original>
-			<edited>能量条纹鞋 蓝鞋底</edited>
+			<edited>蓝色能量条纹鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI036" offset="00" relocatable="true" max_length="0">
@@ -410,7 +410,7 @@
 		</entry>
 		<entry name="SHT018" offset="00" relocatable="true" max_length="0">
 			<original>ウミウシボルト95</original>
-			<edited>海蛞蝓鞋 螺栓95</edited>
+			<edited>海蛞蝓伏特95鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT019" offset="00" relocatable="true" max_length="0">
@@ -460,7 +460,7 @@
 		</entry>
 		<entry name="SDL009" offset="00" relocatable="true" max_length="0">
 			<original>フジツボペタサン</original>
-			<edited>藤壶平底凉鞋</edited>
+			<edited>藤壶啪嗒拖鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="CFS000" offset="00" relocatable="true" max_length="0">
