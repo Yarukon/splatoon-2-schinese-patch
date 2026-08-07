@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -130,7 +130,7 @@
 		</entry>
 		<entry name="TES026" offset="00" relocatable="true" max_length="0">
 			<original>ニクショクＴ</original>
-			<edited>肉色T恤</edited>
+			<edited>肤色T恤</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES027" offset="00" relocatable="true" max_length="0">
@@ -160,7 +160,7 @@
 		</entry>
 		<entry name="TES032" offset="00" relocatable="true" max_length="0">
 			<original>スウェットT ゴブ</original>
-			<edited>连帽衫T恤</edited>
+			<edited>卫衣T恤 哥布</edited>
 			<subEntries />
 		</entry>
 		<entry name="TES033" offset="00" relocatable="true" max_length="0">
@@ -535,7 +535,7 @@
 		</entry>
 		<entry name="PLO006" offset="00" relocatable="true" max_length="0">
 			<original>チャリキングジャージ</original>
-			<edited>骑行王者骑行服</edited>
+			<edited>骑行王者运动服</edited>
 			<subEntries />
 		</entry>
 		<entry name="PLO007" offset="00" relocatable="true" max_length="0">
@@ -575,7 +575,7 @@
 		</entry>
 		<entry name="JKT005" offset="00" relocatable="true" max_length="0">
 			<original>レタード グリーン</original>
-			<edited>复古皮衣 绿色</edited>
+			<edited>字母夹克 绿色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT006" offset="00" relocatable="true" max_length="0">
@@ -595,7 +595,7 @@
 		</entry>
 		<entry name="JKT009" offset="00" relocatable="true" max_length="0">
 			<original>レタード オレンジ</original>
-			<edited>复古皮衣 橙色</edited>
+			<edited>字母夹克 橙色</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT010" offset="00" relocatable="true" max_length="0">
@@ -660,7 +660,7 @@
 		</entry>
 		<entry name="JKT022" offset="00" relocatable="true" max_length="0">
 			<original>プルオーバーコート</original>
-			<edited>套头大衣</edited>
+			<edited>套头外套</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT023" offset="00" relocatable="true" max_length="0">
@@ -675,7 +675,7 @@
 		</entry>
 		<entry name="JKT025" offset="00" relocatable="true" max_length="0">
 			<original>ウラタコスカジャン</original>
-			<edited>章鱼飞行外套</edited>
+			<edited>反面章鱼横须贺夹克</edited>
 			<subEntries />
 		</entry>
 		<entry name="JKT026" offset="00" relocatable="true" max_length="0">
@@ -770,7 +770,7 @@
 		</entry>
 		<entry name="JKT044" offset="00" relocatable="true" max_length="0">
 			<original>センニュースーツ</original>
-			<edited>潜水服</edited>
+			<edited>潜入套装</edited>
 			<subEntries />
 		</entry>
 		<entry name="TNK000" offset="00" relocatable="true" max_length="0">
@@ -840,7 +840,7 @@
 		</entry>
 		<entry name="SWT007" offset="00" relocatable="true" max_length="0">
 			<original>ドロップスウェット ネガ</original>
-			<edited>坠饰卫衣 负片</edited>
+			<edited>水滴卫衣 负片</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT008" offset="00" relocatable="true" max_length="0">
@@ -850,7 +850,7 @@
 		</entry>
 		<entry name="SWT009" offset="00" relocatable="true" max_length="0">
 			<original>ドロップスウェット ポジ</original>
-			<edited>坠饰卫衣 正片</edited>
+			<edited>水滴卫衣 正片</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT010" offset="00" relocatable="true" max_length="0">
@@ -870,7 +870,7 @@
 		</entry>
 		<entry name="SWT013" offset="00" relocatable="true" max_length="0">
 			<original>エンペーサートレーナー</original>
-			<edited>皇帝训练服</edited>
+			<edited>皇帝卫衣</edited>
 			<subEntries />
 		</entry>
 		<entry name="SWT014" offset="00" relocatable="true" max_length="0">
@@ -880,7 +880,7 @@
 		</entry>
 		<entry name="SWT015" offset="00" relocatable="true" max_length="0">
 			<original>ヤコピステ</original>
-			<edited>鲂鮄骑行服</edited>
+			<edited>鲂鮄防风运动服</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT000" offset="00" relocatable="true" max_length="0">
@@ -920,7 +920,7 @@
 		</entry>
 		<entry name="SHT007" offset="00" relocatable="true" max_length="0">
 			<original>ベイビークラゲシャツ</original>
-			<edited>宝贝水母衬衫</edited>
+			<edited>宝宝水母衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT008" offset="00" relocatable="true" max_length="0">
@@ -955,12 +955,12 @@
 		</entry>
 		<entry name="SHT014" offset="00" relocatable="true" max_length="0">
 			<original>シャンブレーシャツ</original>
-			<edited>牛仔布衬衫</edited>
+			<edited>青年布衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT015" offset="00" relocatable="true" max_length="0">
 			<original>タイシャツ</original>
-			<edited>泰式衬衫</edited>
+			<edited>领带衬衫</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT017" offset="00" relocatable="true" max_length="0">
@@ -985,7 +985,7 @@
 		</entry>
 		<entry name="SHT021" offset="00" relocatable="true" max_length="0">
 			<original>タイツキベイビークラゲ</original>
-			<edited>带蝴蝶结宝贝水母</edited>
+			<edited>带领带的宝宝水母</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT022" offset="00" relocatable="true" max_length="0">
@@ -1075,12 +1075,12 @@
 		</entry>
 		<entry name="PRK000" offset="00" relocatable="true" max_length="0">
 			<original>ジップアップ カモ</original>
-			<edited>拉链连帽 迷彩</edited>
+			<edited>拉链连帽衫 迷彩</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK001" offset="00" relocatable="true" max_length="0">
 			<original>ジップアップ グリーン</original>
-			<edited>拉链连帽 绿色</edited>
+			<edited>拉链连帽衫 绿色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK002" offset="00" relocatable="true" max_length="0">
@@ -1090,7 +1090,7 @@
 		</entry>
 		<entry name="PRK004" offset="00" relocatable="true" max_length="0">
 			<original>シャツノゾキブルー</original>
-			<edited>露衬衫蓝</edited>
+			<edited>内搭衬衫 蓝色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK005" offset="00" relocatable="true" max_length="0">
@@ -1110,7 +1110,7 @@
 		</entry>
 		<entry name="PRK008" offset="00" relocatable="true" max_length="0">
 			<original>シャツノゾキピンク</original>
-			<edited>露衬衫粉</edited>
+			<edited>内搭衬衫 粉色</edited>
 			<subEntries />
 		</entry>
 		<entry name="PRK009" offset="00" relocatable="true" max_length="0">
@@ -1240,7 +1240,7 @@
 		</entry>
 		<entry name="COP102" offset="00" relocatable="true" max_length="0">
 			<original>フューエルブルゾン</original>
-			<edited>燃料飞行夹克</edited>
+			<edited>燃料夹克</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP103" offset="00" relocatable="true" max_length="0">
@@ -1275,7 +1275,7 @@
 		</entry>
 		<entry name="COP109" offset="00" relocatable="true" max_length="0">
 			<original>ジムパーソンアーマー</original>
-			<edited>健身教练护甲</edited>
+			<edited>健身人士护甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="COP110" offset="00" relocatable="true" max_length="0">
@@ -1285,7 +1285,7 @@
 		</entry>
 		<entry name="CRC000" offset="00" relocatable="true" max_length="0">
 			<original>メカボディ・AKM</original>
-			<edited>机械身体·AKM</edited>
+			<edited>机械躯体·AKM</edited>
 			<subEntries />
 		</entry>
 	</entries>
