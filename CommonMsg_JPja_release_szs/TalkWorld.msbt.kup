@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="FirstEntryDemo_01" offset="00" relocatable="true" max_length="0">
 			<original>タコが 来とる…</original>
-			<edited>章鱼要来了…</edited>
+			<edited>章鱼来了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_02" offset="00" relocatable="true" max_length="0">
@@ -22,15 +22,15 @@
 			<original>やっぱ 来てくれたね～&#xE;&#x0;&#x4;&#x0;キミのこと、街で見かけたときから
 他の人とはちがう目 してると思ってたんよ&#xE;&#x0;&#x4;&#x0;あ、 メンゴメンゴ
 アタシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>你果然来了～&#xE;&#x0;&#x4;&#x0;从在街上见到你的时候起，
-我就觉得你和别人眼神不一样呢。&#xE;&#x0;&#x4;&#x0;啊，抱歉抱歉，
+			<edited>你果然来了～&#xE;&#x0;&#x4;&#x0;从我在街上见到你那刻起，
+就觉得你的眼神和别人不一样。&#xE;&#x0;&#x4;&#x0;啊，抱歉抱歉，
 我是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小萤&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_04" offset="00" relocatable="true" max_length="0">
 			<original>そう、みなさんごぞんじ 有名アイドル
 「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿで～す</original>
-			<edited>没错，就是大家熟知的超人气偶像组合
+			<edited>没错，就是大家熟知的知名偶像组合
 “&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;潮色姐妹&#xE;&#x0;&#x3;&#x2;ÿÿ”里的 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小萤&#xE;&#x0;&#x3;&#x2;ÿÿ～</edited>
 			<subEntries />
 		</entry>
@@ -57,7 +57,8 @@
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿの エネルギー源、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿが消えた事件、知ってる？&#xE;&#x0;&#x4;&#x0;アレ、じつは タコ軍団、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オクタリアン&#xE;&#x0;&#x3;&#x2;ÿÿの しわざなんよ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;尚兴广场&#xE;&#x0;&#x3;&#x2;ÿÿ的能量来源，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ失踪的事件，你知道吗？&#xE;&#x0;&#x4;&#x0;那其实是章鱼军团、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;章鱼族&#xE;&#x0;&#x3;&#x2;ÿÿ干的好事。</edited>
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ失踪的事件，你知道吗？&#xE;&#x0;&#x4;&#x0;其实是章鱼军团—&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;—
+章&#xE;&#x0;&#x3;&#x2;ÿÿ鱼族干的。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_09" offset="00" relocatable="true" max_length="0">
@@ -66,22 +67,22 @@
 New！カラストンビ部隊、２号なんよ～！&#xE;&#x0;&#x4;&#x0;…てなワケで、ここでオクタリアンを見張ってんだけど
 ちょっと 一人じゃ手に負えなくなってきて…</original>
 			<edited>你想问我怎么会知道？
-我明面上是偶像，但…&#xE;&#x0;&#x4;&#x0;真实身份其实是守护世界免受可恨章鱼族侵害的
-New！喷嘴部队的2号！&#xE;&#x0;&#x4;&#x0;…所以我才在这里监视章鱼族，
+我明面上是偶像，但…&#xE;&#x0;&#x4;&#x0;真实身份是守护世界、对抗可恨章鱼族的
+New！喷嘴部队 2 号！&#xE;&#x0;&#x4;&#x0;…所以我才在这里监视章鱼族，
 不过一个人有点应付不过来了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_10" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ナマズくんもだけど、アオリちゃんも おらんくなるし…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 あ、こっちの話</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（不止鲶鱼君，连小拟也不见了…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（不只是鲶鱼君，小拟也不见了…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 啊，当我没说。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_11" offset="00" relocatable="true" max_length="0">
 			<original>というわけで、お願い！ アタシに協力して
 アイツらから &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ取り返して！</original>
-			<edited>所以，拜托了！协助我吧，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;把大电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ从他们手里夺回来！</edited>
+			<edited>所以，拜托了！帮帮我，把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大电池鲶鱼&#xE;&#x0;&#x3;&#x2;ÿÿ从他们手里夺回来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_12" offset="00" relocatable="true" max_length="0">
@@ -101,7 +102,7 @@ New！喷嘴部队的2号！&#xE;&#x0;&#x4;&#x0;…所以我才在这里监视�
 		</entry>
 		<entry name="FirstEntryDemo_15" offset="00" relocatable="true" max_length="0">
 			<original>だまってる、ってことは 「YES」ってことやんね</original>
-			<edited>沉默的话，我就当你是“YES”咯。</edited>
+			<edited>你不说话，我就当你答应咯。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_16" offset="00" relocatable="true" max_length="0">
@@ -115,14 +116,14 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 			<original>特製の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿを 用意しといたよ&#xE;&#x0;&#x4;&#x0;サイズもピッタリ！
 &#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(アオリちゃんのおさがりだけど…)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
 			<edited>我特地给你准备了特制的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄套装&#xE;&#x0;&#x3;&#x2;ÿÿ，&#xE;&#x0;&#x4;&#x0;尺寸也刚刚好！
-&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（虽然是小拟穿剩下的…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（虽然是小拟穿过的…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_18" offset="00" relocatable="true" max_length="0">
 			<original>ほんじゃ レッツゴ～
 イカ よろしく～</original>
-			<edited>那么，出发吧～
-请多关照～</edited>
+			<edited>那就出发吧～
+拜托啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_19" offset="00" relocatable="true" max_length="0">
@@ -185,8 +186,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="FirstEntryDemo_08_2nd" offset="00" relocatable="true" max_length="0">
 			<original>おじいちゃん… いや&#xE;&#x0;&#x4;&#x0;New！カラストンビ部隊の司令が 帰ってくるまで
 アタシが おきゅうをすえとくし</original>
-			<edited>爷爷…不对，&#xE;&#x0;&#x4;&#x0;在New！喷嘴部队的司令回来之前
-就由我来镇守吧。</edited>
+			<edited>爷爷…不对，&#xE;&#x0;&#x4;&#x0;在 New！喷嘴部队司令回来前，
+我会好好看住他的。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_09_2nd_WA" offset="00" relocatable="true" max_length="0">
@@ -217,7 +218,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="FirstEntryDemo_13_2nd" offset="00" relocatable="true" max_length="0">
 			<original>曲の方も、イカよろしく～</original>
-			<edited>曲子也请多关照～</edited>
+			<edited>这首歌也请多多支持～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_14_2nd" offset="00" relocatable="true" max_length="0">
@@ -232,10 +233,10 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 引き続き ログ収集 お願いするでし！&#xE;&#x0;&#x4;&#x0;くれぐれも 貸すだけであって、タダでは あげないでし！
 そこは、忘れないで欲しいでし！&#xE;&#x0;&#x4;&#x0;それじゃあ、よろしくでし！</original>
 			<edited>让我确认一下武器的日志…
-嗯！ 数据采集得很顺利！&#xE;&#x0;&#x4;&#x0;要是你的话，应该能把这把武器用熟，
-采集到大量好数据！&#xE;&#x0;&#x4;&#x0;数据收集得越多，商品化就越快，
-所以请继续帮忙收集日志！&#xE;&#x0;&#x4;&#x0;不过要记住，武器只是借给你，
-不是白送的！&#xE;&#x0;&#x4;&#x0;这点请别忘了！ 那么，拜托啦！</edited>
+嗯！ 数据确实收集到了！&#xE;&#x0;&#x4;&#x0;你肯定能把这把武器用得很熟，
+帮我收集到很多好数据！&#xE;&#x0;&#x4;&#x0;数据收集得越多，量产上市就越快，
+请继续帮忙收集数据！&#xE;&#x0;&#x4;&#x0;不过别忘了，武器只是借你用，
+可不是白送的！&#xE;&#x0;&#x4;&#x0;这点请别忘了！ 那么，拜托啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AllStageCleraByMain" offset="00" relocatable="true" max_length="0">
@@ -244,7 +245,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 試作品が作れそうでし！&#xE;&#x0;&#x4;&#x0;完成して 認可が下りたら、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿの
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボクの店&#xE;&#x0;&#x3;&#x2;ÿÿの看板商品に するつもりなんでし！&#xE;&#x0;&#x4;&#x0;うーん、楽しみでし！
 さっそく作業に取りかかるでし！</original>
-			<edited>看来你在各种地方把&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í这把武器用得很熟呢！&#xE;&#x0;&#x4;&#x0;数据也完美！ 感觉能做出能在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;占地对战&#xE;&#x0;&#x3;&#x2;ÿÿ里用的试作品了！&#xE;&#x0;&#x4;&#x0;等完成并拿到审批后，我打算把它摆到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;尚兴广场&#xE;&#x0;&#x3;&#x2;ÿÿ的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;我的店里&#xE;&#x0;&#x3;&#x2;ÿÿ当招牌商品！ 嗯，真期待！&#xE;&#x0;&#x4;&#x0;我这就去开工！</edited>
+			<edited>看来你在各种地方把&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í这把武器用得很熟呢！&#xE;&#x0;&#x4;&#x0;数据也很齐全！ 看来能做出可以在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;占地对战使&#xE;&#x0;&#x3;&#x2;ÿÿ用的
+试作武器了！&#xE;&#x0;&#x4;&#x0;等完成并拿到审批后，我打算把它作为&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;尚兴广&#xE;&#x0;&#x3;&#x2;ÿÿ场&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;我店里的&#xE;&#x0;&#x3;&#x2;ÿÿ招牌商品！ 嗯，真期待！&#xE;&#x0;&#x4;&#x0;我这就去开工！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GotLobTicketTalk" offset="00" relocatable="true" max_length="0">
@@ -253,8 +255,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 お店が出てるから のぞいてみたら?&#xE;&#x0;&#x4;&#x0;あそこのスイーツ好きなんよね～
 &#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(なんか食べたくなってきた…)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
 			<edited>啊，那不是能在阿龙的店里用的
-餐券吗？&#xE;&#x0;&#x4;&#x0;尚兴广场的广场上
-有他的摊位，不去看看吗？&#xE;&#x0;&#x4;&#x0;那里的甜点我很喜欢呢～
+餐券吗？&#xE;&#x0;&#x4;&#x0;尚兴广场
+有他的店，，去看看吧？&#xE;&#x0;&#x4;&#x0;那里的甜点我很喜欢呢～
 &#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（突然有点想吃了…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
@@ -264,8 +266,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 データを 集めて欲しいでし！&#xE;&#x0;&#x4;&#x0;これは、モニターのお礼としてあげるでし、
 エンリョせず 受け取って欲しいでし！！</original>
 			<edited>托你的福，这里需要的数据
-全部采集完了！&#xE;&#x0;&#x4;&#x0;保持这个势头，其他地方的多种武器也请多用用，
-帮忙收集数据！&#xE;&#x0;&#x4;&#x0;这个，作为测试的谢礼送给你，
+全部采集完了！&#xE;&#x0;&#x4;&#x0;照这个势头，在别处也多用用各种武器，
+继续帮我收集数据！&#xE;&#x0;&#x4;&#x0;这个，作为测试的谢礼送给你，
 不用客气，收下吧！！</edited>
 			<subEntries />
 		</entry>
@@ -275,13 +277,12 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 ゼヒゼヒ 使って欲しいでし！&#xE;&#x0;&#x4;&#x0;おカネは要らないでしが、代わりに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿと
 &#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イリコニウム&#xE;&#x0;&#x3;&#x2;ÿÿを提供して欲しいでし！&#xE;&#x0;&#x4;&#x0;イクラとイリコニウムは タコツボキャニオンや
 オクタリアンの基地で 入手可能でしからね！</original>
-			<edited>久等了！ 我把放在潮色亭旁边的
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器强化箱&#xE;&#x0;&#x3;&#x2;ÿÿ改成能用的了！&#xE;&#x0;&#x4;&#x0;是可以强化武器、追加炸弹的便利机器哦！
-务必务必用用看！&#xE;&#x0;&#x4;&#x0;不用花钱，不过需要提供
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼卵&#xE;&#x0;&#x3;&#x2;ÿÿ和
-&#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小鱼干&#xE;&#x0;&#x3;&#x2;ÿÿ！
-&#xE;&#x0;&#x4;&#x0;鲑鱼卵和小鱼干可以在蛸壶谷或
-章鱼族的基地里获得哦！</edited>
+			<edited>久等了！ 潮色亭旁边的
+武器&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;强化箱已&#xE;&#x0;&#x3;&#x2;ÿÿ经可以用了！&#xE;&#x0;&#x4;&#x0;是可以强化武器、加装炸弹的便利机器哦！
+务必务必用用看！&#xE;&#x0;&#x4;&#x0;不用花钱，不过得提供
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鲑鱼卵&#xE;&#x0;&#x3;&#x2;ÿÿ和&#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小鱼干&#xE;&#x0;&#x3;&#x2;ÿÿ！
+&#xE;&#x0;&#x4;&#x0;鲑鱼卵和小鱼干可在蛸壶谷或
+章鱼族基地获得哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BuffMachineUse_01" offset="00" relocatable="true" max_length="0">
@@ -295,28 +296,28 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 			<original>グッジョブ、４号～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アタシが、見こんでた通りのカツヤクだったね</original>
 			<edited>干得好，4号～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-你果然没让我看走眼，表现太出色了。</edited>
+果然没看错你，表现真不错！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_01_HT" offset="00" relocatable="true" max_length="0">
 			<original>それにしても、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;戦略タコツボ兵器&#xE;&#x0;&#x3;&#x2;ÿÿまで
 使ってくるなんて、オクタリアンも必死だな～</original>
 			<edited>话说回来，连&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;战略蛸壶兵器&#xE;&#x0;&#x3;&#x2;ÿÿ都搬出来了，
-章鱼族也是拼了啊～</edited>
+章鱼族也真是拼命了啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_02_HT" offset="00" relocatable="true" max_length="0">
 			<original>しかし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こ～なることを予想して、
 強力な助っ人を たのんどいたんよね</original>
 			<edited>不过！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 我早就料到会这样，
-请了个强力帮手来。</edited>
+我已经请了个强力帮手。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_03_HT" offset="00" relocatable="true" max_length="0">
 			<original>え～っと、ブキチく～ん、ブキチく～ん
 聞こえてる？ オ～バ～？</original>
 			<edited>那个～，武器子～，武器子～
-听得到吗？完毕～？</edited>
+收得到吗？完毕～？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_04_BK" offset="00" relocatable="true" max_length="0">
@@ -364,14 +365,14 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 			<original>モニターと言っても、キミは ボクのブキ達を使うだけ！
 そうすりゃ自然と データが集まるようになってるでし</original>
 			<edited>说是测试，你只要用我的武器就行！
-这样数据就会自然收集起来。</edited>
+这样数据自然就会收集起来。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_11_BK" offset="00" relocatable="true" max_length="0">
 			<original>データをたくさん集めると、認可が下りやすくなって
 ブキを製品化することができるでし！</original>
 			<edited>数据收集得越多，越容易拿到审批，
-武器就能商品化了！</edited>
+武器就能量产上市了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_12_BK" offset="00" relocatable="true" max_length="0">
@@ -384,7 +385,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="BossSmashFadeTalk_1_13_HT" offset="00" relocatable="true" max_length="0">
 			<original>え～と、もう 説明ダイジョブだよね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ありがと～、ブキチくん</original>
-			<edited>嗯～，说明得差不多了吧&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>嗯～，说明得差不多了吧？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 谢谢你啦，武器子</edited>
 			<subEntries />
 		</entry>
@@ -398,7 +399,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="BossSmashFadeTalk_2_00_HT" offset="00" relocatable="true" max_length="0">
 			<original>ふ～、ちょっとアセったわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ともあれ ４号、おつかれさま～</original>
-			<edited>呼～，刚才有点紧张啊～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>呼～，刚才可真吓了一跳～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 不管怎样，4号，辛苦啦～</edited>
 			<subEntries />
 		</entry>
@@ -424,8 +425,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="BossSmashFadeTalk_2_04_BK" offset="00" relocatable="true" max_length="0">
 			<original>捨てられたガラクタのせいで タコツボキャニオンの
 電波が乱れてるのかもしれないでし！</original>
-			<edited>可能是被丢弃的破烂导致蛸壶谷的
-电波紊乱了吧！</edited>
+			<edited>可能是蛸壶谷的电波，可能是被丢弃的破烂
+干扰了吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_2_05_BK" offset="00" relocatable="true" max_length="0">
@@ -451,8 +452,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="BossSmashFadeTalk_3_01_HT" offset="00" relocatable="true" max_length="0">
 			<original>そろそろ アタシの もう一つの目的のこと、
 正直に、話さんといかんね…</original>
-			<edited>差不多该把
-我另一个目的，老实告诉你了…</edited>
+			<edited>差不多该把我另一个目的
+老实告诉你了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_02_HT" offset="00" relocatable="true" max_length="0">
@@ -492,21 +493,21 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 			<original>３号もいるけど、おじいちゃんのアタリメ司令と
 調査に出てて、しばらく もどらないの</original>
 			<edited>还有3号，跟爷爷——鱼干司令
-一起出去调查了，一时半会回不来。</edited>
+一起出去调查了，暂时回不来。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_08_HT" offset="00" relocatable="true" max_length="0">
 			<original>で、司令代理として 一人で留守番してたら
 オオデンチナマズの事件が 重なっちゃって…</original>
 			<edited>然后，我作为代理司令一个人留守时，
-大电池鲶鱼的案子又赶上了…</edited>
+偏偏又遇上大电池鲶鱼失踪这档事…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_09_HT" offset="00" relocatable="true" max_length="0">
 			<original>今まで だまってて メンゴね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 でも ４号がいたから ここまで来れたんよ</original>
 			<edited>一直瞒着你，抱歉啊…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-但正因为有4号在，才能走到这一步。</edited>
+多亏有 4 号，我才能走到这一步。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_10_HT" offset="00" relocatable="true" max_length="0">
@@ -530,7 +531,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="BossSmashFadeTalk_4_00_AOS_R" offset="00" relocatable="true" max_length="0">
 			<original>ヒキカエセ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ココカラ ヒキカエセ…</original>
-			<edited>还回来… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;从这里还回来…</edited>
+			<edited>还回来… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;从这儿滚回去…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_01_HT" offset="00" relocatable="true" max_length="0">
@@ -552,7 +553,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 			<original>アッ… アオリ デハナイッ！ イイカラ ヒキカエスノダ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アブナイシ、キケンダゾ…！</original>
 			<edited>啊… 我不是小拟！ 总之要还回来…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-很危险、危险啊…！</edited>
+很危险啊，真的很危险！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_05_HT" offset="00" relocatable="true" max_length="0">
@@ -564,7 +565,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 			<original>ト、トニカク ヒキカエスノダーッ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 モウ カケナイカラ！！</original>
 			<edited>总、总之给我还回来！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-再说我就要挂啦！！</edited>
+不然我可要挂啦！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_07_HT" offset="00" relocatable="true" max_length="0">
@@ -595,22 +596,22 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_01_00" offset="00" relocatable="true" max_length="0">
 			<original>とりま、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;あやしい場所&#xE;&#x0;&#x3;&#x2;ÿÿを見つけたら 攻撃してみて</original>
-			<edited>总之，看到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;可疑的地方&#xE;&#x0;&#x3;&#x2;ÿÿ就先攻击试试</edited>
+			<edited>总之，看到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;可疑之处&#xE;&#x0;&#x3;&#x2;ÿÿ就攻击试试。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_01_01" offset="00" relocatable="true" max_length="0">
 			<original>ごくろ～さん♪ この調子で デンチナマズ集めよ～</original>
-			<edited>辛苦啦～♪ 保持这个势头，收集电池鲶鱼吧～</edited>
+			<edited>辛苦啦～♪ 趁这势头继续收集电池鲶鱼吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_01_02" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿこわれたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;センプク&#xE;&#x0;&#x3;&#x2;ÿÿで早く復活ね</original>
-			<edited>辛苦～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄套装&#xE;&#x0;&#x3;&#x2;ÿÿ坏了的话，用&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;潜行&#xE;&#x0;&#x3;&#x2;ÿÿ能更快复活哦</edited>
+			<edited>辛苦～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄套装&#xE;&#x0;&#x3;&#x2;ÿÿ坏了的话，潜行&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;就能&#xE;&#x0;&#x3;&#x2;ÿÿ更快恢复哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_01_03" offset="00" relocatable="true" max_length="0">
 			<original>あっ、ボスヤカン開いた！ たのんだよ、４号</original>
-			<edited>啊，Boss壶打开了！ 交给你了，4号</edited>
+			<edited>啊，Boss 壶开了！ 交给你了，4号</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_Boss01" offset="00" relocatable="true" max_length="0">
@@ -620,27 +621,27 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_02_01" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マップ&#xE;&#x0;&#x3;&#x2;ÿÿで エリアを移動できるよ</original>
-			<edited>辛苦～！ …对了，用&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;地图&#xE;&#x0;&#x3;&#x2;ÿÿ可以移动区域哦</edited>
+			<edited>辛苦～！ …对了，按&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键打开&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;地图&#xE;&#x0;&#x3;&#x2;ÿÿ，就能切换区域哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_02" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;から 今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿも見れるよ</original>
-			<edited>辛苦～！ …对了，从&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;还能看至今的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;记录&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>辛苦～！ …对了，按&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键还能查看目前的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;记录&#xE;&#x0;&#x3;&#x2;ÿÿ哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_03" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ …そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキを持ちかえる&#xE;&#x0;&#x3;&#x2;ÿÿなら&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で できるよ</original>
-			<edited>辛苦～！ …对了，想&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;换武器&#xE;&#x0;&#x3;&#x2;ÿÿ的话&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就行哦</edited>
+			<edited>辛苦～！ …对了，想&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;换武器&#xE;&#x0;&#x3;&#x2;ÿÿ的话，按&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键就行哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_04" offset="00" relocatable="true" max_length="0">
 			<original>…そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
-			<edited>…对了，想&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;回尚兴广场&#xE;&#x0;&#x3;&#x2;ÿÿ的话，按&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;再按&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;哦</edited>
+			<edited>…对了，想&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;回尚兴广场&#xE;&#x0;&#x3;&#x2;ÿÿ的话，先按&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键，再按&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_05" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ …そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿね</original>
-			<edited>辛苦～！ …对了，想&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;强化武器&#xE;&#x0;&#x3;&#x2;ÿÿ的话就用&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器强化箱&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>辛苦～！ …对了，想&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;强化武器&#xE;&#x0;&#x3;&#x2;ÿÿ，就用&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器强化箱&#xE;&#x0;&#x3;&#x2;ÿÿ哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_06" offset="00" relocatable="true" max_length="0">
@@ -655,7 +656,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_03_01" offset="00" relocatable="true" max_length="0">
 			<original>おか～♪ デンチナマズあと５コで、ボスヤカン開きそやね</original>
-			<edited>好～♪ 再收集5个电池鲶鱼，Boss壶就该开了</edited>
+			<edited>好～♪ 再收集 5 个电池鲶鱼，Boss 壶应该就会开了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_03_02" offset="00" relocatable="true" max_length="0">
@@ -690,7 +691,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_04_01" offset="00" relocatable="true" max_length="0">
 			<original>あり～♪ デンチナマズあと５コ集めよ～</original>
-			<edited>好～♪ 再收集5个电池鲶鱼吧～</edited>
+			<edited>谢啦～♪ 再收集 5 个电池鲶鱼吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_04_02" offset="00" relocatable="true" max_length="0">
@@ -700,7 +701,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_04_03" offset="00" relocatable="true" max_length="0">
 			<original>オケオケ まだまだ気を引きしめてこ～</original>
-			<edited>好好，还要再加把劲～</edited>
+			<edited>好好，还得继续绷紧精神～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_04_04" offset="00" relocatable="true" max_length="0">
@@ -725,7 +726,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_05_01" offset="00" relocatable="true" max_length="0">
 			<original>おつかれ～！ デンチナマズ、あと５コ たのんだよ～</original>
-			<edited>辛苦啦～！ 电池鲶鱼，再5个，拜托啦～</edited>
+			<edited>辛苦啦～！ 再收集 5 个电池鲶鱼，拜托啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_05_02" offset="00" relocatable="true" max_length="0">
@@ -740,12 +741,12 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_05_04" offset="00" relocatable="true" max_length="0">
 			<original>ごくろ～さん♪ さすがにキツくなってきたね…</original>
-			<edited>辛苦啦～♪ 果然开始吃力了呢…</edited>
+			<edited>辛苦啦～♪ 确实越来越难了呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_05_05" offset="00" relocatable="true" max_length="0">
 			<original>ィよし！ ボスヤカン、オープンまで あと１コ</original>
-			<edited>好嘞！ 离Boss壶开放还差1个</edited>
+			<edited>好嘞！ Boss 壶还差 1 个就能开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_05_06" offset="00" relocatable="true" max_length="0">
@@ -755,7 +756,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W1Guide_100" offset="00" relocatable="true" max_length="0">
 			<original>これは シオカラ亭、おじいちゃんが作ってくれたんよ</original>
-			<edited>这是潮色亭，是爷爷建的哦</edited>
+			<edited>这里是潮色亭，是爷爷盖的哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_W1Guide_101" offset="00" relocatable="true" max_length="0">
@@ -770,7 +771,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W1Guide_300" offset="00" relocatable="true" max_length="0">
 			<original>看板… タコ語で書いてあると わかんないな</original>
-			<edited>招牌… 用章鱼语写的就看不懂了</edited>
+			<edited>招牌… 用章鱼语写的，我就看不懂了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_W1Guide_400" offset="00" relocatable="true" max_length="0">
@@ -790,7 +791,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_101" offset="00" relocatable="true" max_length="0">
 			<original>４号、初めての敵は 相手の出方をうかがうんだ</original>
-			<edited>4号，面对初见的敌人要先观察对方的动向</edited>
+			<edited>4号，第一次遇到敌人，先观察他们会怎么出招。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_102" offset="00" relocatable="true" max_length="0">
@@ -800,7 +801,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_103" offset="00" relocatable="true" max_length="0">
 			<original>４号… ゆっくりね、そして 急いで</original>
-			<edited>4号… 慢慢来，但同时也要抓紧</edited>
+			<edited>4号… 慢慢来，但也要抓紧哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_104" offset="00" relocatable="true" max_length="0">
@@ -820,7 +821,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Uza_101" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（早くオオデンチナマズを 追って…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（快追大电池鲶鱼吧…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（快去追大电池鲶鱼吧…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_102" offset="00" relocatable="true" max_length="0">
@@ -830,7 +831,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W2Guide_100" offset="00" relocatable="true" max_length="0">
 			<original>シオカラ亭、あんな遠くになっちゃった</original>
-			<edited>潮色亭，跑到那么远去了</edited>
+			<edited>潮色亭都离这么远了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_W2Guide_200" offset="00" relocatable="true" max_length="0">
@@ -860,12 +861,12 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_201" offset="00" relocatable="true" max_length="0">
 			<original>さあ、４号 しまってこ～</original>
-			<edited>来吧，4号，一口气搞定它～</edited>
+			<edited>来吧，4号，打起精神来～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_202" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアンめ… 今度という今度は 許さん…</original>
-			<edited>章鱼族你这家伙… 这次绝不轻饶…</edited>
+			<edited>章鱼族…这次绝不饶你们…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_203" offset="00" relocatable="true" max_length="0">
@@ -885,7 +886,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Uza_201" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、ナマズを追って はよはよ！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号，快去追鲶鱼，快点快点！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（4号，4 号，快去追鲶鱼啦！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_202" offset="00" relocatable="true" max_length="0">
@@ -916,12 +917,12 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W3Guide_900" offset="00" relocatable="true" max_length="0">
 			<original>ロウト配送センターか… オクタリアンもポチるのか？</original>
-			<edited>漏斗配送中心吗… 章鱼族也会网购？</edited>
+			<edited>漏斗配送中心吗… 章鱼族也会下单网购吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_300" offset="00" relocatable="true" max_length="0">
 			<original>風を感じるね～、エアリ～</original>
-			<edited>能感觉到风呢～，好通风～</edited>
+			<edited>感受风吧～，好清爽～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_301" offset="00" relocatable="true" max_length="0">
@@ -931,7 +932,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_302" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアンが強いなら、カンブリボックスで強化してね</original>
-			<edited>章鱼族太强的话，就用武器强化箱强化一下哦</edited>
+			<edited>要是章鱼族太强，就用武器强化箱强化一下吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_303" offset="00" relocatable="true" max_length="0">
@@ -946,7 +947,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Uza_300" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…かまってチャンは ちょっとこまる）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…总是缠着人有点困扰）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…太黏人了，有点困扰…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_301" offset="00" relocatable="true" max_length="0">
@@ -966,7 +967,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W4Guide_200" offset="00" relocatable="true" max_length="0">
 			<original>イカ禁止の標識？ 余計なお世話じゃね？</original>
-			<edited>禁止鱿鱼的标志？ 多管闲事吧？</edited>
+			<edited>禁止鱿鱼的标志？管得也太宽了吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_W4Guide_300" offset="00" relocatable="true" max_length="0">
@@ -981,7 +982,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_400" offset="00" relocatable="true" max_length="0">
 			<original>今の４号なら、タコたいじは オチャノコサイサイっしょ</original>
-			<edited>现在的4号，打章鱼简直小菜一碟吧</edited>
+			<edited>现在的4号，收拾章鱼还不是小菜一碟吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_401" offset="00" relocatable="true" max_length="0">
@@ -996,7 +997,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_403" offset="00" relocatable="true" max_length="0">
 			<original>オオデンチナマズに 近づいてきたかも… たぶん</original>
-			<edited>好像离大电池鲶鱼越来越近了… 大概</edited>
+			<edited>说不定离大电池鲶鱼已经很近了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_404" offset="00" relocatable="true" max_length="0">
@@ -1011,7 +1012,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Uza_401" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あ… シオカラ亭の戸じまりせんと…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（啊… 忘了关潮色亭的门…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（啊… 得去锁潮色亭的门…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_402" offset="00" relocatable="true" max_length="0">
@@ -1021,7 +1022,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W5Guide_100" offset="00" relocatable="true" max_length="0">
 			<original>ちょ… ここ 水の色 ヤバい…</original>
-			<edited>哇… 这里的水色，糟透了…</edited>
+			<edited>哇… 这里的水颜色也太不对劲了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_W5Guide_200" offset="00" relocatable="true" max_length="0">
@@ -1031,7 +1032,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_W5Guide_300" offset="00" relocatable="true" max_length="0">
 			<original>これ 飛行機でもないし… なんやろね</original>
-			<edited>这既不是飞机… 到底是什么呢</edited>
+			<edited>这又不是飞机…到底是什么呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_W5Guide_900" offset="00" relocatable="true" max_length="0">
@@ -1056,7 +1057,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_503" offset="00" relocatable="true" max_length="0">
 			<original>４号… この戦いが終わったら コンサート来てね</original>
-			<edited>4号… 这场战斗结束后，来看演唱会吧</edited>
+			<edited>4号… 等这场战斗结束了，来听演唱会吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_504" offset="00" relocatable="true" max_length="0">
@@ -1066,7 +1067,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Uza_500" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うぅ… ここのニオイから 解放されたい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（呜… 好想逃离这里的气味…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（呜… 好想从这里的臭味里解脱…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_501" offset="00" relocatable="true" max_length="0">
@@ -1106,7 +1107,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Uza_600" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんじゃないと ツッコミの練習できん…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（不是小拟的话，没法练习吐槽…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（没有小拟，我就没法练习吐槽…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_601" offset="00" relocatable="true" max_length="0">
@@ -1151,7 +1152,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_906" offset="00" relocatable="true" max_length="0">
 			<original>仕事に穴開けて 事務所の社長 おこってっかな～</original>
-			<edited>工作开小差，事务所的社长该生气了吧～</edited>
+			<edited>工作耽误了，事务所社长会不会生气啊～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_907" offset="00" relocatable="true" max_length="0">
@@ -1171,12 +1172,12 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_910" offset="00" relocatable="true" max_length="0">
 			<original>持ってるブキ 変更したいなら&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
-			<edited>想换手上的武器的话&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;哦</edited>
+			<edited>想换手上的武器，就按&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_911" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エリアを移動&#xE;&#x0;&#x3;&#x2;ÿÿしたいなら、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して えらんでね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;想移动区域&#xE;&#x0;&#x3;&#x2;ÿÿ的话，&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;选择吧</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;想移动区域&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;键选择吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_912" offset="00" relocatable="true" max_length="0">
@@ -1191,7 +1192,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_914" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿ、よろ～</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器强化箱&#xE;&#x0;&#x3;&#x2;ÿÿ，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;强化武器&#xE;&#x0;&#x3;&#x2;ÿÿ，拜托啦～</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;要强化武器&#xE;&#x0;&#x3;&#x2;ÿÿ，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;就用武器&#xE;&#x0;&#x3;&#x2;ÿÿ强化箱吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_915" offset="00" relocatable="true" max_length="0">
@@ -1206,7 +1207,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="Talk_Free_917" offset="00" relocatable="true" max_length="0">
 			<original>「&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;かたむけ 左右を見回す！」 戦場の鉄則ね</original>
-			<edited>「&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;倾斜摇杆环顾四周！」 这是战场铁律哦</edited>
+			<edited>「左右拨动&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，转动视角！」 这是战场铁律哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_918" offset="00" relocatable="true" max_length="0">
