@@ -37,7 +37,7 @@
 		</entry>
 		<entry name="Log01_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_02" offset="00" relocatable="true" max_length="0">
@@ -83,7 +83,7 @@
 		</entry>
 		<entry name="Log01_09" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;オッケーぽいですね♪</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>OK的感觉呢♪</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>看来没问题呢♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_10" offset="00" relocatable="true" max_length="0">
@@ -109,7 +109,7 @@
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィそれ マジフルネームじゃん…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>老头儿，那真是你的全名啊…</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>老头儿，那还真是你的全名啊…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_14" offset="00" relocatable="true" max_length="0">
@@ -121,43 +121,43 @@
 		</entry>
 		<entry name="Log01_15" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;hankakusikautenai</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>hankakusikautenai</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>zhinengdayingwen</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_16" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;miretemasu</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>miretemasu</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>kandejian</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_17" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;全角にできねーの？</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>不会打全角吗？</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>不能切回中文吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_18" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;左下のボタンで全角にできると思います。</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>按左下角的按钮应该就能切到全角了。</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>按左下角的按钮，应该就能切回中文输入。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_19" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;とりあえず、８号さんもワタシ達のチャットログを見られる
 ようにNAMACO端末をハッキングしておきました。</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>总之，我已经把NAMACO终端黑掉了，
-让8号也能看到我们的聊天记录。</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>总之，我已经黑进 NAMACO 终端，
+让 8 号也能看到我们的聊天记录。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_20" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ﾃｽﾄ､ﾜﾀｼﾊｱﾀﾘﾒﾖｼｵﾃﾞｽ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>ﾃｽﾄ､ﾜﾀｼﾊｱﾀﾘﾒﾖｼｵﾃﾞｽ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>ｃｅｓｈｉ，ｗｏｓｈｉｙｕｇａｎｊｉｎａｎ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_21" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いくつかチャレンジをクリアしたら最新のログをお送り
 しますので、チェックよろしくです！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>通关几个挑战后，我们会发最新的记录给你，
-请查收！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>通关几个挑战后，我们会把最新日志发给你，
+记得查看哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log01_22" offset="00" relocatable="true" max_length="0">
@@ -165,7 +165,7 @@
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;半角カタカナって…どうやんのか、むしろ教えてほし
 いわ…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>半角片假名…怎么打的，我倒想
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>全角英文…到底怎么打的，我倒想
 让你教教我…</edited>
 			<subEntries />
 		</entry>
@@ -190,7 +190,7 @@
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log02_04" offset="00" relocatable="true" max_length="0">
@@ -208,8 +208,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log02_06" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;結果、そこは地下は地下なのですが、この世ではあり得ない
 強度の磁場が出ていまして…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>结果那里虽然是地下，却出现了
-这个世上不可能存在的强磁场…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>结果那里虽然在地下，却有着
+强得不可能存在于世上的磁场…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log02_07" offset="00" relocatable="true" max_length="0">
@@ -255,8 +255,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log02_14" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;むむむ… なんだか聞いてて、こちらがはずかしくなりそう
 な感じです…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>唔唔唔… 怎么听着，连我这边
-都觉得不好意思了呢…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>唔唔唔…听着听着，连我这边
+都替您觉得不好意思了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log02_15" offset="00" relocatable="true" max_length="0">
@@ -276,8 +276,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log02_17" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なので、ワタシ達が案内しますので、引き続きお願いします
 ね♪</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>所以，我们会负责引路的，
-请继续加油哦♪</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>所以接下来由我们为您带路，
+请继续闯关哦♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log03_Title" offset="00" relocatable="true" max_length="0">
@@ -301,7 +301,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log03_04" offset="00" relocatable="true" max_length="0">
@@ -313,7 +313,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でも、あれから調べたのですが、これ以上何も情報が入って
 こなくてですね…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>不过，在那之后我又查了查，
-结果再也没有新情报进来了…</edited>
+结果就再也收不到新的情报了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log03_06" offset="00" relocatable="true" max_length="0">
@@ -324,8 +324,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log03_07" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;やることが無くなっちゃったし、せっかくなのでこの場を
 お借りして自己紹介用の画像をはらせていただきますね。</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>反正也没事可做，就借这个地方
-发一下自我介绍的图片吧。</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>反正也没事可做，就借这个机会
+发张自我介绍用的照片吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log03_08" offset="00" relocatable="true" max_length="0">
@@ -360,7 +360,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log03_14" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;スイマセン、ワタシの自己紹介はまたおりを見て…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>抱歉，我的自我介绍还是改天吧…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>抱歉，我的自我介绍还是找机会再说吧…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log04_Title" offset="00" relocatable="true" max_length="0">
@@ -372,7 +372,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log04_02" offset="00" relocatable="true" max_length="0">
@@ -417,7 +417,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ってかなんでアタシの写真がのってんだよ！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>话说为啥我照片被传上来了！</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>话说谁把我的照片传上来的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log04_09" offset="00" relocatable="true" max_length="0">
@@ -425,8 +425,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こういうのって、情報ろーえー とかっていうんじゃね
 ーの？</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>这种事，叫信息泄露什么的
-吧？</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>这种事，不就叫信息泄露什么的吗
+？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log04_10" offset="00" relocatable="true" max_length="0">
@@ -440,7 +440,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、しかえしにイイダのをのせちゃお！えいっ！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>那我也报复一下，把饭田的传上来！嘿咻！</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>那我也报复一下，把饭田的照片传上来！嘿咻！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log04_12" offset="00" relocatable="true" max_length="0">
@@ -492,7 +492,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log05_Title" offset="00" relocatable="true" max_length="0">
@@ -504,7 +504,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、ちょっと、電池が切れそうなので、バッテリーを取りに
 帰りますね。</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>啊，电池快没电了，
-我回去拿一下备用电池。</edited>
+我回去拿一下充电宝。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log05_02" offset="00" relocatable="true" max_length="0">
@@ -577,8 +577,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「大縄張大戦　アロワナ城籠城戦　辺目少尉ヒキイル
 烏鳶部隊　獅子奮迅ノ　活躍ニテ　敵ヲ殲滅」…って</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>「大领地大战 龙鱼城笼城战 边目少尉率军
-鸢部队勇猛奋战 歼灭敌军」… 啥</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>“大领地大战·龙鱼城笼城战：
+边目少尉率鸢部队奋勇歼敌”……啥？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log05_13" offset="00" relocatable="true" max_length="0">
@@ -624,8 +624,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ここだけのハナシ、イイダって変わってんだよー
 なんつーか背、たけーし、すげーメカにくわしいし</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>跟你说句悄悄话，饭田可怪了—
-怎么说呢，个子又高，又超级懂机械</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>跟你说句悄悄话，饭田这家伙挺怪的—
+怎么说呢，个子高，又特别懂机械</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_05" offset="00" relocatable="true" max_length="0">
@@ -633,8 +633,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;この前もさ！自作メカで、チョーでかい岩がういてる
 バトルステージ作っちゃったんだぜ？やばくね？</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>而且前几天！她用自己的自制机械，
-造了个超大岩石漂浮的战场舞台！夸张吧？</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>而且前几天！她用自制机械，
+造了座让巨石飘在空中的战斗舞台！夸张吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_06" offset="00" relocatable="true" max_length="0">
@@ -664,8 +664,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あー、100年前の大ナワバリバトルで負けて、今は遠い
 とこに住んでるって習った</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>啊—，学过，100年前的占地大战输了，
-现在住在很远的地方</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>啊—，我学过：100 年前占地大战输了，
+现在住在很远的地方。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_11" offset="00" relocatable="true" max_length="0">
@@ -678,8 +678,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log06_12" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わしのしりょう おくたりあん ひみつふぁいる で しら
 べる　</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>用我的资料库 章鱼族机密档案
-查一下</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>用我的资料库“章鱼族机密档案”
+查查看。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_13" offset="00" relocatable="true" max_length="0">
@@ -701,7 +701,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log06_16" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それかなりやばい　さんごうなんかいもやられた</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>那玩意儿超危险 3号都被干掉好几次</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>那玩意儿可危险了，3 号都被它干掉过好几次。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_17" offset="00" relocatable="true" max_length="0">
@@ -721,8 +721,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;習った時「オクタリアンはマジメでかしこい」って
 書いてあったけど、イイダはたしかに頭いいしマジメだな…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>学的时候书上写着'章鱼族认真又聪明'，
-饭田确实脑子好又认真…</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>上课时书上写着“章鱼族认真又聪明”，
+饭田确实聪明又认真…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_20" offset="00" relocatable="true" max_length="0">
@@ -736,7 +736,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 たりするワナ？ とかも、他んトコでは見かけないな…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>这么说来，那家伙做的战场舞台上，
-那种身体会飘起来的机关什么的，
+那种能让人飘起来的机关什么的，
 别的地方都没见过…</edited>
 			<subEntries />
 		</entry>
@@ -778,7 +778,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log06_27" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ごきょうりょく　たすかっております</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>承蒙协助 感激不尽</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>多谢配合，帮大忙了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log06_28" offset="00" relocatable="true" max_length="0">
@@ -808,7 +808,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log07_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_02" offset="00" relocatable="true" max_length="0">
@@ -820,12 +820,12 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかー！おそかったな！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>回来啦！好慢啊！</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>回来啦！你也太慢了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_04" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;すいません、家で少しチャージしてました。</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>抱歉，在家充了一会儿电。</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>抱歉，在家充了会儿电。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_05" offset="00" relocatable="true" max_length="0">
@@ -842,7 +842,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…バレた。ジジィが「ひみつふぁいる」とかのせるから</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>…暴露了。都怪老头儿把'机密档案'什么的传上来</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>…被发现啦。都怪老头儿把什么“机密档案”传上来。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_08" offset="00" relocatable="true" max_length="0">
@@ -854,7 +854,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワリィ、過去をセンサクする気は無かったんだよ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>抱歉，我没想调查你的过去</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>抱歉，我没想打听你的过去。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_10" offset="00" relocatable="true" max_length="0">
@@ -901,8 +901,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ま、アタシはイイダの事ずっとイカだと思ってたから、
 今更タコって言われてもなーって感じだけどな</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>嘛，我从来没觉得饭田是别的什么，
-所以就算现在说她是章鱼，也没什么感觉</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>嘛，我一直都把饭田当鱿鱼看，
+现在才说她是章鱼，我也没什么感觉。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_18" offset="00" relocatable="true" max_length="0">
@@ -912,14 +912,14 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log07_19" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカさん達の世界にいていいんでしょうか？</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>我可以待在鱿鱼们的世界里吗？</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>我可以留在鱿鱼们生活的世界吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_20" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いいに決まってるだろー！！！！1</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>当然可以了—！！！！1</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>那还用说，当然可以—！！！！1</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_21" offset="00" relocatable="true" max_length="0">
@@ -936,7 +936,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log07_23" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８ごうも　たこ　だけど　しおからぶしが　すき</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>8号也是章鱼 但喜欢塩辛节</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>8 号也是章鱼，但也喜欢塩辛节。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_24" offset="00" relocatable="true" max_length="0">
@@ -951,8 +951,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log07_25" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシは認識してました。８号さんは、ワタシと同じで「魂
 にシオカラ節のグルーヴを宿す者」…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>我早就注意到了。8号跟我一样，
-是'灵魂里宿着塩辛节律动的人'…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>我也察觉到了。8 号和我一样，
+都是“灵魂里栖息着塩辛节律动的人”…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_26" offset="00" relocatable="true" max_length="0">
@@ -970,13 +970,13 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log07_28" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です…！それでは引き続き案内しますので、８号さんは
 続けてチャレンジのクリアをお願いしますね。</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>了解…！那么我继续带路，
-8号请继续通关挑战哦。</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>了解…！那我继续为您带路，
+请 8 号继续挑战吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_29" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ち～～～～～～～ん！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>呼———————嗯！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>擤——————鼻涕！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log07_30" offset="00" relocatable="true" max_length="0">
@@ -993,19 +993,19 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log08_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;居間空カエル</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>居間空カエル</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>xianzaihuijia</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log08_02" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「いまから」で一回、漢字にするんだ！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>「いまから」要说一次，写成汉字！</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>把“xianzaihuijia”转换成汉字试试！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log08_03" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;今から帰る</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>现在回去</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>现在回家</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log08_04" offset="00" relocatable="true" max_length="0">
@@ -1017,7 +1017,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log08_05" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log08_06" offset="00" relocatable="true" max_length="0">
@@ -1030,8 +1030,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィに漢字のやりかた教えてんの。ジジィのレス、
 ひらがなばっかで読みにくいし</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>在教老头儿打汉字。老头儿的回复
-全是平假名，好难读</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>在教老头儿把拼音转换成汉字。老头儿的回复
+全是拼音，读着真费劲。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log08_08" offset="00" relocatable="true" max_length="0">
@@ -1092,8 +1092,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 り「アナタ探シテタ ユニット組ミタイ」って言われて、ストーカーかと
 思ったわ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>想起来了！我在山上练嗓子时，突然被说
-'在找您 想组个组合'，还以为是跟踪狂呢</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>想起来了！我在山上练嗓子时，突然有人说
+“一直在找您，想和您组个组合”，还以为是跟踪狂呢。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log08_17" offset="00" relocatable="true" max_length="0">
@@ -1372,7 +1372,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おお？敵の敵は味方、ってヤツ？</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>哦哦？敌人的敌人是朋友，那套？</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>哦哦？就是“敌人的敌人就是朋友”那套？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log10_22" offset="00" relocatable="true" max_length="0">
@@ -1396,20 +1396,20 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log09_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わしは　あたりめ　めしは　あたりまえ
 ぼけて　４にんまえ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>我是鱼干 饭是理所当然
-犯傻 四个人分</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>我是鱼干，饭是理所当然
+犯傻，四人份。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_02" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そのリリック、なんかひびかねーなー…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>这歌词，怎么不押韵啊—…</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>这歌词，怎么一点都不带劲啊—…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_03" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_04" offset="00" relocatable="true" max_length="0">
@@ -1431,7 +1431,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log09_07" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;リリックの指導ですか？</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>在指导歌词吗？</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>在教他写歌词吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_08" offset="00" relocatable="true" max_length="0">
@@ -1446,8 +1446,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィ、シュミでラップの作詞してるらしーんだけど
 なんかこう、魂をゆさぶられないっつーか…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>老头儿好像在业余写饶舌歌词，
-但怎么说呢，就是不够震撼灵魂…</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>老头儿好像业余写写说唱歌词，
+但怎么说呢，就是不够打动人…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_10" offset="00" relocatable="true" max_length="0">
@@ -1457,7 +1457,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log09_11" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;お手本でセンパイが昔作ったリリック、のせちゃいます！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>那我发个范本，前辈以前写的歌词！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>那我拿前辈以前写的歌词当范本，发上来吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_12" offset="00" relocatable="true" max_length="0">
@@ -1467,7 +1467,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log09_13" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えもい</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>好诗意</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>真有感觉。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_14" offset="00" relocatable="true" max_length="0">
@@ -1482,8 +1482,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ディスクとダウンロード合わせても1000本
 売れなかったヤツ…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>实体碟加下载加起来，
-都没卖到1000张…</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>实体碟和下载加起来，
+都没卖到 1000 份…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_16" offset="00" relocatable="true" max_length="0">
@@ -1516,7 +1516,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log09_20" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;放送禁止用語がふくまれているので、文字化けしてますね…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>因为含有禁播用语，所以显示乱码了呢…</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>因为含有禁播词，所以文字变乱码了呢…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_21" offset="00" relocatable="true" max_length="0">
@@ -1524,7 +1524,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でもテンタクルズ組んでから、デビュー曲の「フルスロ
 ットル・テンタクル」が売れたから！</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>不过组了腕儿姐妹之后，出道曲《フルスロットル・テンタクル》
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>不过组成腕儿姐妹之后，出道曲《全速腕儿》
 大卖了！</edited>
 			<subEntries />
 		</entry>
@@ -1538,8 +1538,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;言ってなかったっけ？アタシとイイダで「テンタクルズ」
 ってユニット組んでんの</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>没说过吗？我跟饭田组了
-'腕儿姐妹'这个组合</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>没跟你说过吗？我和饭田组成了
+“腕儿姐妹”这个组合。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_24" offset="00" relocatable="true" max_length="0">
@@ -1650,8 +1650,8 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log09_40" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;シオカラーズさんはソロ活動やCM出演でいそがしいので、
 ハイカラニュースを卒業されたんですよ～</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>潮色姐妹因为个人活动和广告出演太忙，
-从尚兴新闻毕业了哦～</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ>潮色姐妹忙着个人活动和拍广告，
+所以从尚兴新闻毕业了哦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log09_41" offset="00" relocatable="true" max_length="0">
@@ -1688,14 +1688,14 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 			<original>&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;フェスでカンテツしたからねむぃ…ちょっと寝るー</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>祭典熬夜太困了…我先睡会儿—</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ>祭典通宵了，困死了…我先睡会儿—</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_02" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
 &#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
-&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_03" offset="00" relocatable="true" max_length="0">
@@ -1715,7 +1715,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_06" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_07" offset="00" relocatable="true" max_length="0">
@@ -1725,7 +1725,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_08" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_09" offset="00" relocatable="true" max_length="0">
@@ -1735,7 +1735,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_10" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんちゃ～？</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>你好～？</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>嗨～？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_11" offset="00" relocatable="true" max_length="0">
@@ -1750,12 +1750,12 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_13" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_14" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 进入了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 加入了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_15" offset="00" relocatable="true" max_length="0">
@@ -1765,13 +1765,13 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_16" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ってか、このチャットルーム何なん？まさか出会い系？</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>话说这个聊天室是什么？
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>话说，这聊天室是干吗的？
 该不会是相亲网站吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_17" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なワケないか</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>怎么可能</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>怎么可能是。是。是。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_18" offset="00" relocatable="true" max_length="0">
@@ -1786,7 +1786,7 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_20" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;げんきです</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>很好</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>我我我很好。。。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_21" offset="00" relocatable="true" max_length="0">
@@ -1822,12 +1822,12 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		<entry name="Log11_27" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はよ帰ってきてくれんと、アタシも仕事に穴、開けとるし…</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>你要是不快点回来，
-我这边的活儿也要开天窗了…</edited>
+我这边也没法上班了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_28" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おひたし</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>凉拌菜</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ>凉拌青菜</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_29" offset="00" relocatable="true" max_length="0">
@@ -1837,19 +1837,19 @@ NAMACO端末の座標を元に、そちらの状況を調べてみました。</
 		</entry>
 		<entry name="Log11_30" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おひたし了解。用意しとくね。</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>凉拌菜了解。我来准备。</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>凉拌青菜是吧。知道了，我来准备。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_31" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、アタシこのままシオカラ亭にいるから。そんじゃ、
 イカよろしく～</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>那我就在潮色亭待着。那么，
-请多关照～</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ>那我就待在潮色亭。那就，
+拜托啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Log11_32" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了房间。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;> &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; 离开了聊天室。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 	</entries>
