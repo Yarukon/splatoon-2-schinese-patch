@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="LastBoss06_0000" offset="00" relocatable="true" max_length="0">
 			<original>あれが中央エレベーターです！ 電源… 入ってますね！</original>
-			<edited>那就是中央电梯！电源…开着呢！</edited>
+			<edited>那就是中央电梯！电源……接通着呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0001" offset="00" relocatable="true" max_length="0">
 			<original>アタリメさんと３号さんの反応も、近いです！</original>
-			<edited>鱼干司令和3号的信号也很近！</edited>
+			<edited>鱼干司令和3号的反应也在附近！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジジィ、ひょっとして 先に地上で待ってんじゃねーの？</original>
-			<edited>老头子，难道已经先到地面上等着了？</edited>
+			<edited>老头子该不会已经先到地面上等着了吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0003" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ ヘリでむかえに行くから、ジジィと地上で待ってろよ</original>
-			<edited>小八！我开直升机去接，你跟老头子在地面上等着</edited>
+			<edited>小八！我会开直升机去接你，先和老头子在地面上等着！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0004" offset="00" relocatable="true" max_length="0">
 			<original>初対面の方にも ヘリ出しちゃうセンパイ、ステキです♪</original>
-			<edited>对初次见面的人也派直升机，前辈真棒♪</edited>
+			<edited>连初次见面的人都派直升机去接，前辈真帅♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0005" offset="00" relocatable="true" max_length="0">
 			<original>まー、『神がかったヘリ』とか ゆーヤツ？</original>
-			<edited>嘛，就是那种“神乎其神的直升机”？</edited>
+			<edited>嘛，就是所谓“神来之笔的直升机”？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0006" offset="00" relocatable="true" max_length="0">
 			<original>それを言うなら『乗りかかった船』ですね…</original>
-			<edited>要说的话，应该是“上了贼船”吧…</edited>
+			<edited>要这么说，应该是“上了船就别想下”吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0007" offset="00" relocatable="true" max_length="0">
 			<original>…最近は、そうとも言うみたいだな</original>
-			<edited>…最近好像是这么说的</edited>
+			<edited>……最近好像也有人这么说。</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0008" offset="00" relocatable="true" max_length="0">
@@ -50,47 +50,47 @@
 		</entry>
 		<entry name="LastBoss06_0009" offset="00" relocatable="true" max_length="0">
 			<original>止まったゾ？！</original>
-			<edited>停住了？！</edited>
+			<edited>停下来了？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0010" offset="00" relocatable="true" max_length="0">
 			<original>…ん？ だれかいんゾ？</original>
-			<edited>…嗯？有人？</edited>
+			<edited>……嗯？那里有人？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0011" offset="00" relocatable="true" max_length="0">
 			<original>あれ、３号さんですよ？！ でも、なんだか様子が…</original>
-			<edited>咦，是3号？！不过，样子有点…</edited>
+			<edited>咦，是3号？！不过，样子有点不对……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0012" offset="00" relocatable="true" max_length="0">
 			<original>ファーーーッ！！ ８号か？！ 助けてくれーィ！！！</original>
-			<edited>哇啊啊！！是8号吗？！救命啊！！！</edited>
+			<edited>哇——！！是8号吗？！救救老夫啊——！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0013" offset="00" relocatable="true" max_length="0">
 			<original>３号のヤツ、デンワに意識を乗っ取られたんじゃー！</original>
-			<edited>3号那家伙，意识被电话控制了！</edited>
+			<edited>3号那家伙，意识被电话夺走了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0014" offset="00" relocatable="true" max_length="0">
 			<original>ゲーーッ！！ おそってきやがった！</original>
-			<edited>呃啊！！冲过来了！</edited>
+			<edited>糟了！！它冲过来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0015" offset="00" relocatable="true" max_length="0">
 			<original>８号ーーッ！ やられる前にやれィ！ 戦場の鉄則ゥ！！</original>
-			<edited>8号——！在被打倒之前先打倒它！战场的铁则！！</edited>
+			<edited>8号——！在被打倒前先打倒它！这就是战场铁则！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0016" offset="00" relocatable="true" max_length="0">
 			<original>３号をとっちめ、頭のネリモノを 落とすんじゃーーッ！</original>
-			<edited>收拾掉3号，把头上的记忆物打下来！！</edited>
+			<edited>先制服3号，把它头上的记忆物打下来！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0017" offset="00" relocatable="true" max_length="0">
 			<original>やったか？！</original>
-			<edited>打中了吗？！</edited>
+			<edited>成功了吗？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0018" offset="00" relocatable="true" max_length="0">
@@ -100,17 +100,17 @@
 		</entry>
 		<entry name="LastBoss06_0019" offset="00" relocatable="true" max_length="0">
 			<original>あっぱれじゃ、８号！</original>
-			<edited>漂亮，8号！</edited>
+			<edited>干得漂亮，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0020" offset="00" relocatable="true" max_length="0">
 			<original>でもまた気絶したゾ… 目覚めたら おそってこないよな？</original>
-			<edited>不过又昏过去了…醒来后不会再扑过来吧？</edited>
+			<edited>不过又昏过去了……醒来后不会再攻过来吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0021" offset="00" relocatable="true" max_length="0">
 			<original>ネリモノも取れたし、ダイジョ～ブだと思いますよ♪</original>
-			<edited>记忆物也取下来了，应该没问题♪</edited>
+			<edited>记忆物也摘下来了，应该没问题♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0022" offset="00" relocatable="true" max_length="0">
@@ -120,37 +120,37 @@
 		</entry>
 		<entry name="LastBoss06_0023" offset="00" relocatable="true" max_length="0">
 			<original>マジかよ？！ スペシャルてんこ盛りすぎンだろ！</original>
-			<edited>真的假的？！特殊武器也堆太多了吧！</edited>
+			<edited>真的假的？！特殊武器也塞得太满了吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0024" offset="00" relocatable="true" max_length="0">
 			<original>３号さん、リミッターを外されちゃってるみたいです…</original>
-			<edited>3号，好像被解除了限制…</edited>
+			<edited>3号好像被人解除了限制器……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0025" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボムピッチャー、来ます！</original>
-			<edited>冰壶炸弹投手，来了！</edited>
+			<edited>冰壶炸弹投手要来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0026" offset="00" relocatable="true" max_length="0">
 			<original>ボムにひるむなーッ、トツゲキーッ！</original>
-			<edited>别被炸弹吓住，冲锋！</edited>
+			<edited>别被炸弹吓住，冲啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0027" offset="00" relocatable="true" max_length="0">
 			<original>箱の上に にげろーーーッ！！</original>
-			<edited>躲到箱子上去！！</edited>
+			<edited>快逃到箱子上！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0028" offset="00" relocatable="true" max_length="0">
 			<original>撃って撃って、撃ちまくれーーーィ！</original>
-			<edited>打打打，打个不停！！</edited>
+			<edited>开火、开火，给我不停地打！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0029" offset="00" relocatable="true" max_length="0">
 			<original>おらおらー、ンなもん割っちまえーーーッ！</original>
-			<edited>来来来，把那玩意儿砸碎！！</edited>
+			<edited>来啊来啊，把那玩意儿砸个粉碎！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0030" offset="00" relocatable="true" max_length="0">
@@ -160,7 +160,7 @@
 		</entry>
 		<entry name="LastBoss06_0031" offset="00" relocatable="true" max_length="0">
 			<original>８号ーーッ！ ワシに構わず、３号を撃てーーィ！</original>
-			<edited>8号——！别管我，打3号！！</edited>
+			<edited>8号——！别管老夫，攻击3号！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0032" offset="00" relocatable="true" max_length="0">
@@ -170,12 +170,12 @@
 		</entry>
 		<entry name="LastBoss06_0033" offset="00" relocatable="true" max_length="0">
 			<original>８号さ～ん！ ボムを使って～！</original>
-			<edited>8号～！用炸弹～！</edited>
+			<edited>8号～！用炸弹啊～！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0034" offset="00" relocatable="true" max_length="0">
 			<original>連続スーパーチャクチ、来るぞ！</original>
-			<edited>连续超级着陆，要来了！</edited>
+			<edited>连续超级着陆要来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0035" offset="00" relocatable="true" max_length="0">
@@ -185,32 +185,32 @@
 		</entry>
 		<entry name="LastBoss06_0036" offset="00" relocatable="true" max_length="0">
 			<original>チャクチの後の スキをねらってください！</original>
-			<edited>请瞄准着陆后的破绽！</edited>
+			<edited>请瞄准着陆后的空隙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0037" offset="00" relocatable="true" max_length="0">
 			<original>ハチーーーッ！！ やっちまえーーーッ！！</original>
-			<edited>小八——！！干掉它！！</edited>
+			<edited>小八——！！解决它——！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0038" offset="00" relocatable="true" max_length="0">
 			<original>負けないで～！！ ８号さ～ん！！ </original>
-			<edited>别输啊～！！8号～！！</edited>
+			<edited>不要输啊～！！8号～！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0039" offset="00" relocatable="true" max_length="0">
 			<original>８号ーーッ！ 気合じゃーーッ！</original>
-			<edited>8号——！拿出气势来！！</edited>
+			<edited>8号——！拿出干劲来——！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0040" offset="00" relocatable="true" max_length="0">
 			<original>じゃ、これで地上まで 行けそーだな！</original>
-			<edited>那么，这样就能去地面了吧！</edited>
+			<edited>那么，这下就能去地面了吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss06_0041" offset="00" relocatable="true" max_length="0">
 			<original>お二人とも、無事ならいいですけどね～</original>
-			<edited>希望两位都平安无事呢～</edited>
+			<edited>希望两位都安然无恙呢～</edited>
 			<subEntries />
 		</entry>
 	</entries>
