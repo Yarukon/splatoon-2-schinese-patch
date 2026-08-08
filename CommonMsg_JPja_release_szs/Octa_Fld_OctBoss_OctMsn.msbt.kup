@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Boss_0000" offset="00" relocatable="true" max_length="0">
 			<original>最初のイイダボムです！ 胸に５コ、投下！</original>
-			<edited>第一发饭田炸弹！胸口5个，投放！</edited>
+			<edited>第一波饭田炸弹！投往胸口5个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0001" offset="00" relocatable="true" max_length="0">
 			<original>３０秒経過！ イイダボム、首の回りに５コ、投下！</original>
-			<edited>30秒到！饭田炸弹，脖子周围5个，投放！</edited>
+			<edited>30秒经过！饭田炸弹投往颈部周围5个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0002" offset="00" relocatable="true" max_length="0">
 			<original>６０秒経過！ イイダボム、背中に５コ、投下！</original>
-			<edited>60秒到！饭田炸弹，后背5个，投放！</edited>
+			<edited>60秒经过！饭田炸弹投往后背5个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0003" offset="00" relocatable="true" max_length="0">
 			<original>９０秒経過！ イイダボム 右ウデに５コ、投下！</original>
-			<edited>90秒到！饭田炸弹，右臂5个，投放！</edited>
+			<edited>90秒经过！饭田炸弹投往右臂5个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0004" offset="00" relocatable="true" max_length="0">
 			<original>１２０秒経過！ 最後です！ 頭に１０コ、投下！</original>
-			<edited>120秒到！最后一发！头顶10个，投放！</edited>
+			<edited>120秒经过！最后一波！投往头顶10个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0005" offset="00" relocatable="true" max_length="0">
@@ -40,107 +40,107 @@
 		</entry>
 		<entry name="Boss_0007" offset="00" relocatable="true" max_length="0">
 			<original>８号！ 首にあるポイント近くで 待機じゃ！</original>
-			<edited>8号！在脖子上的标记点附近待命！</edited>
+			<edited>8号！在颈部标记点附近待命！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0008" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです！ 次は首に投げます！ 少々お待ちを…</original>
-			<edited>漂亮！接下来投脖子！请稍等…</edited>
+			<edited>漂亮！下一波投往颈部！请稍候……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0009" offset="00" relocatable="true" max_length="0">
 			<original>８号、聞こえたか？！ 背中側に先回りするんじゃ！</original>
-			<edited>8号，听到了吗？！绕到背面去！</edited>
+			<edited>8号，听到了吗？！快绕到背后去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0010" offset="00" relocatable="true" max_length="0">
 			<original>OK！ 次は背中側に投げます！ 少々お待ちを…</original>
-			<edited>OK！接下来投背面！请稍等…</edited>
+			<edited>OK！下一波投往背后！请稍候……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0011" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ まちがうなよ！ 像の右ウデに、急げ！</original>
-			<edited>小八！别搞错了！去像的右臂，快！</edited>
+			<edited>小八！别跑错了！快去涅尔像的右臂！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0012" offset="00" relocatable="true" max_length="0">
 			<original>次は右ウデの方に投下します！ 少々お待ちを…</original>
-			<edited>接下来投向右臂方向！请稍等…</edited>
+			<edited>下一波投往右臂！请稍候……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0013" offset="00" relocatable="true" max_length="0">
 			<original>ライドレールを使って、頭に向かえィ！</original>
-			<edited>用墨汁轨道，冲向头部！</edited>
+			<edited>借助墨汁轨道，前往头部！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0014" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです！ 最後は頭です！ 少々お待ちを…</original>
-			<edited>漂亮！最后一发是头部！请稍等…</edited>
+			<edited>漂亮！最后一波投往头部！请稍候……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0015" offset="00" relocatable="true" max_length="0">
 			<original>８号さん！ 移動用に　この子達を使ってください！</original>
-			<edited>8号！移动时请用这些小家伙！</edited>
+			<edited>8号！移动时用上这些小家伙吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0016" offset="00" relocatable="true" max_length="0">
 			<original>最初は 胸の辺りに５コ</original>
-			<edited>先是在胸口附近5个</edited>
+			<edited>首先在胸口附近投放5个</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0017" offset="00" relocatable="true" max_length="0">
 			<original>その３０秒後に、首の回りに５コ</original>
-			<edited>30秒后，脖子周围5个</edited>
+			<edited>30秒后，在颈部周围投放5个</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0018" offset="00" relocatable="true" max_length="0">
 			<original>６０秒後に、背中に５コ</original>
-			<edited>60秒后，后背5个</edited>
+			<edited>60秒后，投往后背5个</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0019" offset="00" relocatable="true" max_length="0">
 			<original>９０秒後に、右ウデに５コ</original>
-			<edited>90秒后，右臂5个</edited>
+			<edited>90秒后，投往右臂5个</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0020" offset="00" relocatable="true" max_length="0">
 			<original>最後 １２０秒後に、頭に１０コ</original>
-			<edited>最后120秒后，头顶10个</edited>
+			<edited>最后在120秒后，投往头顶10个</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0021" offset="00" relocatable="true" max_length="0">
 			<original>このイイダボムを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３分以内&#xE;&#x0;&#x3;&#x2;ÿÿに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;全部&#xE;&#x0;&#x3;&#x2;ÿÿ壊してください</original>
-			<edited>请把这些饭田炸弹在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3分钟以内&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;全部&#xE;&#x0;&#x3;&#x2;ÿÿ破坏掉</edited>
+			<edited>请在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;3分钟内&#xE;&#x0;&#x3;&#x2;ÿÿ破坏&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;所有&#xE;&#x0;&#x3;&#x2;ÿÿ饭田炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0023" offset="00" relocatable="true" max_length="0">
 			<original>イイダボムは これらのポイントに投下します！ </original>
-			<edited>饭田炸弹将投放到这些标记点！ </edited>
+			<edited>饭田炸弹会投放到这些标记点！ </edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0025" offset="00" relocatable="true" max_length="0">
 			<original>まだ 胸にイイダボムが あるぞィ！</original>
-			<edited>胸口的饭田炸弹还在哦！</edited>
+			<edited>胸口的饭田炸弹还在！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0026" offset="00" relocatable="true" max_length="0">
 			<original>胸にイイダボム、残ってんゾ！</original>
-			<edited>胸口的饭田炸弹还留着呢！</edited>
+			<edited>胸口还有饭田炸弹！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0027" offset="00" relocatable="true" max_length="0">
 			<original>ん？ 胸のイイダボム、忘とらんか？</original>
-			<edited>嗯？胸口的饭田炸弹，没忘吧？</edited>
+			<edited>嗯？没忘记胸口的饭田炸弹吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0028" offset="00" relocatable="true" max_length="0">
 			<original>首のイイダボム、壊したほうがいーんじゃねーか？</original>
-			<edited>脖子的饭田炸弹，还是打掉比较好吧？</edited>
+			<edited>颈部的饭田炸弹，还是快打掉吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0029" offset="00" relocatable="true" max_length="0">
 			<original>８号！ 首にイイダボム、残っとるぞィ！</original>
-			<edited>8号！脖子的饭田炸弹还留着哦！</edited>
+			<edited>8号！颈部还有饭田炸弹！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0030" offset="00" relocatable="true" max_length="0">
@@ -155,17 +155,17 @@
 		</entry>
 		<entry name="Boss_0032" offset="00" relocatable="true" max_length="0">
 			<original>ホレ！ 背中のイイダボム、見のがしとるぞィ！</original>
-			<edited>喂！背上的饭田炸弹，你漏掉了！</edited>
+			<edited>喂！你漏掉背上的饭田炸弹了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0033" offset="00" relocatable="true" max_length="0">
 			<original>首のイイダボム、放置されてんゾ！</original>
-			<edited>脖子的饭田炸弹，你放着不管呢！</edited>
+			<edited>你把颈部的饭田炸弹放着不管呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0034" offset="00" relocatable="true" max_length="0">
 			<original>おい！ 胸のイイダボム、見のがしてんゾ！</original>
-			<edited>喂！胸口的饭田炸弹，你漏掉了！</edited>
+			<edited>喂！你漏掉胸口的饭田炸弹了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0035" offset="00" relocatable="true" max_length="0">
@@ -175,17 +175,17 @@
 		</entry>
 		<entry name="Boss_0036" offset="00" relocatable="true" max_length="0">
 			<original>ネルス像のチャージが止まりました！</original>
-			<edited>涅尔像的充能停止了！</edited>
+			<edited>涅尔像已停止充能！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0037" offset="00" relocatable="true" max_length="0">
 			<original>８号！ こっちの準備ができるまで、そこで待っとれィ！</original>
-			<edited>8号！在我们准备好之前，先在那里等着！</edited>
+			<edited>8号！在我们准备好前，先在那里待命！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0038" offset="00" relocatable="true" max_length="0">
 			<original>テンション、そろそろ いいゾ！</original>
-			<edited>状态，差不多到位了！</edited>
+			<edited>气氛差不多热起来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0039" offset="00" relocatable="true" max_length="0">
@@ -195,12 +195,12 @@
 		</entry>
 		<entry name="Boss_0040" offset="00" relocatable="true" max_length="0">
 			<original>Elegantで Dramatic、かつ Amazingなボム…</original>
-			<edited>既优雅又戏剧化，还令人惊叹的炸弹…</edited>
+			<edited>优雅、戏剧性十足、又令人惊叹的炸弹……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0041" offset="00" relocatable="true" max_length="0">
 			<original>略したら『E-DA』ボムに なっちゃったんですよ～</original>
-			<edited>一缩写，就成了“E-DA”炸弹了～</edited>
+			<edited>缩写后，就成了“E-DA”炸弹～</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0042" offset="00" relocatable="true" max_length="0">
@@ -215,22 +215,22 @@
 		</entry>
 		<entry name="Boss_0044" offset="00" relocatable="true" max_length="0">
 			<original>ガ… 魚介類よ、このまま大人しく ネリ返されるがヨイ</original>
-			<edited>嘎…鱼类们，就乖乖地被重塑吧</edited>
+			<edited>嘎……鱼虾贝类啊，乖乖接受重塑吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0045" offset="00" relocatable="true" max_length="0">
 			<original>ガッ！ 貴様らはネリ返され、新世界の一部となるノダ！</original>
-			<edited>嘎！你们将被重塑，成为新世界的一部分！</edited>
+			<edited>嘎！你们会被重塑，成为新世界的一部分！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0046" offset="00" relocatable="true" max_length="0">
 			<original>ガガ… この世界をネリ返し、博士の求めた世界ヲ…</original>
-			<edited>嘎嘎…重塑这个世界，实现博士所求的世界…</edited>
+			<edited>嘎嘎……重塑这个世界，造就博士所求的世界……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0047" offset="00" relocatable="true" max_length="0">
 			<original>ガガッ… ムダだ、No.10008！ ネルス像は止めらレン！</original>
-			<edited>嘎嘎…没用的，No.10008！涅尔像是停不下来的！</edited>
+			<edited>嘎嘎……没用的，No.10008！涅尔像无法停止！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Boss_0048" offset="00" relocatable="true" max_length="0">
