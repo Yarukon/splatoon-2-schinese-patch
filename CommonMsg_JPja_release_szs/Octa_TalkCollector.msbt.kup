@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -6,40 +6,40 @@
 		<entry name="Talk_Free_00" offset="00" relocatable="true" max_length="0">
 			<original>「ワガハイはタコである 名前はまだない」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 …ってか？</original>
-			<edited>「吾辈是章鱼，名字还没有」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-…这样？</edited>
+			<edited>「吾辈乃章鱼，尚未有名。」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……是这样吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_01" offset="00" relocatable="true" max_length="0">
 			<original>ふるさとはいつも 心のなかにある…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 はなれていても キミは恐れることなんてない…</original>
-			<edited>故乡一直都在心里…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-即使分隔两地，你也无需畏惧…</edited>
+			<edited>故乡一直都在心中……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+即使相隔两地，你也不必害怕……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_02" offset="00" relocatable="true" max_length="0">
 			<original>ハチくんは 暗い海の底に差しこんだ 一筋の光…</original>
-			<edited>小八，是射进黑暗海底的一缕光…</edited>
+			<edited>小八是照进漆黑海底的一束光……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_03" offset="00" relocatable="true" max_length="0">
 			<original>ハチくんの ネリメモリーは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 キラキラした あこがれに 満ちているね…</original>
 			<edited>小八的记忆蛋糕，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-充满了闪闪发光的憧憬呢…</edited>
+满载着闪闪发亮的憧憬呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_04" offset="00" relocatable="true" max_length="0">
 			<original>あのじいさん… オレのぬいぐるみを
 じっと見つめていたんだけど…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 好きなのかな……</original>
-			<edited>那老头子…一直盯着我的玩偶看…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 他是喜欢吗……</edited>
+			<edited>那老头子……一直盯着我的玩偶看……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;他很喜欢吗……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_05" offset="00" relocatable="true" max_length="0">
 			<original>じいさんから ラップを習ったけど、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 オレには ゆっくりと、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢について語ることしかできない…</original>
-			<edited>跟老头子学了说唱，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-但我只会慢慢地，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 讲述梦想…</edited>
+			<edited>虽然跟老头子学了说唱，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+我却只会慢慢地，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;诉说梦想……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_06" offset="00" relocatable="true" max_length="0">
@@ -55,22 +55,22 @@
 		<entry name="Talk_Free_08" offset="00" relocatable="true" max_length="0">
 			<original>おじさんよりも、若い子と話したかったって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ………ごめん</original>
-			<edited>比起大叔，你更想跟年轻人聊天吗…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-………对不起</edited>
+			<edited>你是不是比起大叔，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+更想和年轻人聊天……？……对不起。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_09" offset="00" relocatable="true" max_length="0">
 			<original>井の中のグソク、大海を知らず…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 されど 深海のヤミの深さは よく知っている…</original>
-			<edited>井底的具足虫，不知大海…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-但深海黑暗的深度，我可是很清楚的…</edited>
+			<edited>井底具足虫，不知大海……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+但我很清楚深海黑暗的深度……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_10" offset="00" relocatable="true" max_length="0">
 			<original>このアタッシュケースには 何が入ってるかって？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ……夢と希望だよ</original>
-			<edited>你问这个公文包里装了什么？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-……是梦想和希望哦</edited>
+			<edited>你问这个公文包里装着什么？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……是梦想和希望。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_11" offset="00" relocatable="true" max_length="0">
@@ -81,32 +81,32 @@
 		<entry name="Talk_Free_12" offset="00" relocatable="true" max_length="0">
 			<original>おじさんの チャームポイントはどこかって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ………おヒゲだよ</original>
-			<edited>你问大叔的魅力点在哪里…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-………是胡子哦</edited>
+			<edited>你问大叔的魅力在哪里……？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……是胡子。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_13" offset="00" relocatable="true" max_length="0">
 			<original>おじさんが　今いるココは　ドコなんだろう…</original>
-			<edited>大叔现在所在的这里，究竟是哪里呢…</edited>
+			<edited>大叔现在所在的地方，究竟是哪里呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_14" offset="00" relocatable="true" max_length="0">
 			<original>欲望という名の　メトロに乗って…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 ハイカラという名の　駅で降りたい…</original>
-			<edited>乘上名为欲望的地铁…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-想在名为尚兴的车站下车…</edited>
+			<edited>乘上名为欲望的地铁……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+想在名为尚兴的车站下车……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_15" offset="00" relocatable="true" max_length="0">
 			<original>深海メトロは 下車するときに 料金を払うんだ…</original>
-			<edited>深海地铁是在下车的时候付钱的…</edited>
+			<edited>深海地铁要在下车时付费……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_16" offset="00" relocatable="true" max_length="0">
 			<original>路線によって 車窓の風景は移ろう…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 それもまた 乗りかえの一興…</original>
-			<edited>不同线路，车窗外的风景各不相同…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-这也是换乘的一番乐趣…</edited>
+			<edited>不同线路，窗外的风景也各不相同……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+这也是换乘的乐趣之一……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_17" offset="00" relocatable="true" max_length="0">
@@ -117,8 +117,8 @@
 		<entry name="Talk_Free_18" offset="00" relocatable="true" max_length="0">
 			<original>乗ってる路線によって 客層は変わる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 みんな 帰る場所が あるんだね…</original>
-			<edited>乘坐的线路不同，乘客也会不同…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-每个人都有要回去的地方呢…</edited>
+			<edited>所乘线路不同，乘客也不同……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+每个人都有想回去的地方呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_19" offset="00" relocatable="true" max_length="0">
@@ -128,40 +128,40 @@
 		</entry>
 		<entry name="Talk_Free_20" offset="00" relocatable="true" max_length="0">
 			<original>夢を見れないヤツは&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 他人の夢を笑っちゃいけない…</original>
-			<edited>不会做梦的人，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 不该嘲笑别人的梦想…</edited>
+			<edited>不会做梦的人，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;不该嘲笑别人的梦想……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_21" offset="00" relocatable="true" max_length="0">
 			<original>上ばかり向いていると、首が痛くなってしまうだろ？&#xE;&#x0;&#x4;&#x0;…幸せって 案外、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 足元に 転がっていたり するのかもね……</original>
-			<edited>一直抬头看的话，脖子会疼的吧？&#xE;&#x0;&#x4;&#x0;…幸福这东西，说不定&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-就滚落在脚边呢……</edited>
+			<edited>总是仰头看，脖子会疼吧？&#xE;&#x0;&#x4;&#x0;……幸福这东西，说不定&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+就落在脚边呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_22" offset="00" relocatable="true" max_length="0">
 			<original>夢を見すぎると…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; つかれることも、あるよね…</original>
-			<edited>梦做得太多的话…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 也会累的吧…</edited>
+			<edited>梦做得太多……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;也会累的吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_23" offset="00" relocatable="true" max_length="0">
 			<original>「レールの しかれた 人生」 …&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 それもまた ひとつの夢の形なのかもしれないね…</original>
-			<edited>“铺好轨道的人生” …&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-那或许也是梦想的一种形态吧…</edited>
+			<edited>“铺好轨道的人生”……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+或许也是梦想的一种形态吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_24" offset="00" relocatable="true" max_length="0">
 			<original>生きる意味も 幸せも、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 夢のなかで 見つかるのかもしれないね…</original>
 			<edited>活着的意义和幸福，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-或许都能在梦里找到吧…</edited>
+或许都能在梦中找到吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_25" offset="00" relocatable="true" max_length="0">
 			<original>キレイはきたない　きたないはキレイ…&#xE;&#x0;&#x4;&#x0;不完全なものも　美しいと思えるようになったとき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 この世界は ずっと かがやいて見えるようになる…</original>
-			<edited>干净是脏，脏是干净…&#xE;&#x0;&#x4;&#x0;当你能觉得不完美的东西也美的时候，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-这个世界看起来会一直闪闪发光…</edited>
+			<edited>洁净即污秽，污秽即洁净……&#xE;&#x0;&#x4;&#x0;当你也能觉得不完美的事物很美时，&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+这个世界便会一直闪闪发亮……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_26" offset="00" relocatable="true" max_length="0">
@@ -174,15 +174,15 @@
 		<entry name="Talk_Free_27" offset="00" relocatable="true" max_length="0">
 			<original>この列車の 外には、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 いったい どんな世界が 広がっているんだろう…</original>
-			<edited>这列火车之外，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-究竟展开着怎样的世界呢…</edited>
+			<edited>这列车之外，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+究竟有怎样的世界在延展呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_28" offset="00" relocatable="true" max_length="0">
 			<original>オレが旅をするのは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 どこかに　たどり着くためじゃあない…&#xE;&#x0;&#x4;&#x0;それはただ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　旅そのものが、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 楽しいからなんだ…</original>
 			<edited>我踏上旅途，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-不是为了抵达某处…&#xE;&#x0;&#x4;&#x0;只是…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 旅途本身，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 就让我快乐…</edited>
+并不是为了抵达某处……&#xE;&#x0;&#x4;&#x0;只是因为……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;旅途本身，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;就让我感到快乐……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_29" offset="00" relocatable="true" max_length="0">
@@ -190,44 +190,44 @@
 けっこう たくさん あるんだけど…&#xE;&#x0;&#x4;&#x0;強いて ひとつ理由を挙げるなら…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 “旅する理由”を 見つけるためなんだ…</original>
 			<edited>大叔踏上旅途的理由，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-其实有很多…&#xE;&#x0;&#x4;&#x0;硬要说一个的话…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-就是为了寻找“旅行的理由”…</edited>
+其实有很多……&#xE;&#x0;&#x4;&#x0;硬要说一个的话……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+就是为了寻找“旅行的理由”……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_30" offset="00" relocatable="true" max_length="0">
 			<original>ナマコくんのことは 昔から知っているよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 だってオレ… ずっと列車、乗ってるからね…</original>
-			<edited>海参君的事，我很久以前就知道了…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-因为我…一直坐在这列车上嘛…</edited>
+			<edited>海参君的事，我从很久以前就知道……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+因为我……一直乘着这列车嘛……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_31" offset="00" relocatable="true" max_length="0">
 			<original>ナマコくんは 働き者だよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 おじさんの 100倍くらい、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 働き者だよ…</original>
-			<edited>海参君是个勤劳的家伙…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-大约是大叔的100倍，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 那么勤劳…</edited>
+			<edited>海参君是个勤快的家伙……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+大概比大叔勤快100倍，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;就是这么勤快……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_32" offset="00" relocatable="true" max_length="0">
 			<original>ネリメモリーそろえたら 見せてくれよな…</original>
-			<edited>收集齐记忆蛋糕的话，给我看看吧…</edited>
+			<edited>集齐记忆蛋糕后，拿给我看看吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_33" offset="00" relocatable="true" max_length="0">
 			<original>ネリメモリーはね、夢みたいなものなんだ…</original>
-			<edited>记忆蛋糕啊，就像梦一样的东西…</edited>
+			<edited>记忆蛋糕啊，就像梦一样……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_34" offset="00" relocatable="true" max_length="0">
 			<original>コレクションに、実用性なんて求めちゃいけない…</original>
-			<edited>收藏品，可不能追求实用性…</edited>
+			<edited>收藏，可不能追求实用性……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_35" offset="00" relocatable="true" max_length="0">
 			<original>だれかにとっての ガラクタは、 だれかにとっては 宝物…&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
 その価値を決めるのは、 “愛” …</original>
-			<edited>对某人来说是废品的东西，对另一个人来说就是宝物…&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
-决定其价值的，是“爱”…</edited>
+			<edited>对某人而言是废品的东西，对另一个人而言却是宝物……&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
+决定价值的，是“爱”……</edited>
 			<subEntries />
 		</entry>
 	</entries>
