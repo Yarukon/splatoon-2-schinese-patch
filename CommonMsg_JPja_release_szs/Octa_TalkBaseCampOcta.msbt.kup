@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -6,29 +6,29 @@
 		<entry name="Clear_05" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í本目の路線&#xE;&#x0;&#x3;&#x2;ÿÿ にたどり着きましタ…
 路線図に 表示いたしまス</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í条线路&#xE;&#x0;&#x3;&#x2;ÿÿ 已经抵达了…
+			<edited>已抵达第&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í条线路&#xE;&#x0;&#x3;&#x2;ÿÿ……
 已显示在路线图上</edited>
 			<subEntries />
 		</entry>
 		<entry name="Clear_06" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;0&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で示している場所に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿがあるようでス…
 そこを目指してくださイ</original>
-			<edited>&#xE;&#x2;0&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;标记的地方，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4个那东西 &#xE;&#x0;&#x3;&#x2;ÿÿ似乎在那里…
-请以那里为目标</edited>
+			<edited>&#xE;&#x2;0&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;标记的地方，似乎有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4个那东西&#xE;&#x0;&#x3;&#x2;ÿÿ……
+请朝那里前进</edited>
 			<subEntries />
 		</entry>
 		<entry name="Clear_07" offset="00" relocatable="true" max_length="0">
 			<original>ちなみに この路線には &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿはないようでス…
 また 新しい路線を 探してくださイ</original>
-			<edited>顺便一提，这条线路上&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4个那东西&#xE;&#x0;&#x3;&#x2;ÿÿ似乎没有…
-请再找找新的线路</edited>
+			<edited>顺带一提，这条线路上似乎没有&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4个那东西&#xE;&#x0;&#x3;&#x2;ÿÿ……
+再找找其他线路吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Clear_08" offset="00" relocatable="true" max_length="0">
 			<original>新たな路線を見つけたので &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボーナス &#xE;&#x0;&#x3;&#x2;ÿÿを差し上げまス
 ワタクシのところまで おこしくださイ…</original>
-			<edited>因为找到了新的线路，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;奖励 &#xE;&#x0;&#x3;&#x2;ÿÿ送给您
-请到我这来一趟…</edited>
+			<edited>发现了新线路，送您&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;奖励&#xE;&#x0;&#x3;&#x2;ÿÿ。
+请到我这里来一趟……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Clear_03" offset="00" relocatable="true" max_length="0">
@@ -37,74 +37,73 @@
 &#xE;&#x0;&#x4;&#x0;そんな &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャットログ&#xE;&#x0;&#x3;&#x2;ÿÿ せっかくなので、
 ８号さんも見られるように 改造しておきました！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で切りかえて、
 息ぬきに 見てみてくださいね♪</original>
-			<edited>啊，对了…在8号努力挑战的时候，
-鱼干司令一直喊“好闲啊！”，所以&#xE;&#x0;&#x4;&#x0;我们就在聊天里聊了起来～
-&#xE;&#x0;&#x4;&#x0;这份&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;聊天记录&#xE;&#x0;&#x3;&#x2;ÿÿ难得记下来了，
-我改造了一下，让8号也能看到！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;用切换一下，
-累了的时候看看吧♪</edited>
+			<edited>对了…8号挑战期间，
+鱼干司令一直嚷着“好闲啊！”，&#xE;&#x0;&#x4;&#x0;我们就聊了起来～
+&#xE;&#x0;&#x4;&#x0;难得留下了这份&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;聊天记录&#xE;&#x0;&#x3;&#x2;ÿÿ，
+我改造了一下，让8号也能看到！&#xE;&#x0;&#x4;&#x0;按&#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;切换，
+累了就来看看吧♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Clear_04" offset="00" relocatable="true" max_length="0">
 			<original>新しい &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャットログ &#xE;&#x0;&#x3;&#x2;ÿÿを送信しておきました！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 息ぬきに 見てみてくださいね♪</original>
-			<edited>新的 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;聊天记录 &#xE;&#x0;&#x3;&#x2;ÿÿ已经发送过去了！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-累了的时候看看吧♪</edited>
+			<edited>新的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;聊天记录&#xE;&#x0;&#x3;&#x2;ÿÿ已经发给您了！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+累了就来看看吧♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Clear_09" offset="00" relocatable="true" max_length="0">
 			<original>あら… どうやら 知らない方から　
 チャットログへの 書きこみがあったようです…&#xE;&#x0;&#x4;&#x0;まぁ せっかくなので、
 ８号さんも見られるように しておきますね♪</original>
-			<edited>哎呀…好像有陌生人
-往聊天记录里留言了…&#xE;&#x0;&#x4;&#x0;嘛，难得如此，
-我会让8号也能看到的♪</edited>
+			<edited>哎呀……好像有陌生人在
+聊天记录里留言了……&#xE;&#x0;&#x4;&#x0;既然难得遇上，
+我也让8号能看到吧♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_00" offset="00" relocatable="true" max_length="0">
 			<original>ポイント 足りなくなっちゃいましたね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 他にチャレンジできる駅を 探してみましょ！</original>
-			<edited>积分不够了呢…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>积分用完了呢……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 去找找其他能挑战的车站吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_01" offset="00" relocatable="true" max_length="0">
 			<original>あら…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　もしかしてポイント…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 足りなくなっちゃいました…？</original>
-			<edited>哎呀…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 难道说积分…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-不够了…？</edited>
+			<edited>哎呀……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;难道是积分……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+不够了……？</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_02" offset="00" relocatable="true" max_length="0">
 			<original>ギョギョ…ッ？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; おヌシ、ちと
 カネづかいが あらすぎるんじゃないか…？</original>
-			<edited>咕咕…？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 你啊，花钱
-也太厉害了吧…？</edited>
+			<edited>咕咕……？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;您啊，花钱也太大手大脚了吧……？</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_03" offset="00" relocatable="true" max_length="0">
 			<original>チャレンジクリア、おめでとうございますっ！
 でも、新しい駅に行くには ポイント足りなそうですね…</original>
-			<edited>挑战通关，恭喜！
-不过，要去新车站，积分好像不够呢…</edited>
+			<edited>恭喜通过挑战！
+不过，去新车站好像还需要更多积分……</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_04" offset="00" relocatable="true" max_length="0">
 			<original>ありゃりゃ… まぁ、ときにはそういう不運もあるじゃろう…</original>
-			<edited>哎呀呀… 嘛，有时候就是会碰上这种霉运吧…</edited>
+			<edited>哎呀呀……不过，人有时就是会走霉运……</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_05" offset="00" relocatable="true" max_length="0">
 			<original>ったく しゃーねーな！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 パパのポケットマネーから送ってやるから　ちょっと待ってな！</original>
-			<edited>真是没办法！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-用老爸的零花钱给你转过去，稍等啊！</edited>
+			<edited>真拿你没办法！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+我从老爸的零花钱里转给你，等一下啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_06" offset="00" relocatable="true" max_length="0">
 			<original>もぉセンパイったら…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こっちのおカネ送ってもしょうがない
 から、 NAMACOポイントに 変換しておきますね…</original>
-			<edited>哎呀前辈真是的…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 转这边的钱也没用，
-我给你换成NAMACO积分吧…</edited>
+			<edited>前辈真是的……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;把这边的钱转过去也没用，
+我帮您换成NAMACO积分吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_07" offset="00" relocatable="true" max_length="0">
@@ -114,14 +113,14 @@
 		</entry>
 		<entry name="GameOver_08" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;はい、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 送っておきました♪</original>
-			<edited>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;好，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 给你转过去了♪</edited>
+			<edited>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;好了，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x3;&#x2;ÿÿ已经转给您了♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_09" offset="00" relocatable="true" max_length="0">
 			<original>ネル社のシステムの セキュリティホールを見つけたので、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 これくらいなら バレずにできちゃいます！</original>
-			<edited>发现了涅尔社系统的安全漏洞，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-这点程度不会暴露的！</edited>
+			<edited>我发现了涅尔社系统的安全漏洞，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+这点程度还不会被发现！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_10" offset="00" relocatable="true" max_length="0">
@@ -132,27 +131,27 @@
 		<entry name="GameOver_11" offset="00" relocatable="true" max_length="0">
 			<original>まぁ、あとで返しときゃいーだろ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 返すときは とりま ジジィに声かけろよッ！</original>
-			<edited>嘛，以后还上就行了！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-要还的话，先找那老头子说一声！</edited>
+			<edited>嘛，之后还上就行了！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+要还的时候，先跟那老头子说一声！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_12" offset="00" relocatable="true" max_length="0">
 			<original>これからも おカネ足りなくなったら、
 いつでもアタシに 言ってくれよなッ！</original>
-			<edited>以后钱不够了，
+			<edited>以后要是钱不够，
 随时跟我说啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_13" offset="00" relocatable="true" max_length="0">
 			<original>おヌシは ちと ８号を甘やかしすぎじゃと ワシは思う！</original>
-			<edited>老夫觉得，你对8号太溺爱了！</edited>
+			<edited>老夫看啊，你太宠着8号了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_14" offset="00" relocatable="true" max_length="0">
 			<original>８号さんも 借金返せるときは、
 ちゃんと 返してくださいね！</original>
-			<edited>8号，能还债的时候，
-请好好还上！</edited>
+			<edited>8号，能还债时
+可要好好还上啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GameOver_15" offset="00" relocatable="true" max_length="0">
@@ -172,59 +171,59 @@
 		<entry name="LineOpen_After_00" offset="00" relocatable="true" max_length="0">
 			<original>新たな路線に たどり着いたことを評価し、
 NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
-			<edited>因为您抵达了新的线路，
-送您NAMACO积分…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿ 请收下</edited>
+			<edited>抵达新线路，
+这是给您的NAMACO积分……&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ请收下</edited>
 			<subEntries />
 		</entry>
 		<entry name="LineOpen_After_01" offset="00" relocatable="true" max_length="0">
 			<original>No.10008は 全ての路線を 見つけましタ
 最後のNAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
-			<edited>No.10008已经发现了所有线路
-送上最后的NAMACO积分…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿ 请收下</edited>
+			<edited>No.10008已经找到了全部线路
+这是最后的NAMACO积分……&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ请收下</edited>
 			<subEntries />
 		</entry>
 		<entry name="LineOpen_After_02" offset="00" relocatable="true" max_length="0">
 			<original>新たな路線に たどり着いたことを評価し、
 NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;たまっていた分も 合わせて、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
-			<edited>因为您抵达了新的线路，
-送您NAMACO积分…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;连同之前累积的，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿ 请收下</edited>
+			<edited>抵达新线路，
+这是给您的NAMACO积分……&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;连同之前积累的，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ请收下</edited>
 			<subEntries />
 		</entry>
 		<entry name="LineOpen_After_03" offset="00" relocatable="true" max_length="0">
 			<original>No.10008は 全ての路線を 見つけましタ
 最後のNAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;たまっていた分も 合わせて、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
-			<edited>No.10008已经发现了所有线路
-送上最后的NAMACO积分…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;连同之前累积的，
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿ 请收下</edited>
+			<edited>No.10008已经找到了全部线路
+这是最后的NAMACO积分……&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;连同之前积累的，
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ请收下</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_00" offset="00" relocatable="true" max_length="0">
 			<original>おおッ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんじゃこれは？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 最近のメカは すごいのゥ…</original>
-			<edited>哦哦！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;这是啥？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-最近的机器真厉害啊…</edited>
+			<edited>哦！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;这是什么？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+现在的机械真厉害啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;路線図&#xE;&#x0;&#x3;&#x2;ÿÿ が うかび上がりましタ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 行きたい駅を お選びくださイ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;路线图&#xE;&#x0;&#x3;&#x2;ÿÿ 浮现出来了… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;路线图&#xE;&#x0;&#x3;&#x2;ÿÿ浮现出来了……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 请选择想去的车站</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_02" offset="00" relocatable="true" max_length="0">
 			<original>そこは 先ほど乗車された 深海メトロ中央駅でス…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 次は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;となりの駅&#xE;&#x0;&#x3;&#x2;ÿÿ へ行かれてみてはいかがでしょウ…？</original>
-			<edited>那里是您刚才乘坐的 深海地铁中央站…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-下次&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;去相邻的车站&#xE;&#x0;&#x3;&#x2;ÿÿ 看看如何呢…？</edited>
+			<edited>那是您刚才乘坐的深海地铁中央站……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+下次去&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;相邻车站&#xE;&#x0;&#x3;&#x2;ÿÿ看看如何……？</edited>
 			<subEntries />
 		</entry>
 		<entry name="First_03" offset="00" relocatable="true" max_length="0">
 			<original>それでは 初めてのチャレンジへ 出発いたしまス</original>
-			<edited>那么，向首次挑战出发</edited>
+			<edited>那么，出发去第一次挑战吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstClear_00" offset="00" relocatable="true" max_length="0">
@@ -232,49 +231,48 @@ NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0
 １つ目のチャレンジを クリアしましタ&#xE;&#x0;&#x4;&#x0;あなたが 帰りのホームで 受け取ったこのアイテムは、
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿといいまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿとは　あなたのココロを読みとり、
 それを練り上げたモノ</original>
-			<edited>恭喜…
-您通过了第一个挑战&#xE;&#x0;&#x4;&#x0;您在返程站台收到的这个物品，
-叫作&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;记忆蛋糕&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;记忆蛋糕&#xE;&#x0;&#x3;&#x2;ÿÿ，就是读取你的内心，
-将其锤炼而成的东西</edited>
+			<edited>恭喜……
+您通过了第一次挑战&#xE;&#x0;&#x4;&#x0;您在返程站台收到的物品叫作&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;记忆蛋糕&#xE;&#x0;&#x3;&#x2;ÿÿ。&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;记忆蛋糕&#xE;&#x0;&#x3;&#x2;ÿÿ能读取您的内心，
+将其凝练而成。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstClear_01" offset="00" relocatable="true" max_length="0">
 			<original>チャレンジをクリアする度に、
 ネル社から 記念として 差し上げまス&#xE;&#x0;&#x4;&#x0;NAMACO端末メニューを &#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で切りかえれば、
 ネリメモリーの取得具合を 確認できまス</original>
-			<edited>每次通过挑战，
-涅尔社都会作为纪念送给您&#xE;&#x0;&#x4;&#x0;用NAMACO终端菜单 &#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;切换，
-就能确认记忆蛋糕的收集情况</edited>
+			<edited>每通过一次挑战，
+涅尔社都会送您一份纪念礼物&#xE;&#x0;&#x4;&#x0;在NAMACO终端菜单中按&#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;切换，
+即可查看记忆蛋糕的收集情况</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstClear_02" offset="00" relocatable="true" max_length="0">
 			<original>あなたの チャレンジできる駅が 増えましタ&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;/&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で示された駅を 自由にえらんで 進んでくださイ&#xE;&#x0;&#x4;&#x0;それでは よい旅ヲ…</original>
-			<edited>您可以挑战的车站增加了&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;/&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 标记的车站可以自由选择前进&#xE;&#x0;&#x4;&#x0;那么，祝您旅途愉快…</edited>
+			<edited>可挑战的车站增加了&#xE;&#x0;&#x4;&#x0;自由选择&#xE;&#x2;/&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;标记的车站前进&#xE;&#x0;&#x4;&#x0;那么，祝您旅途愉快……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FakeClear_00" offset="00" relocatable="true" max_length="0">
 			<original>……ん？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; なんかこのネリメモリー 色うすくね？</original>
-			<edited>……嗯？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 这个记忆蛋糕，颜色是不是有点淡？</edited>
+			<edited>……嗯？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;这个记忆蛋糕，颜色好像有点淡？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FakeClear_01" offset="00" relocatable="true" max_length="0">
 			<original>ホントですね…&#xE;&#x0;&#x4;&#x0;おそらくハッキングの影響で、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ８号さんのキオクが
 ちゃんと練られなかったんだと 思います…</original>
-			<edited>真的呢…&#xE;&#x0;&#x4;&#x0;大概是因为黑客的影响，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 8号的记忆
-没能好好锤炼吧…</edited>
+			<edited>确实呢……&#xE;&#x0;&#x4;&#x0;大概是受黑客影响，&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;8号的记忆
+没能好好凝练出来……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FakeClear_02" offset="00" relocatable="true" max_length="0">
 			<original>へぇー……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　
 まぁ よく分かんねーけど クリアはクリアっしょ！！</original>
-			<edited>诶——……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 嘛，虽然搞不太懂，但通关就是通关！！</edited>
+			<edited>诶——……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;嘛，虽然不太明白，不过通关就是通关嘛！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FakeClear_03" offset="00" relocatable="true" max_length="0">
 			<original>そうですね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 色のついたネリメモリーが 欲しかったら
 またチャレンジすれば いいだけですし♪</original>
-			<edited>是啊！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 想要有颜色的记忆蛋糕的话，
-再挑战一次就好了♪</edited>
+			<edited>是啊！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;想要有颜色的记忆蛋糕，
+再挑战一次就行了♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="FakeClear_04" offset="00" relocatable="true" max_length="0">
@@ -287,17 +285,17 @@ NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0
 なんだか 居心地が良くてのゥ…&#xE;&#x0;&#x4;&#x0;…３号か？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ヤツならまだ やり残したことが
 あるっちゅーて またパトロールにもどったわィ！&#xE;&#x0;&#x4;&#x0;もしここで おヌシも やり残したことがあるなら、
 ワシも付き合ってやるぞィ！</original>
-			<edited>好久不见啊，8号！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 上次可真够呛啊！&#xE;&#x0;&#x4;&#x0;老夫也突然在意起来，就又来了这里……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-总觉得这里待着挺舒服的…&#xE;&#x0;&#x4;&#x0;…3号吗？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 那家伙说还有没做完的事，
-又回去巡逻了！&#xE;&#x0;&#x4;&#x0;要是你在这里也有没做完的事，
-老夫也奉陪到底！</edited>
+			<edited>好久不见啊，8号！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;上次真是辛苦你了！&#xE;&#x0;&#x4;&#x0;老夫突然有些在意，就又来这里看看……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+这里待着还挺舒服的……&#xE;&#x0;&#x4;&#x0;……3号吗？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;那家伙说还有没做完的事，
+又回去巡逻了！&#xE;&#x0;&#x4;&#x0;你要是在这里也有没做完的事，
+老夫就陪你到底！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossClear_01" offset="00" relocatable="true" max_length="0">
 			<original>No.10008… 毎度ご乗車 ありがとうございまス&#xE;&#x0;&#x4;&#x0;先日は ご苦労さまでしタ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 無事に 目的は達成されたようですネ</original>
-			<edited>No.10008… 感谢您每次乘车&#xE;&#x0;&#x4;&#x0;前几天辛苦您了…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-看来目的已顺利达成</edited>
+			<edited>No.10008……感谢您一直乘坐深海地铁&#xE;&#x0;&#x4;&#x0;前些日子辛苦您了……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+看来您已经顺利达成目的</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossClear_02" offset="00" relocatable="true" max_length="0">
@@ -305,35 +303,33 @@ NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0
 ネル社は バラバラになってしまいましたガ…&#xE;&#x0;&#x4;&#x0;深海メトロは 相も変わらず運行しておりまス…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 すべては お客サマの 満足のたメ…</original>
 			<edited>很遗憾，
-涅尔社已经四分五裂了，不过…&#xE;&#x0;&#x4;&#x0;深海地铁仍在照常运行…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-一切都是为了乘客的满意…</edited>
+涅尔社已经四分五裂了，不过……&#xE;&#x0;&#x4;&#x0;深海地铁仍一如既往地运行……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+一切都是为了让乘客满意……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossClear_03" offset="00" relocatable="true" max_length="0">
 			<original>…そこでさっそク、
 新しいサービスを 開始することにいたしましタ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACOポイントとアイテムを交換するサービス&#xE;&#x0;&#x3;&#x2;ÿÿ でス&#xE;&#x0;&#x4;&#x0;アナタの お役に立つ、
 貴重なアイテムを 取りそろえておりまス</original>
-			<edited>…于是我们立刻，
-开始了新的服务&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;用NAMACO积分兑换物品的服务&#xE;&#x0;&#x3;&#x2;ÿÿ 就是&#xE;&#x0;&#x4;&#x0;为您备好了
-各种有用的珍贵物品</edited>
+			<edited>……于是，我们马上决定开始一项新服务&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO积分兑换物品服务&#xE;&#x0;&#x3;&#x2;ÿÿ，&#xE;&#x0;&#x4;&#x0;为您准备了各种实用又珍贵的物品</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossClear_04" offset="00" relocatable="true" max_length="0">
 			<original>このサービスは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ にて
 展開しておりますので ぜひご利用くださイ…&#xE;&#x0;&#x4;&#x0;ご案内は 以上となりまス…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 お気をつけて 行ってらっしゃいまセ</original>
-			<edited>这项服务在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海地铁中央站&#xE;&#x0;&#x3;&#x2;ÿÿ 展开，
-欢迎使用…&#xE;&#x0;&#x4;&#x0;介绍到此为止…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-请小心，慢走</edited>
+			<edited>这项服务在&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海地铁中央站&#xE;&#x0;&#x3;&#x2;ÿÿ开展，
+欢迎前来使用……&#xE;&#x0;&#x4;&#x0;介绍就到这里……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+路上小心，慢走</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossClear_05" offset="00" relocatable="true" max_length="0">
 			<original>No.10008… お気づきでしょうカ？&#xE;&#x0;&#x4;&#x0;路線図上に &#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ の情報を追加しましタ
 こちらも 新しいサービスの ひとつでありまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の印がついた駅に行くと 良いことがありまス…
 ホームにいるワタクシに 声をかけてみてくださイ&#xE;&#x0;&#x4;&#x0;それでは 引きつづき よい旅ヲ…</original>
-			<edited>No.10008… 您注意到了吧？&#xE;&#x0;&#x4;&#x0;路线图上&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;涅尔勋章&#xE;&#x0;&#x3;&#x2;ÿÿ 的信息已追加
-这也是新服务之一&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;去带有标记的车站，会有好事…
-请跟站台上的我说说话&#xE;&#x0;&#x4;&#x0;那么，请继续旅途愉快…</edited>
+			<edited>No.10008……您注意到了吗？&#xE;&#x0;&#x4;&#x0;路线图上&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;已经追加了&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;涅尔勋章&#xE;&#x0;&#x3;&#x2;ÿÿ的信息。
+这也是新服务之一&#xE;&#x0;&#x4;&#x0;前往带有&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;标记的车站，就会有好事发生……
+请和站台上的我说说话&#xE;&#x0;&#x4;&#x0;那么，祝您旅途愉快……</edited>
 			<subEntries />
 		</entry>
 		<entry name="AllChallengeClear_00" offset="00" relocatable="true" max_length="0">
@@ -342,16 +338,16 @@ NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0
 これまでに 達成できた実験体は いませんでしタ…&#xE;&#x0;&#x4;&#x0;何かワタクシから お祝いをしたいでス……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 少々 お待ちくださイ…&#xE;&#x0;&#x4;&#x0;…&#xE;&#x0;&#x4;&#x0;……&#xE;&#x0;&#x4;&#x0;すみませン……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ワタクシには これくらいしか 用意できませんでしタ…</original>
-			<edited>No.10008…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-终于通过了全部挑战呢…&#xE;&#x0;&#x4;&#x0;太出色了…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-至今还没有实验体能做到…&#xE;&#x0;&#x4;&#x0;我想送上我的一点祝贺……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-请稍等…&#xE;&#x0;&#x4;&#x0;…&#xE;&#x0;&#x4;&#x0;……&#xE;&#x0;&#x4;&#x0;非常抱歉……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
-我只能准备到这种程度…</edited>
+			<edited>No.10008……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+终于通过全部挑战了呢……&#xE;&#x0;&#x4;&#x0;太了不起了……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+至今还没有实验体做到过……&#xE;&#x0;&#x4;&#x0;我也想送上一点贺礼……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+请稍候……&#xE;&#x0;&#x4;&#x0;……&#xE;&#x0;&#x4;&#x0;……&#xE;&#x0;&#x4;&#x0;非常抱歉……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+我只能准备这些……</edited>
 			<subEntries />
 		</entry>
 		<entry name="AllChallengeClear_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿ 请收下</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ请收下</edited>
 			<subEntries />
 		</entry>
 	</entries>
