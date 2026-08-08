@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="OBJ_0007" offset="00" relocatable="true" max_length="0">
 			<original>ボールバンパー</original>
-			<edited>球挡板</edited>
+			<edited>球缓冲板</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0008" offset="00" relocatable="true" max_length="0">
@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="OBJ_0072" offset="00" relocatable="true" max_length="0">
 			<original>カンヅメ発生装置</original>
-			<edited>罐头生成装置</edited>
+			<edited>武器罐头生成装置</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0071" offset="00" relocatable="true" max_length="0">
@@ -215,12 +215,12 @@
 		</entry>
 		<entry name="OBJ_0057" offset="00" relocatable="true" max_length="0">
 			<original>残機数</original>
-			<edited>剩余次数</edited>
+			<edited>剩余生命数</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0058" offset="00" relocatable="true" max_length="0">
 			<original>そうび画面</original>
-			<edited>装备画面</edited>
+			<edited>装备界面</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0059" offset="00" relocatable="true" max_length="0">

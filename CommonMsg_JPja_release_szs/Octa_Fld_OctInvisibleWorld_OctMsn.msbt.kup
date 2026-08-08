@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>見えないモノを見ましょウ</original>
-			<edited>去看那些看不见的东西吧</edited>
+			<edited>去看看那些看不见的东西吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
@@ -15,22 +15,22 @@
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>あせりは禁物… 急がば回レ…</original>
-			<edited>急躁是大忌…欲速则不达…</edited>
+			<edited>急躁是大忌……欲速则不达……</edited>
 			<subEntries />
 		</entry>
 		<entry name="InvisibleWorld_0000" offset="00" relocatable="true" max_length="0">
 			<original>ん？！ これって…</original>
-			<edited>嗯？！这是…</edited>
+			<edited>嗯？！这是……</edited>
 			<subEntries />
 		</entry>
 		<entry name="InvisibleWorld_0001" offset="00" relocatable="true" max_length="0">
 			<original>見えない地面です！ 塗って進みましょ～</original>
-			<edited>是看不见的地面！涂着前进吧～</edited>
+			<edited>是看不见的地面！边涂边前进吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="InvisibleWorld_0002" offset="00" relocatable="true" max_length="0">
 			<original>地面が見えるまで、撃って撃って撃ちつくせィ！</original>
-			<edited>在地面显现之前，打打打个不停！</edited>
+			<edited>在地面显现前，打个不停！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InvisibleWorld_0003" offset="00" relocatable="true" max_length="0">
@@ -50,7 +50,7 @@
 		</entry>
 		<entry name="InvisibleWorld_0006" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント発見！ 確認されたしーッ！</original>
-			<edited>发现跳跃点！请确认！</edited>
+			<edited>发现跳跃点！确认一下！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InvisibleWorld_0007" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="InvisibleWorld_0010" offset="00" relocatable="true" max_length="0">
 			<original>ゴールポイント発見、確認されたしーッ！</original>
-			<edited>发现终点，请确认！</edited>
+			<edited>发现终点，确认一下！</edited>
 			<subEntries />
 		</entry>
 	</entries>

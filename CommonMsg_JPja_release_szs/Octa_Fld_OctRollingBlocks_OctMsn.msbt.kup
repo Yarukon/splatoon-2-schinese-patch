@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>グルグル回る絶望の先にこそ 希望はあるのでス</original>
-			<edited>旋转的绝望尽头，才有希望</edited>
+			<edited>在旋转的绝望尽头，才有希望。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>スイッチ、それハ… 希望へのかけ橋でス</original>
-			<edited>开关，那是…通往希望的桥梁</edited>
+			<edited>开关，那是……通往希望的桥梁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>あわてず かけぬけましょウ</original>
-			<edited>别慌，冲过去吧</edited>
+			<edited>别慌，冲过去吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RollingBlocks_0000" offset="00" relocatable="true" max_length="0">
@@ -45,17 +45,17 @@
 		</entry>
 		<entry name="RollingBlocks_0005" offset="00" relocatable="true" max_length="0">
 			<original>センパイ… 時間は止まってないですよ</original>
-			<edited>前辈… 时间可没有停</edited>
+			<edited>前辈……时间可没有停。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RollingBlocks_0006" offset="00" relocatable="true" max_length="0">
 			<original>何度かクルクルさせたら 上に行けそうですね</original>
-			<edited>多转几次，好像能上去</edited>
+			<edited>多转几次，好像能上去。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RollingBlocks_0007" offset="00" relocatable="true" max_length="0">
 			<original>あれ… ここは橋がないぞ？</original>
-			<edited>咦… 这里没有桥？</edited>
+			<edited>咦……这里没有桥？</edited>
 			<subEntries />
 		</entry>
 		<entry name="RollingBlocks_0008" offset="00" relocatable="true" max_length="0">
@@ -65,12 +65,12 @@
 		</entry>
 		<entry name="RollingBlocks_0009" offset="00" relocatable="true" max_length="0">
 			<original>スイッチ… スイッチはどこじゃ…</original>
-			<edited>开关… 开关在哪…</edited>
+			<edited>开关……开关在哪儿……</edited>
 			<subEntries />
 		</entry>
 		<entry name="RollingBlocks_0010" offset="00" relocatable="true" max_length="0">
 			<original>ふりこが止まってるうちに ジャンプでわたりましょう！</original>
-			<edited>趁摆锤停下，跳过去吧！</edited>
+			<edited>趁摆锤停下时，跳过去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RollingBlocks_0011" offset="00" relocatable="true" max_length="0">

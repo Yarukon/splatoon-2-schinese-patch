@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ログポイントを８コ全て 集めてくださイ</original>
-			<edited>请收集全部8个记录点</edited>
+			<edited>请收集全部八个记录点。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ログポイントは、壊して触れれば ゲットとなりまス</original>
-			<edited>记录点打坏后触碰即可获得</edited>
+			<edited>打坏记录点后，触碰即可获得。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
@@ -20,12 +20,12 @@
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>カベが屋根にならないように 場所を確認しましょウ</original>
-			<edited>注意别让墙变成屋顶，确认好位置</edited>
+			<edited>注意别让墙变成屋顶，确认好位置。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0000" offset="00" relocatable="true" max_length="0">
 			<original>おー！  ぐるぐる回ってんなー</original>
-			<edited>哦——！转个不停呢</edited>
+			<edited>哦——！转个不停呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0001" offset="00" relocatable="true" max_length="0">
@@ -50,27 +50,27 @@
 		</entry>
 		<entry name="BigRotate_0005" offset="00" relocatable="true" max_length="0">
 			<original>３コ目ゲットだ！</original>
-			<edited>第3个到手！</edited>
+			<edited>第三个到手！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0006" offset="00" relocatable="true" max_length="0">
 			<original>グッド！ ４コ目じゃッ！</original>
-			<edited>好！第4个！</edited>
+			<edited>好！第四个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0007" offset="00" relocatable="true" max_length="0">
 			<original>５コ目！ まだあんのかー</original>
-			<edited>第5个！还有啊</edited>
+			<edited>第五个！还有呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0008" offset="00" relocatable="true" max_length="0">
 			<original>６コ目です あと少しですね！</original>
-			<edited>第6个，就差一点了！</edited>
+			<edited>第六个！就差一点了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0009" offset="00" relocatable="true" max_length="0">
 			<original>ふぁびゅらす、７コ目！ 次で最後じゃな！</original>
-			<edited>太棒了，第7个！下一个是最后！</edited>
+			<edited>太棒了，第七个！下一个就是最后！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0010" offset="00" relocatable="true" max_length="0">
@@ -80,7 +80,7 @@
 		</entry>
 		<entry name="BigRotate_0011" offset="00" relocatable="true" max_length="0">
 			<original>…あれは後づめ！ 敵さんが増えよるぞィ！</original>
-			<edited>…那是增援！敌人变多了！</edited>
+			<edited>……那是增援！敌人变多了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigRotate_0012" offset="00" relocatable="true" max_length="0">

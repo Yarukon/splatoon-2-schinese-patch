@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここは センプクでインクを回復できませン</original>
-			<edited>这里无法通过潜行回复墨汁</edited>
+			<edited>这里无法靠潜行回复墨汁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>インクが無くなると アウトでス</original>
-			<edited>墨汁用尽就算出局</edited>
+			<edited>墨汁用尽就算出局。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>手おくれになる前に 補給インクで回復してくださイ</original>
-			<edited>请赶在来不及之前用补给墨汁回复</edited>
+			<edited>请在来不及前用补给墨汁回复。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここはセンプクでは インクを回復できないようです</original>
-			<edited>这里好像无法通过潜行回复墨汁</edited>
+			<edited>这里好像无法靠潜行回复墨汁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0001" offset="00" relocatable="true" max_length="0">
 			<original>ワシみたいに干からびんようにな</original>
-			<edited>别像老夫一样干瘪了</edited>
+			<edited>别像老夫一样干瘪了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0002" offset="00" relocatable="true" max_length="0">
 			<original>残りのインク、よく見てけよー</original>
-			<edited>好好看着剩下的墨汁</edited>
+			<edited>留意剩余的墨汁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0003" offset="00" relocatable="true" max_length="0">
 			<original>インクがもうありませんよ！</original>
-			<edited>墨汁已经没有了！</edited>
+			<edited>墨汁已经用光了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0004" offset="00" relocatable="true" max_length="0">
 			<original>これでおハダも ツヤツヤじゃのゥ！</original>
-			<edited>这样皮肤也水嫩嫩的呢！</edited>
+			<edited>这样皮肤也水润润的呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0005" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="InkBottle_0006" offset="00" relocatable="true" max_length="0">
 			<original>補給インクを取りにもどるのも 手ですね</original>
-			<edited>回去拿补给墨汁也是个办法</edited>
+			<edited>回去拿补给墨汁也是个办法。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0007" offset="00" relocatable="true" max_length="0">
 			<original>インクをムダにしないよう カサに注意です！</original>
-			<edited>注意别浪费墨汁！</edited>
+			<edited>小心别浪费墨汁！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0008" offset="00" relocatable="true" max_length="0">
@@ -65,12 +65,12 @@
 		</entry>
 		<entry name="InkBottle_0009" offset="00" relocatable="true" max_length="0">
 			<original>なんかこう、ドカーン！ と、いきたいところだな…</original>
-			<edited>真想轰地一下解决啊…</edited>
+			<edited>真想轰地一下解决掉啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0010" offset="00" relocatable="true" max_length="0">
 			<original>タテ持ちは後ろから攻撃で インク節約です！</original>
-			<edited>持盾章鱼从背后攻击，省墨汁！</edited>
+			<edited>从背后攻击持盾章鱼，省墨汁！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0011" offset="00" relocatable="true" max_length="0">
@@ -80,7 +80,7 @@
 		</entry>
 		<entry name="InkBottle_0012" offset="00" relocatable="true" max_length="0">
 			<original>ふ～ 生き返りますね！</original>
-			<edited>呼～ 活过来了！</edited>
+			<edited>呼～活过来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0013" offset="00" relocatable="true" max_length="0">
@@ -95,12 +95,12 @@
 		</entry>
 		<entry name="InkBottle_0015" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ ガンガン撃てー！</original>
-			<edited>哇！使劲打！</edited>
+			<edited>好！使劲打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkBottle_0016" offset="00" relocatable="true" max_length="0">
 			<original>ムダづかいしちゃ ダメですよ…</original>
-			<edited>不能浪费哦…</edited>
+			<edited>可不能浪费哦……</edited>
 			<subEntries />
 		</entry>
 	</entries>

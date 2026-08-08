@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリ棒を ライドレールですりぬけるチャレンジでス</original>
-			<edited>这是用墨汁轨道穿过涂涂棒的挑战</edited>
+			<edited>这是乘着墨汁轨道穿过涂涂棒的挑战。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチは 同じ攻撃で同じだけ動きまス</original>
-			<edited>转转开关用相同攻击会移动相同距离</edited>
+			<edited>用同样的攻击打转转开关，会移动同样的距离。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ライドレールでヌリヌリ棒に当たると 落ちてしまいまス</original>
-			<edited>在墨汁轨道上撞到涂涂棒会掉下去</edited>
+			<edited>乘着墨汁轨道撞上涂涂棒会掉下去。</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0000" offset="00" relocatable="true" max_length="0">
@@ -35,22 +35,22 @@
 		</entry>
 		<entry name="NuriRide_0003" offset="00" relocatable="true" max_length="0">
 			<original>オ～プ～ン♪</original>
-			<edited>打开～♪</edited>
+			<edited>开～门～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0004" offset="00" relocatable="true" max_length="0">
 			<original>回っておる… でっかいのが回っておるぞィ</original>
-			<edited>在转… 有个大东西在转！</edited>
+			<edited>在转……有个大家伙在转！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0005" offset="00" relocatable="true" max_length="0">
 			<original>いい感じでグルグルを止めたいですね</original>
-			<edited>想恰到好处地停下旋转呢</edited>
+			<edited>真想让它恰到好处地停下来呢。</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0006" offset="00" relocatable="true" max_length="0">
 			<original>すごい… イカフライ全部ゲットですね！</original>
-			<edited>厉害… 炸鱿鱼圈全拿到了！</edited>
+			<edited>厉害……炸鱿鱼圈全拿到了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0007" offset="00" relocatable="true" max_length="0">
@@ -85,17 +85,17 @@
 		</entry>
 		<entry name="NuriRide_0013" offset="00" relocatable="true" max_length="0">
 			<original>もうヘロヘロです…</original>
-			<edited>已经累瘫了…</edited>
+			<edited>已经累瘫了……</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0014" offset="00" relocatable="true" max_length="0">
 			<original>進路良好！ 全速前進ーッ！</original>
-			<edited>路线畅通！全速前进！</edited>
+			<edited>前路畅通！全速前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NuriRide_0015" offset="00" relocatable="true" max_length="0">
 			<original>でっかいのの真ん中にも でんでんスイッチありますね</original>
-			<edited>大东西的中间也有转转开关呢</edited>
+			<edited>大家伙中间也有转转开关呢。</edited>
 			<subEntries />
 		</entry>
 	</entries>

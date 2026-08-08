@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで ボムをきちんと投げましょウ</original>
-			<edited>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按把炸弹好好投出去吧</edited>
+			<edited>按住&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，把炸弹投出去吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>インクレールの上で ジャンプすれば高くとべまス</original>
-			<edited>在墨汁轨道上跳跃能跳得更高</edited>
+			<edited>在墨汁轨道上跳跃，能跳得更高。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="Bomb_0001" offset="00" relocatable="true" max_length="0">
 			<original>そのボムで 箱マトを壊すようですね…</original>
-			<edited>看来要用那个炸弹打坏箱靶…</edited>
+			<edited>看来要用那个炸弹打坏箱靶……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0002" offset="00" relocatable="true" max_length="0">
@@ -30,12 +30,12 @@
 		</entry>
 		<entry name="Bomb_0003" offset="00" relocatable="true" max_length="0">
 			<original>…イヤな 予感がします</original>
-			<edited>…有种不好的预感</edited>
+			<edited>……有种不好的预感。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0004" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ… ヤバそーなのが出た！</original>
-			<edited>呃… 来了个危险的家伙！</edited>
+			<edited>呃……来了个危险的家伙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0006" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="Bomb_0008" offset="00" relocatable="true" max_length="0">
 			<original>インクレールです！ センプクして&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャ～ンプ♪</original>
-			<edited>是墨汁轨道！潜行后&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳——♪</edited>
+			<edited>是墨汁轨道！潜行后按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳跃——♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0009" offset="00" relocatable="true" max_length="0">
 			<original>…何か いるゾ</original>
-			<edited>…有什么东西</edited>
+			<edited>……有东西！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0010" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="Bomb_0011" offset="00" relocatable="true" max_length="0">
 			<original>敵じゃ！ 肉を切らせて骨を断つ、戦場の鉄則ゥ！</original>
-			<edited>是敌人！舍身断骨，战场的铁则！</edited>
+			<edited>是敌人！舍身断后，战场铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0012" offset="00" relocatable="true" max_length="0">

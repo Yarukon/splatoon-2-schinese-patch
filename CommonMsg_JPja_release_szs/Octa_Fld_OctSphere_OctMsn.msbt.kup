@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>時間内に イカスフィアでゴールしてくださイ</original>
-			<edited>请在时间内用鱿鱼球抵达终点</edited>
+			<edited>请在时间内用鱿鱼球抵达终点。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>改札を通ると同時に カウントダウン開始でス</original>
-			<edited>通过检票口的同时开始倒计时</edited>
+			<edited>通过检票口时会开始倒计时。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントごとに 時間が延長されまス</original>
-			<edited>每个关卡点会延长时间</edited>
+			<edited>每个关卡点都会延长时间。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="Sphere_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ イカスフィアでも &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプだ！</original>
-			<edited>小八！用鱿鱼球也&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳跃！</edited>
+			<edited>小八！用鱿鱼球也按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;跳跃！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0002" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="Sphere_0006" offset="00" relocatable="true" max_length="0">
 			<original>無敵のイカスフィアなら、ヌリヌリ棒の上に乗れそうです</original>
-			<edited>无敌的鱿鱼球，好像能站上涂涂棒</edited>
+			<edited>无敌的鱿鱼球，好像能站上涂涂棒。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sphere_0007" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="Sphere_0012" offset="00" relocatable="true" max_length="0">
 			<original>生体反応の無いオクタリアン… なぜ…？</original>
-			<edited>没有生命反应的章鱼族… 为什么…？</edited>
+			<edited>没有生命反应的章鱼族……为什么……？</edited>
 			<subEntries />
 		</entry>
 	</entries>

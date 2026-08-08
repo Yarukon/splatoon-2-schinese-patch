@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="LastBoss01_0004" offset="00" relocatable="true" max_length="0">
 			<original>自分のインクなら、スイッチONできるな！</original>
-			<edited>自己的墨汁就能打开开关！</edited>
+			<edited>用自己的墨汁就能打开开关！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0005" offset="00" relocatable="true" max_length="0">
@@ -35,12 +35,12 @@
 		</entry>
 		<entry name="LastBoss01_0006" offset="00" relocatable="true" max_length="0">
 			<original>うー！ パトパトローラー、ウゼェ！</original>
-			<edited>唔！巡逻巡逻兵，好烦！</edited>
+			<edited>唔！巡逻兵好烦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0007" offset="00" relocatable="true" max_length="0">
 			<original>『タコ』パトですね… 木箱を壊してもらいましょ～</original>
-			<edited>是“章鱼”巡逻啦… 让他打坏木箱吧～</edited>
+			<edited>是“章鱼”巡逻兵啦……让它打坏木箱吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0008" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="LastBoss01_0009" offset="00" relocatable="true" max_length="0">
 			<original>インクレールにさそわれるまま 進みましょ～</original>
-			<edited>顺着墨汁轨道前进吧～</edited>
+			<edited>跟着墨汁轨道走吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0011" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプ後も、センプクを おわすれなく！</original>
-			<edited>跳跃后也别忘记鱿鱼潜行！</edited>
+			<edited>跳过去后，也别忘了鱿鱼潜行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0013" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="LastBoss01_0014" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ 行き止まり？！ なんとかなんねーか？</original>
-			<edited>呃！死路？！能想想办法吗？</edited>
+			<edited>呃！死路？！想想办法啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0015" offset="00" relocatable="true" max_length="0">
@@ -80,47 +80,47 @@
 		</entry>
 		<entry name="LastBoss01_0017" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです！ 行けるところから行きましょ～</original>
-			<edited>漂亮！能走的地方先走着吧～</edited>
+			<edited>干得漂亮！先从能走的地方走吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0018" offset="00" relocatable="true" max_length="0">
 			<original>デンワ？ …空耳かのゥ</original>
-			<edited>电话？…是听错了吧</edited>
+			<edited>电话？……听错了吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0019" offset="00" relocatable="true" max_length="0">
 			<original>あの敵、なかなかイカしてんな！ なんて名前？</original>
-			<edited>那个敌人，挺帅气的嘛！叫啥名字？</edited>
+			<edited>那个敌人挺鱿型嘛！叫什么名字？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0020" offset="00" relocatable="true" max_length="0">
 			<original>タコリバーサーです！ 投げてくるコロガリウムに注意です！</original>
-			<edited>是章鱼投掷兵！小心它扔过来的滚滚棒！</edited>
+			<edited>是章鱼投掷兵！小心它扔来的滚滚棒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0021" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボムです！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げましょう！</original>
-			<edited>斯普拉炸弹！&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;投出去吧！</edited>
+			<edited>是斯普拉炸弹！按&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;投出去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0022" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ コロコロお肉に注意だ！</original>
-			<edited>小八！小心滚动的肉块！</edited>
+			<edited>小八！小心滚滚肉！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0023" offset="00" relocatable="true" max_length="0">
 			<original>やった！ オクタシューターですよ！</original>
-			<edited>太好了！是章鱼射击枪！</edited>
+			<edited>太好了！是章鱼射手枪！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0024" offset="00" relocatable="true" max_length="0">
 			<original>あ、ブキカンヅメ！ 手に入れたいですね…</original>
-			<edited>啊，武器罐头！好想拿到…</edited>
+			<edited>啊，武器罐头！真想拿到啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0025" offset="00" relocatable="true" max_length="0">
 			<original>『コロガリウム』です…</original>
-			<edited>是“滚滚棒”…</edited>
+			<edited>是“滚滚棒”……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0026" offset="00" relocatable="true" max_length="0">
@@ -130,12 +130,12 @@
 		</entry>
 		<entry name="LastBoss01_0027" offset="00" relocatable="true" max_length="0">
 			<original>その前に、タコスナイパーです！ よけましょう！</original>
-			<edited>在那之前，有章鱼狙击兵！躲开吧！</edited>
+			<edited>不过前面有章鱼狙击兵！快躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0028" offset="00" relocatable="true" max_length="0">
 			<original>シャオラー！ …からの、ジャンプポイント！</original>
-			<edited>哇哦！…然后，跳跃点！</edited>
+			<edited>哇哦！……接着是跳跃点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0029" offset="00" relocatable="true" max_length="0">
@@ -145,7 +145,7 @@
 		</entry>
 		<entry name="LastBoss01_0030" offset="00" relocatable="true" max_length="0">
 			<original>コ… コロコロおにく…？</original>
-			<edited>滚…滚滚的肉…？</edited>
+			<edited>滚……滚滚肉……？</edited>
 			<subEntries />
 		</entry>
 	</entries>

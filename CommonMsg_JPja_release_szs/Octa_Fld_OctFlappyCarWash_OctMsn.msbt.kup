@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>こちらは、ドライブスルー洗車場でス</original>
-			<edited>这里是免下车洗车场</edited>
+			<edited>这里是免下车洗车场。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>洗車機に巻きこまれないよう ご注意くださイ</original>
-			<edited>请注意别被洗车机卷进去</edited>
+			<edited>小心别被洗车机卷进去。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>洗車というより、染車でス</original>
-			<edited>与其说是洗车，不如说是染车</edited>
+			<edited>与其说是洗车，不如说是染车。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0000" offset="00" relocatable="true" max_length="0">
 			<original>右を見て 左を見て、もう一度 右を…</original>
-			<edited>看看右边，看看左边，再看一次右边…</edited>
+			<edited>看右边、看左边，再看一次右边……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0001" offset="00" relocatable="true" max_length="0">
 			<original>見てる間に 次の車が来ちゃうんだよなー</original>
-			<edited>看着看着，下一辆车就来了</edited>
+			<edited>光顾着看，下一辆车就来了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0002" offset="00" relocatable="true" max_length="0">
 			<original>車の動きをよく見て 飛び移りましょう！</original>
-			<edited>看好车的动向，跳过去吧！</edited>
+			<edited>看好车的动向，跳到下一辆车上吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0003" offset="00" relocatable="true" max_length="0">
@@ -40,22 +40,22 @@
 		</entry>
 		<entry name="FlappyCarWash_0004" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリ棒が上がっているうちに くぐりぬけるんじゃ！</original>
-			<edited>趁涂涂棒抬起来的时候穿过去！</edited>
+			<edited>趁涂涂棒升起来时钻过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0005" offset="00" relocatable="true" max_length="0">
 			<original>あれ？ 行き止まりか？</original>
-			<edited>咦？死路？</edited>
+			<edited>咦？到头了？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0006" offset="00" relocatable="true" max_length="0">
 			<original>ガレージでしょうか… 車が１台ありますけど</original>
-			<edited>是车库吗…有辆车停着</edited>
+			<edited>是车库吗……里面停着一辆车。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0007" offset="00" relocatable="true" max_length="0">
 			<original>オープーン！！</original>
-			<edited>打开——！！</edited>
+			<edited>开——门——！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0008" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="FlappyCarWash_0010" offset="00" relocatable="true" max_length="0">
 			<original>それっ ジャーンプ！</original>
-			<edited>嘿，跳！</edited>
+			<edited>走，跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0011" offset="00" relocatable="true" max_length="0">
@@ -80,22 +80,22 @@
 		</entry>
 		<entry name="FlappyCarWash_0012" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ 早く乗り移れ！</original>
-			<edited>小八！快换车！</edited>
+			<edited>小八！快跳到另一辆车上！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0013" offset="00" relocatable="true" max_length="0">
 			<original>この車、プロペラついてんのな！</original>
-			<edited>这辆车，装了螺旋桨呢！</edited>
+			<edited>这辆车装着螺旋桨呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0014" offset="00" relocatable="true" max_length="0">
 			<original>インクの使い過ぎに注意です！</original>
-			<edited>小心别用太多墨汁！</edited>
+			<edited>小心别太浪费墨汁！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0015" offset="00" relocatable="true" max_length="0">
 			<original>飛べ、８号！ 洗車機を 飛びこえるんじゃ！</original>
-			<edited>飞吧，8号！飞越洗车机！</edited>
+			<edited>飞吧，8号！飞过洗车机！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0016" offset="00" relocatable="true" max_length="0">
@@ -105,17 +105,17 @@
 		</entry>
 		<entry name="FlappyCarWash_0017" offset="00" relocatable="true" max_length="0">
 			<original>ゲーーッ！ なんとかしろー！</original>
-			<edited>哇啊！想想办法！</edited>
+			<edited>哇啊！快想办法！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0018" offset="00" relocatable="true" max_length="0">
 			<original>上が空いてます！ 車体を上げて！</original>
-			<edited>上面有空隙！把车身抬起来！</edited>
+			<edited>上面有空隙！把车身抬高！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FlappyCarWash_0019" offset="00" relocatable="true" max_length="0">
 			<original>とーちゃーく！</original>
-			<edited>到——达！</edited>
+			<edited>到——啦——！</edited>
 			<subEntries />
 		</entry>
 	</entries>

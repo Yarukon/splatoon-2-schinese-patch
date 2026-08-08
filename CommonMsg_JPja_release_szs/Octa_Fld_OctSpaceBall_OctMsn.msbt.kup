@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールを追いかけ、早くスイッチを塗るのでス</original>
-			<edited>追上8号球，尽快涂开关</edited>
+			<edited>追上8号球，尽快涂开关。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
@@ -15,32 +15,32 @@
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールがレールで止まったら ブラスターで動かせまス</original>
-			<edited>8号球在轨道上停住时，用爆破枪推动它</edited>
+			<edited>8号球停在轨道上时，用爆破枪推动它。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>ウレタンは エイトボールの速度を吸収しまス</original>
-			<edited>缓冲垫会吸收8号球的速度</edited>
+			<edited>缓冲垫会减慢8号球。</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0000" offset="00" relocatable="true" max_length="0">
 			<original>第１カンモン通過で～す♪</original>
-			<edited>通过第1关闸～</edited>
+			<edited>第1道关卡通过～</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0001" offset="00" relocatable="true" max_length="0">
 			<original>第２カンモン通過！</original>
-			<edited>通过第2关闸！</edited>
+			<edited>第2道关卡通过！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0002" offset="00" relocatable="true" max_length="0">
 			<original>第３カンモン通過じゃ！</original>
-			<edited>通过第3关闸！</edited>
+			<edited>第3道关卡通过！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0003" offset="00" relocatable="true" max_length="0">
 			<original>タマコロちゃんは自分で押して、調整できそうじゃな！</original>
-			<edited>小球球好像能自己推着调整！</edited>
+			<edited>小球球好像会自己调整方向！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0005" offset="00" relocatable="true" max_length="0">
@@ -60,12 +60,12 @@
 		</entry>
 		<entry name="SpaceBall_0008" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ …で、ボールは？！</original>
-			<edited>哇！…话说，球呢？！</edited>
+			<edited>哇！……话说，球呢？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0009" offset="00" relocatable="true" max_length="0">
 			<original>ファッ？！ スイッチを追いかけて塗るんじゃ！</original>
-			<edited>哎呀？！追着开关涂！</edited>
+			<edited>哎呀？！快追着球涂开关！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpaceBall_0010" offset="00" relocatable="true" max_length="0">

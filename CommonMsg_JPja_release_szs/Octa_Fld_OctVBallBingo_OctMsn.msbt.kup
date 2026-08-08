@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボール４球で ビンゴを完成させるのでス</original>
-			<edited>用4个8号球完成宾果</edited>
+			<edited>用4个8号球完成宾果。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>タテ・ヨコ・ナナメのどれか ３つボールをそろえてくださイ</original>
-			<edited>请在纵、横、斜任一方向集齐3个球</edited>
+			<edited>请在纵、横、斜任一方向集齐3个球。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ボールが穴に入ると 次のボールが出てきまス</original>
-			<edited>球进洞后，下一个球会出现</edited>
+			<edited>球进洞后，下一个球会出现。</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallBingo_0000" offset="00" relocatable="true" max_length="0">
 			<original>キャノンで ボールをブッ飛ばすみたいだな</original>
-			<edited>看来要用大炮把球轰出去</edited>
+			<edited>看来要用大炮把球轰出去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallBingo_0001" offset="00" relocatable="true" max_length="0">
 			<original>タテ・ヨコ・ナナメ、どれを ねらいましょう？</original>
-			<edited>纵、横、斜，瞄准哪条？</edited>
+			<edited>纵、横、斜，要瞄准哪条？</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallBingo_0002" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="VBallBingo_0003" offset="00" relocatable="true" max_length="0">
 			<original>穴に入ると 次のエイトボールが出るみたいですね</original>
-			<edited>进洞后好像会出现下一个8号球</edited>
+			<edited>球进洞后，好像会出现下一个8号球。</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallBingo_0004" offset="00" relocatable="true" max_length="0">
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="VBallBingo_0007" offset="00" relocatable="true" max_length="0">
 			<original>４球目！ これで決めてください！</original>
-			<edited>第4球！用它定胜负！</edited>
+			<edited>第4球！用它一决胜负！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallBingo_0008" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="VBallBingo_0009" offset="00" relocatable="true" max_length="0">
 			<original>気合で ほじくりかえすんじゃッ！</original>
-			<edited>靠气势把它挖出来！</edited>
+			<edited>靠气势把它轰出来！</edited>
 			<subEntries />
 		</entry>
 	</entries>

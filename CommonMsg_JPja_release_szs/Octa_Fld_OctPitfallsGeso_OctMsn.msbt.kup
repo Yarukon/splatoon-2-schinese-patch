@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>壊れる足場から落ちないように 戦うのでス</original>
-			<edited>战斗时注意别从会破碎的平台上掉下去</edited>
+			<edited>战斗时小心别从会碎的平台上掉下去。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ムダ撃ちはもちろん、撃たれることも大変キケンでス</original>
-			<edited>乱射固然危险，被打中也非常危险</edited>
+			<edited>乱射固然危险，被打中也很危险。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>固い木箱の位置を確認しましょウ</original>
-			<edited>确认牢固木箱的位置吧</edited>
+			<edited>确认牢固木箱的位置吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0000" offset="00" relocatable="true" max_length="0">
 			<original>イ… イカが ういとる…</original>
-			<edited>鱿…鱿鱼飘在天上…</edited>
+			<edited>鱿……鱿鱼飘在天上……</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0001" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="PitfallsGeso_0004" offset="00" relocatable="true" max_length="0">
 			<original>足じゃ！ 敵の足元をねらって 落とすんじゃ！</original>
-			<edited>打脚！瞄准敌人脚下，让它掉下去！</edited>
+			<edited>打脚下！瞄准敌人脚下，让它掉下去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0005" offset="00" relocatable="true" max_length="0">
@@ -50,17 +50,17 @@
 		</entry>
 		<entry name="PitfallsGeso_0006" offset="00" relocatable="true" max_length="0">
 			<original>シェルターを開いて 近づくのがよさそうですね</original>
-			<edited>撑开伞面靠近比较好</edited>
+			<edited>撑开伞面靠近比较好。</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0007" offset="00" relocatable="true" max_length="0">
 			<original>パージするなら カタい木箱の上だ！ 落ちんゾ！</original>
-			<edited>要甩伞面的话，站在牢固木箱上！不会掉！</edited>
+			<edited>要甩伞面的话，站在牢固木箱上！不会掉下去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0008" offset="00" relocatable="true" max_length="0">
 			<original>爆風で足場を壊して 落っことせ！</original>
-			<edited>用爆炸震碎平台，把它弄下去！</edited>
+			<edited>用爆炸震碎平台，把它震下去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0009" offset="00" relocatable="true" max_length="0">
@@ -70,12 +70,12 @@
 		</entry>
 		<entry name="PitfallsGeso_0010" offset="00" relocatable="true" max_length="0">
 			<original>フデで塗り進みながら 一気に近づくんじゃ！</original>
-			<edited>边用毛刷涂地边一口气靠近！</edited>
+			<edited>一边用毛刷涂地，一边一口气靠近！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0011" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボムで 遠くから片づけてもいいゾ！</original>
-			<edited>用冰壶炸弹从远处解决也行！</edited>
+			<edited>用冰壶炸弹从远处解决它也行！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0012" offset="00" relocatable="true" max_length="0">
@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="PitfallsGeso_0013" offset="00" relocatable="true" max_length="0">
 			<original>バイソクミサイルタコプターは、ミサイルを引きつけて！</original>
-			<edited>高速导弹章鱼螺旋桨兵，要引开它的导弹！</edited>
+			<edited>高速导弹章鱼螺旋桨兵！引开它的导弹！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PitfallsGeso_0014" offset="00" relocatable="true" max_length="0">

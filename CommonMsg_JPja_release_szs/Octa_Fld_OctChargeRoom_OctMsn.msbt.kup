@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパー１０体全て、倒してくださイ</original>
-			<edited>请打倒全部10个章鱼狙击兵</edited>
+			<edited>请打倒全部十个章鱼狙击兵。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>かくれて移動、スキをついて撃ちましょウ</original>
-			<edited>躲藏移动，趁空隙射击吧</edited>
+			<edited>藏身移动，趁空隙射击吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボムは、移動やオトリに便利でス</original>
-			<edited>冰壶炸弹用于移动和诱饵很方便</edited>
+			<edited>冰壶炸弹用于移动和当诱饵都很方便。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>チャージキープに自信があるなら、スコープ無しのがいいでス</original>
-			<edited>对保持蓄力有信心的话，不带瞄准镜的更好</edited>
+			<edited>对保持蓄力有信心的话，不带瞄准镜的更合适。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0004" offset="00" relocatable="true" max_length="0">
 			<original>スコープ付きのものは 射程が少しだけ長いでス</original>
-			<edited>带瞄准镜的射程稍长</edited>
+			<edited>带瞄准镜的射程稍长。</edited>
 			<subEntries />
 		</entry>
 		<entry name="ChargeRoom_0000" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="ChargeRoom_0004" offset="00" relocatable="true" max_length="0">
 			<original>センプクでかくれて ゆっくり移動するといいゾ</original>
-			<edited>潜行躲藏，慢慢移动比较好</edited>
+			<edited>潜行躲藏，慢慢移动比较好。</edited>
 			<subEntries />
 		</entry>
 		<entry name="ChargeRoom_0005" offset="00" relocatable="true" max_length="0">
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="ChargeRoom_0006" offset="00" relocatable="true" max_length="0">
 			<original>オトリや移動に便利ですね♪</original>
-			<edited>用来当诱饵和移动很方便呢♪</edited>
+			<edited>用来当诱饵和移动都很方便呢♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="ChargeRoom_0007" offset="00" relocatable="true" max_length="0">
@@ -65,12 +65,12 @@
 		</entry>
 		<entry name="ChargeRoom_0008" offset="00" relocatable="true" max_length="0">
 			<original>カベにかくれて、敵がスキを見せたら撃つんじゃ！</original>
-			<edited>躲在墙后，敌人露出破绽就射击！</edited>
+			<edited>躲在墙后，等敌人露出破绽再射击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ChargeRoom_0009" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです♪ さぁ、センプクで様子を見ましょ～</original>
-			<edited>漂亮♪ 来，潜行观察情况吧～</edited>
+			<edited>干得漂亮♪来，潜行观察情况吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="ChargeRoom_0010" offset="00" relocatable="true" max_length="0">

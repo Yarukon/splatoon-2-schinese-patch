@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>敵をゼンメツさせると 先に進めまス</original>
-			<edited>把敌人团灭就能继续前进</edited>
+			<edited>敌人全灭后即可继续前进</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>戦いは ジョウキョウのハアクが大事でス</original>
-			<edited>战斗关键在于掌握局势</edited>
+			<edited>战斗关键在于掌握战况</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>サブウェポンを 有効に使いましょウ</original>
-			<edited>好好利用副武器吧</edited>
+			<edited>善用副武器吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0000" offset="00" relocatable="true" max_length="0">
 			<original>上を取ったぞィ！ 地の利をイカすんじゃ！</original>
-			<edited>抢到高地了！好好利用地利！</edited>
+			<edited>抢占高地了！利用好地势！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0001" offset="00" relocatable="true" max_length="0">
 			<original>すっげー おもてなしだな！</original>
-			<edited>好隆重的招待啊！</edited>
+			<edited>真是盛情款待啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0002" offset="00" relocatable="true" max_length="0">
 			<original>危なくなったらカベの裏に 張りついてください！</original>
-			<edited>危险了就贴到墙后！</edited>
+			<edited>危险时就贴着墙躲起来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0003" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="BattleHill_0005" offset="00" relocatable="true" max_length="0">
 			<original>しゃー！ 全部とっちめた！</original>
-			<edited>好啊！全部收拾了！</edited>
+			<edited>好！全都收拾了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0006" offset="00" relocatable="true" max_length="0">
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="BattleHill_0007" offset="00" relocatable="true" max_length="0">
 			<original>タコスタンプも落ち着いて対処すれば こわくないですね</original>
-			<edited>章鱼印章兵只要冷静应对就不可怕</edited>
+			<edited>只要冷静应对，章鱼印章兵也不可怕</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0008" offset="00" relocatable="true" max_length="0">
@@ -65,22 +65,22 @@
 		</entry>
 		<entry name="BattleHill_0009" offset="00" relocatable="true" max_length="0">
 			<original>ナイスゼンメツだ！</original>
-			<edited>干得漂亮，团灭！</edited>
+			<edited>漂亮，全灭！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0010" offset="00" relocatable="true" max_length="0">
 			<original>オケオケ！</original>
-			<edited>好好好！</edited>
+			<edited>好嘞好嘞！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0011" offset="00" relocatable="true" max_length="0">
 			<original>あとは おくのタココマンダーだけじゃ！</original>
-			<edited>就剩里面那个章鱼指挥官了！</edited>
+			<edited>只剩里面的章鱼指挥官了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0012" offset="00" relocatable="true" max_length="0">
 			<original>にぎやかなパーチィーになりそうじゃのゥ！</original>
-			<edited>看来会变成热闹的派对啊！</edited>
+			<edited>要变成热闹的派对了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0013" offset="00" relocatable="true" max_length="0">
@@ -95,17 +95,17 @@
 		</entry>
 		<entry name="BattleHill_0015" offset="00" relocatable="true" max_length="0">
 			<original>コチラの坂道は おそうじ完了ですね！</original>
-			<edited>这边的坡道清扫完成！</edited>
+			<edited>这边坡道也清理完毕！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0016" offset="00" relocatable="true" max_length="0">
 			<original>出てくるヤツ 全部ぶっ倒してけー！</original>
-			<edited>出来的家伙全部打倒！</edited>
+			<edited>出来一个就打倒一个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0017" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ パーチィーの始まりじゃ！</original>
-			<edited>哦哦！派对开始了！</edited>
+			<edited>哟！派对开场啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0018" offset="00" relocatable="true" max_length="0">
@@ -115,12 +115,12 @@
 		</entry>
 		<entry name="BattleHill_0019" offset="00" relocatable="true" max_length="0">
 			<original>ウカツにツッコむと 大変だゾ！</original>
-			<edited>贸然冲进去可不得了！</edited>
+			<edited>贸然冲进去可就糟了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0020" offset="00" relocatable="true" max_length="0">
 			<original>まだ 敵が残ってるみたいですね</original>
-			<edited>好像还有敌人剩下</edited>
+			<edited>好像还有敌人</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0021" offset="00" relocatable="true" max_length="0">
@@ -135,17 +135,17 @@
 		</entry>
 		<entry name="BattleHill_0023" offset="00" relocatable="true" max_length="0">
 			<original>カンゲイされすぎて ナミダが出るわィ！</original>
-			<edited>被欢迎得太隆重，眼泪都要出来了！</edited>
+			<edited>这欢迎阵仗大得都要哭了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0024" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント出現！ 確認されたしーッ！</original>
-			<edited>跳跃点出现！请确认！</edited>
+			<edited>发现跳跃点！请确认！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleHill_0025" offset="00" relocatable="true" max_length="0">
 			<original>ハチ、ナイス！</original>
-			<edited>小八，漂亮！</edited>
+			<edited>小八，干得漂亮！</edited>
 			<subEntries />
 		</entry>
 	</entries>

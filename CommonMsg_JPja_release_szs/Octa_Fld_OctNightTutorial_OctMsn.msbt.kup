@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>アナタもご存知の 市街地戦となりまス</original>
-			<edited>这是您熟悉的市街地战斗</edited>
+			<edited>这是你熟悉的市区战斗。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>暗がりでは 何かが出てくるかもしれませン</original>
-			<edited>黑暗中说不定会冒出什么东西</edited>
+			<edited>黑暗中说不定会冒出什么东西。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>足元はもちろん 頭上にも ご注意くださイ</original>
-			<edited>脚下自不必说，头顶也要小心</edited>
+			<edited>脚下自不必说，头顶也要小心。</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0000" offset="00" relocatable="true" max_length="0">
 			<original>ゲ… ここってハイカラスクエアの近くじゃねーか？</original>
-			<edited>呃… 这里不是尚兴广场附近吗？</edited>
+			<edited>呃……这里不是尚兴广场附近吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0001" offset="00" relocatable="true" max_length="0">
 			<original>そっくりですけど、ここも実験場のようですね…</original>
-			<edited>虽然很像，但这里好像也是实验场…</edited>
+			<edited>虽然很像，但这里好像也是实验场……</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0002" offset="00" relocatable="true" max_length="0">
 			<original>ぜってーなんか 出てくんだろー…</original>
-			<edited>肯定会有东西冒出来…</edited>
+			<edited>肯定会有东西冒出来……</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0003" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="NightTutorial_0004" offset="00" relocatable="true" max_length="0">
 			<original>ボムなら 届きそうですね！</original>
-			<edited>用炸弹好像够得到！</edited>
+			<edited>用炸弹好像打得到！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0005" offset="00" relocatable="true" max_length="0">
@@ -50,7 +50,7 @@
 		</entry>
 		<entry name="NightTutorial_0006" offset="00" relocatable="true" max_length="0">
 			<original>ふぅ… あせったな！</original>
-			<edited>呼… 吓我一跳！</edited>
+			<edited>呼……吓我一跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0007" offset="00" relocatable="true" max_length="0">
@@ -60,12 +60,12 @@
 		</entry>
 		<entry name="NightTutorial_0008" offset="00" relocatable="true" max_length="0">
 			<original>何か 駅の方で光ってんな！</original>
-			<edited>车站那边有什么在发光！</edited>
+			<edited>车站那边有东西在发光！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0009" offset="00" relocatable="true" max_length="0">
 			<original>あれは… ゴールポイントです！</original>
-			<edited>那是… 终点！</edited>
+			<edited>那是……终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="NightTutorial_0010" offset="00" relocatable="true" max_length="0">
@@ -80,7 +80,7 @@
 		</entry>
 		<entry name="NightTutorial_0012" offset="00" relocatable="true" max_length="0">
 			<original>ジッ… ジジィ！ デカい声出すんじゃねーよ！</original>
-			<edited>嘘… 老头子！别那么大声！</edited>
+			<edited>嘘……老头子！别那么大声！</edited>
 			<subEntries />
 		</entry>
 	</entries>

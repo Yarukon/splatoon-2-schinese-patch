@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>インクが無くなるとアウトでス</original>
-			<edited>墨汁用尽就算出局</edited>
+			<edited>墨汁用尽就算出局。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>カベを登るのにインクが必要か、よく考えましょウ</original>
-			<edited>好好想想爬墙需要多少墨汁</edited>
+			<edited>想想爬墙需要多少墨汁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
@@ -20,12 +20,12 @@
 		</entry>
 		<entry name="InkLimit_0000" offset="00" relocatable="true" max_length="0">
 			<original>インクを使い切ったらアウトだゾ！</original>
-			<edited>墨汁用完就算出局！</edited>
+			<edited>墨汁用尽就算出局！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0001" offset="00" relocatable="true" max_length="0">
 			<original>インクの使用は最小限にしましょう</original>
-			<edited>把墨汁使用控制在最少</edited>
+			<edited>尽量少用墨汁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0002" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="InkLimit_0003" offset="00" relocatable="true" max_length="0">
 			<original>…さーて、どーしたもんかな？</original>
-			<edited>…那，该怎么办呢？</edited>
+			<edited>……那，该怎么办呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0004" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="InkLimit_0005" offset="00" relocatable="true" max_length="0">
 			<original>ジャマなザコだな… ブッ倒したいけど…</original>
-			<edited>碍事的小喽啰… 好想打掉…</edited>
+			<edited>碍事的小喽啰……好想打掉……</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0006" offset="00" relocatable="true" max_length="0">
@@ -60,7 +60,7 @@
 		</entry>
 		<entry name="InkLimit_0008" offset="00" relocatable="true" max_length="0">
 			<original>前方にゴールポイントを発見しました！</original>
-			<edited>前方发现终点！</edited>
+			<edited>前方就是终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimit_0009" offset="00" relocatable="true" max_length="0">

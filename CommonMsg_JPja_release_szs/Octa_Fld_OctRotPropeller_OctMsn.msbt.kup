@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>回転する足場に 注意でス</original>
-			<edited>小心旋转的平台</edited>
+			<edited>小心旋转的平台。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイントを 探しましょウ</original>
-			<edited>找找牵引点吧</edited>
+			<edited>找找牵引点吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>落ち着いてチャージして ねらいましょウ</original>
-			<edited>冷静蓄力，瞄准吧</edited>
+			<edited>冷静蓄力，瞄准吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0000" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="RotPropeller_0005" offset="00" relocatable="true" max_length="0">
 			<original>上に 登ってくみたいですね</original>
-			<edited>好像要往上爬</edited>
+			<edited>好像要往上爬。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0006" offset="00" relocatable="true" max_length="0">
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="RotPropeller_0007" offset="00" relocatable="true" max_length="0">
 			<original>めんどくせーヤツが いんゾ…</original>
-			<edited>有麻烦的家伙…</edited>
+			<edited>有麻烦的家伙……</edited>
 			<subEntries />
 		</entry>
 		<entry name="RotPropeller_0008" offset="00" relocatable="true" max_length="0">
@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="RotPropeller_0011" offset="00" relocatable="true" max_length="0">
 			<original>フォーッ！ 撃って撃って撃ちまくれィ！</original>
-			<edited>哦哦！打打打个不停！</edited>
+			<edited>哦哦！打呀打呀，尽管打！</edited>
 			<subEntries />
 		</entry>
 	</entries>

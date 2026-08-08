@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ひきよせポイントを使って 頂上を目指しましょウ</original>
-			<edited>用牵引点朝山顶前进吧</edited>
+			<edited>利用牵引点，朝山顶前进吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプ後 落ち着いてショットしましょウ</original>
-			<edited>跳跃后冷静地射击吧</edited>
+			<edited>跳跃后，冷静射击吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>前に飛びながらショットすれば 遠くまでとどきまス</original>
-			<edited>向前飞着射击，能打得更远</edited>
+			<edited>一边向前飞，一边射击，就能打得更远。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>最初のひきよせポイントで 練習するとよいでしょウ</original>
-			<edited>在第一个牵引点练习一下比较好</edited>
+			<edited>可以在第一个牵引点练习一下。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0000" offset="00" relocatable="true" max_length="0">
@@ -30,42 +30,42 @@
 		</entry>
 		<entry name="RailTower_0001" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマット上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、大ジャンプです！</original>
-			<edited>在弹跳垫上，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按即可大跳！</edited>
+			<edited>站在弹跳垫上，按住&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;即可大跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0002" offset="00" relocatable="true" max_length="0">
 			<original>あー… そこのジャンプポイントで さっきんトコにもどろー</original>
-			<edited>啊… 用那个跳跃点回到刚才的地方吧</edited>
+			<edited>啊……用那个跳跃点回刚才的地方吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0003" offset="00" relocatable="true" max_length="0">
 			<original>前進ジャンプしながらショットで 遠くをねらえィ！</original>
-			<edited>向前跳着射击，瞄准远处！</edited>
+			<edited>一边向前跳，一边射击，瞄准远处！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0004" offset="00" relocatable="true" max_length="0">
 			<original>あらら… もどるための ひきよせポイント、無いですか？</original>
-			<edited>哎呀… 没有用来返回的牵引点吗？</edited>
+			<edited>哎呀……没有能返回的牵引点吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0005" offset="00" relocatable="true" max_length="0">
 			<original>上手く先回りできないですかね…</original>
-			<edited>不能好好绕到前面去吗…</edited>
+			<edited>不能好好绕到前面去吗……</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0006" offset="00" relocatable="true" max_length="0">
 			<original>イヤな感じで回るスイッチだな…</original>
-			<edited>这开关转得让人不舒服…</edited>
+			<edited>这开关转得真让人不舒服……</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0007" offset="00" relocatable="true" max_length="0">
 			<original>フォォ… もっとよく見てジャンプじゃ！</original>
-			<edited>哦哦… 看清楚再跳！</edited>
+			<edited>哦哦……看清楚再跳！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0008" offset="00" relocatable="true" max_length="0">
 			<original>上までもどって もう一度ですね…</original>
-			<edited>得回到上面，再来一次吧…</edited>
+			<edited>得回上面，再来一次吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0009" offset="00" relocatable="true" max_length="0">
@@ -75,47 +75,47 @@
 		</entry>
 		<entry name="RailTower_0013" offset="00" relocatable="true" max_length="0">
 			<original>やるなー、ハチ！</original>
-			<edited>有两下子，小八！</edited>
+			<edited>有两下子啊，小八！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0014" offset="00" relocatable="true" max_length="0">
 			<original>では、飛び移りましょ～</original>
-			<edited>那么，跳过去吧～</edited>
+			<edited>那就跳过去吧～</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0015" offset="00" relocatable="true" max_length="0">
 			<original>初手は順調のようじゃな</original>
-			<edited>第一步看起来挺顺利</edited>
+			<edited>开局看起来挺顺利。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0016" offset="00" relocatable="true" max_length="0">
 			<original>やった！　その調子です♪</original>
-			<edited>太好了！就这势头♪</edited>
+			<edited>太好了！照这势头继续♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0017" offset="00" relocatable="true" max_length="0">
 			<original>次はあの往復してるヤツだ</original>
-			<edited>接下来是那个来回移动的</edited>
+			<edited>接下来是那个来回移动的家伙。</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0018" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです！ そのまま上のをねらいましょう！</original>
-			<edited>漂亮！就那样瞄准上面那个！</edited>
+			<edited>干得漂亮！就这样瞄准上面的那个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0019" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ イカしておる！</original>
-			<edited>哦哦！真帅气！</edited>
+			<edited>哦哦！真鱿型！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0020" offset="00" relocatable="true" max_length="0">
 			<original>空をまう姿、まるで全盛期のワシのようじゃ！</original>
-			<edited>在空中盘旋的身姿，简直就像全盛期的老夫！</edited>
+			<edited>在空中飞舞的身姿，简直就像老夫的全盛期！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0021" offset="00" relocatable="true" max_length="0">
 			<original>ゴールポイント、発見しました！</original>
-			<edited>发现终点了！</edited>
+			<edited>发现终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RailTower_0022" offset="00" relocatable="true" max_length="0">

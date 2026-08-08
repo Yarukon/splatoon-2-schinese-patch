@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>開いたピロピロは、先端を撃つことで開き続けまス</original>
-			<edited>张开的吹吹卷，射击前端就能保持张开</edited>
+			<edited>张开的吹吹卷，射击前端就能保持张开。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールを当ててもピロピロは開きまス</original>
-			<edited>用8号球撞也能张开吹吹卷</edited>
+			<edited>用8号球撞也能张开吹吹卷。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントは、エイトボールとアナタでONになりまス</original>
-			<edited>关卡点需要8号球和你一起触发</edited>
+			<edited>到关卡点时，需要8号球和你一起触发。</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0001" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="VBallPiroPiro_0002" offset="00" relocatable="true" max_length="0">
 			<original>それにしても、すごい数のキラキラクルクルだな</original>
-			<edited>话说回来，闪闪转转的东西真多啊</edited>
+			<edited>话说回来，闪闪转转的东西真多啊。</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0003" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="VBallPiroPiro_0006" offset="00" relocatable="true" max_length="0">
 			<original>フォー！ ヒヤヒヤのヒヤシンスじゃ…</original>
-			<edited>哦哦！真是提心吊胆啊…</edited>
+			<edited>哦哦！真是提心吊胆啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0007" offset="00" relocatable="true" max_length="0">
@@ -50,7 +50,7 @@
 		</entry>
 		<entry name="VBallPiroPiro_0009" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールのゴールを発見しました！</original>
-			<edited>发现8号球的终点了！</edited>
+			<edited>发现8号球的终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0010" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="VBallPiroPiro_0013" offset="00" relocatable="true" max_length="0">
 			<original>横の道から進めそうです！</original>
-			<edited>好像能从侧面的路走！</edited>
+			<edited>好像能从侧边的路走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallPiroPiro_0015" offset="00" relocatable="true" max_length="0">

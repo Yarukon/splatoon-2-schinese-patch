@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここは 業務用インクリーナーのナワバリでス</original>
-			<edited>这里是工业级吸墨器的地盘</edited>
+			<edited>这里是工业级吸墨器的地盘。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>インクリーナーはボムや爆発に もっとも反応しまス</original>
-			<edited>吸墨器对炸弹和爆炸反应最敏感</edited>
+			<edited>吸墨器对炸弹和爆炸最敏感。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>業務用インクリーナーは問答無用の おソウジマシーン</original>
-			<edited>工业级吸墨器是毫不留情的清扫机器</edited>
+			<edited>工业级吸墨器是毫不留情的清扫机器。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>アナタも おソウジされないよう、ご注意くださイ</original>
-			<edited>请注意别被它“清扫”了</edited>
+			<edited>小心别被它“清扫”了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0001" offset="00" relocatable="true" max_length="0">
 			<original>業務用インクリーナーじゃ！ ボムで さそうんじゃ！</original>
-			<edited>是工业级吸墨器！用炸弹引它！</edited>
+			<edited>是工业级吸墨器！用炸弹引开它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0002" offset="00" relocatable="true" max_length="0">
@@ -45,12 +45,12 @@
 		</entry>
 		<entry name="Cleaner_0005" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチを撃てば、タコスナイパーを かくせそうです</original>
-			<edited>打转转开关，好像能藏住章鱼狙击兵</edited>
+			<edited>打转转开关，好像能把章鱼狙击兵藏起来。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0006" offset="00" relocatable="true" max_length="0">
 			<original>８号！ タコスナイパーを全員 倒すんじゃ！</original>
-			<edited>8号！把章鱼狙击兵全部打倒！</edited>
+			<edited>8号！把章鱼狙击兵全都打倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0007" offset="00" relocatable="true" max_length="0">
@@ -60,32 +60,32 @@
 		</entry>
 		<entry name="Cleaner_0008" offset="00" relocatable="true" max_length="0">
 			<original>８号！ あの棒を よけながら進むんじゃ！</original>
-			<edited>8号！边躲那根棒子边前进！</edited>
+			<edited>8号！躲着那根棒子前进！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0009" offset="00" relocatable="true" max_length="0">
 			<original>わはは！ 棒、こえー！</original>
-			<edited>哈哈哈！那棒子好吓人！</edited>
+			<edited>哈哈哈！那根棒子好可怕！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0010" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットが動いてる！ と思ったら…</original>
-			<edited>弹跳垫在动！刚这么想…</edited>
+			<edited>弹跳垫在动！刚这么想，结果……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0011" offset="00" relocatable="true" max_length="0">
 			<original>ナイスボヨヨン！</original>
-			<edited>弹得好！</edited>
+			<edited>弹得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0012" offset="00" relocatable="true" max_length="0">
 			<original>今度はダッシュ板が 乗ってますね</original>
-			<edited>这次是骑上冲刺板了</edited>
+			<edited>这次是冲刺板载着我们呢。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0013" offset="00" relocatable="true" max_length="0">
 			<original>あの おそうじロボ、仕事しすぎだろー…</original>
-			<edited>那个清扫机器人，也太勤快了吧…</edited>
+			<edited>那个清扫机器人也太卖力了吧……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0014" offset="00" relocatable="true" max_length="0">
@@ -95,27 +95,27 @@
 		</entry>
 		<entry name="Cleaner_0015" offset="00" relocatable="true" max_length="0">
 			<original>ビューチフルじゃ！</original>
-			<edited>太美了！</edited>
+			<edited>太漂亮了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0016" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットに乗ったら、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でボヨヨーーン！ だ！</original>
-			<edited>站上弹跳垫后，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;一按就弹起来！</edited>
+			<edited>站上弹跳垫后，按&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能弹起来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0017" offset="00" relocatable="true" max_length="0">
 			<original>おーぷーーん！</original>
-			<edited>打开——！</edited>
+			<edited>开——门——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0018" offset="00" relocatable="true" max_length="0">
 			<original>ふぉー！ すたいりっしゅじゃ！</original>
-			<edited>哦！真帅啊！</edited>
+			<edited>哦！真鱿型啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0019" offset="00" relocatable="true" max_length="0">
 			<original>今度は２体います！ ボムで引きつけましょう！</original>
-			<edited>这次有2台！用炸弹吸引它！</edited>
+			<edited>这次有两台！用炸弹吸引它们！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0020" offset="00" relocatable="true" max_length="0">
@@ -125,12 +125,12 @@
 		</entry>
 		<entry name="Cleaner_0021" offset="00" relocatable="true" max_length="0">
 			<original>インクに食いつくのが カワイイですよね♪</original>
-			<edited>它咬住墨汁的样子真可爱呢♪</edited>
+			<edited>它扑向墨汁的样子真可爱呢♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Cleaner_0022" offset="00" relocatable="true" max_length="0">
 			<original>このライドレールは、もどる用ですね</original>
-			<edited>这条墨汁轨道是用来返回的吧</edited>
+			<edited>这条墨汁轨道是用来返回的。</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ここは数多のピロピロが織りなす 空中通路でス</original>
-			<edited>这里是无数吹吹卷织成的空中通道</edited>
+			<edited>这里是由无数吹吹卷织成的空中通道。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>開いたピロピロは、先端を塗ることで 開き続けまス</original>
-			<edited>张开的吹吹卷，涂前端就能保持张开</edited>
+			<edited>张开的吹吹卷，涂前端就能保持张开。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>開いたピロピロは、敵のインクでもどりまス</original>
-			<edited>张开的吹吹卷被敌人墨汁碰到会收回</edited>
+			<edited>张开的吹吹卷一碰到敌人墨汁就会收回。</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0000" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="AirCorridor_0001" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ ヌリッといくぞー！</original>
-			<edited>哇！涂着走！</edited>
+			<edited>哇！一边涂一边走！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0002" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="AirCorridor_0003" offset="00" relocatable="true" max_length="0">
 			<original>一気に行くか ジワジワ行くか、なやみますね…</original>
-			<edited>一口气过去还是慢慢磨，真难选…</edited>
+			<edited>一口气过去还是慢慢磨，真难选……</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0004" offset="00" relocatable="true" max_length="0">
@@ -55,12 +55,12 @@
 		</entry>
 		<entry name="AirCorridor_0007" offset="00" relocatable="true" max_length="0">
 			<original>このライドレール、元の位置にもどってくるようですね</original>
-			<edited>这条墨汁轨道，好像会回到原位</edited>
+			<edited>这条墨汁轨道好像会回到原位。</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0008" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロするヤツ、いっぱい あんなー</original>
-			<edited>吹吹卷的家伙，真多啊</edited>
+			<edited>吹吹卷的家伙真多啊。</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0009" offset="00" relocatable="true" max_length="0">
@@ -70,12 +70,12 @@
 		</entry>
 		<entry name="AirCorridor_0010" offset="00" relocatable="true" max_length="0">
 			<original>おぉ？ なんか、強くなったな ハチ！</original>
-			<edited>哦？好像变强了啊，小八！</edited>
+			<edited>哦？小八好像变强了啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0011" offset="00" relocatable="true" max_length="0">
 			<original>落ちたかと思いました…</original>
-			<edited>还以为你掉下去了…</edited>
+			<edited>还以为你掉下去了……</edited>
 			<subEntries />
 		</entry>
 		<entry name="AirCorridor_0012" offset="00" relocatable="true" max_length="0">

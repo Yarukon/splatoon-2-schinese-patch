@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを、相手のゴールまで導いてくださイ</original>
-			<edited>请把真格塔楼引导到对手的终点</edited>
+			<edited>请将真格塔楼带到对手终点。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラは、乗ると移動を始めまス</original>
-			<edited>塔楼站上去就会开始移动</edited>
+			<edited>站上塔楼后，它就会开始移动。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>カンモンでは、一定時間 ヤグラが停止しまス</original>
-			<edited>在关卡闸门处，塔楼会停止一段时间</edited>
+			<edited>到关卡闸门时，塔楼会停一段时间。</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0000" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを ゴールまで運ぶみてーだな</original>
-			<edited>看来是要把真格塔楼运到终点</edited>
+			<edited>看来要把真格塔楼带到终点。</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0001" offset="00" relocatable="true" max_length="0">
@@ -40,12 +40,12 @@
 		</entry>
 		<entry name="KawaYagura_0004" offset="00" relocatable="true" max_length="0">
 			<original>残念ですが… 始めからやり直しですね</original>
-			<edited>很遗憾… 要重头来过了</edited>
+			<edited>很遗憾……要从头来过了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0005" offset="00" relocatable="true" max_length="0">
 			<original>残り１分じゃ！</original>
-			<edited>只剩1分钟了！</edited>
+			<edited>只剩一分钟了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0006" offset="00" relocatable="true" max_length="0">
@@ -55,37 +55,37 @@
 		</entry>
 		<entry name="KawaYagura_0007" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラ、動きま～す♪</original>
-			<edited>塔楼，要动起来了～♪</edited>
+			<edited>塔楼要动起来了～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0008" offset="00" relocatable="true" max_length="0">
 			<original>８号、何をしておる！ ヤグラに乗るんじゃ！</original>
-			<edited>8号，在干什么！站上塔楼！</edited>
+			<edited>8号，干什么呢！快站上塔楼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0009" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラは 矢印の方向にあるゾ！</original>
-			<edited>塔楼在箭头方向！</edited>
+			<edited>塔楼在箭头所指的方向！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0010" offset="00" relocatable="true" max_length="0">
 			<original>半分じゃ！ まだまだ先は長いぞィ！</original>
-			<edited>一半了！前路还长着呢！</edited>
+			<edited>到一半了！路还长着呢！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0011" offset="00" relocatable="true" max_length="0">
 			<original>注意しろよ！ そろそろ敵も本気出してくんゾ！</original>
-			<edited>小心点！敌人也差不多要动真格了！</edited>
+			<edited>小心！敌人也差不多要动真格了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0012" offset="00" relocatable="true" max_length="0">
 			<original>危なくなったら、いったんヤグラから はなれましょう</original>
-			<edited>危险的话，先离开塔楼吧</edited>
+			<edited>危险时，先离开塔楼吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0013" offset="00" relocatable="true" max_length="0">
 			<original>ゲーッ！ 乗ってきやがった！</original>
-			<edited>呃！它们跳上来了！</edited>
+			<edited>呃！它们上来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0014" offset="00" relocatable="true" max_length="0">
@@ -95,17 +95,17 @@
 		</entry>
 		<entry name="KawaYagura_0015" offset="00" relocatable="true" max_length="0">
 			<original>敵ん中 トツゲキもいいけど、ヤグラを運ぶんだゾ</original>
-			<edited>冲进敌群也行，但要把塔楼运过去啊</edited>
+			<edited>冲进敌群也行，但别忘了推进塔楼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0016" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラは降りると、どんどんもどっちゃいますからね</original>
-			<edited>离开塔楼的话，它会不断往回退哦</edited>
+			<edited>离开塔楼后，它会不断往回退哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0017" offset="00" relocatable="true" max_length="0">
 			<original>ゴールは目の前！ 負けんじゃねーゾ！</original>
-			<edited>终点就在眼前！别输啊！</edited>
+			<edited>终点就在眼前！别认输啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0018" offset="00" relocatable="true" max_length="0">
@@ -115,12 +115,12 @@
 		</entry>
 		<entry name="KawaYagura_0019" offset="00" relocatable="true" max_length="0">
 			<original>これでゴールだーっ！</original>
-			<edited>这样就到终点了！</edited>
+			<edited>这样就到终点啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="KawaYagura_0020" offset="00" relocatable="true" max_length="0">
 			<original>あらら～、みなさんおそろいですね…</original>
-			<edited>哎呀呀～，大家都到齐了呢…</edited>
+			<edited>哎呀呀～，大家都到齐了呢……</edited>
 			<subEntries />
 		</entry>
 	</entries>

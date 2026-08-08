@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージなら、複数のピロピロを 撃ちぬけまス</original>
-			<edited>满蓄力能射穿多个吹吹卷</edited>
+			<edited>满蓄力能射穿多个吹吹卷。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロの先がピロピロしたら 巻きもどってくる合図でス</original>
-			<edited>吹吹卷前端抖起来就是收回的信号</edited>
+			<edited>吹吹卷前端开始抖动，就是收回的信号。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>その時は、ピロピロ部分には 近づかないほうがよいでス</original>
-			<edited>那时最好别靠近吹吹卷部分</edited>
+			<edited>那时最好别靠近吹吹卷。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0000" offset="00" relocatable="true" max_length="0">
 			<original>無茶すんなー…</original>
-			<edited>别乱来啊…</edited>
+			<edited>别乱来啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0001" offset="00" relocatable="true" max_length="0">
 			<original>下にゴールですが、インクが届きそうにないですね</original>
-			<edited>下面是终点，但墨汁好像够不到</edited>
+			<edited>下面是终点，但墨汁好像够不着。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0002" offset="00" relocatable="true" max_length="0">
@@ -35,12 +35,12 @@
 		</entry>
 		<entry name="BlowoutsCharger_0003" offset="00" relocatable="true" max_length="0">
 			<original>ここは、ボムを時間差で うまく使えれば…</original>
-			<edited>这里，要是能巧妙利用炸弹的时间差…</edited>
+			<edited>这里，要是能巧妙利用炸弹的时间差……</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0004" offset="00" relocatable="true" max_length="0">
 			<original>ナイス！ テクいゾ、ハチ！</original>
-			<edited>漂亮！真有两下子，小八！</edited>
+			<edited>漂亮！真有两下子啊，小八！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0005" offset="00" relocatable="true" max_length="0">
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="BlowoutsCharger_0007" offset="00" relocatable="true" max_length="0">
 			<original>ボム風船とピロピロが いっぱいですね…</original>
-			<edited>炸弹气球和吹吹卷真多呢…</edited>
+			<edited>炸弹气球和吹吹卷真多呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="BlowoutsCharger_0008" offset="00" relocatable="true" max_length="0">

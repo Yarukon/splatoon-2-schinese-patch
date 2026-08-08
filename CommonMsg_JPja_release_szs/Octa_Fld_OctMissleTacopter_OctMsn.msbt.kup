@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ミサイルタコプターの ミサイルに 注意でス</original>
-			<edited>小心导弹章鱼螺旋桨兵的导弹</edited>
+			<edited>小心导弹章鱼螺旋桨兵发射的导弹。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>屋根がある場所なら ミサイルも 安全でス</original>
-			<edited>有屋顶的地方，导弹也安全</edited>
+			<edited>有屋顶遮挡的地方，导弹也打不着。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>足元に注意しましょウ</original>
-			<edited>小心脚下</edited>
+			<edited>小心脚下。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0000" offset="00" relocatable="true" max_length="0">
 			<original>ミサイルタコプターです！ 遠くからでも撃ってきます！</original>
-			<edited>是导弹章鱼螺旋桨兵！从远处也会开火！</edited>
+			<edited>是导弹章鱼螺旋桨兵！从远处也会攻击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0001" offset="00" relocatable="true" max_length="0">
 			<original>ナイスじゃッ！</original>
-			<edited>漂亮！</edited>
+			<edited>干得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0002" offset="00" relocatable="true" max_length="0">
@@ -40,17 +40,17 @@
 		</entry>
 		<entry name="MissleTacopter_0004" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ ドア、どこだー？</original>
-			<edited>哇！门在哪？</edited>
+			<edited>好！门在哪儿？</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0005" offset="00" relocatable="true" max_length="0">
 			<original>屋根の下なら、ミサイルに当たらないですね！</original>
-			<edited>在屋顶下就不会被导弹击中！</edited>
+			<edited>躲到屋顶下就不会被导弹击中！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0006" offset="00" relocatable="true" max_length="0">
 			<original>おぉ？ なんか来たゾ！</original>
-			<edited>哦？有什么来了！</edited>
+			<edited>哦？有什么过来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0007" offset="00" relocatable="true" max_length="0">
@@ -60,27 +60,27 @@
 		</entry>
 		<entry name="MissleTacopter_0008" offset="00" relocatable="true" max_length="0">
 			<original>ブキじゃッ！ 撃って撃って撃ちまくれィ！</original>
-			<edited>是武器！打打打个不停！</edited>
+			<edited>是武器！打呀打呀，尽管打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0009" offset="00" relocatable="true" max_length="0">
 			<original>ここからだと、下にも地面が見えるゾ！</original>
-			<edited>从这里能看到下面的地面！</edited>
+			<edited>从这里还能看到下面的地面！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0010" offset="00" relocatable="true" max_length="0">
 			<original>こんなところで ミサイルを撃たれたら危険ですね…</original>
-			<edited>在这种地方被导弹打中就危险了…</edited>
+			<edited>在这种地方被导弹打到就危险了……</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0011" offset="00" relocatable="true" max_length="0">
 			<original>グッドじゃッ！</original>
-			<edited>很好！</edited>
+			<edited>干得好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0012" offset="00" relocatable="true" max_length="0">
 			<original>ミコプター発見！ 構えよ！</original>
-			<edited>发现姬直升机！戒备！</edited>
+			<edited>发现姬直升机！准备迎战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0013" offset="00" relocatable="true" max_length="0">
@@ -90,7 +90,7 @@
 		</entry>
 		<entry name="MissleTacopter_0014" offset="00" relocatable="true" max_length="0">
 			<original>ナイスだな！</original>
-			<edited>真不错！</edited>
+			<edited>干得不错！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissleTacopter_0015" offset="00" relocatable="true" max_length="0">

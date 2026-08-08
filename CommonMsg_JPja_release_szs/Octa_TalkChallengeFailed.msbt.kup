@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="DamageSuddenDeathObjOcta" offset="00" relocatable="true" max_length="0">
 			<original>ダメージを受けたので チャレンジ失敗でス</original>
-			<edited>受到伤害，挑战失败</edited>
+			<edited>受到伤害，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="DamageSuddenDeathObjFootPaintOcta" offset="00" relocatable="true" max_length="0">
 			<original>敵のインクにふれたので チャレンジ失敗でス</original>
-			<edited>碰到了敌人的墨汁，挑战失败</edited>
+			<edited>碰到敌人的墨汁，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkLimitSetterOcta" offset="00" relocatable="true" max_length="0">
 			<original>インクが無くなったので チャレンジ失敗でス</original>
-			<edited>墨汁用尽，挑战失败</edited>
+			<edited>墨汁用尽，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="TimeLimitSetter" offset="00" relocatable="true" max_length="0">
 			<original>時間切れなので チャレンジ失敗でス</original>
-			<edited>时间到了，挑战失败</edited>
+			<edited>时间到，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="TimeLimitGachiSetterOcta" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="Obj_VictoryBallOcta" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールを落としたので チャレンジ失敗でス</original>
-			<edited>8号球掉落，挑战失败</edited>
+			<edited>8号球掉落，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Obj_DefenceGoalOcta" offset="00" relocatable="true" max_length="0">
@@ -45,17 +45,17 @@
 		</entry>
 		<entry name="ActorScheduleFailureDieObjOcta" offset="00" relocatable="true" max_length="0">
 			<original>風船をのがしたので チャレンジ失敗でス</original>
-			<edited>漏掉了气球，挑战失败</edited>
+			<edited>漏掉气球，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Obj_ShootingNGAirBallOcta" offset="00" relocatable="true" max_length="0">
 			<original>ダメ風船を壊したので チャレンジ失敗でス</original>
-			<edited>打坏了禁止气球，挑战失败</edited>
+			<edited>打坏禁止气球，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Obj_NGBox00SOcta" offset="00" relocatable="true" max_length="0">
 			<original>まちがった木箱を壊したので チャレンジ失敗でス</original>
-			<edited>打错了木箱，挑战失败</edited>
+			<edited>打错木箱，挑战失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Obj_NGBox00LOcta" offset="00" relocatable="true" max_length="0">

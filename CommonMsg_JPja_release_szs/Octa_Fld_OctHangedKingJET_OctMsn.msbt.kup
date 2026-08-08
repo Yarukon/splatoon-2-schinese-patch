@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>このチャレンジでは、ジェットパックを使用しまス</original>
-			<edited>这个挑战使用喷气背包</edited>
+			<edited>这个挑战要使用喷气背包。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックの射程に注意してくださイ</original>
-			<edited>注意喷气背包的射程</edited>
+			<edited>注意喷气背包的射程。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパックでもダメージを受けたら センプクで回復でス</original>
-			<edited>用喷气背包时受伤的话，靠鱿鱼潜行回复</edited>
+			<edited>使用喷气背包时受伤，也要靠鱿鱼潜行回复。</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0002" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="HangedKingJET_0004" offset="00" relocatable="true" max_length="0">
 			<original>トビタコポッド！ 追いかけてきます！</original>
-			<edited>跳跃章鱼弹舱兵！会追过来！</edited>
+			<edited>跳跃章鱼弹舱兵！会追上来！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0005" offset="00" relocatable="true" max_length="0">
@@ -40,22 +40,22 @@
 		</entry>
 		<entry name="HangedKingJET_0006" offset="00" relocatable="true" max_length="0">
 			<original>弱点のタコ足が出たぞィ！ 撃てーィ！</original>
-			<edited>弱点的章鱼脚露出来了！打！</edited>
+			<edited>弱点的章鱼脚露出来了！快打！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0007" offset="00" relocatable="true" max_length="0">
 			<original>シャー！ どんどんいくゾ！</original>
-			<edited>哇！一口气上！</edited>
+			<edited>好！乘胜追击！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0008" offset="00" relocatable="true" max_length="0">
 			<original>もう少しです！ ８号さん！</original>
-			<edited>就差一点了！8号！</edited>
+			<edited>就差一点了，8号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0009" offset="00" relocatable="true" max_length="0">
 			<original>こっちの弾が届くとこまで 近づかねーとな！</original>
-			<edited>得靠近到我们的子弹够得到的地方！</edited>
+			<edited>得靠近到我们的子弹射得到的地方！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0010" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="HangedKingJET_0011" offset="00" relocatable="true" max_length="0">
 			<original>上のタコプターから 片付けるんじゃ！</original>
-			<edited>先解决上面的章鱼螺旋桨兵！</edited>
+			<edited>先收拾上面的章鱼螺旋桨兵！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0012" offset="00" relocatable="true" max_length="0">
@@ -75,17 +75,17 @@
 		</entry>
 		<entry name="HangedKingJET_0013" offset="00" relocatable="true" max_length="0">
 			<original>タコ足じゃ！ 撃ちつくせィ！</original>
-			<edited>是章鱼脚！打它个痛快！</edited>
+			<edited>是章鱼脚！狠狠干它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0014" offset="00" relocatable="true" max_length="0">
 			<original>いいゾ！ 終わらせてやれ！</original>
-			<edited>好！了结它！</edited>
+			<edited>好！解决它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0015" offset="00" relocatable="true" max_length="0">
 			<original>打点を 高い位置でキープするんじゃ！</original>
-			<edited>把打击点保持在高位！</edited>
+			<edited>保持高打点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0017" offset="00" relocatable="true" max_length="0">
@@ -100,7 +100,7 @@
 		</entry>
 		<entry name="HangedKingJET_0019" offset="00" relocatable="true" max_length="0">
 			<original>ハイパープレッサーは引きつけて、センプクでよけてください！</original>
-			<edited>高压水枪要引开，再用鱿鱼潜行躲开！</edited>
+			<edited>先引开高压水枪，再用鱿鱼潜行躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="HangedKingJET_0020" offset="00" relocatable="true" max_length="0">

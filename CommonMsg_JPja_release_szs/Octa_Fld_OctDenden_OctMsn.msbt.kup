@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチを撃てば、何かが起こりまス</original>
-			<edited>打转转开关，会发生什么</edited>
+			<edited>打转转开关，会发生什么呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチを よく探すのでス</original>
-			<edited>好好找找转转开关</edited>
+			<edited>好好找找转转开关。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
@@ -35,12 +35,12 @@
 		</entry>
 		<entry name="Denden_0003" offset="00" relocatable="true" max_length="0">
 			<original>ワシも、それを使うと思っとったぞィ！</original>
-			<edited>老夫也猜到你会用那个！</edited>
+			<edited>老夫就知道你会用那个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0004" offset="00" relocatable="true" max_length="0">
 			<original>ここは撃ちながら、キヨブタじゃ！</original>
-			<edited>这里边打边，小心！</edited>
+			<edited>这里边打边小心！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0005" offset="00" relocatable="true" max_length="0">
@@ -60,7 +60,7 @@
 		</entry>
 		<entry name="Denden_0008" offset="00" relocatable="true" max_length="0">
 			<original>ジジィ、ちょいちょい からんでくるなー…</original>
-			<edited>老头子，老来缠着我…</edited>
+			<edited>老头子，别老缠着我……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Denden_0009" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="Denden_0010" offset="00" relocatable="true" max_length="0">
 			<original>ホメる時のアタリメさん、イキイキしていますね…</original>
-			<edited>鱼干司令夸人的时候，真是神采奕奕呢…</edited>
+			<edited>鱼干司令一夸人，就神采奕奕呢……</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィアで 強力な敵を倒すチャレンジとなりまス</original>
-			<edited>这是用鱿鱼球打倒强力敌人的挑战</edited>
+			<edited>这是用鱿鱼球击败强敌的挑战。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しの爆発で 攻撃しましょウ</original>
-			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;用长按的爆炸攻击吧</edited>
+			<edited>按住&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，用爆炸攻击吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>無敵なので、場外に落とされるとアウトでス</original>
-			<edited>虽然无敌，但被推出场外就算出局</edited>
+			<edited>虽然无敌，但被推出场外就算出局。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
 			<original>それでは時間イッパイでス</original>
-			<edited>那么，时间到</edited>
+			<edited>那么，时间到！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0000" offset="00" relocatable="true" max_length="0">
 			<original>８号！ 立合いから ブチかますんじゃ！</original>
-			<edited>8号！从起手交锋就狠狠打！</edited>
+			<edited>8号！起手就狠狠干它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0001" offset="00" relocatable="true" max_length="0">
 			<original>ファッ！ とんでもない かいな力じゃ！</original>
-			<edited>哎呀！好惊人的怪力！</edited>
+			<edited>哎呀！好惊人的臂力！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0002" offset="00" relocatable="true" max_length="0">
@@ -40,12 +40,12 @@
 		</entry>
 		<entry name="Samurai_0003" offset="00" relocatable="true" max_length="0">
 			<original>…スモウって、ブキ使っていいんだっけ？</original>
-			<edited>…相扑，能用武器吗？</edited>
+			<edited>……相扑能用武器吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0004" offset="00" relocatable="true" max_length="0">
 			<original>８号！ ふところにもぐってからの 爆発じゃ！</original>
-			<edited>8号！钻到它怀里再爆炸！</edited>
+			<edited>8号！钻进它怀里再爆炸！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0005" offset="00" relocatable="true" max_length="0">
@@ -60,22 +60,22 @@
 		</entry>
 		<entry name="Samurai_0007" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです！ 爆発でとっちめましょう！</original>
-			<edited>漂亮！用爆炸收拾它！</edited>
+			<edited>干得漂亮！用爆炸收拾它！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0008" offset="00" relocatable="true" max_length="0">
 			<original>行けィ、８号！ 大金星じゃ！</original>
-			<edited>上吧，8号！大胜一局！</edited>
+			<edited>上吧，8号！拿下大金星！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0009" offset="00" relocatable="true" max_length="0">
 			<original>タコツボ・バイク！ 大きくよけてください！</original>
-			<edited>章鱼壶摩托！快闪开！</edited>
+			<edited>蛸壶摩托！快躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0010" offset="00" relocatable="true" max_length="0">
 			<original>土俵に乗り物とは！ 力士の風上にも置けん！</original>
-			<edited>相扑台上居然有车！简直辱没了力士！</edited>
+			<edited>相扑台上居然有车！简直有辱力士之名！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0011" offset="00" relocatable="true" max_length="0">
@@ -95,7 +95,7 @@
 		</entry>
 		<entry name="Samurai_0014" offset="00" relocatable="true" max_length="0">
 			<original>あの構え… なんかヤバそーだゾ！</original>
-			<edited>那个架势… 感觉不妙！</edited>
+			<edited>那个架势……感觉不妙！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0015" offset="00" relocatable="true" max_length="0">
@@ -105,7 +105,7 @@
 		</entry>
 		<entry name="Samurai_0016" offset="00" relocatable="true" max_length="0">
 			<original>目が光った、と思ったら 回った！</original>
-			<edited>刚觉得眼睛亮了，它就转起来了！</edited>
+			<edited>刚看到眼睛发亮，它就转起来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Samurai_0017" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 		</entry>
 		<entry name="Samurai_0018" offset="00" relocatable="true" max_length="0">
 			<original>ファッ！ 押し出しに注意じゃ！</original>
-			<edited>哎呀！小心被推出场！</edited>
+			<edited>哎呀！小心被推出场外！</edited>
 			<subEntries />
 		</entry>
 	</entries>

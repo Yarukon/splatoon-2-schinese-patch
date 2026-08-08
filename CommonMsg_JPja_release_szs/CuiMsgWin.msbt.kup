@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -540,7 +540,7 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		</entry>
 		<entry name="Msg_Not_League_Result" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチの結果がありません</original>
-			<edited>没有联赛对战的结果</edited>
+			<edited>没有联赛对战记录</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Goto_DayChange" offset="00" relocatable="true" max_length="0">
@@ -551,7 +551,7 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		<entry name="Msg_Goto_Lobby_ForUdemaeX" offset="00" relocatable="true" max_length="0">
 			<original>－ 初めてウデマエＸに昇格しました －
 ロビーにもどります</original>
-			<edited>ー 首次晋升段位X ー
+			<edited>ー 首次晋升至段位X ー
 返回大厅</edited>
 			<subEntries />
 		</entry>
@@ -559,14 +559,14 @@ HOMEメニューのマイページから フレンド追加してみましょう
 			<original>間もなく サーバーメンテナンスが始まります
 終了するまで 新規の対戦が 行えません</original>
 			<edited>服务器维护即将开始
-在结束之前无法进行新的对战</edited>
+维护结束前无法开始新对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Maintenance_Soon_Coop" offset="00" relocatable="true" max_length="0">
 			<original>間もなく サーバーメンテナンスが始まります
 終了するまで 新規のバイトが 行えません</original>
 			<edited>服务器维护即将开始
-在结束之前无法进行新的打工</edited>
+维护结束前无法开始新打工</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_WebUpload_Confirm" offset="00" relocatable="true" max_length="0">
@@ -586,8 +586,8 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		<entry name="Msg_OutOfService_ForShow" offset="00" relocatable="true" max_length="0">
 			<original>「スプラトゥーン２ 先行試射会版」の
 プレイ開始時間まで しばらくお待ちください</original>
-			<edited>《斯普拉遁2 先行试射会版》的
-游玩开始时间，请稍候。</edited>
+			<edited>请等待《斯普拉遁2 先行试射会版》
+开放游玩。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_EndOfService_ForShow" offset="00" relocatable="true" max_length="0">
@@ -601,7 +601,7 @@ HOMEメニューのマイページから フレンド追加してみましょう
 			<original>ダウンロードデータのバージョンが
 新しくなっています
 ソフトの更新をしてください</original>
-			<edited>下载数据的版本已更新
+			<edited>下载数据已有新版本
 请更新软件</edited>
 			<subEntries />
 		</entry>
@@ -768,8 +768,8 @@ ONに切り替えました</original>
 写真は Switch本体のアルバムに
 保存されたので あとで見てね！</original>
 			<edited>拍好照片了！
-照片已保存到Switch主机的相册里，
-之后记得看哦！</edited>
+照片已保存到Switch主机的相册，
+记得去看看哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_MsnWeaponReset" offset="00" relocatable="true" max_length="0">
@@ -842,7 +842,7 @@ ONに切り替えました</original>
 		<entry name="Msg_Lby_Announce_For_LocalPlay" offset="00" relocatable="true" max_length="0">
 			<original>- イカッチャからのお知らせ -
 ゲームを遊ぶ時は周りに気をつけてお楽しみください</original>
-			<edited>- 来自鱿乐天地的通知 - 
+			<edited>- 来自鱿乐天地的通知 -
 在游玩时请留意四周事物，并快乐享受游戏吧</edited>
 			<subEntries />
 		</entry>
@@ -878,11 +878,11 @@ SALMON RUN の募集期間をお知らせしております
 クマサン商会</original>
 			<edited>～目前不招募打工～
 
-&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;请在菜单的“关卡信息”中，
-查看SALMON RUN的招募期间
-确认日期后前来
+按&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打开菜单，在“关卡信息”中
+查看SALMON RUN的招募时间，
+确认日期后再来吧
 
-以让大家过上更富足的生活为目标
+让大家过上更富足的生活
 熊先生商会</edited>
 			<subEntries />
 		</entry>
@@ -904,8 +904,8 @@ SALMON RUN の募集期間をお知らせしております
 		<entry name="Msg_Lobby_AutoRankUpUdeameX" offset="00" relocatable="true" max_length="0">
 			<original>前のバージョンで ウデマエがS+10以上だったため、
 自動的にウデマエXに昇格しました</original>
-			<edited>由于上一版本段位达到S+10以上，
-已自动晋升为段位X</edited>
+			<edited>上一版本中段位达到S+10以上，
+已自动晋升至段位X</edited>
 			<subEntries />
 		</entry>
 		<entry name="Btn_Lobby_AutoRankUpUdeameX" offset="00" relocatable="true" max_length="0">
@@ -919,7 +919,7 @@ SALMON RUN の募集期間をお知らせしております
 購入する必要があります。
 ニンテンドーeショップに行けば、
 購入することができます。</original>
-			<edited>要游玩后面的内容，
+			<edited>要继续游玩后面的内容，
 需要购买制品版《斯普拉遁2》。
 前往任天堂e商店即可购买。</edited>
 			<subEntries />
@@ -969,7 +969,7 @@ SALMON RUN の募集期間をお知らせしております
 購入する必要があります。
 ニンテンドーeショップに行けば、
 購入することができます。</original>
-			<edited>要游玩后面的内容，
+			<edited>要继续游玩后面的内容，
 需要购买制品版《斯普拉遁2》。
 前往任天堂e商店即可购买。</edited>
 			<subEntries />
@@ -990,7 +990,7 @@ SALMON RUN の募集期間をお知らせしております
 購入する必要があります。
 ニンテンドーeショップに行けば、
 購入することができます。</original>
-			<edited>要游玩后面的内容，
+			<edited>要继续游玩后面的内容，
 需要购买制品版《斯普拉遁2》。
 前往任天堂e商店即可购买。</edited>
 			<subEntries />

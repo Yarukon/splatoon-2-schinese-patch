@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールをゴールへ導くのでス</original>
-			<edited>把8号球引导到终点</edited>
+			<edited>把8号球引导到终点。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>エイトボールを敵に当てると ダメージをあたえられまス</original>
-			<edited>让8号球砸中敌人能造成伤害</edited>
+			<edited>让8号球砸中敌人能造成伤害。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ダイタンかつセンサイに ショットするのでス</original>
-			<edited>大胆又精准地射击吧</edited>
+			<edited>大胆又精准地射击吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0000" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="VBallUpDown_0002" offset="00" relocatable="true" max_length="0">
 			<original>エレベーター！ でも、ボールは乗せれなそーだな…</original>
-			<edited>电梯！不过，球好像放不上去…</edited>
+			<edited>电梯！不过，球好像放不上去……</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0003" offset="00" relocatable="true" max_length="0">
@@ -45,12 +45,12 @@
 		</entry>
 		<entry name="VBallUpDown_0005" offset="00" relocatable="true" max_length="0">
 			<original>ドアの前に エイトボールのスイッチを発見です！</original>
-			<edited>门前发现了8号球的开关！</edited>
+			<edited>门前发现了8号球开关！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0006" offset="00" relocatable="true" max_length="0">
 			<original>上り坂になってんな</original>
-			<edited>是上坡路啊</edited>
+			<edited>是上坡路啊。</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0007" offset="00" relocatable="true" max_length="0">
@@ -60,7 +60,7 @@
 		</entry>
 		<entry name="VBallUpDown_0008" offset="00" relocatable="true" max_length="0">
 			<original>ふぁんたすてぃっくじゃッ！</original>
-			<edited>太美妙了！</edited>
+			<edited>太棒了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0009" offset="00" relocatable="true" max_length="0">
@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="VBallUpDown_0011" offset="00" relocatable="true" max_length="0">
 			<original>タマコロちゃん、シーソーを わたりきったようじゃ！</original>
-			<edited>小球球，好像已经过了跷跷板！</edited>
+			<edited>小球球好像已经过了跷跷板！</edited>
 			<subEntries />
 		</entry>
 		<entry name="VBallUpDown_0012" offset="00" relocatable="true" max_length="0">

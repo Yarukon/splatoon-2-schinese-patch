@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="LastBoss04_0001" offset="00" relocatable="true" max_length="0">
 			<original>イイダ… あとでジジィら どーなったか、調べとけよー</original>
-			<edited>饭田… 之后查查老头子他们怎么样了</edited>
+			<edited>饭田……之后查查老头子他们的情况。</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0002" offset="00" relocatable="true" max_length="0">
@@ -25,12 +25,12 @@
 		</entry>
 		<entry name="LastBoss04_0004" offset="00" relocatable="true" max_length="0">
 			<original>ログポイントゲットで ロックが解除されるようですね</original>
-			<edited>拿到记录点就能解除锁定的样子</edited>
+			<edited>拿到记录点似乎就能解锁。</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0005" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ 屋根が下がってんゾ！</original>
-			<edited>呃！屋顶压下来了！</edited>
+			<edited>呃！屋顶在往下压！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0006" offset="00" relocatable="true" max_length="0">
@@ -40,47 +40,47 @@
 		</entry>
 		<entry name="LastBoss04_0007" offset="00" relocatable="true" max_length="0">
 			<original>エネルギーコアのロックが １つ外れました！</original>
-			<edited>能量核心的锁解开了一个！</edited>
+			<edited>能量核心的一道锁解开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0008" offset="00" relocatable="true" max_length="0">
 			<original>２つ目のロック、解除されたゾ！</original>
-			<edited>第二把锁解开了！</edited>
+			<edited>第二道锁解开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0009" offset="00" relocatable="true" max_length="0">
 			<original>ロック解除されました！ さっきのと合わせて３つ目ですね</original>
-			<edited>锁解开了！加上刚才的是第3个</edited>
+			<edited>锁解开了！加上刚才的，这是第三道！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0010" offset="00" relocatable="true" max_length="0">
 			<original>オッケー！ ロック、４つ目解除！</original>
-			<edited>好！第4把锁解除！</edited>
+			<edited>好！第四道锁解开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0011" offset="00" relocatable="true" max_length="0">
 			<original>ロック解除… って、フタ開いてんゾ！！</original>
-			<edited>锁解除了… 咦，盖子打开了！！</edited>
+			<edited>锁解开了……等等，盖子开了！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0012" offset="00" relocatable="true" max_length="0">
 			<original>５つ目のロックが 外れました！ あと３つ！</original>
-			<edited>第5把锁解开了！还剩3把！</edited>
+			<edited>第五道锁解开了！还剩三道！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0013" offset="00" relocatable="true" max_length="0">
 			<original>エネルギーコアです！ でも、ロックされてますね…</original>
-			<edited>是能量核心！不过，被锁着呢…</edited>
+			<edited>是能量核心！不过还锁着呢……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0014" offset="00" relocatable="true" max_length="0">
 			<original>ハチ！ こーなったら、ログポイント全部ゲットだ！</original>
-			<edited>小八！事已至此，把记录点全拿了！</edited>
+			<edited>小八！事到如今，把记录点全拿下！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0015" offset="00" relocatable="true" max_length="0">
 			<original>全ロック解除！ エネルギーコアは…</original>
-			<edited>全部锁解开！能量核心…</edited>
+			<edited>所有锁都解开了！能量核心……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0016" offset="00" relocatable="true" max_length="0">
@@ -90,12 +90,12 @@
 		</entry>
 		<entry name="LastBoss04_0017" offset="00" relocatable="true" max_length="0">
 			<original>開いたトコから 上に登れそうだな！</original>
-			<edited>好像能从打开的地方爬上去！</edited>
+			<edited>能从打开的地方爬上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0018" offset="00" relocatable="true" max_length="0">
 			<original>あ！ スイッチの面が 開いたゾ！</original>
-			<edited>啊！开关的面板打开了！</edited>
+			<edited>啊！开关那一面打开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0019" offset="00" relocatable="true" max_length="0">
@@ -105,7 +105,7 @@
 		</entry>
 		<entry name="LastBoss04_0020" offset="00" relocatable="true" max_length="0">
 			<original>８号さん！ 追いかけましょう！</original>
-			<edited>8号！追上去吧！</edited>
+			<edited>8号！追上去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0021" offset="00" relocatable="true" max_length="0">
@@ -115,12 +115,12 @@
 		</entry>
 		<entry name="LastBoss04_0022" offset="00" relocatable="true" max_length="0">
 			<original>あ！ 上昇してます！ ８号さんより上層にいます！</original>
-			<edited>啊！在上升！比8号所在的层更高！</edited>
+			<edited>啊！它在上升！已经到8号上面一层了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0023" offset="00" relocatable="true" max_length="0">
 			<original>ついでにジジィも！</original>
-			<edited>老头子也在上面！</edited>
+			<edited>老头子也跟着！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0024" offset="00" relocatable="true" max_length="0">
@@ -130,22 +130,22 @@
 		</entry>
 		<entry name="LastBoss04_0025" offset="00" relocatable="true" max_length="0">
 			<original>アレはログポイントです！ 壊してゲットしましょう！</original>
-			<edited>那是记录点！打坏它拿到手吧！</edited>
+			<edited>那是记录点！打坏它拿下吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0026" offset="00" relocatable="true" max_length="0">
 			<original>ロック　６コ目、解除！ あと２つだ！</original>
-			<edited>第6把锁，解除！还剩2把！</edited>
+			<edited>第六道锁解除！还剩两道！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0027" offset="00" relocatable="true" max_length="0">
 			<original>７つ目のロックが 解除されました！ あと１つです！</original>
-			<edited>第7把锁解除了！还剩1把！</edited>
+			<edited>第七道锁解开了！还剩一道！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss04_0028" offset="00" relocatable="true" max_length="0">
 			<original>ハチ、上を見ろ！ そこから上のスイッチ、とどかねーか？</original>
-			<edited>小八，看上面！从那里够得到上面的开关吗？</edited>
+			<edited>小八，看上面！从那里够得着上面的开关吗？</edited>
 			<subEntries />
 		</entry>
 	</entries>

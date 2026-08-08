@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
@@ -10,22 +10,22 @@
 		</entry>
 		<entry name="LastBoss03_0001" offset="00" relocatable="true" max_length="0">
 			<original>地上へのエレベーターを起動する 動力源です！</original>
-			<edited>是启动通往地面的电梯的动力源！</edited>
+			<edited>是启动通往地面电梯的动力源！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0002" offset="00" relocatable="true" max_length="0">
 			<original>ゲッ！ ヤバそうなトラップだな！</original>
-			<edited>呃！看起来好危险的陷阱！</edited>
+			<edited>呃！看起来很危险的陷阱！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0003" offset="00" relocatable="true" max_length="0">
 			<original>ガッ… ガガッ… オ…ノ…！</original>
-			<edited>嘎… 嘎嘎… 斧…头…！</edited>
+			<edited>嘎……嘎嘎……斧……头……！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0004" offset="00" relocatable="true" max_length="0">
 			<original>ん？ なんじゃなんじゃ？</original>
-			<edited>嗯？怎么了怎么了？</edited>
+			<edited>嗯？怎么了？怎么了？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0005" offset="00" relocatable="true" max_length="0">
@@ -35,27 +35,27 @@
 		</entry>
 		<entry name="LastBoss03_0006" offset="00" relocatable="true" max_length="0">
 			<original>いや、３号はまだ起きんが…</original>
-			<edited>不，3号还没醒…</edited>
+			<edited>不，3号还没醒……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0007" offset="00" relocatable="true" max_length="0">
 			<original>あ、８号さん、ナイスです♪</original>
-			<edited>啊，8号，漂亮♪</edited>
+			<edited>啊，8号，干得漂亮♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0009" offset="00" relocatable="true" max_length="0">
 			<original>ん？ ここはトラップが無い？</original>
-			<edited>嗯？这里没有陷阱？</edited>
+			<edited>嗯？这里没有陷阱吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0010" offset="00" relocatable="true" max_length="0">
 			<original>おくから来ます！</original>
-			<edited>从里面来了！</edited>
+			<edited>从里面过来了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0011" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプで くぐりぬけろ！</original>
-			<edited>用跳跃穿过去！</edited>
+			<edited>跳过去！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0012" offset="00" relocatable="true" max_length="0">
@@ -65,12 +65,12 @@
 		</entry>
 		<entry name="LastBoss03_0013" offset="00" relocatable="true" max_length="0">
 			<original>カベです！ カベを塗って上に登ってください！</original>
-			<edited>是墙！涂上墨爬上去吧！</edited>
+			<edited>是墙！给墙涂上墨爬上去吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0014" offset="00" relocatable="true" max_length="0">
 			<original>ナイスです♪ この調子でエネルギーコアを目指しましょう！</original>
-			<edited>漂亮♪ 照这个势头冲向能量核心吧！</edited>
+			<edited>干得漂亮♪ 照这个势头朝能量核心前进吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0016" offset="00" relocatable="true" max_length="0">
@@ -80,17 +80,17 @@
 		</entry>
 		<entry name="LastBoss03_0017" offset="00" relocatable="true" max_length="0">
 			<original>厳重な警備ですね…</original>
-			<edited>戒备真森严啊…</edited>
+			<edited>戒备真森严啊……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0018" offset="00" relocatable="true" max_length="0">
 			<original>うぉっ！ 底が開いた！</original>
-			<edited>哇！底板打开了！</edited>
+			<edited>哇！底下打开了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0020" offset="00" relocatable="true" max_length="0">
 			<original>…ガガッ！ …お、オノ</original>
-			<edited>…嘎嘎！ …斧、斧头</edited>
+			<edited>……嘎嘎！……斧、斧头……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0021" offset="00" relocatable="true" max_length="0">
@@ -100,7 +100,7 @@
 		</entry>
 		<entry name="LastBoss03_0022" offset="00" relocatable="true" max_length="0">
 			<original>な！ デンワ！！ ３号に何を…</original>
-			<edited>什么！电话！！你对3号做了什么…</edited>
+			<edited>什么！电话！！你对3号做了什么……</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0023" offset="00" relocatable="true" max_length="0">
@@ -110,12 +110,12 @@
 		</entry>
 		<entry name="LastBoss03_0024" offset="00" relocatable="true" max_length="0">
 			<original>おい！ ジジィ！ どうした？！ 返事しろッ！</original>
-			<edited>喂！老头子！怎么了？！回话！</edited>
+			<edited>喂！老头子！怎么了？！快回话！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss03_0026" offset="00" relocatable="true" max_length="0">
 			<original>No.10008の他ニ 余計なヤツまでついて来やがッテ！</original>
-			<edited>除了No.10008，连多余的家伙都跟来了！</edited>
+			<edited>除了No.10008，连不相干的家伙都跟来了！</edited>
 			<subEntries />
 		</entry>
 	</entries>

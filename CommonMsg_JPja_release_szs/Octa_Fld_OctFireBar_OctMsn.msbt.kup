@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットの上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しするのでス</original>
-			<edited>在弹跳垫上，&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按即可</edited>
+			<edited>站在弹跳垫上，按住&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;即可。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリ棒の動きを よく見ましょウ</original>
-			<edited>好好观察涂涂棒的动向</edited>
+			<edited>好好观察涂涂棒的动向。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットの上では インク切れに 注意でス…</original>
-			<edited>在弹跳垫上要注意墨汁耗尽…</edited>
+			<edited>在弹跳垫上要注意墨汁耗尽……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0000" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="FireBar_0004" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパーです！ ひきつけて、よけましょう！</original>
-			<edited>是章鱼狙击兵！引开它，躲开！</edited>
+			<edited>是章鱼狙击兵！引开它，再躲开！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0005" offset="00" relocatable="true" max_length="0">
@@ -55,7 +55,7 @@
 		</entry>
 		<entry name="FireBar_0007" offset="00" relocatable="true" max_length="0">
 			<original>ゴールを発見しました！</original>
-			<edited>发现终点了！</edited>
+			<edited>发现终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0008" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="FireBar_0010" offset="00" relocatable="true" max_length="0">
 			<original>あ、ヌリヌリ棒です！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しして よけましょう！</original>
-			<edited>啊，是涂涂棒！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按躲开吧！</edited>
+			<edited>啊，是涂涂棒！按住&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;躲开吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0011" offset="00" relocatable="true" max_length="0">
@@ -80,12 +80,12 @@
 		</entry>
 		<entry name="FireBar_0012" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアンのようで、オクタリアンでない…？</original>
-			<edited>像是章鱼族，又不是章鱼族…？</edited>
+			<edited>像是章鱼族，又不是章鱼族……？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0013" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクショットで、ゴールポイントを起動させましょう！</original>
-			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;用墨汁射击启动终点！</edited>
+			<edited>按&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;用墨汁射击启动终点！</edited>
 			<subEntries />
 		</entry>
 	</entries>

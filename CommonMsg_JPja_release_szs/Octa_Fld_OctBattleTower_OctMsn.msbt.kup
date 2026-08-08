@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
 	<pointerTables />
 	<stringBounds />
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>敵をゼンメツさせると 先に進めまス</original>
-			<edited>把敌人团灭就能继续前进</edited>
+			<edited>敌人全灭后即可继续前进。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
 			<original>高いところから敵にインクをかけても あまり効きませン</original>
-			<edited>从高处向敌人泼墨汁效果不大</edited>
+			<edited>从高处向敌人泼墨汁效果不大。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>ダッシュ板は カーリングボムなどもダッシュさせまス</original>
-			<edited>冲刺板也能让冰壶炸弹等冲刺</edited>
+			<edited>冲刺板也能让冰壶炸弹等冲刺。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0000" offset="00" relocatable="true" max_length="0">
 			<original>カベの裏で深呼吸！ 戦場の鉄則ゥ！</original>
-			<edited>躲到墙后深呼吸！战场的铁则！</edited>
+			<edited>躲到墙后深呼吸！战场铁则！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0001" offset="00" relocatable="true" max_length="0">
 			<original>ナイスゼンメツじゃ！</original>
-			<edited>干得漂亮，团灭！</edited>
+			<edited>漂亮，全灭！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0002" offset="00" relocatable="true" max_length="0">
 			<original>敵の位置を確認じゃ！  どこから破るかよく考えィ！</original>
-			<edited>确认敌人位置！好好想想从哪里突破！</edited>
+			<edited>确认敌人位置！想想从哪里突破！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0003" offset="00" relocatable="true" max_length="0">
@@ -60,12 +60,12 @@
 		</entry>
 		<entry name="BattleTower_0008" offset="00" relocatable="true" max_length="0">
 			<original>上の敵は片付きました！</original>
-			<edited>上面的敌人清完了！</edited>
+			<edited>上面的敌人全清掉了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0009" offset="00" relocatable="true" max_length="0">
 			<original>よーし、後は上のヤツらだけだな！</original>
-			<edited>好，剩下上面那些了！</edited>
+			<edited>好，只剩上面那些了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0010" offset="00" relocatable="true" max_length="0">
@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="BattleTower_0011" offset="00" relocatable="true" max_length="0">
 			<original>あと１体です！</original>
-			<edited>还剩1个！</edited>
+			<edited>还剩一个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BattleTower_0012" offset="00" relocatable="true" max_length="0">
