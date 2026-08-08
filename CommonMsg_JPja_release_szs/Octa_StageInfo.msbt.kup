@@ -310,7 +310,7 @@
 		</entry>
 		<entry name="Fld_CentralStation00_Octa_OctCnt01" offset="00" relocatable="true" max_length="0">
 			<original>そうだ 約束の地 行こう</original>
-			<edited>走，去约定之地。</edited>
+			<edited>走，去约誓之地。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Fld_OctCleaner_OctMsn00" offset="00" relocatable="true" max_length="0">
