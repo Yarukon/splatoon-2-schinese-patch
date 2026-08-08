@@ -187,12 +187,12 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn005" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</original>
-			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;ÿÿ鱿鱼&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，从&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ钻过去哦！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;后变成鱿鱼形态，就能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钻过去&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn006" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラ正面&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リセット&#xE;&#x0;&#x3;&#x2;ÿÿできるかんね</original>
-			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;就能把&#xE;&#x0;&#x3;&#x2;ÿÿ镜头&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;转回&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;正面&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;镜头正面&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;重置&#xE;&#x0;&#x3;&#x2;ÿÿ哦</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn007" offset="00" relocatable="true" max_length="0">
@@ -292,7 +292,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn026" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</original>
-			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;ÿÿ鱿鱼&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，从&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钻过去&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;后变成鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ形态，就能&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;钻过去&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn027" offset="00" relocatable="true" max_length="0">
@@ -312,7 +312,7 @@
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn030" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで ぬけられるっしょ</original>
-			<edited>按&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;变成&#xE;&#x0;&#x3;&#x2;ÿÿ鱿鱼&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，就能从&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ钻过去啦！</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;后变成鱿鱼&#xE;&#x0;&#x3;&#x2;ÿÿ形态，就能钻过去啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001_EasyHide00_A1_Msn031" offset="00" relocatable="true" max_length="0">

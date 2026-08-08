@@ -1181,7 +1181,7 @@ NAMACO点数&#xE;&#x0;&#x4;&#x0;那么，请用&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&
 		<entry name="WeaponSelectExplanation_MultiWeapon_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドレッサー &#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で起動すれば、
 ブキを持ちかえることができまス</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;用&#xE;&#x0;&#x3;&#x2;ÿÿ启动梳妆台&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;，
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;梳妆台&#xE;&#x0;&#x3;&#x2;ÿÿ，按&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;启动后，
 就能更换武器</edited>
 			<subEntries />
 		</entry>
