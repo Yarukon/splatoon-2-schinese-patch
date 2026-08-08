@@ -220,7 +220,7 @@
 		</entry>
 		<entry name="FlightInvisible" offset="00" relocatable="true" max_length="0">
 			<original>飛行/透明</original>
-			<edited>飞行/隐身</edited>
+			<edited>飞行/透明</edited>
 			<subEntries />
 		</entry>
 		<entry name="ChickenEgg" offset="00" relocatable="true" max_length="0">
