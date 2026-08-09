@@ -54,7 +54,8 @@
 		<entry name="Plaza_06" offset="00" relocatable="true" max_length="0">
 			<original>改めて… さっそく、バトルに参加してみよう！
 デカ・タワーの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに向かってくれ！</original>
-			<edited>介绍完了……事不宜迟，去参加对战吧！&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;前往巨塔的&#xE;&#x0;&#x3;&#x2;ÿÿ大厅吧！</edited>
+			<edited>介绍完了……事不宜迟，去参加对战吧！
+前往巨塔的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大厅&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Plaza_FirstTurbunShell" offset="00" relocatable="true" max_length="0">

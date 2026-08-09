@@ -337,7 +337,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="BossSmashFadeTalk_1_06_BK" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエア ロビー横のブキショップ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリアームズ&#xE;&#x0;&#x3;&#x2;ÿÿにオマカセ！ …で おなじみの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！</original>
-			<edited>尚兴广场大厅旁的武器店&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;寒武纪军备&#xE;&#x0;&#x3;&#x2;ÿÿ为您服务！ …大家熟知的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器子&#xE;&#x0;&#x3;&#x2;ÿÿ就是我！</edited>
+			<edited>尚兴广场大厅旁的武器店
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;寒武纪军备&#xE;&#x0;&#x3;&#x2;ÿÿ为您服务！ …大家熟知的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器子&#xE;&#x0;&#x3;&#x2;ÿÿ就是我！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_1_07_BK" offset="00" relocatable="true" max_length="0">
@@ -432,7 +433,8 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		<entry name="BossSmashFadeTalk_2_05_BK" offset="00" relocatable="true" max_length="0">
 			<original>IKSMバンドと呼ばれる電波帯は、いろんな製品で
 使われているでし！ 特に電子レンジは強い電波が…</original>
-			<edited>被称为IKSM波段的电波带，各种产品都在用！ 特别是微波炉会发出强电波…</edited>
+			<edited>被称为IKSM波段的电波带，各种产品都在用！
+特别是微波炉会发出强电波…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_2_06_HT" offset="00" relocatable="true" max_length="0">
@@ -606,7 +608,7 @@ New！喷嘴部队队员&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;4号&#xE;&#x0;&#x3;&#x2;ÿ
 		</entry>
 		<entry name="StageClearTalk_01_02" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿこわれたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;センプク&#xE;&#x0;&#x3;&#x2;ÿÿで早く復活ね</original>
-			<edited>辛苦～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄套装&#xE;&#x0;&#x3;&#x2;ÿÿ坏了的话，潜行&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;就能&#xE;&#x0;&#x3;&#x2;ÿÿ更快恢复哦。</edited>
+			<edited>辛苦～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;英雄套装&#xE;&#x0;&#x3;&#x2;ÿÿ坏了的话，&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;潜行&#xE;&#x0;&#x3;&#x2;ÿÿ就能更快恢复哦。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_01_03" offset="00" relocatable="true" max_length="0">

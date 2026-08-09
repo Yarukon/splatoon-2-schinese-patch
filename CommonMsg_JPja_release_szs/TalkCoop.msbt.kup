@@ -443,7 +443,8 @@
 		<entry name="Coop_Tutorial_Bomber_02" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;頭上でふくらませたボム&#xE;&#x0;&#x3;&#x2;ÿÿを 攻撃することで、
 ボムが爆発し 倒すことができるよ…</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;它头顶鼓起的炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ是攻击目标；使其爆炸便能将它击倒……</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;它头顶鼓起的炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ是攻击目标；
+使其爆炸便能将它击倒……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Coop_Tutorial_Cup_00" offset="00" relocatable="true" max_length="0">

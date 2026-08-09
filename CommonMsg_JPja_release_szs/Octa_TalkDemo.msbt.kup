@@ -133,7 +133,7 @@
 			<original>…おはようございマス、 No.10008！！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅 &#xE;&#x0;&#x3;&#x2;ÿÿへようコソ！！！</original>
 			<edited>…您好，No.10008！！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;欢迎来到深海地铁中央站&#xE;&#x0;&#x3;&#x2;ÿÿ！！！</edited>
+欢迎来到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海地铁中央站&#xE;&#x0;&#x3;&#x2;ÿÿ！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo02_0006" offset="00" relocatable="true" max_length="0">
@@ -147,7 +147,7 @@
 			<original>ココに来られたってことは……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿへ ご出発なのデスね？！</original>
 			<edited>既然来到了这里……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;您是要出发前往约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ吧？！</edited>
+您是要出发前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;约誓之地&#xE;&#x0;&#x3;&#x2;ÿÿ吧？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo02_0008" offset="00" relocatable="true" max_length="0">
@@ -325,7 +325,7 @@ NAMACO端末 をお持ちですネ？</original>
 			<original>おそらク…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; では、最初のチャレンジに ご案内しまス&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO端末 &#xE;&#x0;&#x3;&#x2;ÿÿを起動してくださイ</original>
 			<edited>大概吧…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 那么，我来带您去第一个挑战&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-请用&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;启动 NAMACO 终端&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+请用&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;启动 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO 终端&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo04_0000" offset="00" relocatable="true" max_length="0">
@@ -511,7 +511,7 @@ NAMACO端末 をお持ちですネ？</original>
 		<entry name="Demo06_0001" offset="00" relocatable="true" max_length="0">
 			<original>もう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ&#xE;&#x0;&#x3;&#x2;ÿÿ 半分も 集めちゃうトハ…
 いやぁ アナタは有能デス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; のこりも 探してくださイネ！！</original>
-			<edited>已经&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;把那东西&#xE;&#x0;&#x3;&#x2;ÿÿ集齐一半了…
+			<edited>已经把&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;那东西&#xE;&#x0;&#x3;&#x2;ÿÿ集齐一半了…
 哎呀，您真是能干！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 剩下的也请继续找吧！！</edited>
 			<subEntries />
 		</entry>
